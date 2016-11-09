@@ -1,0 +1,25 @@
+Changes - 12th February 2011
+----------------------------
+
+Although I haven't tackled some things I'd like to see fixed, enough improvements have accumulated to warrant a new version of trs80gp, my TRS-80 emulator. Here's a quick summary of the changes: 
+* Works on displays who's width is not a multiple of 4. 
+* Recording in Flash video format (.flv). 
+* Supports Model 4 with hi-res graphics adapter. 
+* Debugger improved and now reasonably useful. 
+* Z-80 profiling has legend and branch taken percentages. 
+* HALT instruction emulated properly. 
+* Model 1 double-wide video. 
+* add "-time emulation" option to show CPU emulation time. 
+
+Recording in Flash video can be slower but allows for much longer capture sessions and much smaller file sizes than the current .AVI recording. The resulting videos can be uploaded to YouTube quite nicely. 
+
+The model 4 support is pretty good but not extensively tested nor up to the accuracy standards of the Model III and Model 1. It does add the wait states required when running at double speed but does not simulate video memory wait states at all. 
+
+The debugger now features a memory display window. You can set and remove breakpoints by double-clicking on the disassembly window. 
+
+The Z-80 HALT instruction emulation has been fixed in two regards. If an interrupt occurs when the Z-80 is executing a HALT it sets the return address to just after the HALT instruction. On the Model 1 a HALT instruction causes the system to reset. 
+
+While the Model 1 emulation has had double-wide video for quite a while it wasn't tied to the correct I/O port. 
+
+I'm sure there have been other smaller improvements. Give it a try and send me e-mail if you run into any trouble. 
+
