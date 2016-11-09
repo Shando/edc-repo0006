@@ -1,0 +1,4 @@
+Changes - 12th September 2008
+-----------------------------
+
+More reorgamizations, reenabled sound and link port for win32 only.  Began port to SDL (SDL will be the basis of XBox and other ports).

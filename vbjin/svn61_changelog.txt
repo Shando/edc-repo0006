@@ -1,0 +1,15 @@
+Changes - 21st May 2010
+-----------------------
+
+Changes since SVN44 release
+
+ROM loading from commandline (which means movie loading now possible as well)
+added Lua functions - memory.readbyte, memory.writebyte, memory.readword, memorywriteword
+MusicSelect.lua - a script that allows the selecting and playing of music tracks in a game
+Recent menu items enable sound on load (not just the open menu)
+View->Mix Left & Right View options as well as other display options
+Wave file logging
+RAM Search - fix update previous values
+RAM Search - redraw the list when search size/format is changed
+Improved sound quality
+Runs faster! (capable of full fps)
