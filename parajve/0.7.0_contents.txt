@@ -1,0 +1,146 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-01-27 07:57:02 ....A         1355      7248223  ParaJVE_batch.bat
+2006-09-22 09:24:36 ....A        29872               data\roms\homebrew\demo\3D_demo.bin
+2006-12-08 05:54:44 ....A         8192               data\roms\cartridge\Animaction.bin
+2006-08-28 14:25:30 ....A         4096               data\roms\cartridge\Armor_Attack.bin
+2006-12-08 05:54:38 ....A         4096               data\roms\cartridge\Art_Master.bin
+2006-09-02 02:38:20 ....A         4096               data\roms\cartridge\Bedlam.bin
+2006-08-28 14:25:30 ....A         4096               data\roms\cartridge\Berzerk.bin
+2006-09-02 12:00:14 ....A         8192               data\roms\cartridge\Blitz.bin
+2008-08-16 06:07:38 ....A        31901               data\roms\homebrew\demo\bnz17.bin
+2009-11-30 11:14:44 ....A        20920               data\roms\homebrew\BTTQ.bin
+2006-09-02 15:30:48 ....A         4096               data\roms\cartridge\Clean_Sweep.bin
+2006-08-28 14:25:30 ....A         4096               data\roms\cartridge\Cosmic_Chasm.bin
+1996-04-23 07:36:04 ....A        12288               data\roms\cartridge\Dark_Tower.bin
+2000-04-24 09:18:12 ....A         4096               data\roms\cartridge\Engine_Analyzer.bin
+2006-08-28 14:25:30 ....A         8192               data\roms\system\FastBoot.bin
+2006-08-28 14:25:30 ....A         8192               data\roms\cartridge\Fortress_of_Narzod.bin
+2002-01-07 00:07:12 ....A        32768               data\roms\homebrew\Gravitrex.bin
+2006-09-02 15:37:26 ....A         8192               data\roms\cartridge\Heads_Up.bin
+2006-09-02 15:46:54 ....A         4096               data\roms\cartridge\Hyperchase.bin
+1988-11-07 05:38:26 ....A         8192               data\roms\cartridge\Melody_Master.bin
+2010-03-04 16:22:14 ....A         4096               data\roms\cartridge\Minestorm2.bin
+2006-09-20 12:25:06 ....A         8192               data\roms\homebrew\Nebula.bin
+2006-09-22 09:24:08 ....A         6825               data\roms\homebrew\demo\oldskool.bin
+1997-01-17 03:46:10 ....A         8192               data\roms\homebrew\Patriots.bin
+2002-01-07 00:26:38 ....A        16384               data\roms\homebrew\Patriots3.bin
+2010-04-13 14:16:58 ....A         8171               data\roms\homebrew\demo\pimmelsafari2.bin
+2008-11-17 05:58:02 ....A         8192               data\roms\cartridge\Pitchers_Duel.bin
+1997-03-19 15:09:46 ....A         8192               data\roms\cartridge\Polar_Rescue.bin
+2006-09-02 02:31:20 ....A         8192               data\roms\cartridge\Pole_Position.bin
+2006-09-20 12:25:22 ....A        16384               data\roms\homebrew\Revector.bin
+2006-09-02 03:15:00 ....A         4096               data\roms\cartridge\Rip_Off.bin
+2006-09-02 03:15:00 ....A         4096               data\roms\cartridge\Scramble.bin
+2010-02-10 10:47:28 ....A         8192               data\roms\system\SkipBoot.bin
+2006-09-02 11:42:18 ....A         4096               data\roms\cartridge\Solar_Quest.bin
+2006-03-07 12:52:44 ....A        27054               data\roms\homebrew\Space_Frenzy.bin
+2006-09-02 11:47:54 ....A         4096               data\roms\cartridge\Space_Wars.bin
+2006-09-02 12:22:42 ....A         8192               data\roms\cartridge\Spike.bin
+1997-12-01 13:30:30 ....A        16384               data\roms\homebrew\Spike_Hoppin.bin
+1996-04-23 05:26:58 ....A         8192               data\roms\cartridge\Spinball.bin
+1988-11-07 10:38:18 ....A         4096               data\roms\cartridge\Star_Castle.bin
+2006-09-02 15:04:50 ....A         4096               data\roms\cartridge\Star_Hawk.bin
+2006-09-02 15:04:50 ....A         4096               data\roms\cartridge\Star_Trek.bin
+2006-08-28 14:25:30 ....A         8192               data\roms\system\System.bin
+2006-10-11 11:07:34 ....A         4096               data\roms\cartridge\Test_Rev4.bin
+2006-09-19 12:48:14 ....A        32497               data\roms\homebrew\Thrust.bin
+2006-10-24 14:29:36 ....A         8192               data\roms\cartridge\Tour_de_France.bin
+2010-09-27 15:49:54 ....A        24261               data\roms\homebrew\VecFu.bin
+2009-11-28 08:15:48 ....A        12289               data\roms\homebrew\Vector21.bin
+2006-11-21 09:59:58 ....A        29218               data\roms\homebrew\Verzerk.bin
+2010-10-02 15:11:30 ....A        16384               data\roms\homebrew\VFrogger.bin
+2006-08-28 14:25:30 ....A         8192               data\roms\cartridge\Web_Wars.bin
+2001-03-12 15:08:42 ....A        32768               data\roms\homebrew\Wormhole.bin
+2004-01-25 06:21:44 ....A        20879               data\roms\homebrew\WOTR.bin
+2009-05-27 17:03:52 ....A        56832               libs\natives\jinput-wintab.dll
+2005-09-11 07:56:44 ....A        87625               bin\as09.exe
+2010-11-20 06:48:52 ....A        18944               ParaJVE.exe
+2010-11-20 06:49:38 ....A        13824               ParaJVE_console.exe
+2009-10-21 15:19:42 ....A         1067               data\shaders\Artistic_1.glow
+2009-10-21 15:20:32 ....A         1103               data\shaders\Artistic_2.glow
+2010-12-29 14:41:04 ....A          772               data\shaders\Default_0.glow
+2010-12-29 14:40:52 ....A          858               data\shaders\Default_1.glow
+2010-12-29 14:40:22 ....A          817               data\shaders\Default_2.glow
+2010-12-29 14:40:14 ....A          816               data\shaders\Default_3.glow
+2009-10-21 15:11:28 ....A          930               data\shaders\Fast_blur.glow
+2009-10-21 15:14:40 ....A          861               data\shaders\Fast_blur_with_dots_halo.glow
+2009-10-21 15:34:54 ....A          815               data\shaders\Gaussian_1.glow
+2009-10-21 15:37:42 ....A          941               data\shaders\Gaussian_2.glow
+2009-10-21 15:27:38 ....A         1278               data\shaders\Relative_buffer_size.glow
+2010-12-29 14:38:52 ....A         1177               data\shaders\Test Halo 1.glow
+2010-12-29 14:38:46 ....A         1041               data\shaders\Test Halo 2.glow
+2010-12-29 14:38:38 ....A         1138               data\shaders\Test Halo 3.glow
+2010-12-29 14:38:28 ....A         1142               data\shaders\Test Halo 4.glow
+2009-10-21 15:07:14 ....A          829               data\shaders\Thicker_vectors.glow
+2010-10-09 14:06:22 ....A          761               data\shaders\YASI.glow
+2008-11-01 15:26:06 ....A        21922               data\docs\Animaction.html
+2006-09-22 10:54:26 ....A         6695               data\docs\Armor_Attack.html
+2008-02-29 08:40:22 ....A        19475               data\docs\Art_Master.html
+2006-09-22 10:54:26 ....A         8037               data\docs\Bedlam.html
+2006-09-22 10:54:26 ....A         5184               data\docs\Berzerk.html
+2006-09-22 10:54:26 ....A        15785               data\docs\Blitz.html
+2006-09-22 10:54:26 ....A         7250               data\docs\Clean_Sweep.html
+2006-09-22 10:54:26 ....A         9082               data\docs\Cosmic_Chasm.html
+2006-09-22 10:54:26 ....A        24932               data\docs\Dark_Tower.html
+2006-09-22 10:54:26 ....A         9352               data\docs\Heads_Up.html
+2006-09-22 10:54:26 ....A         6170               data\docs\Hyperchase.html
+2008-11-01 15:26:06 ....A        22658               data\docs\Melody_Master.html
+2006-09-22 10:54:26 ....A         8984               data\docs\Minestorm.html
+2006-09-22 10:54:26 ....A        11347               data\docs\Narzod.html
+2006-09-22 03:27:40 ....A        10455               data\docs\Nebula.html
+2008-11-17 06:17:34 ....A         5464               data\docs\Pitchers_Duel.html
+2006-09-22 10:54:26 ....A        17414               data\docs\Polar_Rescue.html
+2006-09-22 10:54:26 ....A         8764               data\docs\Pole_Position.html
+2010-12-29 14:19:26 ....A        17364               release_notes.html
+2006-09-22 03:26:32 ....A         7572               data\docs\Revector.html
+2006-09-22 10:54:26 ....A        18483               data\docs\Rip_Off.html
+2006-09-22 10:54:26 ....A        14533               data\docs\Scramble.html
+2006-09-22 10:54:26 ....A         7204               data\docs\Solar_Quest.html
+2006-09-22 10:54:26 ....A         9431               data\docs\Space_Wars.html
+2006-09-22 10:54:26 ....A         7488               data\docs\Spike.html
+2006-09-22 10:54:26 ....A        14215               data\docs\Spinball.html
+2006-09-22 10:54:26 ....A         9527               data\docs\Star_Castle.html
+2006-09-22 10:54:26 ....A         6549               data\docs\Star_Hawk.html
+2006-09-22 10:54:26 ....A        10169               data\docs\Star_Trek.html
+2007-01-11 10:14:16 ....A         5682               data\docs\StarSling4k.html
+2006-09-22 03:24:48 ....A        11699               data\docs\Thrust.html
+2010-12-29 14:21:44 ....A        35108               user_guide.html
+2006-09-22 10:54:26 ....A        10003               data\docs\Web_Wars.html
+2008-05-21 20:00:28 ....A        18416               libs\gluegen-rt.jar
+2009-05-27 17:04:40 ....A       214859               libs\jinput.jar
+2009-12-07 15:45:50 ....A      1126370               libs\jogl.jar
+2010-12-29 15:15:34 ....A      1890555               libs\ParaJVE.jar
+2010-11-12 08:12:52 ....A       493698               data\packs\chassis.jvepak
+2010-11-12 08:12:50 ....A      4017782               data\packs\overlays.jvepak
+2007-05-24 05:41:20 ....A        80334               data\packs\phonems.jvepak
+2010-10-28 15:01:46 ....A         2668               data\roms\homebrew\SSlingTE.bin.jverom
+2010-10-28 15:01:46 ....A        36854               data\roms\homebrew\Vecmania.bin.jverom
+2010-10-28 15:01:46 ....A        33991               data\roms\homebrew\Vectopia.bin.jverom
+2010-10-28 15:01:46 ....A          368               data\roms\menu\vfm_auto.men.jverom
+2010-09-26 12:26:58 ....A         3509               data\roms\menu\vfm.men
+2010-10-25 06:10:08 ....A         3440               data\roms\menu\vmm.men
+2006-11-02 06:41:38 ....A        32897               bin\as09.txt
+2010-12-29 14:42:28 ....A         2813               data\packs\How to add overlays.txt
+2010-12-29 14:37:48 ....A        24536               data\configuration.xml
+2009-12-06 15:39:54 ....A       169930               libs\setup\libs_32bits.zip
+2009-12-04 15:25:06 ....A       180857               libs\setup\libs_64bits.zip
+2010-09-30 16:27:48 ....A        58160               data\roms\homebrew\demo\lineart.zip
+2010-09-30 16:53:58 ....A        20261               data\roms\homebrew\demo\performance_vx.zip
+2010-02-09 06:22:42 ....A        19377               data\roms\homebrew\py050712.zip
+2010-02-09 06:22:42 D....            0            0  bin
+2010-02-09 06:22:42 D....            0            0  data\roms\system
+2010-02-09 06:22:42 D....            0            0  data\roms\homebrew
+2010-02-09 06:22:42 D....            0            0  libs
+2010-02-09 06:22:42 D....            0            0  data\roms\homebrew\demo
+2010-02-09 06:22:42 D....            0            0  libs\natives
+2010-02-09 06:22:42 D....            0            0  data\docs
+2010-02-09 06:22:42 D....            0            0  data\packs
+2010-02-09 06:22:42 D....            0            0  data\roms
+2010-02-09 06:22:42 D....            0            0  libs\setup
+2010-02-09 06:22:42 D....            0            0  data\roms\menu
+2010-02-09 06:22:42 D....            0            0  data
+2010-02-09 06:22:42 D....            0            0  data\shaders
+2010-02-09 06:22:42 D....            0            0  data\roms\cartridge
+------------------- ----- ------------ ------------  ------------------------
+2010-12-29 15:15:34            9626741      7248223  128 files, 14 folders
