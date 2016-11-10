@@ -1,0 +1,4 @@
+Changes - 20th October 2016
+---------------------------
+
+gl: Disable overlay if required extension is not supported (#2212)

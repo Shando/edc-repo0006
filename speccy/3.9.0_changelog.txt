@@ -1,0 +1,8 @@
+Changes - 19th October 2015
+---------------------------
+
+New in This Version
+
+Fixed memory corruption bug in the instant replay recorder. 
+Fixed instant replay not restoring successive states. 
+Fixed instant replay not recording the first state. 

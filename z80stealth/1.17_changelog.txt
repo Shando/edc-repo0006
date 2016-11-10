@@ -1,0 +1,6 @@
+Changes - 20th October 2012
+---------------------------
+
+- Removed toolbar TRD button, made LOAD button instead to load snapshots,TRDOS disk images,tapes,zx screens (scr), unpacked or ZIP archives
+- Add ZIP support for tape formats, zx screens
+

@@ -1,0 +1,12 @@
+Changes - 1st December 2009
+---------------------------
+
+v0.7 - One year later...
+
+- Marko is updating the assembler and a few tools. Work in progress, 
+  but progressing well.
+  
+- Complete rewrite of the graphics engine. Now does rounded corners, 
+  much faster D3D and all your favourite scalers. Now with added aspect
+  ratio preservation!
+  

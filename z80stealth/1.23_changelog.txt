@@ -1,0 +1,17 @@
+Changes - 20th August 2014
+--------------------------
+
+v1.23
+- Added secondary TRDOS autoboot, key mapping is set in keyboard.cfg, TRDOSBOOT2 (default - PGDOWN)
+- Partially rewrote Z80 engine, small bugfixes
+- Added memory / ports logging, with detailed info about addresses, opcodes, memory type (data / code)
+Activate in menu Tools-> Ports (Mem) log start / stop
+Output files:
+_Memlog_.txt Memory access log
+_Memlog_layout_.txt Memory type log
+_portlog_.txt port access log
+Also you can log masked potrs, define them in z80s.ini in [DEBUG] section, example:
+MASKEDPORTSCOUNT = 2
+MASKEDPORT.1 = 11111101
+MASKEDPORT.2 = xxxxxxx1
+
