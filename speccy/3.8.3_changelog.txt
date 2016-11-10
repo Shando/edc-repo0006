@@ -1,0 +1,8 @@
+Changes - 3rd September 2015
+----------------------------
+
+New in This Version
+
+Fixed Cursor and Interface II joysticks, broken in version 3.8. 
+Fixed automatic fire functionality. 
+Fixed full-screen mouse operation in Speccy-Windows. 

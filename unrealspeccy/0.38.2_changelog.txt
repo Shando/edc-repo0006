@@ -1,0 +1,34 @@
+Changes - 3rd November 2014
+---------------------------
+
+[!] - Fixed a serious bug
+[+] - Added new functionality
+[-] - Removed unneeded / obsolete funktsinal
+[*] - Minor fixes
+[@] - Functionality changed
+[?] - Added functional but not tested
+
+version 0.38.2 3 nov 2014 (deathsoft)
+! Fixed index signal processing for VG93 (savelij, AlCo)
++ Added new shadow ports ATM3 (savelij)
+! Fixed handling of internal registers ide devices. (Vadim)
++ Made discharge heads to a zero resetting track VG93.
+! Fixed poll Z-Controller'a status. (Blade, TS-Labs)
+! Fixed 100% CPU utilization in the pause mode. (TS-Labs)
+! Fixed handling dx context losses orisovke frame.
++ Added saving screenshots ATM1 / 2/3 of 320x200 as bmp with original palette
+  (Data taken from the ATM video memory)
+* Fixed handling of "bright black" color for ATM / PROFI (AlCo)
+! Fixed handling .trd images with more than 80 tracks (goodboy)
+! Fixed handling of breakpoints for reading / execution (goodboy)
+* Fixed handling of bits H and V Team Type 1
++ Added a motor drive control (Faster)
+* Fixed restore command timings
+@ Removed timeout motor off (in reality, the motor is switched off by the signals / or cold for 15
+ostym turnover disc in the idle state)
+@ Improved disk controller emulation for quorum.
+! Fixed high-level (bass.dll) emulation gs / ngs (psb)
+* Fixed the assembly JRxx. (DimkaM)
+! Added check for exceeding the maximum number of tracks when loading .td0.
+
+*** Translated from Russian using Google Translate ***
