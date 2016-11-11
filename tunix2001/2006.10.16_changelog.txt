@@ -1,0 +1,8 @@
+Changes - 16th October 2006
+---------------------------
+
+
+28.8.06		Improved disassembler (key: F-11)
+		
+27.8.06		Added RAM Garbage collection
+		taking desktop size into consideration on first startup

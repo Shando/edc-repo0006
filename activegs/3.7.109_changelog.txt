@@ -1,0 +1,6 @@
+Changes - 27th January 2014
+---------------------------
+
+Changelog 3.7.1019
+* Preventing ActiveGS to be installed on non supported platform (Linux)
+[Win] * Disabling Mouse capture when Options window is displayed

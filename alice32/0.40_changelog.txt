@@ -1,0 +1,5 @@
+Changes - 28th January 2006
+---------------------------
+
+Bumped version to 0.40, official release.  It's mostly working and has all the features that Virtual MC-10 0.69c and Virtual Aquarius 0.72 have.
+Fixed one full screen bug, and put the EXEC address in the right place.

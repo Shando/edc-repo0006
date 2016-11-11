@@ -1,0 +1,14 @@
+Changes - 10th July 2008
+------------------------
+
+V1.02:
+	- TRS-80 tape sound
+	- general Instruments AY-3-8910 (Yamaha YM2149) sound generator
+	- configurable keyboard matrix
+	- patching the emulator saves the keyboard matrix and other configuration settings too
+	- video cut / video page support
+	- window magnifier (200%)
+	- adjustable CPU frequency (1.774 & 1.747 MHz)
+	- "remove rom" feature
+	- port controlled timer and event counter
+	- restructured menu / hot keys
