@@ -1,0 +1,51 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-10-19 20:29:02 ....A           33      8309987  make_fself.cmd
+2016-10-19 20:29:02 ....A       797305               OpenAL32.dll
+2016-10-19 20:29:02 ....A       138648               dev_hdd0\game\TEST12345\USRDIR\dump_stack.elf
+2016-10-19 20:29:02 ....A       207256               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_basic_triangle.elf
+2016-10-19 20:29:02 ....A       356532               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_cube.elf
+2016-10-19 20:29:02 ....A       274528               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_handle_system_cmd.elf
+2016-10-19 20:29:02 ....A       343036               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_hello_world.elf
+2016-10-19 20:29:02 ....A       548524               dev_hdd0\game\TEST12345\USRDIR\gs_gcm_tetris.elf
+2016-10-19 20:29:02 ....A       138776               dev_hdd0\game\TEST12345\USRDIR\pad_test.elf
+2016-10-19 20:29:02 ....A       138684               dev_hdd0\game\TEST12345\USRDIR\ppu_thread.elf
+2016-10-19 20:29:02 ....A        39636               dev_hdd0\game\TEST12345\USRDIR\pspgame.elf
+2016-10-19 20:29:02 ....A       206304               dev_hdd0\game\TEST12345\USRDIR\rpcsp.elf
+2016-10-19 20:29:02 ....A     28966400               rpcs3.exe
+2016-10-19 20:29:02 ....A           70               dev_usb000\.gitignore
+2016-10-19 20:29:02 ....A          239               dev_hdd0\home\00000001\trophy\.gitignore
+2016-10-19 20:29:04 ....A           71               shaderlog\.gitignore
+2016-10-19 20:29:02 ....A           95               dev_hdd1\.gitignore
+2016-10-19 20:29:02 ....A          239               dev_hdd0\home\00000001\savedata\.gitignore
+2016-10-19 20:29:02 ....A          239               dev_hdd0\home\00000001\exdata\.gitignore
+2016-11-10 04:00:38 ....A           36               RPCS3.log
+2016-10-19 20:29:02 ....A           91               dev_hdd1\game\README.txt
+2016-10-19 20:29:02 ....A           78               dev_hdd1\cache\README.txt
+2016-10-19 20:29:02 ....A            4               dev_hdd0\home\00000001\localusername
+2016-11-10 04:00:38 ....A            0            0  config.yml
+2016-11-10 04:00:38 ....A            0            0  TTY.log
+2016-11-10 04:00:33 ....A            0            0  dev_flash\sys\external\Put_flash_files_here.txt
+2016-11-10 04:00:38 ....A            0            0  config_gui.yml
+2016-11-10 04:00:33 ....A            0            0  dev_flash\data\font\Put_font_files_here.txt
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\home
+2016-11-10 04:00:33 D....            0            0  dev_hdd1\game
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\home\00000001\exdata
+2016-11-10 04:00:33 D....            0            0  dev_usb000
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\home\00000001\trophy
+2016-11-10 04:00:33 D....            0            0  dev_flash\sys
+2016-11-10 04:00:33 D....            0            0  dev_hdd1
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\game\TEST12345\USRDIR
+2016-11-10 04:00:33 D....            0            0  dev_hdd1\cache
+2016-11-10 04:00:33 D....            0            0  dev_flash\data\font
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\home\00000001\savedata
+2016-11-10 04:00:33 D....            0            0  dev_flash\data
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\game\TEST12345
+2016-11-10 04:00:33 D....            0            0  dev_flash\sys\external
+2016-11-10 04:00:33 D....            0            0  dev_hdd0
+2016-11-10 04:00:33 D....            0            0  dev_flash
+2016-11-10 04:00:33 D....            0            0  shaderlog
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\home\00000001
+2016-11-10 04:00:33 D....            0            0  dev_hdd0\game
+------------------- ----- ------------ ------------  ------------------------
+2016-11-10 04:00:38           32156824      8309987  28 files, 19 folders

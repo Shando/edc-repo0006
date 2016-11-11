@@ -1,0 +1,48 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-09-30 06:16:48 ....A        67648      1371276  BorderCreatorExamples\b&w.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\kovrik12tact.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\solnce.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\sota1tact.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\sota4tact.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\speccy2012.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\UKflag.brd
+2012-06-27 16:04:54 ....A        67648               BorderCreatorExamples\vsem.brd
+2012-10-08 16:21:01 ....A         1354               keyboard.cfg
+2010-07-25 12:07:54 ....A           64               cmos.dat
+2009-11-21 11:30:40 ....A       459909               SDL.dll
+2012-10-19 19:00:31 ....A      3694080               z80s.exe
+2012-10-20 16:16:56 ....A         3667               palette.ini
+2012-04-13 12:12:13 ....A       158005               poke.ini
+2012-10-20 16:17:02 ....A         1597               z80s.ini
+1998-01-27 08:28:46 ....A        32768               128.rom
+1994-12-11 17:01:56 ....A        16384               48.ROM
+1995-07-07 20:25:12 ....A        16384               48FOR128.ROM
+2000-08-05 10:24:30 ....A        16384               BASIC128.ROM
+2000-08-05 10:24:30 ....A        16384               BASIC48.ROM
+1995-07-07 22:03:00 ....A        16384               beta128.rom
+2000-08-05 10:24:30 ....A        16384               DOS5_04T.rom
+2001-01-11 13:22:42 ....A        32768               GS104.ROM
+2000-08-05 10:24:30 ....A        65536               kay1024.rom
+2000-08-05 10:24:10 ....A        32768               pentagon.rom
+1999-12-16 17:07:00 ....A        32768               PLUS2.ROM
+1998-09-08 13:27:18 ....A        65536               PLUS3.ROM
+2001-03-26 16:15:26 ....A        65536               profi-p.rom
+2000-08-05 10:24:30 ....A        65536               profi.rom
+2000-08-05 10:24:30 ....A        16384               romdisk.rom
+1999-11-21 14:17:02 ....A       131072               scorpion.rom
+1997-08-14 10:41:22 ....A        16384               trdos.rom
+2009-08-28 07:23:19 ....A        79029               monty.scl
+2012-09-29 22:28:04 ....A         6912               BorderCreatorExamples\b&w.scr
+2012-06-27 16:04:54 ....A         6912               BorderCreatorExamples\flagUK.scr
+2012-06-27 16:04:54 ....A         6912               BorderCreatorExamples\kovrik.scr
+2012-06-27 16:04:54 ....A         6912               BorderCreatorExamples\solnce.scr
+2012-06-27 16:04:54 ....A         6912               BorderCreatorExamples\speccy2012.scr
+2002-02-02 20:52:00 ....A       131103               boot.sna
+2010-08-20 16:43:40 ....A       131103               boottape.sna
+2010-11-05 12:07:50 ....A        49179               boottape48.sna
+2012-06-27 15:19:41 ....A        11760               readme.rus.txt
+2012-06-27 15:19:24 ....A        10237               readme.txt
+2012-06-27 15:19:24 D....            0            0  BorderCreatorExamples
+------------------- ----- ------------ ------------  ------------------------
+2012-10-20 16:17:02            5962191      1371276  43 files, 1 folders

@@ -1,0 +1,59 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-01-14 19:23:06 ....A         7011      2869313  Zero.exe.config
+2014-07-26 20:08:50 ....A         3072               zxLibrary.db
+2014-07-26 20:08:50 ....A         8704               fdc765.dll
+2015-01-18 19:19:24 ....A        35840               Peripherals.dll
+2014-07-26 20:08:50 ....A        27648               pzxtools.dll
+2015-01-18 19:19:25 ....A       140800               Speccy.dll
+2014-07-26 20:08:50 ....A       904704               System.Data.SQLite.dll
+2014-07-26 20:08:50 ....A        65536               wd1793.dll
+2015-01-18 19:19:26 ....A       102400               af-ZA\Zero.resources.dll
+2015-01-18 19:19:24 ....A        11264               ZeroSound.dll
+2014-07-26 20:08:50 ....A       311296               ZipForge.dll
+2014-07-26 20:08:50 ....A        69632               zlib.net.dll
+2014-07-26 20:08:50 ....A       100352               zlib1.dll
+2015-01-18 19:19:26 ....A      2350080               Zero.exe
+2014-11-26 19:41:07 ....A        13824               ZeroFileAssociater.exe
+2014-07-26 20:08:50 ....A         1493               ZeroFileAssociater.manifest
+2014-07-26 20:08:50 ....A          262               programs\Ula Plus\cybernoid2_ula64.pzx
+2014-07-26 20:08:50 ....A        43271               programs\Ula Plus\EXOLON.pzx
+2014-07-26 20:08:50 ....A          262               programs\Ula Plus\exolon_ula64.pzx
+2014-07-26 20:08:50 ....A       100707               programs\Demos\Shock Megademo.pzx
+2014-07-26 20:08:50 ....A        32768               roms\128k.ROM
+2014-07-26 20:08:50 ....A        32768               roms\128ke.rom
+2014-07-26 20:08:50 ....A        16384               roms\48k.ROM
+2014-07-26 20:08:50 ....A        16384               roms\gw03.rom
+2014-07-26 20:08:50 ....A        32768               roms\pentagon.rom
+2014-07-26 20:08:50 ....A        65536               roms\plus3.rom
+2014-07-26 20:08:50 ....A        16384               roms\sebasic.rom
+2014-07-26 20:08:50 ....A        16384               roms\trdos.rom
+2014-07-26 20:08:50 ....A        81062               programs\Action Replay\garfield.rzx
+2014-07-26 20:08:50 ....A        77087               programs\Action Replay\greenberet.rzx
+2014-07-26 20:08:50 ....A       174424               programs\Action Replay\thundercats.rzx
+2014-07-26 20:08:50 ....A       131313               programs\AGD 4.2.szx
+2014-07-26 20:08:50 ....A       131387               programs\Demos\mda128.szx
+2014-07-26 20:08:50 ....A         8570               programs\Demos\Overscan.tap
+2015-01-12 19:11:58 ....A         1530               License.txt
+2015-01-14 22:47:34 ....A         5148               ReadMe.txt
+2015-01-18 20:22:35 ....A        26354               What's New.txt
+2014-07-26 20:08:50 ....A       184765               System.Data.SQLite.xml
+2014-07-26 20:08:50 ....A        23664               programs\Demos\NMI3_48k.z80
+2014-07-26 20:08:50 ....A        46275               programs\AGD 4.2.zip
+2014-07-26 20:08:50 ....A       503359               programs\Games\Apulija-13.zip
+2014-07-26 20:08:50 ....A        39186               programs\Ula Plus\CybernoidII-TheRevenge128.tap.zip
+2014-07-26 20:08:50 ....A         3014               programs\Games\Dash-it.tap.zip
+2014-07-26 20:08:50 ....A        38423               programs\Horizons.tzx.zip
+2014-07-26 20:08:50 ....A         3808               programs\Games\Mazebot.tap.zip
+2014-07-26 20:08:50 ....A        64271               programs\Demos\Mda_demo.zip
+2014-07-26 20:08:50 ....A         5607               programs\Games\NeptunesCaverns(ArjunNair).tap.zip
+2014-07-26 20:08:50 ....A        27925               programs\ZXSpectrum+UserGuideCompanionCassette.tzx.zip
+2014-07-26 20:08:50 D....            0            0  af-ZA
+2014-07-26 20:08:50 D....            0            0  programs\Demos
+2014-07-26 20:08:50 D....            0            0  roms
+2014-07-26 20:08:50 D....            0            0  programs\Action Replay
+2014-07-26 20:08:50 D....            0            0  programs
+2014-07-26 20:08:50 D....            0            0  programs\Ula Plus
+2014-07-26 20:08:50 D....            0            0  programs\Games
+------------------- ----- ------------ ------------  ------------------------
+2015-01-18 20:22:35            6104706      2869313  48 files, 7 folders
