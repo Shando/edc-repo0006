@@ -1,0 +1,12 @@
+Changes - 24th August 2004
+--------------------------
+
+80five x.xx
+	- Complete re-write of everything but the core of the emulator
+	- Full implementation of DirectX, now handling video, audio, and controls.
+	- Configurable controls for both the keyboard and gamepad
+	- FULLSCREEN! Now with multiple resolutions!
+	- Memory Viewer
+	- Palette Viewer
+	- Standardized save state files
+	- And more!

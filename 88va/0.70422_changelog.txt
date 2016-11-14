@@ -1,0 +1,20 @@
+Changes - 22nd April 2007
+-------------------------
+
+R 070422 
+Version upgrade board: 
+· Support for emulation of version upgrade board For details, refer to "Installation" of help 
+Refer to Devide - Version Up Board. To use this function, use GETROMVA r 070422 or later, 
+Please make ROM image of version upgrade board. 
+
+mouse: 
+- Fixed a problem that is not reflected in the movement of the mouse when the movement amount of the real mouse is less than 2 
+
+CPU: 
+· Test 1 ea 8, cl / test 1 ea 16, cl implementation · test 1 ea 8, imm 3 / test 1 Fix to make the AC flag become 0 with ea 16, imm 4 ? hang up with menu function of V 3 BASIC 
+
+Debug Utility: 
+· Change display update so that it is just before VSYNC interrupt (until now 
+About 4000 clocks after VSYNC interrupt) 
+
+*** Translated from Japanese using Google Translate ***
