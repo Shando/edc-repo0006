@@ -1,0 +1,94 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-09-25 14:24:34 ....A           29       494738  tools\tasm31\goasm.bat
+2005-01-07 10:05:20 ....A         2046               cassette\tandy\BREAKOUT.C10
+2005-01-07 10:07:26 ....A         2270               cassette\tandy\EGGS.C10
+2005-01-07 10:07:52 ....A         1685               cassette\tandy\HORSE.C10
+2005-01-07 10:08:28 ....A         1190               cassette\tandy\LANDER.C10
+2005-01-07 10:11:08 ....A         1575               cassette\tandy\PONG.C10
+1999-11-04 16:14:12 ....A          849               cassette\GraphicFun\SQUARES.C10
+2006-01-27 17:41:42 ....A       225280               alice32.exe
+2003-01-01 14:38:34 ....A        57344               tools\C10TOWAV.exe
+1997-06-07 19:02:38 ....A        19197               tools\DC.EXE
+2002-12-27 05:00:20 ....A        11925               tools\FIXCAS.EXE
+2004-07-03 11:12:36 ....A       192575               tools\monowav.exe
+1998-02-28 03:50:32 ....A       215072               tools\tasm31\TASM.EXE
+1998-02-28 03:48:32 ....A          405               tools\tasm31\MOTO.H
+1998-02-28 03:48:34 ....A        85550               tools\tasm31\TASMMAN.HTM
+1999-06-19 13:03:34 ....A           68               alice32.ini
+2006-01-28 03:18:50 ....A         8229               default.ini
+2006-01-16 10:04:22 .R..A        71006               cassette\K7-FR\Casse-tete-dans-le-metro-Alice.k7
+2006-01-16 10:04:38 .R..A         3779               cassette\K7-FR\Color-mind-Alice.k7
+2005-12-29 11:24:26 .R..A        14326               cassette\K7-FR\Coloric-Alice.k7
+2005-12-29 11:24:34 .R..A        17099               cassette\K7-FR\Crocky-Alice.k7
+2005-12-29 11:25:10 .R..A        89657               cassette\K7-FR\Decouvrez-Alice.k7
+2005-12-29 11:24:48 .R..A        30808               cassette\K7-FR\Dessine-moi-Alice32.k7
+2005-12-29 11:24:56 .R..A        31324               cassette\K7-FR\Dessine-moi-Alice90.k7
+2005-12-29 11:25:02 .R..A        27977               cassette\K7-FR\Dialogue-avec-une-sauterelle-Alice.k7
+2006-01-16 10:05:26 .R..A        79023               cassette\K7-FR\Faire-le-point-bac-maths1a-Alice.k7
+2006-01-16 10:05:34 .R..A        98152               cassette\K7-FR\Faire-le-point-bac-maths1b-Alice.k7
+2006-01-16 10:05:40 .R..A        48261               cassette\K7-FR\Faire-le-point-bac-maths2a-Alice.k7
+2006-01-16 10:05:46 .R..A        68317               cassette\K7-FR\Faire-le-point-bac-maths2b-Alice.k7
+2006-01-16 10:06:12 .R..A        20961               cassette\K7-FR\Galixian-Alice.k7
+2005-12-29 11:25:18 .R..A        15519               cassette\K7-FR\Gestion-de-fichiers-Alice.k7
+2006-01-16 10:06:46 .R..A        10598               cassette\K7-FR\Incrustation-video-40colonnes-Alice.k7
+2006-01-16 10:06:54 .R..A         8950               cassette\K7-FR\Incrustation-video-80colonnes-Alice.k7
+2005-12-29 11:27:26 .R..A        41490               cassette\K7-FR\Initiation-au-basic-1-Alice.k7
+2005-12-29 11:27:30 .R..A        39657               cassette\K7-FR\Initiation-au-basic-2-Alice.k7
+2005-12-29 11:27:34 .R..A        33705               cassette\K7-FR\Initiation-au-basic-3-Alice.k7
+2005-12-29 11:27:40 .R..A        12358               cassette\K7-FR\Initiation-au-basic-4-Alice.k7
+2006-01-11 05:52:10 .R..A        33569               cassette\K7-FR\Jeu-des-6-lys-Alice.k7
+2005-12-29 11:26:14 .R..A        19842               cassette\K7-FR\Kangourou-Alice.k7
+2005-12-29 11:26:20 .R..A        17369               cassette\K7-FR\La-chenille-infernale-Alice.k7
+2005-12-29 11:26:26 .R..A        17312               cassette\K7-FR\La-cle-des-sons-Alice.k7
+2005-12-29 11:26:32 .R..A        32164               cassette\K7-FR\La-grenouille-a-mAlice.k7
+2005-12-29 11:26:36 .R..A        35788               cassette\K7-FR\La-marelle-Alice.k7
+2005-12-29 11:26:50 .R..A        18428               cassette\K7-FR\Le-cartable-Francais1-Alice.k7
+2005-12-29 11:26:56 .R..A        18607               cassette\K7-FR\Le-cartable-Francais2-Alice.k7
+2005-12-29 11:27:00 .R..A        19482               cassette\K7-FR\Le-cartable-Maths1-Alice.k7
+2005-12-29 11:27:04 .R..A        19027               cassette\K7-FR\Le-cartable-Maths2-Alice.k7
+2006-01-16 10:08:04 .R..A        17003               cassette\K7-FR\Le-moteur-a-explosion-Alice.k7
+2006-01-21 19:40:58 .R..A        21576               cassette\K7-FR\Le-sphinx-d-or-_Alice.k7
+2005-12-29 11:27:52 .R..A        44315               cassette\K7-FR\Multiplication-casse-tete-Alice.k7
+2006-01-16 10:09:10 .R..A         4813               cassette\K7-FR\Mur-de-briques-Alice.k7
+2006-01-16 10:09:18 .R..A         4051               cassette\K7-FR\Sous-marin-Alice.k7
+2005-12-29 11:27:58 .R..A        44635               cassette\K7-FR\Une-affaire-en-or-Alice.k7
+2005-12-29 11:28:04 .R..A        20989               cassette\K7-FR\World-war-3-Alice.k7
+1998-02-28 03:48:00 ....A        14071               tools\tasm31\TASM68.TAB
+2006-01-17 19:38:40 ....A         2667               docs\alicetest.txt
+2004-10-17 00:42:36 ....A          537               quicktyp\ForNerds\benchmark.txt
+2006-01-07 11:31:46 ....A           82               quicktyp\ForNerds\cset.txt
+2004-10-12 02:24:36 ....A          173               quicktyp\ForNerds\flasher.txt
+2006-01-22 14:00:00 ....A         1219               quicktyp\ForNerds\flickeralice.txt
+2006-01-21 14:44:30 ....A          722               quicktyp\ForNerds\JOYSTICK.TXT
+2006-01-22 09:36:38 ....A         1113               quicktyp\ForNerds\memwina.txt
+1998-02-28 03:48:32 ....A         2158               tools\tasm31\ORDERFRM.TXT
+2006-01-25 07:03:30 ....A         1123               readme.txt
+2006-01-27 18:03:36 ....A        18476               docs\readme_alice.txt
+2006-01-25 05:19:30 ....A          907               cassette\readme_c.txt
+2006-01-26 20:59:04 ....A         1240               tools\readme_t.txt
+2006-01-22 11:26:48 ....A         1266               tools\tasm31\readme_tasm.txt
+2002-02-21 10:28:30 ....A         1178               quicktyp\GraphicFun\sparkle.txt
+2006-01-15 06:33:22 ....A          475               quicktyp\ForNerds\test80oct.txt
+2006-01-22 11:26:08 ....A          587               tools\tasm31\testasm.txt
+2006-01-21 14:28:38 ....A          357               quicktyp\ForNerds\testchar.txt
+2006-01-21 14:29:24 ....A          334               quicktyp\ForNerds\testfgbg.txt
+2004-10-11 19:07:40 ....A          182               quicktyp\ForNerds\testqt.txt
+2006-01-07 12:53:00 ....A          918               quicktyp\ForNerds\testramchar.txt
+2006-01-08 07:48:02 ....A         1173               quicktyp\ForNerds\testrow.txt
+2006-01-21 09:01:04 ....A         6886               quicktyp\ForNerds\testsomedh.txt
+2006-01-27 18:11:10 ....A        11783               docs\UsingTheEmulator.txt
+2006-01-27 18:11:10 D....            0            0  quicktyp\ForNerds
+2006-01-27 18:11:10 D....            0            0  cassette\tandy
+2006-01-27 18:11:10 D....            0            0  quicktyp\GraphicFun
+2006-01-27 18:11:10 D....            0            0  cassette\K7-FR
+2006-01-27 18:11:10 D....            0            0  quicktyp
+2006-01-27 18:11:10 D....            0            0  screenshots
+2006-01-27 18:11:10 D....            0            0  docs
+2006-01-27 18:11:10 D....            0            0  tools\tasm31
+2006-01-27 18:11:10 D....            0            0  cassette\GraphicFun
+2006-01-27 18:11:10 D....            0            0  cassette\ForNerds
+2006-01-27 18:11:10 D....            0            0  cassette
+2006-01-27 18:11:10 D....            0            0  tools
+------------------- ----- ------------ ------------  ------------------------
+2006-01-28 03:18:50            2046853       494738  78 files, 12 folders
