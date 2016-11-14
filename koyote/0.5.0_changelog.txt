@@ -1,0 +1,12 @@
+Changes - 21st August 2002
+--------------------------
+
+----------------
+- Koyote 0.5.0 -
+----------------
+
+* Added: Classic/Color hardware autodetection 
+* Added: Drag and drop support 
+* Optimized: Half brightness scanlines and skin filters 
+* Changed: Rom loading system 
+* Changed: Configuration file 

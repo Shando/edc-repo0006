@@ -1,0 +1,6 @@
+Changes - 25th December 2005
+----------------------------
+
+bug fix 5 - NJ
+   · Since I was concerned that the raster effect was shifted while checking the operation of the sparrow god legend
+     I fixed it. It is troublesome, so update only for source in the future.

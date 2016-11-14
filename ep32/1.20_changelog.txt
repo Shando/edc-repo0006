@@ -1,0 +1,8 @@
+Changes - 11th July 2006
+------------------------
+
+what's new in version 1.20:
+
+- now segment number can be also specified for breakpoints
+- small fix in nick emulation to get VENUS working
+- compiled with vs2005

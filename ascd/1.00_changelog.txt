@@ -1,0 +1,24 @@
+Changes - 19th April 2012
+-------------------------
+
+1.00
+====
+* New! Added the support of TZX tape files. Only standard data blocks via ROM hooks are supported atm.
+* ZIP-compressed snaps/tapes/disks can now be directly loaded into ASCD
+* Added the Recent Files list displaying 10 most recent snap/tape/disk files open
+* FDI: Added correct emulation of Missing disk status
+* FDI: Added correct emulation of Write protected disk status
+* Added autofire option for joystick (-autofire switch)
+* Open Tape/Snap menu option incorrectly offered only snapshot files in the filter list
+* D3D: OSD (on-screen-display) has now black color when border color is 6 or 7 (yellow or white)
+* Caps lock "fix" didn't work on many computers, so there is another fix in this version
+* Added low pass filter to ZX Beeper audio -> better music quality in some games
+* An OSD message is shown whenever DAC on IC 8255 is activated
+* SAA1099 soundchip is now available in ZX Spectrum 48/128 mode too
+* AY8910 soundchip is now available in Sam Coupé mode too
+* AY8910 soundchip is responding on its ports even if audio emulation is off
+* More precise attribute port 255 emulation
+* Fixed AY8910 port decoding (thanks to Velesoft)
+* Quickboot option is now configurable in config file and menu (it was always on)
+* Fixed a bug in SCS loader which caused it to report a file error when a datablock is longer than expected
+* Fixed problem with Sam Coupe Tab key behaviour after Alt+Tab 

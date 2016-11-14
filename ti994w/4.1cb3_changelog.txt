@@ -1,0 +1,18 @@
+Changes - 14th October 2010
+---------------------------
+
+4.1c (Beta 3)
+Tms99rf.cpp: Added functions for feeding text files to keyboard routines.
+Tms99rf.cpp: Reading binary files from menu first checks where the data has to go into memory
+	and using SamsWriteByte() function if in memory expansion area. Use CPU window for
+	setting PC. (Need a S(tart) command for debug window?)
+dsrfuncl3.cpp: Solved problem with offset in file when reading random files, record number is
+	calculated as PAB[CPRECN]*256+PAB[CPRECN+1] and not as PAB[CPRECN*256]+PAB[CPRECN+1].
+tms9900.cpp: LoadModule():
+	Display program name and loaded module in caption of main window.
+	Clear GROM space 3 through 15 when loading module to prevent incomplete
+	module names in module menu.
+ide.cpp: IdeRead():
+	Emulator flag, DEC Century and BCD year is at addres >4D02, 4D04 and >4D06
+	instead of >4E02, >4E04 and >4E06. Now emulator can timestamp files again
+	on IDE image.

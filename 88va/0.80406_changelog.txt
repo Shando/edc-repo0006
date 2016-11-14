@@ -1,0 +1,25 @@
+Changes - 6th April 2008
+------------------------
+
+R 0 80406 
+SASI: 
+· The number of heads and cylinders of the disk image generated when SASI (. HDI) 20M is selected in New Disk is changed from 8, 310 to 4, 615. 
+. It is possible to use .HDI of 20M. 
+SCSI: 
+· Connect the controller. (SCHD.SYS does not operate normally yet) 
+keyboard: 
+· Enabled to use Windows Kanji key as double-byte key. 
+· Key assignment to Windows right ALT key can be changed. 
+The default is changed to GRPH key. 
+If you use the right ALT as a double-byte key as before, 
+Select [Device] - [Keyboard] - [ALT (R) = Zenkaku (VA)] from the menu. 
+· Fixed problem that GRPH can not be assigned to ALT (right) · Added function to execute at high speed while ALT (right) is pressed · Fix to save pressed state of CAPS key, kana key at the time of exit and reset. 
+. Fixed that bit 0 (RESET) of port 197h was not functioning effectively. 
+· Fixed not to clear keymap (port 00h ~ 0Eh) at machine reset. 
+System port: 
+· Port 190h bit 0 (RSTMD) implementation. 
+Console window: 
+· Prevention of flicker 
+About Change screen content 
+
+*** Translated from Japanese using Google Translate ***

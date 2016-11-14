@@ -1,0 +1,21 @@
+Changes - 13th March 2010
+-------------------------
+
+V0.5 L30
+--------------------
+- Vertical frequency is now selectable in full screen mode
+- Fixed VM monitor menu item in full screen mode
+- Key input is now ignored when UNZ is minimized
+- Improved again mouse handling
+- Right shift key is now working under Windows Vista or later
+- Fixed CD-DA pause and resume
+- Fixed CD controller status value
+- Fixed CD-DA repeat
+- Fixed implementation of 'Capture CD' in menu
+- Fixed a bug that caused gfx glitches in FMR compatible screen mode
+- Fixed screen rendering with hardware stretching
+- Added auto fire feature for TOWNS-pad buttons
+- Added i486 instructions to recompiler
+- Changed initial value of PCM channel volume
+- Changed CPU clock upper limit up to 200MHz
+and various small fixes
