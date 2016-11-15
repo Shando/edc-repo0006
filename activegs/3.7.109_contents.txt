@@ -1,0 +1,22 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-12-03 13:52:06 ....A          515       925666  default.activegsxml
+2012-12-03 09:28:14 ....A      2271620               ActiveGS.app\Contents\MacOS\ActiveGS
+2012-12-03 09:28:14 ....A            8               ActiveGS.app\Contents\PkgInfo
+2014-01-27 08:21:16 ....A      1839616               ActiveGS.exe
+2012-12-03 09:28:14 ....A         1813               ActiveGS.app\Contents\Info.plist
+2012-12-03 09:28:14 ....A         1779               ActiveGS.app\Contents\Resources\Info.plist
+2012-12-03 09:28:14 ....A           92               ActiveGS.app\Contents\Resources\English.lproj\InfoPlist.strings
+2012-12-03 09:28:14 ....A       104266               ActiveGS.app\Contents\Resources\floppy_eject.wav
+2012-12-03 09:28:14 ....A        79122               ActiveGS.app\Contents\Resources\Spin Up Search 1.wav
+2012-12-03 09:28:14 ....A        74066               ActiveGS.app\Contents\Resources\Spin Up Search 2.wav
+2012-12-03 09:28:14 ....A        10355               ActiveGS.app\Contents\Resources\English.lproj\main.nib\objects.xib
+2012-12-03 13:52:06 ....A        99258               nucleus.zip
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app\Contents\Resources\English.lproj\main.nib
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app\Contents\Resources\English.lproj
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app\Contents\Resources
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app\Contents\MacOS
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app\Contents
+2012-12-03 13:52:06 D....            0            0  ActiveGS.app
+------------------- ----- ------------ ------------  ------------------------
+2014-01-27 08:21:16            4482510       925666  12 files, 6 folders

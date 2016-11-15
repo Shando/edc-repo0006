@@ -1,0 +1,39 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-03-22 14:22:26 .R..A       123532       129185  AdriHelp.chm
+2002-03-13 17:30:00 ....A        36918               plugins\DYNAREC.BMP
+2002-03-13 17:28:16 ....A        36918               plugins\INTERP.BMP
+2002-03-13 17:45:44 ....A        36918               plugins\LOADED.BMP
+2002-03-13 17:49:02 ....A        36918               plugins\SAVED.BMP
+2002-03-28 16:34:58 ....A         2238               plugins\sts.ico
+2002-04-21 12:33:38 ....A         3615               docs\Languages.txt
+2002-04-21 12:20:24 ....A         8541               docs\ReadMe.txt
+2001-04-18 12:23:00 ....A         1338               English.len
+2001-04-18 12:23:00 ....A         1426               French.len
+2001-04-18 12:23:00 ....A         1428               German.len
+2001-04-18 12:23:00 ....A         1418               Indonesian.len
+2001-04-18 12:23:00 ....A         1419               IndonesianGL.len
+2001-04-18 12:23:00 ....A         1301               Italian.len
+2001-04-18 12:23:00 ....A         1426               Malay.len
+2001-04-18 12:23:00 ....A         1449               PortugueseBZL.len
+2001-04-18 12:23:00 ....A         1362               Serbian.len
+2001-04-18 12:23:00 ....A         1497               Spanish.len
+2001-04-18 12:23:00 ....A         1336               Swedish.len
+2001-04-06 21:04:08 ....A           96               bios\erase.me
+2002-04-17 21:58:58 ....A         8192               mems\dummy.mem
+2002-04-21 12:09:42 ....A       285696       831775  AdriILE.exe
+2002-04-21 11:56:04 ....A       112640               AdriRUN.exe
+2001-04-10 13:37:56 ....A       159072               AdriGUI.dll
+2002-03-20 01:05:36 ....A        34816               plugins\cdrSaPu.dll
+2002-01-11 19:45:26 ....A       389120               plugins\gpuPeopsSoft.dll
+2002-02-16 15:25:12 ....A       344064               plugins\gpuPeteD3D.dll
+2002-02-16 15:23:04 ....A       344064               plugins\gpuPeteOpenGL.dll
+2002-01-05 12:21:32 ....A        48128               plugins\padTsgKnP.dll
+1998-12-31 06:07:48 ....A        28672               plugins\spuNull.dll
+2002-01-05 11:05:56 ....A        86016               plugins\spuPeteDSound.dll
+2016-11-14 21:06:25 D....            0            0  plugins
+2016-11-14 21:06:25 D....            0            0  mems
+2016-11-14 21:06:25 D....            0            0  docs
+2016-11-14 21:06:25 D....            0            0  bios
+------------------- ----- ------------ ------------  ------------------------
+2016-11-14 21:06:25            2141574       960960  31 files, 4 folders

@@ -1,0 +1,39 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-05-01 00:53:08 ....A      1015808      1827551  Plugins\315-5313.dll
+2015-05-01 00:50:37 ....A      1168384               Plugins\315-5313Menus.dll
+2015-05-01 00:56:01 ....A       305664               Plugins\ExodusSystemMenus.dll
+2015-05-01 00:56:21 ....A       200704               Plugins\GenericAccessMenus.dll
+2015-05-01 00:53:22 ....A       699392               Plugins\M68000.dll
+2015-05-01 00:49:45 ....A        87040               Plugins\M68000Menus.dll
+2015-05-01 00:52:51 ....A       161280               Plugins\MD1600IO.dll
+2015-05-01 00:49:01 ....A       316928               Plugins\MDExtensions.dll
+2015-05-01 00:52:55 ....A       156672               Plugins\Memory.dll
+2015-05-01 00:49:44 ....A       167936               Plugins\MemoryMenus.dll
+2015-05-01 00:50:30 ....A       251904               Plugins\ProcessorMenus.dll
+2015-05-01 00:52:56 ....A       216576               Plugins\SN76489.dll
+2015-05-01 00:53:31 ....A      1444352               System.dll
+2015-05-01 00:52:58 ....A       274944               Plugins\YM2612.dll
+2015-05-01 00:50:15 ....A       177152               Plugins\YM2612Menus.dll
+2015-05-01 00:53:09 ....A       557056               Plugins\Z80.dll
+2015-05-01 00:54:04 ....A      1565696               Exodus.exe
+2015-04-27 05:44:19 ....A         2984               License.txt
+2015-05-01 01:21:12 ....A         1981               ReleaseNotes.txt
+2015-04-30 23:43:40 ....A         1720               Workspaces\Mega Drive Clean.xml
+2015-04-28 06:20:11 ....A        17091               Workspaces\Mega Drive Debugger - Low Resolution.xml
+2015-04-28 05:12:00 ....A        21043               Workspaces\Mega Drive Debugger.xml
+2015-04-27 05:44:19 ....A         4125               Modules\MegaDriveTestSystem.xml
+2015-04-27 02:42:48 ....A         3984               Modules\MegaDriveTestSystemNoBios.xml
+2015-04-28 05:00:49 ....A        43834               Modules\Sega Mega Drive 1600.xml
+2015-04-27 05:44:19 ....A         7268               Modules\Sega Mega Drive 3 Button Controller.xml
+2015-04-27 05:44:19 ....A         8216               Modules\Sega Mega Drive 6 Button Controller.xml
+2015-04-27 05:44:19 ....A          410               Modules\Sega Mega Drive ROM Loader.xml
+2015-04-30 00:21:28 ....A          681               settings.xml
+2015-04-30 00:21:28 D....            0            0  Savestates
+2015-04-30 00:21:28 D....            0            0  Captures
+2015-04-30 00:21:28 D....            0            0  Workspaces
+2015-04-30 00:21:28 D....            0            0  PersistentState
+2015-04-30 00:21:28 D....            0            0  Modules
+2015-04-30 00:21:28 D....            0            0  Plugins
+------------------- ----- ------------ ------------  ------------------------
+2015-05-01 01:21:12            8880825      1827551  29 files, 6 folders

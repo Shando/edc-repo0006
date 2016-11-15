@@ -1,0 +1,310 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-06-02 18:21:48 ....A          402      5681239  roms\Chip-8X and Hybrids\Blockout [Steve Houk].c8x
+2009-10-30 16:56:18 ....A          132               roms\Chip-8X and Hybrids\Color Kaleidoscope [Steve Houk, 1978].c8x
+2009-10-30 13:24:52 ....A           50               roms\Chip-8X and Hybrids\ColourTest.c8x
+2009-10-30 13:27:58 ....A           20               roms\Chip-8X and Hybrids\SoundTest.c8x
+2005-01-05 15:55:46 ....A          264               roms\Chip-8 Games\15 Puzzle [Roger Ivie] (alt).ch8
+2003-12-17 23:44:08 ....A          384               roms\Chip-8 Games\15 Puzzle [Roger Ivie].ch8
+2006-04-10 13:55:34 ....A          168               roms\Chip-8 Games\Addition Problems [Paul C. Moews].ch8
+2006-01-04 17:16:22 ....A          356               roms\Chip-8 Games\Airplane.ch8
+1996-02-01 15:03:04 ....A          806               roms\SuperChip Games\Alien [Jonas Lindstedt, 1993].ch8
+2006-06-02 19:11:34 ....A         1194               roms\Chip-8 Games\Animal Race [Brian Astle].ch8
+1996-03-06 23:37:50 ....A         3196               roms\SuperChip Games\Ant - In Search of Coke [Erin S. Catto].ch8
+2010-07-13 22:16:44 ....A         1113               roms\Chip-8 Games\Astro Dodge [Revival Studios, 2008].ch8
+2011-04-16 15:18:14 ....A         1531               roms\Chip-8 Hires\Astro Dodge Hires [Revival Studios, 2008].ch8
+2006-06-02 17:12:56 ....A          598               roms\Chip-8X and Hybrids\Hybrids\Bingo [Andrew Modla] (hybrid).ch8
+2006-06-02 19:10:54 ....A          910               roms\Chip-8 Games\Biorhythm [Jef Winsor].ch8
+2006-06-02 17:12:20 ....A         1166               roms\Chip-8X and Hybrids\Hybrids\Blackjack [Andrew Modla] (hybrid).ch8
+2003-12-18 00:05:12 ....A         2356               roms\Chip-8 Games\Blinky [Hans Christian Egeberg, 1991].ch8
+1996-09-03 22:54:20 ....A         2528               roms\SuperChip Games\Blinky [Hans Christian Egeberg, 1991].ch8
+2006-04-01 13:03:28 ....A         2078               roms\Chip-8 Games\Blinky [Hans Christian Egeberg] (alt).ch8
+2003-12-18 00:05:12 ....A          391               roms\Chip-8 Games\Blitz [David Winter].ch8
+2007-08-04 08:30:54 ....A         1056               roms\SuperChip Test Programs\BMP Viewer (16x16 tiles) (MAME) [IQ_132].ch8
+2007-08-02 19:43:12 ....A         1056               roms\SuperChip Test Programs\BMP Viewer (Google) [IQ_132].ch8
+2006-01-06 23:25:32 ....A         1072               roms\SuperChip Test Programs\BMP Viewer - Flip-8 logo [Newsdee, 2006].ch8
+2005-06-03 00:15:46 ....A          304               roms\Chip-8 Programs\BMP Viewer - Hello (C8 example) [Hap, 2005].ch8
+2005-06-03 00:01:30 ....A         1072               roms\SuperChip Test Programs\BMP Viewer - Kyori (SC example) [Hap, 2005].ch8
+2005-06-23 01:00:00 ....A         1072               roms\SuperChip Test Programs\BMP Viewer - Let's Chip-8! [Koppepan, 2005].ch8
+2006-01-06 18:09:50 ....A          128               roms\Chip-8X and Hybrids\Hybrids\Boot-128 (hybrid).ch8
+2008-01-07 15:57:38 ....A          152               roms\SuperChip Demos\Bounce [Les Harris].ch8
+2006-06-02 19:11:52 ....A         1194               roms\Chip-8 Games\Bowling [Gooitzen van der Wal].ch8
+2004-02-07 21:12:32 ....A          280               roms\Chip-8 Games\Breakout (Brix hack) [David Winter, 1997].ch8
+2010-09-09 22:11:10 ....A          232               roms\Chip-8 Games\Breakout [Carmelo Cortez, 1979].ch8
+2006-04-01 17:09:18 ....A          286               roms\Chip-8 Games\Brick (Brix hack, 1990).ch8
+2003-12-17 23:52:12 ....A          280               roms\Chip-8 Games\Brix [Andreas Gustafsson, 1990].ch8
+1996-02-01 15:03:58 ....A          320               roms\SuperChip Games\Car [Klaus von Sengbusch, 1994].ch8
+1996-02-01 19:29:12 ....A          148               roms\SuperChip Demos\Car Race Demo [Erik Bryntse, 1991].ch8
+2005-01-05 17:55:46 ....A          882               roms\Chip-8 Games\Cave.ch8
+2006-02-15 02:54:50 ....A          288               roms\Chip-8 Programs\Chip8 emulator Logo [Garstyciuks].ch8
+2005-01-05 17:55:46 ....A          164               roms\Chip-8 Programs\Chip8 Picture.ch8
+2010-01-30 18:56:58 ....A         3558               roms\SuperChip Demos\Climax Slideshow - Part 1 [Revival Studios, 2008].ch8
+2010-01-30 20:26:44 ....A         3558               roms\SuperChip Demos\Climax Slideshow - Part 2 [Revival Studios, 2008].ch8
+2011-04-17 08:31:02 ....A          280               roms\Chip-8 Programs\Clock Program [Bill Fisher, 1981].ch8
+2010-09-09 22:11:16 ....A          108               roms\Chip-8 Games\Coin Flipping [Carmelo Cortez, 1978].ch8
+2003-12-18 00:00:38 ....A          194               roms\Chip-8 Games\Connect 4 [David Winter].ch8
+2010-09-09 22:11:20 ....A          192               roms\Chip-8 Games\Craps [Camerlo Cortez, 1978].ch8
+2006-06-02 19:11:44 ....A         1024               roms\Chip-8 Games\Deflection [John Fort].ch8
+2010-09-11 10:18:44 ....A           58               roms\Chip-8 Programs\Delay Timer Test [Matthew Mikolay, 2010].ch8
+2010-08-13 18:38:04 ....A          371               roms\Chip-8 Programs\Division Test [Sergey Naydenov, 2010].ch8
+2005-01-27 15:35:28 ....A           85               roms\SuperChip Test Programs\Emutest [Hap, 2006].ch8
+2006-04-01 15:37:04 ....A          736               roms\SuperChip Games\Field! [Al Roland, 1993] (alt).ch8
+1996-02-01 15:04:12 ....A          860               roms\SuperChip Games\Field! [Al Roland, 1993].ch8
+2006-01-04 17:16:22 ....A          290               roms\Chip-8 Games\Figures.ch8
+2005-01-05 17:55:46 ....A          198               roms\Chip-8 Games\Filter.ch8
+2005-07-10 12:00:56 ....A          160               roms\Chip-8 Programs\Fishie [Hap, 2005].ch8
+2006-01-06 23:25:32 ....A          272               roms\SuperChip Test Programs\Font Test [Newsdee, 2006].ch8
+2011-04-17 20:30:16 ....A          176               roms\Chip-8 Programs\Framed MK1 [GV Samways, 1980].ch8
+2011-04-17 20:37:24 ....A          176               roms\Chip-8 Programs\Framed MK2 [GV Samways, 1980].ch8
+2003-12-17 22:02:10 ....A          148               roms\Chip-8 Games\Guess [David Winter] (alt).ch8
+2005-01-05 17:55:46 ....A          150               roms\Chip-8 Games\Guess [David Winter].ch8
+1996-03-06 22:58:34 ....A         1828               roms\SuperChip Games\H. Piper [Paul Raines, 1991].ch8
+2005-07-01 22:04:58 ....A           52               roms\SuperChip Test Programs\Hex Mixt.ch8
+2010-09-11 22:40:06 ....A          170               roms\Chip-8 Games\Hi-Lo [Jef Winsor, 1978].ch8
+2003-12-18 00:00:38 ....A          850               roms\Chip-8 Games\Hidden [David Winter, 1996].ch8
+2011-01-03 22:09:10 ....A          230               roms\Chip-8 Hires\Hires Maze [David Winter, 199x].ch8
+2011-04-16 12:18:06 ....A          545               roms\Chip-8 Hires\Hires Particle Demo [zeroZshadow, 2008].ch8
+2011-04-16 11:33:08 ....A          725               roms\Chip-8 Hires\Hires Sierpinski [Sergey Naydenov, 2010].ch8
+2011-04-16 11:50:28 ....A         1162               roms\Chip-8 Hires\Hires Stars [Sergey Naydenov, 2010].ch8
+2011-01-03 19:30:04 ....A          214               roms\Chip-8 Hires\Hires Test [Tom Swan, 1979].ch8
+2011-04-16 13:57:30 ....A          881               roms\Chip-8 Hires\Hires Worm V4 [RB-Revival Studios, 2007].ch8
+2005-01-05 17:55:46 ....A          132               roms\Chip-8 Programs\IBM Logo.ch8
+1996-02-01 15:04:28 ....A         2374               roms\SuperChip Games\Joust [Erin S. Catto, 1993].ch8
+2010-09-11 18:45:06 ....A           82               roms\Chip-8 Programs\Jumping X and O [Harry Kleinberg, 1977].ch8
+2006-06-02 18:52:04 ....A          122               roms\Chip-8 Games\Kaleidoscope [Joseph Weisbecker, 1978].ch8
+2006-02-15 02:08:58 ....A          114               roms\Chip-8 Programs\Keypad Test [Hap, 2006].ch8
+2006-01-04 17:16:22 ....A          276               roms\Chip-8 Games\Landing.ch8
+2006-01-04 17:16:22 ....A          366               roms\SuperChip Games\Laser.ch8
+2011-04-17 21:00:30 ....A          256               roms\Chip-8 Programs\Life [GV Samways, 1980].ch8
+2005-07-01 22:04:58 ....A           22               roms\SuperChip Test Programs\Line Demo.ch8
+2006-02-17 20:31:36 ....A         3584               roms\SuperChip Games\Loopz (with difficulty select) [Hap, 2006].ch8
+2006-01-04 17:16:22 ....A         3486               roms\SuperChip Games\Loopz [Andreas Daumann].ch8
+2006-06-02 19:10:28 ....A         1792               roms\Chip-8 Games\Lunar Lander (Udo Pernisz, 1979).ch8
+1997-10-11 20:20:06 ....A          637               roms\SuperChip Games\Magic Square [David Winter, 1997].ch8
+2010-09-09 22:11:28 ....A          292               roms\Chip-8 Games\Mastermind FourRow (Robert Lindley, 1978).ch8
+2006-01-04 17:16:22 ....A          686               roms\SuperChip Games\Matches.ch8
+1997-09-12 22:50:04 ....A           38               roms\Chip-8 Demos\Maze (alt) [David Winter, 199x].ch8
+2009-08-03 21:36:34 ....A           38               roms\Chip-8X and Hybrids\ETI660 Hybrids\Maze 2 (ETI660 Hybrid).ch8
+2003-12-18 00:00:38 ....A           34               roms\Chip-8 Demos\Maze [David Winter, 199x].ch8
+2010-07-18 19:44:12 ....A         1914               roms\MegaChip8 Demos\Mega Minimal [Revival Studios, 2007].ch8
+2011-01-02 10:08:14 ....A        50431               roms\MegaChip8 Demos\Mega Particle Demo [zeroZshadow, 2008].ch8
+2013-05-04 22:39:48 ....A        29272               roms\MegaChip8 Games\MegaBlinky (2007) [Revival Studios].ch8
+2007-08-11 01:31:46 ....A           84               roms\MegaChip8 Demos\MegaMaze [David Winter, 2007].ch8
+2010-09-20 12:18:22 ....A          725               roms\MegaChip8 Demos\MegaSirpinski [Sergey Naydenov, 2010].ch8
+2003-12-18 00:02:10 ....A          345               roms\Chip-8 Games\Merlin [David Winter].ch8
+2006-06-02 17:13:06 ....A          951               roms\Chip-8X and Hybrids\Hybrids\Message Center [Andrew Modla] (hybrid).ch8
+1997-12-06 22:29:36 ....A         1875               roms\SuperChip Games\Mines! - The minehunter [David Winter, 1997].ch8
+2010-07-08 20:09:22 ....A           85               roms\Chip-8 Programs\Minimal game [Revival Studios, 2007].ch8
+2003-12-18 00:00:38 ....A          180               roms\Chip-8 Games\Missile [David Winter].ch8
+2006-06-02 19:11:24 ....A         1010               roms\Chip-8 Games\Most Dangerous Game [Peter Maruhnic].ch8
+2009-08-05 08:18:52 ....A          510               roms\Chip-8X and Hybrids\ETI660 Hybrids\Music Maker (ETI660 Hybrid) [Peter Collins, 198x].ch8
+2010-09-09 22:11:38 ....A          182               roms\Chip-8 Games\Nim [Carmelo Cortez, 1978].ch8
+2006-01-04 17:16:22 ....A          560               roms\Chip-8 Games\Paddles.ch8
+2011-01-02 12:40:52 ....A          353               roms\Chip-8 Demos\Particle Demo [zeroZshadow, 2008].ch8
+2008-08-24 22:09:14 ....A         1216               roms\Chip-8X and Hybrids\Pinball [Andrew Modla].ch8
+2006-01-04 15:16:22 ....A          246               roms\Chip-8 Games\Pong (1 player).ch8
+2010-09-12 20:00:08 ....A          264               roms\Chip-8 Games\Pong (alt).ch8
+2009-07-20 21:11:24 ....A          246               roms\Chip-8X and Hybrids\ETI660 Hybrids\Pong (ETI660 Hybrid).ch8
+2005-01-05 17:55:46 ....A          294               roms\Chip-8 Games\Pong 2 (Pong hack) [David Winter, 1997].ch8
+2003-12-17 23:52:12 ....A          246               roms\Chip-8 Games\Pong [Paul Vervalin, 1990].ch8
+2006-06-02 19:10:38 ....A         1020               roms\Chip-8 Games\Programmable Spacefighters [Jef Winsor].ch8
+2003-12-17 23:56:10 ....A          184               roms\Chip-8 Games\Puzzle.ch8
+2010-09-11 10:19:04 ....A           34               roms\Chip-8 Programs\Random Number Test [Matthew Mikolay, 2010].ch8
+2006-06-02 19:12:02 ....A          578               roms\Chip-8 Games\Reversi [Philip Baltzer].ch8
+2006-01-04 17:16:22 ....A           90               roms\SuperChip Demos\Robot.ch8
+2008-08-31 09:53:06 ....A          130               roms\Chip-8 Games\Rocket [Joseph Weisbecker, 1978].ch8
+1999-05-27 22:27:16 ....A          494               roms\Chip-8 Games\Rocket Launch [Jonas Lindstedt].ch8
+2005-01-05 17:55:46 ....A          112               roms\Chip-8 Games\Rocket Launcher.ch8
+2010-09-12 20:00:16 ....A         3582               roms\Chip-8 Games\Rush Hour [Hap, 2006] (alt).ch8
+2008-02-08 22:09:42 ....A         3582               roms\Chip-8 Games\Rush Hour [Hap, 2006].ch8
+2010-09-09 22:11:46 ....A          156               roms\Chip-8 Games\Russian Roulette [Carmelo Cortez, 1978].ch8
+2010-08-08 13:43:42 ....A          672               roms\SuperChip Test Programs\SC Test.ch8
+2007-07-04 03:39:14 ....A          228               roms\SuperChip Test Programs\SCHIP Test [iq_132].ch8
+2006-02-14 22:57:52 ....A           38               roms\SuperChip Test Programs\Scroll Test (modified) [Garstyciuks].ch8
+2006-01-04 17:16:22 ....A           90               roms\SuperChip Test Programs\Scroll Test.ch8
+2010-09-19 10:06:08 ....A          577               roms\SuperChip Demos\SCSerpinski [Sergey Naydenov, 2010].ch8
+2010-08-14 12:01:28 ....A          970               roms\SuperChip Demos\SCStars  [Sergey Naydenov, 2010].ch8
+2006-06-02 19:11:04 ....A          324               roms\Chip-8 Games\Sequence Shoot [Joyce Weisbecker].ch8
+2010-09-11 22:57:18 ....A          204               roms\Chip-8 Games\Shooting Stars [Philip Baltzer, 1978].ch8
+2010-09-20 12:28:10 ....A          521               roms\Chip-8 Demos\Sierpinski [Sergey Naydenov, 2010].ch8
+1997-09-14 22:24:06 ....A          262               roms\SuperChip Games\Single Dragon (Bomber Section) [David Nurser, 1993].ch8
+1997-09-14 22:36:16 ....A         2656               roms\SuperChip Games\Single Dragon (Stages 1-2) [David Nurser, 1993].ch8
+2010-09-20 12:28:10 ....A          521               roms\Chip-8 Demos\Sirpinski [Sergey Naydenov, 2010].ch8
+2006-06-02 19:12:10 ....A          388               roms\Chip-8 Games\Slide [Joyce Weisbecker].ch8
+2006-01-04 17:16:22 ....A          334               roms\Chip-8 Games\Soccer.ch8
+2006-04-07 22:00:26 ....A         3584               roms\SuperChip Games\Sokoban [Hap, 2006] (alt).ch8
+2006-04-11 19:11:18 ....A         3583               roms\SuperChip Games\Sokoban [Hap, 2006].ch8
+2006-01-04 17:16:22 ....A          716               roms\Chip-8 Games\Space Flight.ch8
+2010-09-11 20:21:02 ....A          192               roms\Chip-8 Games\Space Intercept [Joseph Weisbecker, 1978].ch8
+2009-08-03 18:08:00 ....A          400               roms\Chip-8X and Hybrids\ETI660 Hybrids\Space Invaders (ETI660 Hybrid) [P. Easdown,198x].ch8
+2003-12-17 22:05:12 ....A         1283               roms\Chip-8 Games\Space Invaders [David Winter] (alt).ch8
+2005-01-05 17:55:46 ....A         1301               roms\Chip-8 Games\Space Invaders [David Winter].ch8
+1980-12-02 14:28:56 ....A         2839               roms\SuperChip Games\Spacefight 2091 [Carsten Soerensen, 1992].ch8
+2010-09-11 20:40:20 ....A          154               roms\Chip-8 Games\Spooky Spot [Joseph Weisbecker, 1978].ch8
+2010-08-13 18:37:04 ....A          386               roms\Chip-8 Programs\SQRT Test [Sergey Naydenov, 2010].ch8
+2004-02-07 21:12:32 ....A          211               roms\Chip-8 Games\Squash [David Winter].ch8
+2010-09-19 13:01:26 ....A          968               roms\Chip-8 Demos\Stars [Sergey Naydenov, 2010].ch8
+2010-09-09 22:11:52 ....A          288               roms\Chip-8 Games\Submarine [Carmelo Cortez, 1978].ch8
+2006-06-02 19:11:14 ....A          176               roms\Chip-8 Games\Sum Fun [Joyce Weisbecker].ch8
+2010-07-13 22:18:14 ....A         1513               roms\SuperChip Games\Super Astro Dodge [Revival Studios, 2008].ch8
+2011-01-02 00:05:22 ....A          357               roms\SuperChip Demos\Super Particle Demo [zeroZshadow, 2008].ch8
+2001-07-18 10:21:56 ....A          100               roms\SuperChip Test Programs\SuperChip Test.ch8
+1998-04-30 23:22:44 ....A           40               roms\SuperChip Demos\SuperMaze [David Winter, 199x].ch8
+2010-09-15 20:28:00 ....A         3410               roms\SuperChip Demos\SuperTrip8 Demo (2008) [Revival Studios].ch8
+1997-05-14 15:04:20 ....A          360               roms\SuperChip Games\SuperWorm V3 [RB, 1992].ch8
+2007-08-11 02:54:14 ....A          674               roms\SuperChip Games\SuperWorm V4 [RB-Revival Studios, 2007].ch8
+2003-12-17 23:52:12 ....A          946               roms\Chip-8 Games\Syzygy [Roy Trevino, 1990].ch8
+2003-12-18 00:00:38 ....A          560               roms\Chip-8 Games\Tank.ch8
+2005-01-05 17:55:46 ....A          284               roms\Chip-8 Games\Tapeworm [JDR, 1999].ch8
+2005-07-01 22:05:00 ....A          280               roms\SuperChip Test Programs\Test128.ch8
+2003-12-17 23:52:12 ....A          494               roms\Chip-8 Games\Tetris [Fran Dachille, 1991].ch8
+2003-12-18 00:00:38 ....A          486               roms\Chip-8 Games\Tic-Tac-Toe [David Winter].ch8
+2006-01-04 17:16:22 ....A          144               roms\Chip-8 Games\Timebomb.ch8
+2010-09-15 20:26:30 ....A         3203               roms\Chip-8 Demos\Trip8 Demo (2008) [Revival Studios].ch8
+2011-04-16 14:32:52 ....A         3156               roms\Chip-8 Hires\Trip8 Hires Demo (2008) [Revival Studios].ch8
+2006-01-04 17:16:22 ....A          382               roms\Chip-8 Games\Tron.ch8
+2008-11-10 01:30:30 ....A       176802               roms\MegaChip8 Demos\Twister Demo [Revival Studios, 2007].ch8
+1996-12-17 19:20:12 ....A         2016               roms\SuperChip Games\U-Boat [Michael Kemper, 1994].ch8
+2003-12-17 23:52:12 ....A          224               roms\Chip-8 Games\UFO [Lutz V, 1992].ch8
+2003-12-18 00:05:12 ....A          230               roms\Chip-8 Games\Vers [JMN, 1991].ch8
+2003-12-18 00:05:12 ....A          507               roms\Chip-8 Games\Vertical Brix [Paul Robson, 1996].ch8
+2006-06-02 15:08:28 ....A           80               roms\Chip-8X and Hybrids\Hybrids\Video Display Drawing Game [Joseph Weisbecker] (hybrid).ch8
+2004-02-07 21:12:32 ....A          229               roms\Chip-8 Games\Wall [David Winter].ch8
+2003-12-17 23:52:12 ....A          206               roms\Chip-8 Games\Wipe Off [Joseph Weisbecker].ch8
+2009-08-01 21:15:30 ....A          606               roms\Chip-8X and Hybrids\ETI660 Hybrids\Wipeout (ETI660 hybrid) [W.F. Kreykes, 1982].ch8
+2010-09-12 19:45:42 ....A          677               roms\Chip-8 Games\Worm V4 [RB-Revival Studios, 2007].ch8
+2006-01-04 17:16:22 ....A          134               roms\SuperChip Demos\Worms demo.ch8
+2005-07-01 22:05:02 ....A          106               roms\Chip-8 Games\X-Mirror.ch8
+2007-07-29 00:56:44 ....A          144               roms\Chip-8 Demos\Zero Demo [zeroZshadow, 2007].ch8
+2007-07-28 01:18:50 ....A          184               roms\Chip-8 Games\ZeroPong [zeroZshadow, 2007].ch8
+2014-09-01 07:01:06 ....A       622138               libFLAC-8.dll
+2014-09-01 06:48:12 ....A       165513               libogg-0.dll
+2014-09-01 05:38:56 ....A      1170443               libpng16-16.dll
+2014-09-01 06:53:26 ....A       376925               libvorbis-0.dll
+2014-09-01 06:53:26 ....A       150521               libvorbisfile-3.dll
+2014-09-01 05:31:56 ....A      6337708               SDL2.dll
+2014-09-01 07:03:54 ....A       805797               SDL2_mixer.dll
+2014-09-01 06:46:30 ....A      1219071               smpeg2.dll
+2014-09-01 05:13:34 ....A       108544               zlib1.dll
+2014-10-10 10:54:58 ....A     13335860               Mega8_x86-64.exe
+2011-04-16 15:21:28 ....A          665               roms\Chip-8 Hires\!hires_information.txt
+2010-09-10 21:35:00 ....A          228               roms\Chip-8 Games\15 Puzzle [Roger Ivie].txt
+1993-07-31 14:26:30 ....A         2824               roms\SuperChip Games\Alien [Jonas Lindstedt, 1993].txt
+2003-08-31 00:09:20 ....A         1281               roms\Chip-8 Games\Animal Race [Brian Astle].txt
+2010-07-17 20:19:52 ....A         1982               roms\Chip-8 Games\Astro Dodge [Revival Studios, 2008].txt
+2010-07-17 20:19:52 ....A         1982               roms\Chip-8 Hires\Astro Dodge Hires [Revival Studios, 2008].txt
+2003-08-30 00:03:10 ....A         1910               roms\Chip-8X and Hybrids\Hybrids\Bingo [Andrew Modla] (hybrid).txt
+2003-09-01 09:02:36 ....A         2243               roms\Chip-8 Games\Biorhythm [Jef Winsor].txt
+2003-08-30 00:04:14 ....A         3212               roms\Chip-8X and Hybrids\Hybrids\Blackjack [Andrew Modla] (hybrid).txt
+2010-09-10 23:30:24 ....A          757               roms\SuperChip Games\Blinky [Hans Christian Egeberg, 1991].txt
+2010-09-11 11:53:06 ....A          247               roms\Chip-8 Games\Blitz [David Winter].txt
+2003-09-02 11:10:48 ....A         1951               roms\Chip-8X and Hybrids\Blockout [Steve Houk].txt
+2010-09-10 19:24:40 ....A          187               roms\SuperChip Test Programs\BMP Viewer - Flip-8 logo [Newsdee, 2006].txt
+2010-09-10 19:05:16 ....A          169               roms\Chip-8 Programs\BMP Viewer - Hello (C8 example) [Hap, 2005].txt
+2010-09-10 19:05:16 ....A          169               roms\SuperChip Test Programs\BMP Viewer - Kyori (SC example) [Hap, 2005].txt
+2010-09-10 19:26:28 ....A          188               roms\SuperChip Test Programs\BMP Viewer - Let's Chip-8! [Koppepan, 2005].txt
+2003-08-31 00:07:10 ....A         2243               roms\Chip-8 Games\Bowling [Gooitzen van der Wal].txt
+2010-09-11 11:54:58 ....A          335               roms\Chip-8 Games\Breakout (Brix hack) [David Winter, 1997].txt
+2010-09-10 21:18:32 ....A          320               roms\Chip-8 Games\Breakout [Carmelo Cortez, 1979].txt
+2010-09-11 13:43:44 ....A          137               roms\Chip-8 Games\Brick (Brix hack, 1990).txt
+2010-09-10 23:32:02 ....A          297               roms\SuperChip Games\Car [Klaus von Sengbusch, 1994].txt
+2010-09-11 00:31:08 ....A          216               roms\SuperChip Demos\Car Race Demo [Erik Bryntse, 1991].txt
+2011-04-16 12:34:22 ....A         1740               roms\Chip8 Pack - Readme.txt
+2010-07-18 17:11:32 ....A         1893               roms\SuperChip Demos\Climax Slideshow - Part 1 [Revival Studios, 2008].txt
+2010-07-18 17:11:32 ....A         1893               roms\SuperChip Demos\Climax Slideshow - Part 2 [Revival Studios, 2008].txt
+2011-04-17 08:35:04 ....A          460               roms\Chip-8 Programs\Clock Program [Bill Fisher, 1981].txt
+2010-09-10 21:11:20 ....A          222               roms\Chip-8 Games\Coin Flipping [Carmelo Cortez, 1978].txt
+2010-09-11 19:28:50 ....A          350               roms\Chip-8X and Hybrids\Color Kaleidoscope [Steve Houk, 1978].txt
+2010-09-10 21:25:54 ....A          495               roms\Chip-8 Games\Connect 4 [David Winter].txt
+2010-09-10 21:14:02 ....A          283               roms\Chip-8 Games\Craps [Camerlo Cortez, 1978].txt
+2003-08-31 00:08:36 ....A         2346               roms\Chip-8 Games\Deflection [John Fort].txt
+2010-09-11 10:26:48 ....A          354               roms\Chip-8 Programs\Delay Timer Test [Matthew Mikolay, 2010].txt
+2006-02-17 23:29:12 ....A         1891               roms\SuperChip Test Programs\Emutest [Hap, 2006].txt
+1993-08-20 13:59:14 ....A         1108               roms\SuperChip Games\Field! [Al Roland, 1993].txt
+2010-09-10 19:04:46 ....A           65               roms\Chip-8 Programs\Fishie [Hap, 2005].txt
+2011-04-17 21:40:36 ....A          147               roms\Chip-8 Programs\Framed MK1 [GV Samways, 1980].txt
+2011-04-17 21:41:00 ....A          148               roms\Chip-8 Programs\Framed MK2 [GV Samways, 1980].txt
+2010-09-10 21:34:18 ....A          189               roms\Chip-8 Games\Guess [David Winter] (alt).txt
+2010-09-10 21:34:18 ....A          189               roms\Chip-8 Games\Guess [David Winter].txt
+2010-09-10 23:33:08 ....A         8192               roms\SuperChip Games\H. Piper [Paul Raines, 1991].txt
+2010-09-11 22:45:12 ....A          486               roms\Chip-8 Games\Hi-Lo [Jef Winsor, 1978].txt
+1998-02-18 14:21:24 ....A          911               roms\Chip-8 Games\Hidden [David Winter, 1996].txt
+2010-09-10 19:41:14 ....A          644               roms\Chip-8 Hires\Hires Maze [David Winter, 199x].txt
+2011-04-16 12:23:22 ....A          158               roms\Chip-8 Hires\Hires Particle Demo [zeroZshadow, 2008].txt
+2011-04-16 13:48:40 ....A         1896               roms\Chip-8 Hires\Hires Worm V4 [RB-Revival Studios, 2007].txt
+2010-09-10 23:34:04 ....A          498               roms\SuperChip Games\Joust [Erin S. Catto, 1993].txt
+2010-09-11 18:55:24 ....A          505               roms\Chip-8 Programs\Jumping X and O [Harry Kleinberg, 1977].txt
+2010-09-11 13:26:20 ....A          474               roms\Chip-8 Games\Kaleidoscope [Joseph Weisbecker, 1978].txt
+2010-09-10 19:14:44 ....A          271               roms\Chip-8 Programs\Keypad Test [Hap, 2006].txt
+2014-09-10 18:51:42 ....A         2561               roms\Latest Updates.txt
+2011-04-17 21:39:22 ....A          596               roms\Chip-8 Programs\Life [GV Samways, 1980].txt
+2010-09-10 20:07:02 ....A          548               roms\SuperChip Games\Loopz (with difficulty select) [Hap, 2006].txt
+2003-08-31 05:08:08 ....A         5271               roms\Chip-8 Games\Lunar Lander [Udo Pernisz, 1979].txt
+1998-02-18 13:30:42 ....A         2082               roms\SuperChip Games\Magic Square [David Winter, 1997].txt
+2010-09-11 23:24:40 ....A         2053               roms\Chip-8 Games\Mastermind FourRow (Robert Lindley, 1978).txt
+2010-09-10 19:41:14 ....A          644               roms\Chip-8 Demos\Maze (alt) [David Winter, 199x].txt
+2010-09-10 19:41:14 ....A          644               roms\Chip-8 Demos\Maze [David Winter, 199x].txt
+2011-01-02 12:51:16 ....A          136               roms\MegaChip8 Demos\Mega Particle Demo [zeroZshadow, 2008].txt
+2013-05-04 22:46:50 ....A         1788               roms\MegaChip8 Games\MegaBlinky - Readme.txt
+2010-09-11 10:22:12 ....A          646               roms\MegaChip8 Demos\MegaMaze [David Winter, 2007].txt
+2010-09-10 21:30:18 ....A          457               roms\Chip-8 Games\Merlin [David Winter].txt
+2003-08-30 00:02:04 ....A         3791               roms\Chip-8X and Hybrids\Hybrids\Message Center [Andrew Modla] (hybrid).txt
+2003-08-31 00:10:08 ....A         2395               roms\Chip-8 Games\Most Dangerous Game [Peter Maruhnic].txt
+2009-08-05 08:15:50 ....A         1672               roms\Chip-8X and Hybrids\ETI660 Hybrids\Music Maker (ETI660 Hybrid) [Peter Collins, 198x].txt
+2010-09-10 21:02:24 ....A          253               roms\Chip-8 Games\Nim [Carmelo Cortez, 1978].txt
+2011-01-02 12:51:16 ....A          136               roms\Chip-8 Demos\Particle Demo [zeroZshadow, 2008].txt
+2003-08-30 00:01:08 ....A         1926               roms\Chip-8X and Hybrids\Pinball [Andrew Modla].txt
+2010-09-11 00:20:08 ....A          306               roms\Chip-8 Games\Pong [Paul Vervalin, 1990].txt
+2003-09-01 10:09:54 ....A         6793               roms\Chip-8 Games\Programmable Spacefighters [Jef Winsor].txt
+2010-09-11 10:28:40 ....A          797               roms\Chip-8 Programs\Random Number Test [Matthew Mikolay, 2010].txt
+2003-08-30 00:06:10 ....A         2137               roms\Chip-8 Games\Reversi [Philip Baltzer].txt
+2008-08-30 21:59:16 ....A         1153               roms\Chip-8 Games\Rush Hour [Hap, 2006].txt
+2010-09-10 20:59:38 ....A          195               roms\Chip-8 Games\Russian Roulette [Carmelo Cortez, 1978].txt
+2010-08-08 13:45:38 ....A         1801               roms\SuperChip Test Programs\SC Test.txt
+2010-09-12 20:00:24 ....A         1099               roms\Chip-8 Games\Sequence Shoot [Joyce Weisbecker].txt
+2010-09-11 23:05:48 ....A           38               roms\Chip-8 Games\Shooting Stars [Philip Baltzer, 1978].txt
+1993-01-04 07:25:08 ....A         3140               roms\SuperChip Games\Single Dragon (Bomber Section) [David Nurser, 1993].txt
+1993-01-04 07:25:08 ....A         3140               roms\SuperChip Games\Single Dragon (Stages 1-2) [David Nurser, 1993].txt
+2003-08-30 00:05:08 ....A          920               roms\Chip-8 Games\Slide [Joyce Weisbecker].txt
+2010-09-10 20:06:36 ....A         1267               roms\SuperChip Games\Sokoban [Hap, 2006].txt
+2010-09-11 20:29:40 ....A          355               roms\Chip-8 Games\Space Intercept [Joseph Weisbecker, 1978].txt
+2009-08-05 08:34:58 ....A         1084               roms\Chip-8X and Hybrids\ETI660 Hybrids\Space Invaders (ETI660 Hybrid) [P. Easdown,198x].txt
+2010-09-10 21:28:36 ....A          156               roms\Chip-8 Games\Space Invaders [David Winter] (alt).txt
+2010-09-10 21:28:36 ....A          156               roms\Chip-8 Games\Space Invaders [David Winter].txt
+1991-06-05 16:43:42 ....A         2732               roms\SuperChip Games\Spacefight 2091 [Carsten Soerensen, 1992].txt
+2010-09-11 20:55:06 ....A          425               roms\Chip-8 Games\Spooky Spot [Joseph Weisbecker, 1978].txt
+2010-09-10 21:16:34 ....A          218               roms\Chip-8 Games\Submarine [Carmelo Cortez, 1978].txt
+2003-08-30 00:11:06 ....A          897               roms\Chip-8 Games\Sum Fun [Joyce Weisbecker].txt
+2010-07-17 20:19:52 ....A         1982               roms\SuperChip Games\Super Astro Dodge [Revival Studios, 2008].txt
+2011-01-02 12:51:16 ....A          136               roms\SuperChip Demos\Super Particle Demo [zeroZshadow, 2008].txt
+2010-09-10 21:21:32 ....A           77               roms\SuperChip Test Programs\SuperChip Test.txt
+2010-09-10 20:20:40 ....A          649               roms\SuperChip Demos\SuperMaze [David Winter, 199x].txt
+2010-09-15 20:41:18 ....A         2157               roms\SuperChip Demos\SuperTrip8 Demo (2008) [Revival Studios].txt
+2010-07-29 15:51:12 ....A         1737               roms\SuperChip Games\SuperWorm V4 [RB-Revival Studios, 2007].txt
+2010-09-11 00:36:20 ....A         2679               roms\Chip-8 Games\Syzygy [Roy Trevino, 1990].txt
+2010-09-10 21:33:26 ....A          281               roms\Chip-8 Games\Tank.txt
+2010-09-11 00:34:22 ....A         1428               roms\Chip-8 Games\Tetris [Fran Dachille, 1991].txt
+2010-09-15 20:41:18 ....A         2157               roms\Chip-8 Demos\Trip8 Demo (2008) [Revival Studios].txt
+2011-04-16 14:35:24 ....A         2280               roms\Chip-8 Hires\Trip8 Hires Demo (2008) [Revival Studios].txt
+2010-07-17 20:23:10 ....A         1673               roms\MegaChip8 Demos\Twister Demo [Revival Studios, 2007].txt
+1996-12-17 09:43:08 ....A         3625               roms\SuperChip Games\U-Boat [Michael Kemper, 1994].txt
+2010-09-11 00:29:32 ....A         1214               roms\Chip-8 Games\UFO [Lutz V, 1992].txt
+2010-09-11 13:29:44 ....A          328               roms\Chip-8X and Hybrids\Hybrids\Video Display Drawing Game [Joseph Weisbecker] (hybrid).txt
+2009-08-05 08:30:28 ....A         2043               roms\Chip-8X and Hybrids\ETI660 Hybrids\Wipeout (ETI660 hybrid) [W.F. Kreykes, 1982].txt
+2010-09-12 19:48:34 ....A         1842               roms\Chip-8 Games\Worm V4 [RB-Revival Studios, 2007].txt
+2010-09-10 19:42:42 ....A           89               roms\Chip-8 Demos\Zero Demo [zeroZshadow, 2007].txt
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8X and Hybrids
+2010-09-10 19:42:42 D....            0            0  roms\MegaChip8 Games
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8 Programs
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8 Hires
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8X and Hybrids\Hybrids
+2010-09-10 19:42:42 D....            0            0  roms\SuperChip Test Programs
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8 Games
+2010-09-10 19:42:42 D....            0            0  roms\SuperChip Demos
+2010-09-10 19:42:42 D....            0            0  roms\SuperChip Games
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8 Demos
+2010-09-10 19:42:42 D....            0            0  roms
+2010-09-10 19:42:42 D....            0            0  roms\Chip-8X and Hybrids\ETI660 Hybrids
+2010-09-10 19:42:42 D....            0            0  roms\MegaChip8 Demos
+------------------- ----- ------------ ------------  ------------------------
+2014-10-10 10:54:58           24813218      5681239  293 files, 13 folders

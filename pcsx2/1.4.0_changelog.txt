@@ -1,0 +1,15 @@
+* New Feature.
+- EE Overclock.
+- Support for loading Gzip and CSO compressed ISO's.
+- Per channel volume adjustment.
+* Bug-Fix.
+- Recompiler Improvements and Core Refactors.
+- Programmable blending to reproduce GS blending unit output.
+- Improved CRTC output size handling.
+- Software renderer improvements.
+- Accurate destination alpha testing.
+- Improved read of depth / color.
+- Time Stretcher: Improvements to tempo adjustments.
+* Enhancement.
+- Configurable template on GSFrame titlebar.
+- Revamped Core and GSDX plugin dialogs.

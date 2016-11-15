@@ -1,0 +1,90 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-07-30 10:29:00 ....A          630      1387592  picture\dcmo5.bmp
+2007-12-05 03:01:38 ....A        39485               source\dc6809emul.c
+2007-12-11 01:45:00 ....A        12606               source\dcmo5boutons.c
+2007-12-11 08:20:04 ....A         9245               source\dcmo5devices.c
+2007-12-11 04:19:16 ....A        15782               source\dcmo5dialog.c
+2007-12-07 09:16:00 ....A         9789               source\dcmo5emulation.c
+2007-12-11 01:39:10 ....A        18642               source\dcmo5keyb.c
+2007-12-12 01:46:24 ....A        10032               source\dcmo5main.c
+2007-12-11 02:00:44 ....A         9172               source\dcmo5options.c
+2007-12-10 07:17:12 ....A         6876               source\dcmo5video.c
+2006-12-05 03:21:00 ....A          885               documentation\dcmo5v11.css
+2007-12-11 14:42:14 ....A        76288               dcmo5.exe
+2006-12-07 04:03:20 ....A       163840               software\blitz-mo5.fd
+2003-07-06 02:27:00 ....A       163840               software\dos-5p25-mo5.fd
+2007-12-08 05:58:08 ....A         3358               source\dcmo5boutons.h
+2007-12-08 05:58:08 ....A         2102               source\dcmo5global.h
+2007-12-11 14:38:36 ....A         3252               include\dcmo5icon.h
+2007-12-07 12:55:12 ....A        13546               source\dcmo5keyb.h
+2007-12-12 01:36:22 ....A         3943               source\dcmo5msg.h
+2007-11-24 03:20:12 ....A        94180               include\dcmo5rom.h
+2007-03-04 03:06:00 ....A       337921               include\policettf.h
+2007-12-12 07:24:02 ....A         9833               documentation\dcmo5v11en.html
+2007-12-12 07:25:24 ....A        11781               documentation\dcmo5v11fr.html
+2007-12-11 02:10:14 ....A          715               documentation\index.html
+2006-12-17 09:56:14 ....A        82717               picture\cd90-640.jpg
+2006-12-17 10:02:18 ....A        83611               picture\cj90-101.jpg
+2006-12-17 10:04:04 ....A       109930               picture\cm90-112.jpg
+2006-12-17 10:17:50 ....A        32373               picture\cr50-001.jpg
+2006-12-16 08:33:14 ....A        61015               picture\dd90-320.jpg
+2007-12-12 02:09:12 ....A         3310               picture\guidemo5v2.jpg
+2006-12-16 08:19:06 ....A        89729               picture\manette.jpg
+2006-12-16 08:35:12 ....A        40478               picture\memoire.jpg
+2006-12-16 08:23:26 ....A       145416               picture\mk50-050.jpg
+2006-12-16 08:11:22 ....A       180786               picture\mo5.jpg
+2006-12-16 08:11:58 ....A        40821               picture\mo5small.jpg
+2006-12-17 09:54:48 ....A        63578               picture\qd90-128.jpg
+2006-12-16 08:16:52 ....A        93557               picture\sx90-018.jpg
+2007-12-07 14:15:10 ....A        22061               software\dctarot-mo5.k7
+2007-12-07 14:15:10 ....A         3411               software\desassembleur-dump-patch-mo5.k7
+2007-12-07 14:15:10 ....A         3030               software\la-grignote2-mo5.k7
+2007-12-07 14:15:12 ....A         6654               software\labyrinthe-mo5.k7
+2007-12-07 14:15:12 ....A        13947               software\memory-mo5.k7
+2007-12-07 14:15:12 ....A         5540               software\puissance4-mo5.k7
+2007-12-07 14:15:14 ....A        10652               software\yahtzee-mo5.k7
+2007-12-11 08:04:40 ....A        13819               picture\about.png
+2007-12-04 08:26:30 ....A         1869               picture\amigaos.png
+2007-12-11 08:06:00 ....A        13203               picture\apropos.png
+2007-12-04 08:26:30 ....A          513               picture\beos.png
+2007-12-11 08:07:16 ....A        16732               picture\clavier.png
+2006-12-23 01:44:56 ....A          860               picture\en.png
+2006-12-23 01:44:36 ....A          159               picture\fr.png
+2007-12-04 08:26:30 ....A         1555               picture\freebsd.png
+2007-12-04 08:26:30 ....A         1413               picture\irix.png
+2007-12-11 08:09:30 ....A         9133               picture\joysticks.png
+2007-12-11 08:08:22 ....A        16159               picture\keyboard.png
+2007-12-04 08:26:28 ....A         1368               picture\linux.png
+2007-12-11 08:22:48 ....A         5898               picture\logiciel.png
+2007-12-04 08:26:30 ....A          863               picture\macos.png
+2007-12-04 08:26:30 ....A         1404               picture\macosx.png
+2007-12-11 08:10:30 ....A         9211               picture\manettes.png
+2007-12-11 13:28:10 ....A        14525               picture\mine.png
+2007-12-04 08:26:30 ....A         1330               picture\netbsd.png
+2007-12-04 08:26:30 ....A         1657               picture\openbsd.png
+2007-12-11 07:05:30 ....A         6654               picture\parametres.png
+2007-12-04 08:26:30 ....A         1861               picture\qnx.png
+2007-12-11 07:14:16 ....A         2254               picture\sdl_powered.png
+2007-12-11 07:07:02 ....A         6146               picture\settings.png
+2007-12-11 08:23:46 ....A         5818               picture\software.png
+2007-12-04 08:26:30 ....A         1472               picture\solaris.png
+2007-12-12 06:55:28 ....A         3783               picture\statusbar.png
+2007-12-11 07:02:10 ....A         3766               picture\statutbar.png
+2007-12-04 08:26:30 ....A          995               picture\win32.png
+2001-09-21 13:23:54 ....A        16384               software\glouton-memo5.rom
+2004-08-25 09:52:02 ....A        16384               software\pictor-memo5.rom
+2007-12-05 07:48:40 ....A         4735               licence\dcmo5v11-licence.txt
+2007-12-05 02:42:28 ....A        35821               licence\gpl-3.0.txt
+2007-12-05 03:14:18 ....A         7804               licence\lgpl-3.0.txt
+2007-12-05 05:10:14 ....A         6078               licence\vera-copyright.txt
+2007-12-12 01:57:56 ....A         1376               makefile
+2007-12-12 01:57:56 D....            0            0  software
+2007-12-12 01:57:56 D....            0            0  object
+2007-12-12 01:57:56 D....            0            0  picture
+2007-12-12 01:57:56 D....            0            0  source
+2007-12-12 01:57:56 D....            0            0  include
+2007-12-12 01:57:56 D....            0            0  documentation
+2007-12-12 01:57:56 D....            0            0  licence
+------------------- ----- ------------ ------------  ------------------------
+2007-12-12 07:25:24            2343361      1387592  79 files, 7 folders
