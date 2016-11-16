@@ -1,0 +1,182 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-07-04 19:11:58 ....A          963      1458287  CpcAlive\BMPLOAD
+2014-08-13 15:12:07 ....A         3571               CpcAlive\CreaDisc
+2014-09-20 19:15:51 ....A         1080               CpcAlive\DEMO
+2005-07-12 20:18:40 ....A       261095               docs\HELPPC21.ZIP
+2014-02-23 05:29:34 ....A       590500               Programs\MASM.ZIP
+2005-01-28 23:56:40 ....A       203694               Programs\TASM31D.ZIP
+2006-01-07 15:21:44 ....A        17846               docs\BackPages\CpcAlive.gif
+2012-08-04 18:01:54 ....A        32995               docs\BackPages\CpcAlive256colors.gif
+2006-04-03 13:44:46 ....A       179438               docs\BackPages\GRAPHES.GIF
+2011-07-28 13:53:52 ....A         1830               docs\BackPages\mail.gif
+2005-11-27 19:56:14 ....A         2317               docs\BackPages\TREE.GIF
+2005-05-30 22:42:20 ....A        13441               docs\BackPages\Clear Day Bkgrd.JPG
+2011-06-15 11:00:00 ....A        15498               docs\BackPages\CpcAlive.jpg
+2014-11-06 16:51:08 ....A         5792               CpcAlive\system\debug.bmp
+2010-04-14 14:25:04 ....A         4354               CpcAlive\Ex\ICONE.BMP
+2010-04-14 14:25:04 ....A         4354               CpcAlive\Image.bmp
+2014-02-27 22:20:34 ....A          154               CpcAlive\Ex\STAR00.BMP
+2014-02-27 22:22:18 ....A          162               CpcAlive\Ex\STAR01.BMP
+2014-02-27 22:23:34 ....A          178               CpcAlive\Ex\STAR02.BMP
+2014-02-27 22:24:14 ....A          194               CpcAlive\Ex\STAR03.BMP
+2009-06-25 10:18:28 ....A       270398               INI\CpcAlive.ico
+2014-11-19 23:17:54 ....A         8011               CpcAlive\Ex\ANI.BAS
+2011-02-24 13:45:48 ....A          957               CpcAlive\Ex\BasIOPix.bas
+2014-09-19 11:02:38 ....A          723               CpcAlive\Ex\BMPMAIN.BAS
+2014-12-02 14:43:04 ....A         6271               CpcAlive\Inc\IBMP.BAS
+2014-09-20 19:16:09 ....A          205               CpcAlive\Inc\MAINJUMP.BAS
+2014-09-20 19:16:25 ....A          205               CpcAlive\system\MAINJUMP.BAS
+2014-08-31 19:07:00 ....A         1015               CpcAlive\Ex\STAR.BAS
+2014-08-19 13:31:09 ....A        16268               CpcAlive\Ex\X86IOPix.bas
+2014-08-17 19:59:27 ....A         6013               CpcAlive\Ex\Z80IOPix.bas
+2014-11-20 12:01:18 ....A        14960               CpcAlive\Ex\X86IOPIX.ASM
+2012-07-14 23:10:08 ....A         3011               CpcAlive\Ex\Z80IOPix.asm
+2014-09-20 17:40:51 ....A          356               CpcAlive (Vista,7).bat
+2014-09-20 17:47:11 ....A          288               CpcAlive (WinXP with DosBox).bat
+2010-12-12 16:17:20 ....A          207               INI\DOS9X.BAT
+2014-09-20 17:39:46 ....A          283               DOSBOX.BAT
+2005-04-13 22:20:42 ....A           62               docs\DOSHELP.BAT
+2010-12-09 10:40:58 ....A          199               INI\DOSXP.BAT
+2014-11-30 14:46:05 ....A           47               CpcAlive\HBuild.bat
+2010-12-09 06:50:04 ....A           82               CpcAlive\helppc.bat
+2014-02-24 14:29:50 ....A          415               CpcAlive\SetAsm.bat
+2014-11-20 06:34:34 ....A         3528               DOCUMENTATION.html
+2010-05-12 10:52:52 ....A        63204               INI\dosbox\DOSBox 0.74 Manual.txt
+2010-05-12 10:52:52 ....A        18332               INI\dosbox\dosbox.txt
+2014-09-19 18:27:29 ....A         2383               File_id.txt
+2014-09-20 18:12:34 ....A          792               CpcAlive\infos00.txt
+2014-09-20 18:12:54 ....A          823               CpcAlive\infos01.txt
+2014-11-20 00:00:58 ....A         4369               CpcAlive\infos02.txt
+2014-09-20 18:13:21 ....A          769               INI\infos10.txt
+2014-09-20 18:15:37 ....A          804               INI\infos11.txt
+2014-09-03 17:55:48 ....A          161               CpcAlive\Ex\message\mes_en.txt
+2014-09-03 17:56:01 ....A          165               CpcAlive\Ex\message\mes_fr.txt
+2005-02-10 14:15:18 ....A         3143               Programs\UNZIP.TXT
+2014-08-14 16:20:02 ....A         1678               CpcAlive\ACCENT.INI
+2010-12-12 22:41:14 ....A           11               CpcAlive\CPC.INI
+2014-11-30 14:16:23 ....A         2057               CpcAlive\Rom.ini
+1992-03-12 16:42:24 ....A         2896               CpcAlive\FLI2GIF.DOC
+2006-07-13 07:33:42 ....A        30189               CpcAlive\EDIT.HLP
+2014-12-15 20:16:19 ....A         5746               CpcAlive\system\CPCALIVE.OBJ
+2014-10-26 15:53:36 ....A          875               CpcAlive\Ex\message\CAR21.000
+2014-10-26 15:53:37 ....A          383               CpcAlive\Ex\message\CAR27.000
+2014-10-26 15:53:38 ....A          299               CpcAlive\Ex\message\CAR2C.000
+2014-10-26 15:53:39 ....A          191               CpcAlive\Ex\message\CAR2E.000
+2014-10-26 15:53:40 ....A         2345               CpcAlive\Ex\message\CAR30.000
+2014-10-26 15:53:40 ....A         1217               CpcAlive\Ex\message\CAR31.000
+2014-10-26 15:53:41 ....A         2111               CpcAlive\Ex\message\CAR32.000
+2014-10-26 15:53:42 ....A         2039               CpcAlive\Ex\message\CAR33.000
+2014-10-26 15:53:42 ....A         2039               CpcAlive\Ex\message\CAR34.000
+2014-10-26 15:53:43 ....A         2141               CpcAlive\Ex\message\CAR35.000
+2014-10-26 15:53:43 ....A         2345               CpcAlive\Ex\message\CAR36.000
+2014-10-26 15:53:44 ....A         1487               CpcAlive\Ex\message\CAR37.000
+2014-10-26 15:53:45 ....A         2399               CpcAlive\Ex\message\CAR38.000
+2014-10-26 15:53:45 ....A         2363               CpcAlive\Ex\message\CAR39.000
+2014-10-26 15:53:47 ....A         2255               CpcAlive\Ex\message\CAR41.000
+2014-10-26 15:53:47 ....A         3059               CpcAlive\Ex\message\CAR42.000
+2014-10-26 15:53:48 ....A         2369               CpcAlive\Ex\message\CAR43.000
+2014-10-26 15:53:49 ....A         2699               CpcAlive\Ex\message\CAR44.000
+2014-10-26 15:53:49 ....A         2399               CpcAlive\Ex\message\CAR45.000
+2014-10-26 15:53:50 ....A         1853               CpcAlive\Ex\message\CAR46.000
+2014-10-26 15:53:51 ....A         2681               CpcAlive\Ex\message\CAR47.000
+2014-10-26 15:53:51 ....A         2561               CpcAlive\Ex\message\CAR48.000
+2014-10-26 15:53:52 ....A         1331               CpcAlive\Ex\message\CAR49.000
+2014-10-26 15:53:52 ....A         1697               CpcAlive\Ex\message\CAR4A.000
+2014-10-26 15:53:53 ....A         2417               CpcAlive\Ex\message\CAR4B.000
+2014-10-26 15:53:54 ....A         1577               CpcAlive\Ex\message\CAR4C.000
+2014-10-26 15:53:54 ....A         3485               CpcAlive\Ex\message\CAR4D.000
+2014-10-26 15:53:55 ....A         2903               CpcAlive\Ex\message\CAR4E.000
+2014-10-26 15:53:56 ....A         2555               CpcAlive\Ex\message\CAR4F.000
+2014-10-26 15:53:56 ....A         2363               CpcAlive\Ex\message\CAR50.000
+2014-10-26 15:53:57 ....A         2819               CpcAlive\Ex\message\CAR51.000
+2014-10-26 15:53:57 ....A         2777               CpcAlive\Ex\message\CAR52.000
+2014-10-26 15:53:58 ....A         2363               CpcAlive\Ex\message\CAR53.000
+2014-10-26 15:53:59 ....A         1679               CpcAlive\Ex\message\CAR54.000
+2014-10-26 15:53:59 ....A         2357               CpcAlive\Ex\message\CAR55.000
+2014-10-26 15:54:00 ....A         1991               CpcAlive\Ex\message\CAR56.000
+2014-10-26 15:54:01 ....A         3359               CpcAlive\Ex\message\CAR57.000
+2014-10-26 15:54:01 ....A         2207               CpcAlive\Ex\message\CAR58.000
+2014-10-26 15:54:02 ....A         1697               CpcAlive\Ex\message\CAR59.000
+2014-10-26 15:54:02 ....A         2213               CpcAlive\Ex\message\CAR5A.000
+2014-10-26 15:54:04 ....A         1733               CpcAlive\Ex\message\CAR61.000
+2014-10-26 15:54:04 ....A         2081               CpcAlive\Ex\message\CAR62.000
+2014-10-26 15:54:05 ....A         1451               CpcAlive\Ex\message\CAR63.000
+2014-10-26 15:54:05 ....A         2069               CpcAlive\Ex\message\CAR64.000
+2014-10-26 15:54:06 ....A         1697               CpcAlive\Ex\message\CAR65.000
+2014-10-26 15:54:07 ....A         1421               CpcAlive\Ex\message\CAR66.000
+2014-10-26 15:54:07 ....A         2225               CpcAlive\Ex\message\CAR67.000
+2014-10-26 15:54:08 ....A         1919               CpcAlive\Ex\message\CAR68.000
+2014-10-26 15:54:09 ....A          899               CpcAlive\Ex\message\CAR69.000
+2014-10-26 15:54:09 ....A          995               CpcAlive\Ex\message\CAR6A.000
+2014-10-26 15:54:10 ....A         1853               CpcAlive\Ex\message\CAR6B.000
+2014-10-26 15:54:10 ....A         1049               CpcAlive\Ex\message\CAR6C.000
+2014-10-26 15:54:11 ....A         2363               CpcAlive\Ex\message\CAR6D.000
+2014-10-26 15:54:12 ....A         1565               CpcAlive\Ex\message\CAR6E.000
+2014-10-26 15:54:12 ....A         1583               CpcAlive\Ex\message\CAR6F.000
+2014-10-26 15:54:13 ....A         1925               CpcAlive\Ex\message\CAR70.000
+2014-10-26 15:54:13 ....A         1925               CpcAlive\Ex\message\CAR71.000
+2014-10-26 15:54:14 ....A          977               CpcAlive\Ex\message\CAR72.000
+2014-10-26 15:54:15 ....A         1475               CpcAlive\Ex\message\CAR73.000
+2014-10-26 15:54:15 ....A         1289               CpcAlive\Ex\message\CAR74.000
+2014-10-26 15:54:16 ....A         1571               CpcAlive\Ex\message\CAR75.000
+2014-10-26 15:54:17 ....A         1253               CpcAlive\Ex\message\CAR76.000
+2014-10-26 15:54:17 ....A         2123               CpcAlive\Ex\message\CAR77.000
+2014-10-26 15:54:18 ....A         1391               CpcAlive\Ex\message\CAR78.000
+2014-10-26 15:54:18 ....A         1559               CpcAlive\Ex\message\CAR79.000
+2014-10-26 15:54:19 ....A         1373               CpcAlive\Ex\message\CAR7A.000
+2014-10-26 15:54:22 ....A          383               CpcAlive\Ex\message\CAR92.000
+2014-11-26 12:16:40 ....A          509               CpcAlive\Ex\message\CAR96.000
+2014-10-26 15:54:23 ....A         2585               CpcAlive\Ex\message\CAR9C.000
+2014-10-26 15:54:25 ....A          893               CpcAlive\Ex\message\CARA1.000
+2014-10-26 15:54:26 ....A         2333               CpcAlive\Ex\message\CARAB.000
+2014-10-26 15:54:28 ....A         2303               CpcAlive\Ex\message\CARBB.000
+2014-10-26 15:54:33 ....A         2039               CpcAlive\Ex\message\CARE0.000
+2014-10-26 15:54:33 ....A         2075               CpcAlive\Ex\message\CARE1.000
+2014-10-26 15:54:34 ....A         2267               CpcAlive\Ex\message\CARE2.000
+2014-10-26 15:54:35 ....A         2099               CpcAlive\Ex\message\CARE4.000
+2014-10-26 15:54:36 ....A         1991               CpcAlive\Ex\message\CARE8.000
+2014-10-26 15:54:36 ....A         2039               CpcAlive\Ex\message\CARE9.000
+2014-10-26 15:54:37 ....A         2231               CpcAlive\Ex\message\CAREA.000
+2014-11-26 12:16:56 ....A         1877               CpcAlive\Ex\message\CARF9.000
+2014-10-26 15:54:39 ....A         1913               CpcAlive\Ex\message\CARFA.000
+2014-10-26 15:54:40 ....A         1937               CpcAlive\Ex\message\CARFC.000
+2014-08-29 21:22:18 ....A         6737               CpcAlive\Ex\message\CARMAJA.000
+2011-12-06 00:13:48 ....A          227               CpcAlive\EDIT.CFG
+2014-07-04 18:45:10 ....A        10975               INI\dosbox\dosbox.conf
+2014-07-06 11:50:48 ....A        10977               INI\dosbox\conf_winXP\dosbox.conf
+2014-09-19 10:36:39 ....A         3253               CpcAlive\system\edit.hex
+2008-11-04 15:37:00 ....A         2405               CpcAlive\!.PIF
+2010-12-08 22:01:46 ....A         3101               CpcAlive (Win9X).PIF
+2010-12-11 00:50:12 ....A         2855               CpcAlive (WinXP without DosBox).pif
+2010-12-09 18:29:40 ....A         2855               CpcAlive\CPCALIVE.PIF
+1995-11-14 21:57:20 ....A        16384               CpcAlive\system\AMSDOS.ROM
+1995-11-14 21:59:58 ....A        16384               CpcAlive\system\BASIC.ROM
+1995-11-14 21:58:26 ....A        16384               CpcAlive\system\OS.ROM
+2014-12-15 20:17:16 ....A       472098       966928  CpcAlive\!.EXE
+2014-09-18 03:52:00 ....A        19338               CpcAlive\system\ANICREA.EXE
+2014-12-15 20:17:16 ....A       472098               CpcAlive\CpcAlive.EXE
+2014-09-20 17:26:50 ....A      2113024               INI\dosbox\DOSBox.exe
+2006-07-13 07:33:42 ....A        59382               CpcAlive\EDIT.EXE
+2014-11-30 13:45:11 ....A        62810               CpcAlive\Extract.exe
+1992-03-10 21:22:02 ....A        16652               CpcAlive\FLI2GIF.EXE
+2014-11-19 23:10:24 ....A         1513               CpcAlive\system\INIT.EXE
+2014-09-20 17:49:00 ....A          543               CpcAlive\INKNEG.EXE
+2016-11-16 06:28:16 ....A        80504               Uninstall.exe
+2005-02-28 21:48:44 ....A        50229               Programs\UNZIP.EXE
+2014-03-01 23:44:12 ....A         2342               CpcAlive\Ex\X86IOPIX.EXE
+2010-04-09 20:04:12 ....A       448231               INI\dosbox\SDL.dll
+2010-04-09 20:04:12 ....A        13312               INI\dosbox\SDL_net.dll
+2016-11-16 06:28:15 D....            0            0  Programs
+2016-11-16 06:28:15 D....            0            0  INI\dosbox\conf_winXP
+2016-11-16 06:28:15 D....            0            0  INI\dosbox
+2016-11-16 06:28:15 D....            0            0  INI
+2016-11-16 06:28:15 D....            0            0  docs\BackPages
+2016-11-16 06:28:15 D....            0            0  docs
+2016-11-16 06:28:15 D....            0            0  CpcAlive\system
+2016-11-16 06:28:15 D....            0            0  CpcAlive\Inc
+2016-11-16 06:28:15 D....            0            0  CpcAlive\Ex\message
+2016-11-16 06:28:15 D....            0            0  CpcAlive\Ex
+2016-11-16 06:28:15 D....            0            0  CpcAlive
+------------------- ----- ------------ ------------  ------------------------
+2016-11-16 06:28:16            5870233      2425215  167 files, 11 folders

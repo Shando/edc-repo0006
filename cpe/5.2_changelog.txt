@@ -1,0 +1,26 @@
+NEW in version 5.2:
+
+- New sound emulation engine with support for Soundblaster (compatible),
+  Gravis Ultrasound, and Ensoniq Soundscape. 44kHz and stereo options.
+  Accurate recreation of tone frequencies and hardware envelopes. Optimized
+  for speed.
+  Unfortunately, the new GUS code is currently non-functional; it will be
+  fixed for a future version (if possible).
+- New FDC code, now 99% complete. All uPD765A commands, except Write ID,
+  are faithfully emulated. Most copy protected material can be processed
+  without problems.
+- Added support for high capacity disk images (eg. 80 tracks, double sided).
+  Usually requires the use of an expansion ROM such as VDOS or ROMDOS.
+- Scroll-Lock LED indicates any CPC disk activity.
+- New auto-calibrating joystick routines and support for two PC joysticks.
+- New, faster VESA graphics mode routines.
+- Optimized keyboard interrupt handler.
+- Completely redesigned user interface. An easy to use file selector is now
+  available to select snapshots and disk images. Files can be retrieved from
+  different drives, and from within ZIP archives. See the main
+  documentation for more details.
+- Fixed the snapshot support and maximized their processing speed.
+- Removed the "thin grey border" that was visible on some graphics cards in
+  800x600 VESA graphics mode.
+- Rewrote the CPESETUP utility to be more user-friendly.
+- Added spanish translation by Gerardo Brise¤o
