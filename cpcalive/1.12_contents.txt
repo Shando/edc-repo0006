@@ -1,0 +1,90 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-03-01 13:23:52 ....A          961      1444276  CpcAlive\BMPLOAD
+2014-02-24 14:48:08 ....A         3079               CpcAlive\CreaDisc
+2014-03-01 13:25:14 ....A         1302               CpcAlive\DEMO
+2005-07-12 20:18:40 ....A       261095               docs\HELPPC21.ZIP
+2014-02-23 05:29:34 ....A       590500               Programs\MASM.ZIP
+2005-01-28 23:56:40 ....A       203694               Programs\TASM31D.ZIP
+2006-01-07 15:21:44 ....A        17846               docs\BackPages\CpcAlive.gif
+2012-08-04 18:01:54 ....A        32995               docs\BackPages\CpcAlive256colors.gif
+2006-04-03 13:44:46 ....A       179438               docs\BackPages\GRAPHES.GIF
+2011-07-28 13:53:51 ....A         1830               docs\BackPages\mail.gif
+2005-11-27 19:56:14 ....A         2317               docs\BackPages\TREE.GIF
+2005-05-30 22:42:20 ....A        13441               docs\BackPages\Clear Day Bkgrd.JPG
+2011-06-15 11:00:00 ....A        15498               docs\BackPages\CpcAlive.jpg
+2014-02-18 10:54:26 ....A         5792               CpcAlive\system\debug.bmp
+2010-04-14 14:25:04 ....A         4354               CpcAlive\Ex\ICONE.BMP
+2010-04-14 14:25:04 ....A         4354               CpcAlive\Image.bmp
+2014-02-27 22:20:32 ....A          154               CpcAlive\Ex\STAR00.BMP
+2014-02-27 22:22:17 ....A          162               CpcAlive\Ex\STAR01.BMP
+2014-02-27 22:23:33 ....A          178               CpcAlive\Ex\STAR02.BMP
+2014-02-27 22:24:12 ....A          194               CpcAlive\Ex\STAR03.BMP
+2009-06-25 10:18:28 ....A       270398               INI\CpcAlive.ico
+2014-03-01 21:46:03 ....A         3369               CpcAlive\Ex\ANI.BAS
+2011-02-24 13:45:48 ....A          957               CpcAlive\Ex\BasIOPix.bas
+2014-03-01 18:39:09 ....A         4668               CpcAlive\Ex\BMP.BAS
+2014-03-01 13:25:20 ....A          844               CpcAlive\Ex\BMPMAIN.BAS
+2014-02-23 18:58:13 ....A          187               CpcAlive\system\MAINJUMP.BAS
+2014-03-01 13:26:02 ....A         1028               CpcAlive\Ex\STAR.BAS
+2014-03-01 23:17:27 ....A        17692               CpcAlive\Ex\X86IOPix.bas
+2011-12-05 23:51:01 ....A         6003               CpcAlive\Ex\Z80IOPix.bas
+2014-03-01 23:22:35 ....A        14959               CpcAlive\Ex\X86IOPIX.ASM
+2012-07-14 23:10:06 ....A         3011               CpcAlive\Ex\Z80IOPix.asm
+2010-12-11 22:21:32 ....A          212               CpcAlive (Vista,7).bat
+2013-09-29 18:41:56 ....A          144               CpcAlive (WinXP with DosBox).bat
+2010-12-12 16:17:20 ....A          207               INI\DOS9X.BAT
+2014-02-24 14:31:04 ....A          283               DOSBOX.BAT
+2005-04-13 22:20:42 ....A           62               docs\DOSHELP.BAT
+2010-12-09 10:40:58 ....A          199               INI\DOSXP.BAT
+2014-02-24 11:20:34 ....A           47               CpcAlive\HBuild.bat
+2010-12-09 06:50:04 ....A           82               CpcAlive\helppc.bat
+2014-02-24 14:29:48 ....A          415               CpcAlive\SetAsm.bat
+2014-03-01 20:35:45 ....A         4527               DOCUMENTATION.html
+2010-05-12 10:52:52 ....A        63204               INI\dosbox\DOSBox 0.74 Manual.txt
+2010-05-12 10:52:52 ....A        18332               INI\dosbox\dosbox.txt
+2014-03-01 18:55:38 ....A         2335               File_id.txt
+2014-03-01 20:02:56 ....A          715               CpcAlive\infos00.txt
+2014-03-01 20:04:49 ....A          746               CpcAlive\infos01.txt
+2014-03-01 20:05:09 ....A          692               INI\infos10.txt
+2014-03-01 20:05:20 ....A          727               INI\infos11.txt
+2005-02-10 14:15:18 ....A         3143               Programs\UNZIP.TXT
+2014-02-28 13:40:43 ....A          823               CpcAlive\ACCENT.INI
+2010-12-12 22:41:14 ....A           11               CpcAlive\CPC.INI
+2014-03-01 19:00:49 ....A         2195               CpcAlive\Rom.ini
+1992-03-12 16:42:24 ....A         2896               CpcAlive\FLI2GIF.DOC
+2006-07-13 07:33:42 ....A        30189               CpcAlive\EDIT.HLP
+2014-03-01 18:56:56 ....A         5415               CpcAlive\system\CPCALIVE.OBJ
+2011-12-06 00:13:46 ....A          227               CpcAlive\EDIT.CFG
+2013-09-29 18:40:05 ....A        10974               INI\dosbox\conf_winXP\dosbox.conf
+2014-03-01 20:36:13 ....A        10972               INI\dosbox\dosbox.conf
+2010-12-08 22:01:46 ....A         3101               CpcAlive (Win9X).PIF
+2010-12-11 00:50:12 ....A         2855               CpcAlive (WinXP without DosBox).pif
+2010-12-09 18:29:40 ....A         2855               CpcAlive\CPCALIVE.PIF
+1995-11-14 21:57:20 ....A        16384               CpcAlive\system\AMSDOS.ROM
+1995-11-14 21:59:58 ....A        16384               CpcAlive\system\BASIC.ROM
+1995-11-14 21:58:26 ....A        16384               CpcAlive\system\OS.ROM
+2014-03-01 18:46:54 ....A       447966      1499341  CpcAlive\!.EXE
+2014-03-01 21:47:09 ....A        19338               CpcAlive\system\ANICREA.EXE
+2014-03-01 18:46:53 ....A       447966               CpcAlive\CpcAlive.EXE
+2010-05-12 10:55:40 ....A      3727360               INI\dosbox\DOSBox.exe
+2006-07-13 07:33:42 ....A        59382               CpcAlive\EDIT.EXE
+2012-07-05 04:40:50 ....A        62356               CpcAlive\Extract.exe
+1992-03-10 21:22:02 ....A        16652               CpcAlive\FLI2GIF.EXE
+2012-07-04 21:32:52 ....A         1400               CpcAlive\system\IOPIX.EXE
+2016-11-16 06:28:34 ....A        77392               Uninstall.exe
+2005-02-28 21:48:44 ....A        50229               Programs\UNZIP.EXE
+2014-03-01 23:44:11 ....A         2342               CpcAlive\Ex\X86IOPIX.EXE
+2010-04-09 20:04:12 ....A       448231               INI\dosbox\SDL.dll
+2010-04-09 20:04:12 ....A        13312               INI\dosbox\SDL_net.dll
+2016-11-16 06:28:33 D....            0            0  Programs
+2016-11-16 06:28:33 D....            0            0  INI\dosbox\conf_winXP
+2016-11-16 06:28:33 D....            0            0  INI\dosbox
+2016-11-16 06:28:33 D....            0            0  INI
+2016-11-16 06:28:33 D....            0            0  docs\BackPages
+2016-11-16 06:28:33 D....            0            0  docs
+2016-11-16 06:28:33 D....            0            0  CpcAlive\system
+2016-11-16 06:28:33 D....            0            0  CpcAlive\Ex
+2016-11-16 06:28:33 D....            0            0  CpcAlive
+------------------- ----- ------------ ------------  ------------------------
+2016-11-16 06:28:34            7253963      2943617  77 files, 9 folders
