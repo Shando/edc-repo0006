@@ -1,0 +1,27 @@
+09/04/04 - Added RAM banking - works with Robocop, Ecole Buissonaire, and Auf
+           Weidersein Monty.
+           Fixed colour palette.
+           Improved sound, chords now not so much out of frequency.
+           Doubled noise frequency.
+           Improved timing, Robocop samples now more or less correct frequency.
+13/05/04 - Fixed 8255 bug, Starglider now works.
+           Tweaked vsync timing a bit, raster splits better in at least
+           Robocop, Starglider and Auf Weidersein Monty.
+           Bad files on some discs are due to reordering in AMSDOS being
+           broken.
+15/05/04 - Played about with interrupt timing - Wizball now okay, along with
+           Gauntlet and some others.
+16/05/04 - Fixed bad catalog on some discs - was actually me overlooking some
+           stuff in the DSK loader.
+           Fixed bug in RAM banking - Voyage 93 gets further.
+           Played with the CRTC a bit - rupture in Voyage 93 now more or less
+           works.
+20/05/04 - Early envelope emulation. Not quite right yet.
+29/05/04 - Altered FDC read code a little, Divine Megademo now loads again.
+31/05/04 - Tweaked CRTC code a bit. Prehistorik 2 started working today, but
+           is glitchy on first entering game - after vertical scrolling it is
+           stable, but in the wrong place.
+06/07/04 - Tweaked noise - sounds better.
+           Fixed new bug that crashed both Prehistorik 2 and Super Cauldron on
+           starting - now they merely glitch.
+07/07/04 - Fixed a couple of sound bugs.
