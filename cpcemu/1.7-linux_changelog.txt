@@ -1,0 +1,3 @@
+New in v1.7:
+------------
+  - Keyboard layout is adjustable and, in cpcemu.dat, configurable
