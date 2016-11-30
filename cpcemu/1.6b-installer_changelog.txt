@@ -1,0 +1,16 @@
+New in v1.6:
+------------
+  - Changes for a wider spectrum of operating systems and CPUs
+  - first versions for Linux/x86 and Windows/x86 (yes, there are
+    indeed versions of Windows for Non-x86)
+  - other plattforms are being planned (Linux/Alpha, FreeBSD/x86)
+  - whole user interface converted to graphics mode (1 window)
+  - same for debugger and other user inputs
+  - completetly new graphics and sound routines
+  - hence, better multimodes are depicted better (without flickering colours)
+  - whole RAM access converted to linear addressing mode
+  - file and directory access generalized for unixish OSes
+  - help file adjusted and independent from character set
+  - besides of "descript.ion", now "00_index.txt" is used
+  - small bugfixes
+  - unfortunately, some limitations (keyboard layout hard coded etc.)
