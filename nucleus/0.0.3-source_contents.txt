@@ -1,0 +1,265 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-01-21 01:58:12 ....A        76402       379094  nucleus-0.0.3\externals\zlib\ChangeLog
+2015-01-21 01:58:12 ....A          722               nucleus-0.0.3\externals\mongoose\LICENSE
+2015-01-21 01:58:12 ....A        18026               nucleus-0.0.3\LICENSE
+2015-01-21 01:58:12 ....A         5185               nucleus-0.0.3\externals\zlib\README
+2015-01-21 01:58:12 ....A        20673               nucleus-0.0.3\resources\icons\nucleus.png
+2015-01-21 01:58:12 ....A        32613               nucleus-0.0.3\resources\icons\nucleus.ico
+2015-01-21 01:58:12 ....A         1269               nucleus-0.0.3\resources\icons\nucleus.svg
+2015-01-21 01:58:12 ....A         3346               nucleus-0.0.3\docs\cpu.md
+2015-01-21 01:58:12 ....A         2690               nucleus-0.0.3\docs\gpu.md
+2015-01-21 01:58:12 ....A          807               nucleus-0.0.3\bin\dev_flash\data\font\README.md
+2015-01-21 01:58:12 ....A         1731               nucleus-0.0.3\README.md
+2015-01-21 01:58:12 ....A         2909               nucleus-0.0.3\bin\dev_flash\sys\external\README.md
+2015-01-21 01:58:12 ....A         4048               nucleus-0.0.3\externals\mongoose\README.md
+2015-01-21 01:58:12 ....A         4216               nucleus-0.0.3\externals\rapidjson\readme.md
+2015-01-21 01:58:12 ....A         1996               nucleus-0.0.3\docs\system.md
+2015-01-21 01:58:12 ....A         5906               nucleus-0.0.3\externals\aes.h
+2015-01-21 01:58:12 ....A         9914               nucleus-0.0.3\externals\rapidjson\allocators.h
+2015-01-21 01:58:12 ....A          934               nucleus-0.0.3\nucleus\syscalls\callback.h
+2015-01-21 01:58:12 ....A         1106               nucleus-0.0.3\nucleus\cpu\cell.h
+2015-01-21 01:58:12 ....A         9172               nucleus-0.0.3\nucleus\common.h
+2015-01-21 01:58:12 ....A          947               nucleus-0.0.3\nucleus\config.h
+2015-01-21 01:58:12 ....A        30562               nucleus-0.0.3\externals\zlib\crc32.h
+2015-01-21 01:58:12 ....A          552               nucleus-0.0.3\nucleus\debugger.h
+2015-01-21 01:58:12 ....A        12774               nucleus-0.0.3\externals\zlib\deflate.h
+2015-01-21 01:58:12 ....A        81112               nucleus-0.0.3\externals\rapidjson\document.h
+2015-01-21 01:58:12 ....A        16737               nucleus-0.0.3\externals\rapidjson\internal\dtoa.h
+2015-01-21 01:58:12 ....A         1015               nucleus-0.0.3\nucleus\emulator.h
+2015-01-21 01:58:12 ....A         4066               nucleus-0.0.3\externals\rapidjson\error\en.h
+2015-01-21 01:58:12 ....A        10349               nucleus-0.0.3\externals\rapidjson\encodedstream.h
+2015-01-21 01:58:12 ....A        23282               nucleus-0.0.3\externals\rapidjson\encodings.h
+2015-01-21 01:58:12 ....A         6066               nucleus-0.0.3\externals\rapidjson\error\error.h
+2015-01-21 01:58:12 ....A         3180               nucleus-0.0.3\externals\rapidjson\filereadstream.h
+2015-01-21 01:58:12 ....A         2558               nucleus-0.0.3\externals\rapidjson\filestream.h
+2015-01-21 01:58:12 ....A         1453               nucleus-0.0.3\nucleus\filesystem\filesystem.h
+2015-01-21 01:58:12 ....A         3170               nucleus-0.0.3\externals\rapidjson\filewritestream.h
+2015-01-21 01:58:12 ....A          730               nucleus-0.0.3\nucleus\format.h
+2015-01-21 01:58:12 ....A         6552               nucleus-0.0.3\externals\zlib\gzguts.h
+2015-01-21 01:58:12 ....A          427               nucleus-0.0.3\externals\zlib\inffast.h
+2015-01-21 01:58:12 ....A         6332               nucleus-0.0.3\externals\zlib\inffixed.h
+2015-01-21 01:58:12 ....A         6399               nucleus-0.0.3\externals\zlib\inflate.h
+2015-01-21 01:58:12 ....A         2928               nucleus-0.0.3\externals\zlib\inftrees.h
+2015-01-21 01:58:12 ....A         8060               nucleus-0.0.3\externals\rapidjson\msinttypes\inttypes.h
+2015-01-21 01:58:12 ....A        10636               nucleus-0.0.3\externals\rapidjson\internal\itoa.h
+2015-01-21 01:58:12 ....A          845               nucleus-0.0.3\nucleus\loader\keys.h
+2015-01-21 01:58:12 ....A          586               nucleus-0.0.3\nucleus\ui\language.h
+2015-01-21 01:58:12 ....A         4953               nucleus-0.0.3\nucleus\syscalls\modules\libsysmodule.h
+2015-01-21 01:58:12 ....A          208               nucleus-0.0.3\nucleus\syscalls\modules\libsysutil_avconf_ext.h
+2015-01-21 01:58:12 ....A          543               nucleus-0.0.3\nucleus\loader\loader.h
+2015-01-21 01:58:12 ....A         1278               nucleus-0.0.3\nucleus\logging.h
+2015-01-21 01:58:12 ....A         1335               nucleus-0.0.3\nucleus\syscalls\lv1.h
+2015-01-21 01:58:12 ....A         2184               nucleus-0.0.3\nucleus\syscalls\lv1\lv1_gpu.h
+2015-01-21 01:58:12 ....A         4074               nucleus-0.0.3\nucleus\syscalls\lv2.h
+2015-01-21 01:58:12 ....A         1617               nucleus-0.0.3\nucleus\memory\memory.h
+2015-01-21 01:58:12 ....A         2952               nucleus-0.0.3\externals\rapidjson\memorybuffer.h
+2015-01-21 01:58:12 ....A         2860               nucleus-0.0.3\externals\rapidjson\memorystream.h
+2015-01-21 01:58:12 ....A         6987               nucleus-0.0.3\externals\rapidjson\internal\meta.h
+2015-01-21 01:58:12 ....A          831               nucleus-0.0.3\nucleus\syscalls\module.h
+2015-01-21 01:58:12 ....A         6629               nucleus-0.0.3\externals\mongoose\mongoose.h
+2015-01-21 01:58:12 ....A         2272               nucleus-0.0.3\nucleus\syscalls\object.h
+2015-01-21 01:58:12 ....A         1299               nucleus-0.0.3\nucleus\gpu\opengl\opengl_fp.h
+2015-01-21 01:58:12 ....A         1281               nucleus-0.0.3\nucleus\gpu\opengl\opengl_renderer.h
+2015-01-21 01:58:12 ....A          973               nucleus-0.0.3\nucleus\gpu\opengl\opengl_vp.h
+2015-01-21 01:58:12 ....A         3957               nucleus-0.0.3\externals\rapidjson\internal\pow10.h
+2015-01-21 01:58:12 ....A        15208               nucleus-0.0.3\nucleus\cpu\ppu\ppu_disasm.h
+2015-01-21 01:58:12 ....A         5067               nucleus-0.0.3\nucleus\cpu\ppu\ppu_fields.h
+2015-01-21 01:58:12 ....A        24543               nucleus-0.0.3\nucleus\cpu\ppu\interpreter\ppu_interpreter.h
+2015-01-21 01:58:12 ....A          884               nucleus-0.0.3\nucleus\cpu\ppu\ppu_tables.h
+2015-01-21 01:58:12 ....A         6582               nucleus-0.0.3\nucleus\cpu\ppu\ppu_thread.h
+2015-01-21 01:58:12 ....A         7881               nucleus-0.0.3\externals\rapidjson\prettywriter.h
+2015-01-21 01:58:12 ....A        19391               nucleus-0.0.3\externals\rapidjson\rapidjson.h
+2015-01-21 01:58:12 ....A        55164               nucleus-0.0.3\externals\rapidjson\reader.h
+2015-01-21 01:58:12 ....A          585               nucleus-0.0.3\nucleus\resource.h
+2015-01-21 01:58:12 ....A         3298               nucleus-0.0.3\nucleus\gpu\rsx.h
+2015-01-21 01:58:12 ....A         2299               nucleus-0.0.3\nucleus\gpu\rsx_dma.h
+2015-01-21 01:58:12 ....A         1523               nucleus-0.0.3\nucleus\gpu\rsx_enum.h
+2015-01-21 01:58:12 ....A         5973               nucleus-0.0.3\nucleus\gpu\rsx_fp.h
+2015-01-21 01:58:12 ....A        17832               nucleus-0.0.3\nucleus\gpu\rsx_methods.h
+2015-01-21 01:58:12 ....A         3207               nucleus-0.0.3\nucleus\gpu\rsx_pgraph.h
+2015-01-21 01:58:12 ....A         3398               nucleus-0.0.3\nucleus\gpu\rsx_texture.h
+2015-01-21 01:58:12 ....A         4326               nucleus-0.0.3\nucleus\gpu\rsx_vp.h
+2015-01-21 01:58:12 ....A          821               nucleus-0.0.3\nucleus\memory\segment.h
+2015-01-21 01:58:12 ....A         4897               nucleus-0.0.3\nucleus\loader\self.h
+2015-01-21 01:58:12 ....A         4356               nucleus-0.0.3\externals\sha1.h
+2015-01-21 01:58:12 ....A         5956               nucleus-0.0.3\externals\rapidjson\internal\stack.h
+2015-01-21 01:58:12 ....A         9140               nucleus-0.0.3\externals\rapidjson\msinttypes\stdint.h
+2015-01-21 01:58:12 ....A         1771               nucleus-0.0.3\externals\rapidjson\internal\strfunc.h
+2015-01-21 01:58:12 ....A         2904               nucleus-0.0.3\externals\rapidjson\stringbuffer.h
+2015-01-21 01:58:12 ....A         4400               nucleus-0.0.3\nucleus\syscalls\syscall.h
+2015-01-21 01:58:12 ....A          780               nucleus-0.0.3\nucleus\syscalls\lv2\sys_cond.h
+2015-01-21 01:58:12 ....A          265               nucleus-0.0.3\nucleus\syscalls\lv2\sys_config.h
+2015-01-21 01:58:12 ....A         3375               nucleus-0.0.3\nucleus\syscalls\lv2\sys_dbg.h
+2015-01-21 01:58:12 ....A         2659               nucleus-0.0.3\nucleus\syscalls\lv2\sys_event.h
+2015-01-21 01:58:12 ....A         2791               nucleus-0.0.3\nucleus\syscalls\lv2\sys_fs.h
+2015-01-21 01:58:12 ....A          206               nucleus-0.0.3\nucleus\syscalls\lv2\sys_gamepad.h
+2015-01-21 01:58:12 ....A          242               nucleus-0.0.3\nucleus\syscalls\lv2\sys_hid.h
+2015-01-21 01:58:12 ....A          662               nucleus-0.0.3\nucleus\syscalls\lv2\sys_lwmutex.h
+2015-01-21 01:58:12 ....A         1082               nucleus-0.0.3\nucleus\syscalls\lv2\sys_memory.h
+2015-01-21 01:58:12 ....A          359               nucleus-0.0.3\nucleus\syscalls\lv2\sys_mmapper.h
+2015-01-21 01:58:12 ....A          888               nucleus-0.0.3\nucleus\syscalls\lv2\sys_mutex.h
+2015-01-21 01:58:12 ....A         1081               nucleus-0.0.3\nucleus\syscalls\lv2\sys_ppu_thread.h
+2015-01-21 01:58:12 ....A         2378               nucleus-0.0.3\nucleus\syscalls\lv2\sys_process.h
+2015-01-21 01:58:12 ....A         6338               nucleus-0.0.3\nucleus\syscalls\lv2\sys_prx.h
+2015-01-21 01:58:12 ....A         1023               nucleus-0.0.3\nucleus\syscalls\lv2\sys_rsx.h
+2015-01-21 01:58:12 ....A          907               nucleus-0.0.3\nucleus\syscalls\lv2\sys_semaphore.h
+2015-01-21 01:58:12 ....A          330               nucleus-0.0.3\nucleus\syscalls\lv2\sys_ss.h
+2015-01-21 01:58:12 ....A          354               nucleus-0.0.3\nucleus\syscalls\lv2\sys_synchronization.h
+2015-01-21 01:58:12 ....A          353               nucleus-0.0.3\nucleus\syscalls\lv2\sys_time.h
+2015-01-21 01:58:12 ....A          780               nucleus-0.0.3\nucleus\syscalls\lv2\sys_timer.h
+2015-01-21 01:58:12 ....A          842               nucleus-0.0.3\nucleus\syscalls\lv2\sys_tty.h
+2015-01-21 01:58:12 ....A         1065               nucleus-0.0.3\nucleus\cpu\thread.h
+2015-01-21 01:58:12 ....A          370               nucleus-0.0.3\nucleus\cpu\translator.h
+2015-01-21 01:58:12 ....A         8472               nucleus-0.0.3\externals\zlib\trees.h
+2015-01-21 01:58:12 ....A          785               nucleus-0.0.3\nucleus\ui\ui.h
+2015-01-21 01:58:12 ....A         1068               nucleus-0.0.3\nucleus\filesystem\virtual_filesystem.h
+2015-01-21 01:58:12 ....A          397               nucleus-0.0.3\nucleus\ui\linux\window.h
+2015-01-21 01:58:12 ....A          522               nucleus-0.0.3\nucleus\ui\windows\window.h
+2015-01-21 01:58:12 ....A          371               nucleus-0.0.3\nucleus\ui\linux\window_opengl.h
+2015-01-21 01:58:12 ....A          425               nucleus-0.0.3\nucleus\ui\windows\window_opengl.h
+2015-01-21 01:58:12 ....A        13900               nucleus-0.0.3\externals\rapidjson\writer.h
+2015-01-21 01:58:12 ....A        15508               nucleus-0.0.3\externals\zlib\zconf.h
+2015-01-21 01:58:12 ....A        87883               nucleus-0.0.3\externals\zlib\zlib.h
+2015-01-21 01:58:12 ....A         6766               nucleus-0.0.3\externals\zlib\zutil.h
+2015-01-21 01:58:12 ....A       118341               nucleus-0.0.3\externals\rapidxml\rapidxml.hpp
+2015-01-21 01:58:12 ....A         3918               nucleus-0.0.3\externals\rapidxml\rapidxml_iterators.hpp
+2015-01-21 01:58:12 ....A        15671               nucleus-0.0.3\externals\rapidxml\rapidxml_print.hpp
+2015-01-21 01:58:12 ....A         3417               nucleus-0.0.3\externals\rapidxml\rapidxml_utils.hpp
+2015-01-21 01:58:12 ....A         4968               nucleus-0.0.3\externals\zlib\adler32.c
+2015-01-21 01:58:12 ....A         2529               nucleus-0.0.3\externals\zlib\compress.c
+2015-01-21 01:58:12 ....A        13174               nucleus-0.0.3\externals\zlib\crc32.c
+2015-01-21 01:58:12 ....A        71476               nucleus-0.0.3\externals\zlib\deflate.c
+2015-01-21 01:58:12 ....A          678               nucleus-0.0.3\externals\zlib\gzclose.c
+2015-01-21 01:58:12 ....A        16415               nucleus-0.0.3\externals\zlib\gzlib.c
+2015-01-21 01:58:12 ....A        18694               nucleus-0.0.3\externals\zlib\gzread.c
+2015-01-21 01:58:12 ....A        16199               nucleus-0.0.3\externals\zlib\gzwrite.c
+2015-01-21 01:58:12 ....A        22709               nucleus-0.0.3\externals\zlib\infback.c
+2015-01-21 01:58:12 ....A        13455               nucleus-0.0.3\externals\zlib\inffast.c
+2015-01-21 01:58:12 ....A        53512               nucleus-0.0.3\externals\zlib\inflate.c
+2015-01-21 01:58:12 ....A        13028               nucleus-0.0.3\externals\zlib\inftrees.c
+2015-01-21 01:58:12 ....A       165403               nucleus-0.0.3\externals\mongoose\mongoose.c
+2015-01-21 01:58:12 ....A        44255               nucleus-0.0.3\externals\zlib\trees.c
+2015-01-21 01:58:12 ....A         2003               nucleus-0.0.3\externals\zlib\uncompr.c
+2015-01-21 01:58:12 ....A         7414               nucleus-0.0.3\externals\zlib\zutil.c
+2015-01-21 01:58:12 ....A        32890               nucleus-0.0.3\externals\aes.cpp
+2015-01-21 01:58:12 ....A         2203               nucleus-0.0.3\nucleus\cpu\cell.cpp
+2015-01-21 01:58:12 ....A         2149               nucleus-0.0.3\tests\unit\common.cpp
+2015-01-21 01:58:12 ....A          478               nucleus-0.0.3\nucleus\config.cpp
+2015-01-21 01:58:12 ....A         2473               nucleus-0.0.3\nucleus\debugger.cpp
+2015-01-21 01:58:12 ....A         2248               nucleus-0.0.3\nucleus\emulator.cpp
+2015-01-21 01:58:12 ....A         2329               nucleus-0.0.3\nucleus\filesystem\filesystem.cpp
+2015-01-21 01:58:12 ....A        51517               nucleus-0.0.3\nucleus\loader\keys.cpp
+2015-01-21 01:58:12 ....A         2284               nucleus-0.0.3\nucleus\ui\language.cpp
+2015-01-21 01:58:12 ....A         2728               nucleus-0.0.3\nucleus\syscalls\modules\libsysmodule.cpp
+2015-01-21 01:58:12 ....A          344               nucleus-0.0.3\nucleus\syscalls\modules\libsysutil_avconf_ext.cpp
+2015-01-21 01:58:12 ....A          812               nucleus-0.0.3\nucleus\loader\loader.cpp
+2015-01-21 01:58:12 ....A         3081               nucleus-0.0.3\nucleus\syscalls\lv1\lv1_gpu.cpp
+2015-01-21 01:58:12 ....A         8099               nucleus-0.0.3\nucleus\syscalls\lv2.cpp
+2015-01-21 01:58:12 ....A         3422               nucleus-0.0.3\nucleus\memory\memory.cpp
+2015-01-21 01:58:12 ....A         1503               nucleus-0.0.3\nucleus\syscalls\module.cpp
+2015-01-21 01:58:12 ....A         1423               nucleus-0.0.3\nucleus\nucleus.cpp
+2015-01-21 01:58:12 ....A         7907               nucleus-0.0.3\nucleus\gpu\opengl\opengl_fp.cpp
+2015-01-21 01:58:12 ....A         8585               nucleus-0.0.3\nucleus\gpu\opengl\opengl_renderer.cpp
+2015-01-21 01:58:12 ....A         8196               nucleus-0.0.3\nucleus\gpu\opengl\opengl_vp.cpp
+2015-01-21 01:58:12 ....A        65652               nucleus-0.0.3\nucleus\cpu\ppu\ppu_disasm.cpp
+2015-01-21 01:58:12 ....A       123812               nucleus-0.0.3\nucleus\cpu\ppu\interpreter\ppu_interpreter.cpp
+2015-01-21 01:58:12 ....A        32763               nucleus-0.0.3\nucleus\cpu\ppu\ppu_tables.cpp
+2015-01-21 01:58:12 ....A         1248               nucleus-0.0.3\nucleus\cpu\ppu\ppu_thread.cpp
+2015-01-21 01:58:12 ....A        14563               nucleus-0.0.3\nucleus\gpu\rsx.cpp
+2015-01-21 01:58:12 ....A         3548               nucleus-0.0.3\nucleus\gpu\rsx_dma.cpp
+2015-01-21 01:58:12 ....A         2917               nucleus-0.0.3\nucleus\gpu\rsx_pgraph.cpp
+2015-01-21 01:58:12 ....A         3528               nucleus-0.0.3\nucleus\memory\segment.cpp
+2015-01-21 01:58:12 ....A        17270               nucleus-0.0.3\nucleus\loader\self.cpp
+2015-01-21 01:58:12 ....A        10310               nucleus-0.0.3\externals\sha1.cpp
+2015-01-21 01:58:12 ....A         2528               nucleus-0.0.3\nucleus\syscalls\lv2\sys_cond.cpp
+2015-01-21 01:58:12 ....A          385               nucleus-0.0.3\nucleus\syscalls\lv2\sys_config.cpp
+2015-01-21 01:58:12 ....A          759               nucleus-0.0.3\nucleus\syscalls\lv2\sys_dbg.cpp
+2015-01-21 01:58:12 ....A         9385               nucleus-0.0.3\nucleus\syscalls\lv2\sys_event.cpp
+2015-01-21 01:58:12 ....A         2665               nucleus-0.0.3\nucleus\syscalls\lv2\sys_fs.cpp
+2015-01-21 01:58:12 ....A          249               nucleus-0.0.3\nucleus\syscalls\lv2\sys_gamepad.cpp
+2015-01-21 01:58:12 ....A          359               nucleus-0.0.3\nucleus\syscalls\lv2\sys_hid.cpp
+2015-01-21 01:58:12 ....A         1863               nucleus-0.0.3\nucleus\syscalls\lv2\sys_lwmutex.cpp
+2015-01-21 01:58:12 ....A         1907               nucleus-0.0.3\nucleus\syscalls\lv2\sys_memory.cpp
+2015-01-21 01:58:12 ....A          955               nucleus-0.0.3\nucleus\syscalls\lv2\sys_mmapper.cpp
+2015-01-21 01:58:12 ....A         1857               nucleus-0.0.3\nucleus\syscalls\lv2\sys_mutex.cpp
+2015-01-21 01:58:12 ....A         1829               nucleus-0.0.3\nucleus\syscalls\lv2\sys_ppu_thread.cpp
+2015-01-21 01:58:12 ....A          692               nucleus-0.0.3\nucleus\syscalls\lv2\sys_process.cpp
+2015-01-21 01:58:12 ....A         3904               nucleus-0.0.3\nucleus\syscalls\lv2\sys_prx.cpp
+2015-01-21 01:58:12 ....A         5540               nucleus-0.0.3\nucleus\syscalls\lv2\sys_rsx.cpp
+2015-01-21 01:58:12 ....A         3397               nucleus-0.0.3\nucleus\syscalls\lv2\sys_semaphore.cpp
+2015-01-21 01:58:12 ....A          265               nucleus-0.0.3\nucleus\syscalls\lv2\sys_ss.cpp
+2015-01-21 01:58:12 ....A          496               nucleus-0.0.3\nucleus\syscalls\lv2\sys_time.cpp
+2015-01-21 01:58:12 ....A          709               nucleus-0.0.3\nucleus\syscalls\lv2\sys_timer.cpp
+2015-01-21 01:58:12 ....A          482               nucleus-0.0.3\nucleus\syscalls\lv2\sys_tty.cpp
+2015-01-21 01:58:12 ....A         1796               nucleus-0.0.3\nucleus\cpu\thread.cpp
+2015-01-21 01:58:12 ....A          909               nucleus-0.0.3\nucleus\ui\ui.cpp
+2015-01-21 01:58:12 ....A         3549               nucleus-0.0.3\nucleus\filesystem\virtual_filesystem.cpp
+2015-01-21 01:58:12 ....A          289               nucleus-0.0.3\nucleus\ui\linux\window.cpp
+2015-01-21 01:58:12 ....A         2783               nucleus-0.0.3\nucleus\ui\windows\window.cpp
+2015-01-21 01:58:12 ....A          353               nucleus-0.0.3\nucleus\ui\linux\window_opengl.cpp
+2015-01-21 01:58:12 ....A         2727               nucleus-0.0.3\nucleus\ui\windows\window_opengl.cpp
+2015-01-21 01:58:12 ....A         2007               nucleus-0.0.3\nucleus\nucleus.rc
+2015-01-21 01:58:12 ....A         2426               nucleus-0.0.3\nucleus.sln
+2015-01-21 01:58:12 ....A          394               nucleus-0.0.3\resources\languages\de_DE.xml
+2015-01-21 01:58:12 ....A          391               nucleus-0.0.3\resources\languages\en_US.xml
+2015-01-21 01:58:12 ....A          395               nucleus-0.0.3\resources\languages\es_ES.xml
+2015-01-21 01:58:12 ....A       113099               nucleus-0.0.3\externals\rapidxml\manual.html
+2015-01-21 01:58:12 ....A          417               nucleus-0.0.3\tools\nucleus-clean.py
+2015-01-21 01:58:12 ....A         1391               nucleus-0.0.3\tools\nucleus-format.py
+2015-01-21 01:58:12 ....A         2253               nucleus-0.0.3\CMakeLists.txt
+2015-01-21 01:58:12 ....A         8098               nucleus-0.0.3\externals\zlib\CMakeLists.txt
+2015-01-21 01:58:12 ....A         1051               nucleus-0.0.3\externals\rapidjson\license.txt
+2015-01-21 01:58:12 ....A         2752               nucleus-0.0.3\externals\rapidxml\license.txt
+2015-01-21 01:58:12 ....A        14627               nucleus-0.0.3\nucleus\nucleus.vcxproj.filters
+2015-01-21 01:58:12 ....A          937               nucleus-0.0.3\tests\unit\unit.vcxproj.filters
+2015-01-21 01:58:12 ....A         1171               nucleus-0.0.3\externals\zlib\zlib.vcxproj.filters
+2015-01-21 01:58:12 ....A           87               nucleus-0.0.3\bin\.gitignore
+2015-01-21 01:58:12 ....A          363               nucleus-0.0.3\.gitignore
+2015-01-21 01:58:12 ....A          193               nucleus-0.0.3\.gitmodules
+2015-01-21 01:58:12 ....A        11134               nucleus-0.0.3\nucleus\nucleus.vcxproj
+2015-01-21 01:58:12 ....A         4695               nucleus-0.0.3\tests\unit\unit.vcxproj
+2015-01-21 01:58:12 ....A         6016               nucleus-0.0.3\externals\zlib\zlib.vcxproj
+2015-01-21 01:58:12 ....A          503               nucleus-0.0.3\.travis.yml
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\tools
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\tests\unit
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\tests\integration
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\tests
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\resources\languages
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\resources\icons
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\resources
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\ui\windows
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\ui\linux
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\ui
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\syscalls\modules
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\syscalls\lv2
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\syscalls\lv1
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\syscalls
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\memory
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\loader
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\gpu\opengl
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\gpu
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\filesystem
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\cpu\ppu\interpreter
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\cpu\ppu
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus\cpu
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\nucleus
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\zlib
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\rapidxml
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\rapidjson\msinttypes
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\rapidjson\internal
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\rapidjson\error
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\rapidjson
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\mongoose
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals\llvm
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\externals
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\docs
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin\dev_flash\sys\external
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin\dev_flash\sys
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin\dev_flash\data\font
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin\dev_flash\data
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin\dev_flash
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3\bin
+2016-11-27 23:20:08 D....            0            0  nucleus-0.0.3
+------------------- ----- ------------ ------------  ------------------------
+2016-11-27 23:20:08            2122422       379094  221 files, 40 folders

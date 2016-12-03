@@ -1,0 +1,10 @@
+24/5/01 - Added key to reset CPC (F5). First attempt at redirecting CAS READ.
+          Added SVGA mode and switchable CPC model (464 or 664). Started GUI.
+1/6/01  - GUI now usable. Just discovered 464 doesn't boot anymore - I've
+          broken something somewhere...
+          No luck with CAS READ yet, but I will get it working...
+26/6/01 - Started NEC FDC emulation.
+27/6/01 - I can't understand the FDC...
+8/7/01  - Tried direct drive support (redirecting CPC FDC to PC FDC), not
+          working. Added joystick support (through arrow keys) and some more
+          GUI options.

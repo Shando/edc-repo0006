@@ -1,0 +1,327 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-03-29 21:22:12 ....A        21135      1189622  vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\softfloat-macros
+2016-03-29 21:22:12 ....A         8966               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\softfloat-specialize
+2016-03-29 21:22:12 ....A         5526               vbjin-ovr-3.0\Icons\VBjin.png
+2016-03-29 21:22:12 ....A         4408               vbjin-ovr-3.0\Icons\VBjin.bmp
+2016-03-29 21:22:12 ....A       105425               vbjin-ovr-3.0\oculus\LibOVR\Src\Resources\Windows\Oculus.ico
+2016-03-29 21:22:12 ....A         4670               vbjin-ovr-3.0\Icons\VBjin.ico
+2016-03-29 21:22:12 ....A         1579               vbjin-ovr-3.0\Readme.md
+2016-03-29 21:22:12 ....A        64232               vbjin-ovr-3.0\agg2d.inl
+2016-03-29 21:22:12 ....A          111               vbjin-ovr-3.0\mednafen\src\compress\Makefile.am.inc
+2016-03-29 21:22:12 ....A            1               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_op_table.inc
+2016-03-29 21:22:12 ....A        15967               vbjin-ovr-3.0\mednafen\src\vb\vip_draw.inc
+2016-03-29 21:22:12 ....A        30363               vbjin-ovr-3.0\agg2d.h
+2016-03-29 21:22:12 ....A        22545               vbjin-ovr-3.0\aggdraw.h
+2016-03-29 21:22:12 ....A         2285               vbjin-ovr-3.0\agg\include\agg_arc.h
+2016-03-29 21:22:12 ....A        34648               vbjin-ovr-3.0\agg\include\agg_array.h
+2016-03-29 21:22:12 ....A        17163               vbjin-ovr-3.0\agg\include\agg_basics.h
+2016-03-29 21:22:12 ....A         5944               vbjin-ovr-3.0\agg\include\agg_bezier_arc.h
+2016-03-29 21:22:12 ....A         3827               vbjin-ovr-3.0\agg\include\agg_bounding_rect.h
+2016-03-29 21:22:12 ....A         9876               vbjin-ovr-3.0\agg\include\agg_clip_liang_barsky.h
+2016-03-29 21:22:12 ....A        14025               vbjin-ovr-3.0\agg\include\agg_color_gray.h
+2016-03-29 21:22:12 ....A        26485               vbjin-ovr-3.0\agg\include\agg_color_rgba.h
+2016-03-29 21:22:12 ....A         1265               vbjin-ovr-3.0\agg\include\agg_config.h
+2016-03-29 21:22:12 ....A         5328               vbjin-ovr-3.0\agg\include\agg_conv_adaptor_vcgen.h
+2016-03-29 21:22:12 ....A         6919               vbjin-ovr-3.0\agg\include\agg_conv_curve.h
+2016-03-29 21:22:12 ....A         3409               vbjin-ovr-3.0\agg\include\agg_conv_stroke.h
+2016-03-29 21:22:12 ....A         2314               vbjin-ovr-3.0\agg\include\agg_conv_transform.h
+2016-03-29 21:22:12 ....A        20197               vbjin-ovr-3.0\agg\include\agg_curves.h
+2016-03-29 21:22:12 ....A         8668               vbjin-ovr-3.0\agg\include\agg_dda_line.h
+2016-03-29 21:22:12 ....A         3063               vbjin-ovr-3.0\agg\include\agg_ellipse_bresenham.h
+2016-03-29 21:22:12 ....A         2507               vbjin-ovr-3.0\agg\include\agg_embedded_raster_fonts.h
+2016-03-29 21:22:12 ....A        15028               vbjin-ovr-3.0\agg\include\agg_font_cache_manager.h
+2016-03-29 21:22:12 ....A         3612               vbjin-ovr-3.0\agg\include\agg_gamma_functions.h
+2016-03-29 21:22:12 ....A         5239               vbjin-ovr-3.0\agg\include\agg_glyph_raster_bin.h
+2016-03-29 21:22:12 ....A        13539               vbjin-ovr-3.0\agg\include\agg_image_accessors.h
+2016-03-29 21:22:12 ....A        15041               vbjin-ovr-3.0\agg\include\agg_image_filters.h
+2016-03-29 21:22:12 ....A         7096               vbjin-ovr-3.0\agg\include\agg_line_aa_basics.h
+2016-03-29 21:22:12 ....A        15190               vbjin-ovr-3.0\agg\include\agg_math.h
+2016-03-29 21:22:12 ....A        18813               vbjin-ovr-3.0\agg\include\agg_math_stroke.h
+2016-03-29 21:22:12 ....A        50663               vbjin-ovr-3.0\agg\include\agg_path_storage.h
+2016-03-29 21:22:12 ....A         4484               vbjin-ovr-3.0\agg\include\agg_pattern_filters_rgba.h
+2016-03-29 21:22:12 ....A        31641               vbjin-ovr-3.0\agg\include\agg_pixfmt_rgb.h
+2016-03-29 21:22:12 ....A       119265               vbjin-ovr-3.0\agg\include\agg_pixfmt_rgba.h
+2016-03-29 21:22:12 ....A        49638               vbjin-ovr-3.0\agg\include\agg_pixfmt_rgb_packed.h
+2016-03-29 21:22:12 ....A        21760               vbjin-ovr-3.0\agg\include\agg_rasterizer_cells_aa.h
+2016-03-29 21:22:12 ....A        21089               vbjin-ovr-3.0\agg\include\agg_rasterizer_outline_aa.h
+2016-03-29 21:22:12 ....A        17476               vbjin-ovr-3.0\agg\include\agg_rasterizer_scanline_aa.h
+2016-03-29 21:22:12 ....A        13266               vbjin-ovr-3.0\agg\include\agg_rasterizer_sl_clip.h
+2016-03-29 21:22:12 ....A        25279               vbjin-ovr-3.0\agg\include\agg_renderer_base.h
+2016-03-29 21:22:12 ....A        36272               vbjin-ovr-3.0\agg\include\agg_renderer_markers.h
+2016-03-29 21:22:12 ....A        11905               vbjin-ovr-3.0\agg\include\agg_renderer_mclip.h
+2016-03-29 21:22:12 ....A        63994               vbjin-ovr-3.0\agg\include\agg_renderer_outline_aa.h
+2016-03-29 21:22:12 ....A        35449               vbjin-ovr-3.0\agg\include\agg_renderer_outline_image.h
+2016-03-29 21:22:12 ....A         8051               vbjin-ovr-3.0\agg\include\agg_renderer_primitives.h
+2016-03-29 21:22:12 ....A         9083               vbjin-ovr-3.0\agg\include\agg_renderer_raster_text.h
+2016-03-29 21:22:12 ....A        34526               vbjin-ovr-3.0\agg\include\agg_renderer_scanline.h
+2016-03-29 21:22:12 ....A        10164               vbjin-ovr-3.0\agg\include\agg_rendering_buffer.h
+2016-03-29 21:22:12 ....A         2482               vbjin-ovr-3.0\agg\include\agg_rounded_rect.h
+2016-03-29 21:22:12 ....A        10672               vbjin-ovr-3.0\agg\include\agg_scanline_p.h
+2016-03-29 21:22:12 ....A        17417               vbjin-ovr-3.0\agg\include\agg_scanline_u.h
+2016-03-29 21:22:12 ....A         2161               vbjin-ovr-3.0\agg\include\agg_span_allocator.h
+2016-03-29 21:22:12 ....A         2310               vbjin-ovr-3.0\agg\include\agg_span_converter.h
+2016-03-29 21:22:12 ....A        12289               vbjin-ovr-3.0\agg\include\agg_span_gradient.h
+2016-03-29 21:22:12 ....A         9442               vbjin-ovr-3.0\agg\include\agg_span_image_filter.h
+2016-03-29 21:22:12 ....A        29339               vbjin-ovr-3.0\agg\include\agg_span_image_filter_gray.h
+2016-03-29 21:22:12 ....A        36098               vbjin-ovr-3.0\agg\include\agg_span_image_filter_rgb.h
+2016-03-29 21:22:12 ....A        37809               vbjin-ovr-3.0\agg\include\agg_span_image_filter_rgba.h
+2016-03-29 21:22:12 ....A         7962               vbjin-ovr-3.0\agg\include\agg_span_interpolator_linear.h
+2016-03-29 21:22:12 ....A        19071               vbjin-ovr-3.0\agg\include\agg_trans_affine.h
+2016-03-29 21:22:12 ....A         9962               vbjin-ovr-3.0\agg\include\agg_trans_viewport.h
+2016-03-29 21:22:12 ....A         3940               vbjin-ovr-3.0\agg\include\agg_vcgen_stroke.h
+2016-03-29 21:22:12 ....A         5402               vbjin-ovr-3.0\agg\include\agg_vertex_sequence.h
+2016-03-29 21:22:12 ....A          338               vbjin-ovr-3.0\aviout.h
+2016-03-29 21:22:12 ....A         4675               vbjin-ovr-3.0\mednafen\include\blargg_common.h
+2016-03-29 21:22:12 ....A          833               vbjin-ovr-3.0\mednafen\include\blargg_config.h
+2016-03-29 21:22:12 ....A         5810               vbjin-ovr-3.0\mednafen\include\blargg_endian.h
+2016-03-29 21:22:12 ....A         2428               vbjin-ovr-3.0\mednafen\include\blargg_source.h
+2016-03-29 21:22:12 ....A        11868               vbjin-ovr-3.0\mednafen\include\blip\old\Blip_Buffer.h
+2016-03-29 21:22:12 ....A        16103               vbjin-ovr-3.0\mednafen\include\blip\Blip_Buffer.h
+2016-03-29 21:22:12 ....A         1393               vbjin-ovr-3.0\mednafen\src\compress\blz.h
+2016-03-29 21:22:12 ....A         8417               vbjin-ovr-3.0\CWindow.h
+2016-03-29 21:22:12 ....A          148               vbjin-ovr-3.0\d3d.h
+2016-03-29 21:22:12 ....A          693               vbjin-ovr-3.0\dd.h
+2016-03-29 21:22:12 ....A       239490               vbjin-ovr-3.0\directx\ddraw.h
+2016-03-29 21:22:12 ....A          880               vbjin-ovr-3.0\mednafen\src\vb\debug.h
+2016-03-29 21:22:12 ....A       223194               vbjin-ovr-3.0\directx\dinput.h
+2016-03-29 21:22:12 ....A       107749               vbjin-ovr-3.0\directx\dsound.h
+2016-03-29 21:22:12 ....A         2820               vbjin-ovr-3.0\directx\dxerr8.h
+2016-03-29 21:22:12 ....A         1063               vbjin-ovr-3.0\dxsound.h
+2016-03-29 21:22:12 ....A         3597               vbjin-ovr-3.0\mednafen\src\endian.h
+2016-03-29 21:22:12 ....A          818               vbjin-ovr-3.0\mednafen\src\error.h
+2016-03-29 21:22:12 ....A         3363               vbjin-ovr-3.0\mednafen\src\file.h
+2016-03-29 21:22:12 ....A         5218               vbjin-ovr-3.0\mednafen\include\Fir_Resampler.h
+2016-03-29 21:22:12 ....A          681               vbjin-ovr-3.0\mednafen\src\general.h
+2016-03-29 21:22:12 ....A        10406               vbjin-ovr-3.0\mednafen\src\git.h
+2016-03-29 21:22:12 ....A         2473               vbjin-ovr-3.0\GPU_osd.h
+2016-03-29 21:22:12 ....A         8554               vbjin-ovr-3.0\hotkey.h
+2016-03-29 21:22:12 ....A          593               vbjin-ovr-3.0\mednafen\src\vb\input.h
+2016-03-29 21:22:12 ....A          333               vbjin-ovr-3.0\inttypes.h
+2016-03-29 21:22:12 ....A         2535               vbjin-ovr-3.0\mednafen\src\compress\ioapi.h
+2016-03-29 21:22:12 ....A         5777               vbjin-ovr-3.0\lua\lauxlib.h
+2016-03-29 21:22:12 ....A         2349               vbjin-ovr-3.0\lua\llimits.h
+2016-03-29 21:22:12 ....A         1494               vbjin-ovr-3.0\lua\lmem.h
+2016-03-29 21:22:12 ....A         8502               vbjin-ovr-3.0\lua\lobject.h
+2016-03-29 21:22:12 ....A         5011               vbjin-ovr-3.0\lua\lstate.h
+2016-03-29 21:22:12 ....A         1018               vbjin-ovr-3.0\lua\ltm.h
+2016-03-29 21:22:12 ....A         2699               vbjin-ovr-3.0\lua-engine.h
+2016-03-29 21:22:12 ....A        11686               vbjin-ovr-3.0\lua\lua.h
+2016-03-29 21:22:12 ....A        22350               vbjin-ovr-3.0\lua\luaconf.h
+2016-03-29 21:22:12 ....A         1026               vbjin-ovr-3.0\lua\lualib.h
+2016-03-29 21:22:12 ....A         1556               vbjin-ovr-3.0\lua\lzio.h
+2016-03-29 21:22:12 ....A        13842               vbjin-ovr-3.0\mednafen\src\compress\lzoconf.h
+2016-03-29 21:22:12 ....A        54285               vbjin-ovr-3.0\mednafen\src\compress\lzodefs.h
+2016-03-29 21:22:12 ....A         1872               vbjin-ovr-3.0\main.h
+2016-03-29 21:22:12 ....A         1444               vbjin-ovr-3.0\mednafen\src\math_ops.h
+2016-03-29 21:22:12 ....A          741               vbjin-ovr-3.0\mednafen\src\md5.h
+2016-03-29 21:22:12 ....A         3110               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\mednafen-gcc.h
+2016-03-29 21:22:12 ....A         1212               vbjin-ovr-3.0\mednafen\src\mednafen.h
+2016-03-29 21:22:12 ....A         1533               vbjin-ovr-3.0\mednafen\src\memory.h
+2016-03-29 21:22:12 ....A          579               vbjin-ovr-3.0\mednafen\src\mempatcher.h
+2016-03-29 21:22:12 ....A         1362               vbjin-ovr-3.0\memView.h
+2016-03-29 21:22:12 ....A         2247               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\milieu.h
+2016-03-29 21:22:12 ....A         3309               vbjin-ovr-3.0\mednafen\src\compress\minilzo.h
+2016-03-29 21:22:12 ....A         4768               vbjin-ovr-3.0\movie.h
+2016-03-29 21:22:12 ....A        91157               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_CAPI.h
+2016-03-29 21:22:12 ....A         3223               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_CAPI_Audio.h
+2016-03-29 21:22:12 ....A         8478               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_CAPI_D3D.h
+2016-03-29 21:22:12 ....A         6278               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_CAPI_GL.h
+2016-03-29 21:22:12 ....A         2433               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_CAPI_Keys.h
+2016-03-29 21:22:12 ....A         8786               vbjin-ovr-3.0\oculus\LibOVR\Include\Extras\OVR_CAPI_Util.h
+2016-03-29 21:22:12 ....A        11557               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_ErrorCode.h
+2016-03-29 21:22:12 ....A       129094               vbjin-ovr-3.0\oculus\LibOVR\Include\Extras\OVR_Math.h
+2016-03-29 21:22:12 ....A         2581               vbjin-ovr-3.0\oculus\LibOVR\Include\Extras\OVR_StereoProjection.h
+2016-03-29 21:22:12 ....A         2188               vbjin-ovr-3.0\oculus\LibOVR\Include\OVR_Version.h
+2016-03-29 21:22:12 ....A           95               vbjin-ovr-3.0\ParseCmdLine.h
+2016-03-29 21:22:12 ....A          820               vbjin-ovr-3.0\pcejin.h
+2016-03-29 21:22:12 ....A          168               vbjin-ovr-3.0\mednafen\src\video\png.h
+2016-03-29 21:22:12 ....A           42               vbjin-ovr-3.0\prefix.h
+2016-03-29 21:22:12 ....A          273               vbjin-ovr-3.0\mednafen\src\compress\quicklz.h
+2016-03-29 21:22:12 ....A         1849               vbjin-ovr-3.0\ramsearch.h
+2016-03-29 21:22:12 ....A         1256               vbjin-ovr-3.0\ramwatch.h
+2016-03-29 21:22:12 ....A          896               vbjin-ovr-3.0\utils\readwrite.h
+2016-03-29 21:22:12 ....A          329               vbjin-ovr-3.0\recentroms.h
+2016-03-29 21:22:12 ....A        24218               vbjin-ovr-3.0\oculus\RenderTiny_D3D11_Device.h
+2016-03-29 21:22:12 ....A           47               vbjin-ovr-3.0\replay.h
+2016-03-29 21:22:12 ....A        11546               vbjin-ovr-3.0\resource.h
+2016-03-29 21:22:12 ....A         1755               vbjin-ovr-3.0\mednafen\src\settings-common.h
+2016-03-29 21:22:12 ....A          384               vbjin-ovr-3.0\mednafen\src\settings-driver.h
+2016-03-29 21:22:12 ....A          608               vbjin-ovr-3.0\mednafen\src\settings.h
+2016-03-29 21:22:12 ....A         6091               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\softfloat.h
+2016-03-29 21:22:12 ....A          397               vbjin-ovr-3.0\mednafen\src\sound.h
+2016-03-29 21:22:12 ....A          340               vbjin-ovr-3.0\mednafen\src\state-common.h
+2016-03-29 21:22:12 ....A          647               vbjin-ovr-3.0\mednafen\src\state-driver.h
+2016-03-29 21:22:12 ....A         4827               vbjin-ovr-3.0\mednafen\src\state.h
+2016-03-29 21:22:12 ....A         1709               vbjin-ovr-3.0\mednafen\include\blip\Stereo_Buffer.h
+2016-03-29 21:22:12 ....A           25               vbjin-ovr-3.0\utils\svnrev.h
+2016-03-29 21:22:12 ....A           53               vbjin-ovr-3.0\utils\svnrev_template.h
+2016-03-29 21:22:12 ....A          397               vbjin-ovr-3.0\mednafen\src\vb\timer.h
+2016-03-29 21:22:12 ....A         7342               vbjin-ovr-3.0\mednafen\include\trio\trio.h
+2016-03-29 21:22:12 ....A         7642               vbjin-ovr-3.0\mednafen\include\trio\triodef.h
+2016-03-29 21:22:12 ....A         3717               vbjin-ovr-3.0\mednafen\include\trio\trionan.h
+2016-03-29 21:22:12 ....A        14091               vbjin-ovr-3.0\mednafen\include\trio\triop.h
+2016-03-29 21:22:12 ....A        16001               vbjin-ovr-3.0\mednafen\include\trio\triostr.h
+2016-03-29 21:22:12 ....A         1546               vbjin-ovr-3.0\types.h
+2016-03-29 21:22:12 ....A          734               vbjin-ovr-3.0\unixstuff.h
+2016-03-29 21:22:12 ....A        12968               vbjin-ovr-3.0\mednafen\src\compress\unzip.h
+2016-03-29 21:22:12 ....A        11688               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_cpu.h
+2016-03-29 21:22:12 ....A          361               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_cpuD.h
+2016-03-29 21:22:12 ....A         2361               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_do_am.h
+2016-03-29 21:22:12 ....A         7639               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_opt.h
+2016-03-29 21:22:12 ....A         1412               vbjin-ovr-3.0\mednafen\src\vb\vb.h
+2016-03-29 21:22:12 ....A          143               vbjin-ovr-3.0\mednafen\src\video\video-common.h
+2016-03-29 21:22:12 ....A         3767               vbjin-ovr-3.0\mednafen\src\video.h
+2016-03-29 21:22:12 ....A          983               vbjin-ovr-3.0\mednafen\src\vb\vip.h
+2016-03-29 21:22:12 ....A         1255               vbjin-ovr-3.0\mednafen\src\vb\vsu.h
+2016-03-29 21:22:12 ....A          168               vbjin-ovr-3.0\waveout.h
+2016-03-29 21:22:12 ....A        40754               vbjin-ovr-3.0\oculus\Win32_DirectXAppUtil.h
+2016-03-29 21:22:12 ....A         3040               vbjin-ovr-3.0\utils\xstring.h
+2016-03-29 21:22:12 ....A         9604               vbjin-ovr-3.0\zlib\zconf.h
+2016-03-29 21:22:12 ....A        66188               vbjin-ovr-3.0\zlib\zlib.h
+2016-03-29 21:22:12 ....A         6911               vbjin-ovr-3.0\zlib\zutil.h
+2016-03-29 21:22:12 ....A        22861               vbjin-ovr-3.0\mednafen\src\compress\blz.c
+2016-03-29 21:22:12 ....A         3694               vbjin-ovr-3.0\mednafen\src\compress\ioapi.c
+2016-03-29 21:22:12 ....A       112308               vbjin-ovr-3.0\mednafen\src\compress\minilzo.c
+2016-03-29 21:22:12 ....A        72912               vbjin-ovr-3.0\oculus\LibOVR\Src\OVR_CAPIShim.c
+2016-03-29 21:22:12 ....A        81887               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\softfloat.c
+2016-03-29 21:22:12 ....A        32831               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new\timesoftfloat.c
+2016-03-29 21:22:12 ....A       169835               vbjin-ovr-3.0\mednafen\src\trio\trio.c
+2016-03-29 21:22:12 ....A        29269               vbjin-ovr-3.0\mednafen\src\trio\trionan.c
+2016-03-29 21:22:12 ....A        44177               vbjin-ovr-3.0\mednafen\src\trio\triostr.c
+2016-03-29 21:22:12 ....A        48064               vbjin-ovr-3.0\mednafen\src\compress\unzip.c
+2016-03-29 21:22:12 ....A        27106               vbjin-ovr-3.0\aggdraw.cpp
+2016-03-29 21:22:12 ....A        12811               vbjin-ovr-3.0\aviout.cpp
+2016-03-29 21:22:12 ....A        11777               vbjin-ovr-3.0\mednafen\src\sound\Blip_Buffer.cpp
+2016-03-29 21:22:12 ....A        21522               vbjin-ovr-3.0\CWindow.cpp
+2016-03-29 21:22:12 ....A        11903               vbjin-ovr-3.0\d3d.cpp
+2016-03-29 21:22:12 ....A         8327               vbjin-ovr-3.0\dd.cpp
+2016-03-29 21:22:12 ....A         9444               vbjin-ovr-3.0\mednafen\src\vb\debug.cpp
+2016-03-29 21:22:12 ....A         8696               vbjin-ovr-3.0\dxsound.cpp
+2016-03-29 21:22:12 ....A         4341               vbjin-ovr-3.0\mednafen\src\endian.cpp
+2016-03-29 21:22:12 ....A         2184               vbjin-ovr-3.0\mednafen\src\error.cpp
+2016-03-29 21:22:12 ....A        14674               vbjin-ovr-3.0\mednafen\src\file.cpp
+2016-03-29 21:22:12 ....A         4710               vbjin-ovr-3.0\mednafen\src\sound\Fir_Resampler.cpp
+2016-03-29 21:22:12 ....A        11003               vbjin-ovr-3.0\mednafen\src\general.cpp
+2016-03-29 21:22:12 ....A         9714               vbjin-ovr-3.0\GPU_osd.cpp
+2016-03-29 21:22:12 ....A       117264               vbjin-ovr-3.0\hotkey.cpp
+2016-03-29 21:22:12 ....A         4422               vbjin-ovr-3.0\mednafen\src\vb\input.cpp
+2016-03-29 21:22:12 ....A       154556               vbjin-ovr-3.0\lua-engine.cpp
+2016-03-29 21:22:12 ....A        22784               vbjin-ovr-3.0\luaconsole.cpp
+2016-03-29 21:22:12 ....A        45963               vbjin-ovr-3.0\main.cpp
+2016-03-29 21:22:12 ....A         1069               vbjin-ovr-3.0\mednafen\src\math_ops.cpp
+2016-03-29 21:22:12 ....A         6902               vbjin-ovr-3.0\mednafen\src\md5.cpp
+2016-03-29 21:22:12 ....A         3726               vbjin-ovr-3.0\mednafen\src\mednafen.cpp
+2016-03-29 21:22:12 ....A         1861               vbjin-ovr-3.0\mednafen\src\memory.cpp
+2016-03-29 21:22:12 ....A        23815               vbjin-ovr-3.0\mednafen\src\mempatcher.cpp
+2016-03-29 21:22:12 ....A        23456               vbjin-ovr-3.0\memView.cpp
+2016-03-29 21:22:12 ....A        31418               vbjin-ovr-3.0\movie.cpp
+2016-03-29 21:22:12 ....A         8690               vbjin-ovr-3.0\oculus\LibOVR\Src\OVR_CAPI_Util.cpp
+2016-03-29 21:22:12 ....A         8721               vbjin-ovr-3.0\oculus\LibOVR\Src\OVR_StereoProjection.cpp
+2016-03-29 21:22:12 ....A         5668               vbjin-ovr-3.0\ParseCmdLine.cpp
+2016-03-29 21:22:12 ....A         3329               vbjin-ovr-3.0\mednafen\src\video\png.cpp
+2016-03-29 21:22:12 ....A        18372               vbjin-ovr-3.0\mednafen\src\compress\quicklz.cpp
+2016-03-29 21:22:12 ....A        67119               vbjin-ovr-3.0\ramsearch.cpp
+2016-03-29 21:22:12 ....A        32543               vbjin-ovr-3.0\ramwatch.cpp
+2016-03-29 21:22:12 ....A         3296               vbjin-ovr-3.0\utils\readwrite.cpp
+2016-03-29 21:22:12 ....A         7308               vbjin-ovr-3.0\recentroms.cpp
+2016-03-29 21:22:12 ....A        45549               vbjin-ovr-3.0\oculus\RenderTiny_D3D11_Device.cpp
+2016-03-29 21:22:12 ....A         7163               vbjin-ovr-3.0\replay.cpp
+2016-03-29 21:22:12 ....A        17932               vbjin-ovr-3.0\mednafen\src\settings.cpp
+2016-03-29 21:22:12 ....A          547               vbjin-ovr-3.0\mednafen\src\sound\sound.cpp
+2016-03-29 21:22:12 ....A        28967               vbjin-ovr-3.0\mednafen\src\state.cpp
+2016-03-29 21:22:12 ....A         4217               vbjin-ovr-3.0\mednafen\src\sound\Stereo_Buffer.cpp
+2016-03-29 21:22:12 ....A         2316               vbjin-ovr-3.0\throttle.cpp
+2016-03-29 21:22:12 ....A         4243               vbjin-ovr-3.0\mednafen\src\vb\timer.cpp
+2016-03-29 21:22:12 ....A        68360               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_cpu.cpp
+2016-03-29 21:22:12 ....A        15401               vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_cpuD.cpp
+2016-03-29 21:22:12 ....A        21109               vbjin-ovr-3.0\mednafen\src\vb\vb.cpp
+2016-03-29 21:22:12 ....A         4651               vbjin-ovr-3.0\mednafen\src\video\video.cpp
+2016-03-29 21:22:12 ....A        31679               vbjin-ovr-3.0\mednafen\src\vb\vip.cpp
+2016-03-29 21:22:12 ....A        10607               vbjin-ovr-3.0\mednafen\src\vb\vsu.cpp
+2016-03-29 21:22:12 ....A         2565               vbjin-ovr-3.0\waveout.cpp
+2016-03-29 21:22:12 ....A        18842               vbjin-ovr-3.0\utils\xstring.cpp
+2016-03-29 21:22:12 ....A         4772               vbjin-ovr-3.0\oculus\LibOVR\Src\Resources\Windows\LibOVR.rc
+2016-03-29 21:22:12 ....A        26315               vbjin-ovr-3.0\pcejin.rc
+2016-03-29 21:22:12 ....A         1117               vbjin-ovr-3.0\vc10_vbjin.sln
+2016-03-29 21:22:12 ....A           75               vbjin-ovr-3.0\utils\SubWCRev.bat
+2016-03-29 21:22:12 ....A         1131               vbjin-ovr-3.0\docs\Changelog.txt
+2016-03-29 21:22:12 ....A       878718               vbjin-ovr-3.0\agg\agg-2.5.lib
+2016-03-29 21:22:12 ....A         4540               vbjin-ovr-3.0\directx\ddraw.lib
+2016-03-29 21:22:12 ....A       173542               vbjin-ovr-3.0\directx\dinput8.lib
+2016-03-29 21:22:12 ....A         4042               vbjin-ovr-3.0\directx\dsound.lib
+2016-03-29 21:22:12 ....A      1210572               vbjin-ovr-3.0\directx\DxErr8.lib
+2016-03-29 21:22:12 ....A       565850               vbjin-ovr-3.0\directx\dxguid.lib
+2016-03-29 21:22:12 ....A       490982               vbjin-ovr-3.0\lua\lua-5.1.4-x86.lib
+2016-03-29 21:22:12 ....A        25030               vbjin-ovr-3.0\lua\lua51.lib
+2016-03-29 21:22:12 ....A       107198               vbjin-ovr-3.0\zlib\zlib-2005-x32.lib
+2016-03-29 21:22:12 ....A       156974               vbjin-ovr-3.0\zlib\zlib-2005-x64.lib
+2016-03-29 21:22:12 ....A       117486               vbjin-ovr-3.0\zlib\zlib-2008-x32.lib
+2016-03-29 21:22:12 ....A       157128               vbjin-ovr-3.0\zlib\zlib-2008-x64.lib
+2016-03-29 21:22:12 ....A          241               vbjin-ovr-3.0\mednafen\src\trio\Makefile.am
+2016-03-29 21:22:12 ....A          336               vbjin-ovr-3.0\mednafen\src\vb\Makefile.am
+2016-03-29 21:22:12 ....A          341               vbjin-ovr-3.0\mednafen\src\sound\Makefile.am
+2016-03-29 21:22:12 ....A         1401               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2010\LibOVR.vcxproj.filters
+2016-03-29 21:22:12 ....A         1401               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2012\LibOVR.vcxproj.filters
+2016-03-29 21:22:12 ....A         1511               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2013\LibOVR.vcxproj.filters
+2016-03-29 21:22:12 ....A         1511               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2015\LibOVR.vcxproj.filters
+2016-03-29 21:22:12 ....A        17214               vbjin-ovr-3.0\mednafen\include\config.h.in
+2016-03-29 21:22:12 ....A        17268               vbjin-ovr-3.0\mednafen\src\trio\Makefile.in
+2016-03-29 21:22:12 ....A        17654               vbjin-ovr-3.0\mednafen\src\vb\Makefile.in
+2016-03-29 21:22:12 ....A        17745               vbjin-ovr-3.0\mednafen\src\sound\Makefile.in
+2016-03-29 21:22:12 ....A         8422               vbjin-ovr-3.0\luaScripts\MusicSelect.lua
+2016-03-29 21:22:12 ....A         1195               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\ForceRebuild.props
+2016-03-29 21:22:12 ....A         1072               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\LibOVR.props
+2016-03-29 21:22:12 ....A          513               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\OVRRootPath.props
+2016-03-29 21:22:12 ....A        11780               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2012\LibOVR.vcxproj
+2016-03-29 21:22:12 ....A        11859               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2010\LibOVR.vcxproj
+2016-03-29 21:22:12 ....A        23323               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2015\LibOVR.vcxproj
+2016-03-29 21:22:12 ....A        23385               vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2013\LibOVR.vcxproj
+2016-03-29 21:22:12 ....A        19017               vbjin-ovr-3.0\vc10_vbjin.vcxproj
+2016-03-29 21:22:12 ....A       219928       482768  vbjin-ovr-3.0\utils\SubWCRev.exe
+2016-03-29 21:22:12 ....A        62744               vbjin-ovr-3.0\utils\intl3_tsvn.dll
+2016-03-29 21:22:12 ....A       186136               vbjin-ovr-3.0\utils\libaprutil_tsvn.dll
+2016-03-29 21:22:12 ....A       128280               vbjin-ovr-3.0\utils\libapr_tsvn.dll
+2016-03-29 21:22:12 ....A       331776               vbjin-ovr-3.0\lua\lua51.dll
+2016-03-29 21:22:12 ....A            0            0  vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\v810_oploop.inc
+2016-03-29 21:22:12 ....A            0            0  vbjin-ovr-3.0\oculus\LibOVR\Src\Resources\Windows\resource.h
+2016-03-29 21:22:12 ....A            0            0  vbjin-ovr-3.0\targetver.h
+2016-11-23 20:23:43 D....            0            0  vbjin-ovr-3.0\zlib
+2016-11-23 20:23:43 D....            0            0  vbjin-ovr-3.0\utils
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Src\Resources\Windows
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Src\Resources
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Src
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2015
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2013
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2012
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows\VS2010
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects\Windows
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Projects
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Include\Extras
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR\Include
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus\LibOVR
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\oculus
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\video
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\vb
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\trio
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\sound
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\hw_cpu\v810\fpu-new
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\hw_cpu\v810
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\hw_cpu
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src\compress
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\src
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\include\trio
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\include\blip\old
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\include\blip
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen\include
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\mednafen
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\luaScripts
+2016-11-23 20:23:42 D....            0            0  vbjin-ovr-3.0\lua
+2016-11-23 20:23:41 D....            0            0  vbjin-ovr-3.0\Icons
+2016-11-23 20:23:41 D....            0            0  vbjin-ovr-3.0\docs
+2016-11-23 20:23:41 D....            0            0  vbjin-ovr-3.0\directx
+2016-11-23 20:23:41 D....            0            0  vbjin-ovr-3.0\agg\include
+2016-11-23 20:23:41 D....            0            0  vbjin-ovr-3.0\agg
+2016-11-23 20:23:43 D....            0            0  vbjin-ovr-3.0
+------------------- ----- ------------ ------------  ------------------------
+2016-11-23 20:23:43            9365882      1672390  286 files, 37 folders

@@ -1,0 +1,16 @@
+2/4/01  - Started work on the emulator, using MZ80. Doesn't work.
+6/4/01  - Stopped writing to Gate Array.
+10/5/01 - Got it to work!
+          The problem was that MZ80 seems to read the memory directly, rather
+          than calling my functions. I'll have to rewrite the banking code.
+          Rewrote banking code.
+11/5/01 - Got screen to work!
+          Realtime screen draw. Interrupts implemented. Random keypresses come
+          from the keyboard!
+          PSG emulation implemented (for keyboard read). Keyboard emulated!
+13/5/01 - Added non-alphanumeric keys. Used newer version of MZ80 (faster).
+          Added and fixed scrolling.
+14/5/01 - Added some missing keys, like the comma. Added primitive loading
+          from AMSDOS files (you have to hit F11, then restore, then run).
+15/5/01 - Added modes 0+2. Speeded up video code.
+16/5/01 - Made the primitive loading a bit more user-friendly. 

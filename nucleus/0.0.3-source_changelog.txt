@@ -1,0 +1,5 @@
+RSX textures, reports, semaphores, callbacks and memory mapping.
+Implemented GLSL recompiler for fragment/vertex shaders.
+Some PPU interpreter / LV2 HLE issues fixed.
+Improved Nucleus UI and added multilingual support.
+Major code refactoring.
