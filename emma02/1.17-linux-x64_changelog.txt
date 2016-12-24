@@ -1,0 +1,79 @@
+General 
+· Added support for Linux Ubuntu, including Ubuntu installation package. 
+· Multiple GUI changes due to Ubuntu implementation 
+· Multiple code changes due to Ubuntu implementation 
+· Version check is now started with a small delay to speed up Emma 02 start-up 
+· Re-written code for Elf switches and push buttons to allow for the same look and feel on both windows and Linux 
+· Upgraded to wxWidgets 2.9.2 
+· Fixed a bug when audio-in is not available. A message will be displayed on the message tab and ‘real cassette’ loading will be disabled if no audio-in device is available. 
+· Fixed a bug which caused a crash when pressing the ‘VideoSetup’ button 
+· Corrected CDP1804/1805 instruction execution 
+· Moved CDP1805 options to the main menu; available for all emulated computers, default is set to CDP1805. 
+
+Debugger - Messages 
+· Moved Messages tab so ’sub’ tab in Debugger 
+
+Debugger - Debug 1802 
+· Added ‘Clear’ button to empty trace window 
+· Aligned trace output with disassembler output format 
+· Added details on actual register and memory values in trace output 
+· Added instruction trace function (replacing INP/OUT trace functions) 
+· Changed X and P to show 4 bit only 
+· Added functionality to allow specification of ‘X’ for I/O, 8, 16 bit and register values for instruction trace and breakpoints. For example LDI x specified as an Instr. Trap will break on all LDI commands. 
+· PC delete key can now be used to delete any of the break points 
+· Checkboxes added for all break point fields 
+· Added Speed slider to slow down emulated computer (and trace) 
+· Added 1805 support 
+· Changed registers, I/O ports and flags to show at regular intervals instead of real time. Updates are only done when the debug tab is shown. This takes far less processor load. When ‘slower’ speed (speed slider) is used values are still updated in real time. 
+· Changed button name ‘Trace mode’ to ‘Debug mode’ 
+· Changed GUI layout 
+
+Debugger - Chip-8 
+· Added chip8 debugger (also supporting studio II ‘chip 8’ variant) 
+
+Debugger - Memory 
+· Fixed a bug in Debugger memory tab on Windows 2000 
+· Changed memory fields to show at regular intervals and only when memory tab is shown to save PC load. 
+· Changed slot spin controls to text fields as the spin controls caused issues in Ubuntu 
+
+Debugger - Assembler 
+· Added chip8 assembler and disassembler (also supporting studio II ‘chip 8’ variant) 
+· Support for decimal values added, when preceded by a ‘D’. So LDI D100 = LDI 64 
+· Improved assembler input check of I/O, 8, 16 bit and register values as well as improved error messages 
+· Added 1805 support in assembler and disassembler 
+
+Video Terminal 
+· Corrected log file handling 
+· Added numbering of log output files 
+
+Comx 
+· Fixed bug in 80 Column emulation (bug introduced in V1.15) 
+· Added possibility to ‘switch off’ status leds for expansion cards. Disable/enable is possible by clicking on the leds. Disabling leds will give possibility to speed up printouts especially when using higher CPU speed. 
+
+Cosmac Elf 2000 
+· Changed to enable/clear buttons for both ´Non-volitile RAM´ and ´DS NVR/RTC´ 
+
+Cosmac VIP 
+· Changed default setting to Space Invaders game and Chip 8 
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf 
+· Corrected handling of terminal baud rate buttons 
+
+Membership Card 
+· Corrected use of terminal 
+· Changed to enable/clear buttons for both ´Non-volitile RAM´ 
+
+Chip 8 
+· Latest chip8.com 
+· Included fixes for Chip-8 software (provided by David Winter): 
+· Rocket Launch 
+· Blinky 
+· Astro Dodge 
+· Blitz 
+· Space Invaders 
+· Tic-Tac-Toe 
+· Syzugy 
+· Hidden 
+· Connect 4 
+· Breakfree 
+· Keypad Test

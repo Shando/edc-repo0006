@@ -1,0 +1,26 @@
+General
+· Corrected major bug in printing to file, any large printout crashed the emulator
+· Added Font button on print window and improved print window toolbar layout
+· Added R0 value for DMA tracing
+
+Cosmac VIP
+· Added printer support for printer HW as described in Viper Volume 1, issue 6
+· Changed default setting to include use of VP590, max memory via 7 VP570s and simple sound board (VP595)
+· Changed default SW to chip8x and Chip8x game Blockout
+· Added VIP high resolution mode supported by Chip 10 as described in Viper Volume 1, issue 7
+· Added Chip 10 interpreter and Chip 10 version of Kaleidoscope
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+· Reset cassette EF to 0 at start-up to allow EF use for 'printer ready'
+· Moved GUI around a bit to make some space
+· Added Printer support for window and/or file
+· Set printer output to 3 and printer 'on' in all RCA and Super BASIC configurations
+
+Chip 8
+· Moved all chip-8 software in the same directory structure and used the same file names as is used in the Chip8 Program Pack available from http://www.chip8.com
+
+Telmac TMC-600
+· Fixed saving of printfile name in config
+
+Pecom
+· Fixed saving of printfile name in config

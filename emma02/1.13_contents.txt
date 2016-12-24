@@ -1,0 +1,1362 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-09-29 22:50:06 ....A       187706      1221078  Helpfiles\Emma 02.chm
+2010-08-12 23:03:52 ....A          150               images\comxledoff.png
+2010-08-12 23:04:36 ....A          167               images\comxledon.png
+2010-08-15 15:39:14 ....A         7137               images\cosmicos.png
+2010-08-11 23:17:46 ....A          480               images\eject.png
+2010-08-15 09:24:22 ....A         6915               images\elf.png
+2010-08-14 21:06:54 ....A       133450               images\elf2.png
+2010-08-14 18:35:26 ....A       477233               images\Elf2K.png
+2010-08-13 23:24:20 ....A          694               images\Elf2Kgreenledoff.png
+2010-08-13 23:24:08 ....A          623               images\Elf2Kgreenledon.png
+2010-08-15 15:49:54 ....A         1643               images\Elf2Koff.png
+2010-08-15 15:50:02 ....A         1650               images\Elf2Kon.png
+2010-08-13 23:22:18 ....A          833               images\Elf2Korangeledoff.png
+2010-08-13 23:22:08 ....A          772               images\Elf2Korangeledon.png
+2010-08-13 23:21:58 ....A         1276               images\Elf2Kredledoff.png
+2010-08-13 23:21:42 ....A         1269               images\Elf2Kredledon.png
+2010-08-14 21:08:54 ....A        27700               images\elf2kswitches.png
+2010-08-08 21:06:42 ....A        16824               images\emma 02.png
+2010-08-09 23:13:22 ....A          613               images\filesave.png
+2010-08-15 09:37:08 ....A          937               images\hexpad.png
+2010-08-14 22:41:16 ....A          136               images\inButtonDown.png
+2010-08-14 22:41:34 ....A          135               images\inButtonUp.png
+2010-08-14 21:12:32 ....A          952               images\led.png
+2010-08-12 23:11:46 ....A          191               images\ledoff.png
+2010-08-12 23:12:14 ....A          203               images\ledon.png
+2010-08-14 22:32:02 ....A          148               images\loadButtonDown.png
+2010-08-14 22:32:08 ....A          148               images\loadButtonUp.png
+2010-08-14 22:39:40 ....A          229               images\mpButtonDown.png
+2010-08-14 22:39:58 ....A          257               images\mpButtonUp.png
+2010-09-12 09:16:38 ....A          438               images\page_setup.png
+2010-08-11 23:26:18 ....A          347               images\pause_off.png
+2010-08-12 17:40:20 ....A          344               images\pause_on.png
+2010-08-11 23:19:52 ....A          468               images\play_black.png
+2010-08-11 23:20:42 ....A          463               images\play_green.png
+2010-09-12 09:11:14 ....A          678               images\preview.png
+2010-08-09 23:05:10 ....A          695               images\print.png
+2010-09-07 22:25:50 ....A          808               images\print_off.png
+2010-09-07 23:18:10 ....A          864               images\print_on.png
+2010-08-15 09:45:52 ....A          261               images\pushdown.png
+2010-08-15 09:45:46 ....A          254               images\pushup.png
+2010-08-11 21:03:44 ....A          758               images\real_cas_off.png
+2010-08-11 21:04:02 ....A          765               images\real_cas_on.png
+2010-08-10 22:23:36 ....A          877               images\rec_off.png
+2010-08-10 22:23:46 ....A          891               images\rec_on.png
+2010-08-14 22:28:28 ....A          232               images\resetButtonDown.png
+2010-08-14 22:28:48 ....A          271               images\resetButtonUp.png
+2010-08-14 22:40:22 ....A          290               images\runButtonDown.png
+2010-08-14 22:40:34 ....A          301               images\runButtonUp.png
+2010-08-09 23:10:08 ....A          666               images\screen.png
+2010-08-12 17:42:08 ....A          531               images\step.png
+2010-08-11 23:23:32 ....A          282               images\stop.png
+2010-08-14 22:55:26 ....A         5395               images\superelf.png
+2010-08-14 18:27:48 ....A          359               images\swdown.png
+2010-08-11 23:15:12 ....A          736               images\switch.png
+2010-08-12 23:13:12 ....A          356               images\swleft.png
+2010-08-12 23:13:52 ....A          359               images\swright.png
+2010-08-14 16:09:56 ....A          338               images\swup.png
+2010-08-14 21:15:50 ....A          539               images\til311.png
+2010-08-12 23:16:30 ....A          335               images\til313.full.png
+2010-08-14 21:16:18 ....A          935               images\til313.png
+2010-08-12 23:15:44 ....A          178               images\vu.png
+2010-08-08 19:34:38 ....A        40743               images\app.ico
+2009-08-19 18:59:22 ....A          205               src\about.h
+2005-03-11 17:55:02 ....A          994               src\audio_detect.h
+2008-11-30 20:15:56 ....A        11746               src\Blip_Buffer.h
+2008-11-30 20:15:56 ....A          304               src\breakpoints.h
+2010-01-28 04:47:04 ....A         4667               src\cdp1802.h
+2009-08-27 23:02:00 ....A         1289               src\cidelsa.h
+2009-07-15 20:00:38 ....A         1160               src\cidelsastatusbar.h
+2010-01-06 15:53:52 ....A          777               src\colour.h
+2010-09-06 19:41:32 ....A         2854               src\computer.h
+2010-05-10 22:17:12 ....A         1552               src\comx35.h
+2010-04-07 14:38:12 ....A          786               src\comxstatusbar.h
+2010-09-03 21:22:40 ....A         3757               src\cosmicos.h
+2010-03-21 23:50:26 ....A         1565               src\cosmicoshex.h
+2010-08-18 20:42:18 ....A         7195               src\debug.h
+2010-05-13 19:48:06 ....A          694               src\elf.h
+2010-09-09 18:39:38 ....A         3429               src\elf2.h
+2009-10-13 17:51:42 ....A         3821               src\elf2k.h
+2009-10-13 17:51:42 ....A         1350               src\elf2kdisk.h
+2009-07-27 22:12:36 ....A         1578               src\elf2khex.h
+2010-08-15 09:48:46 ....A         1295               src\elf2kswitch.h
+2010-09-08 22:41:58 ....A          688               src\elfconfiguration.h
+2010-05-13 19:48:06 ....A         1337               src\eti660.h
+2010-09-06 20:51:48 ....A         1379               src\expansion.h
+2009-07-15 14:04:34 ....A         1637               src\fdc.h
+2009-07-28 09:42:24 ....A          938               src\guicidelsa.h
+2010-09-06 22:47:50 ....A         2948               src\guicomx.h
+2010-03-27 17:03:58 ....A         1077               src\guicosmicos.h
+2010-09-08 22:41:58 ....A         3358               src\guielf.h
+2010-03-13 23:59:30 ....A         1143               src\guielf2k.h
+2010-08-19 17:39:16 ....A          602               src\guieprom.h
+2009-07-20 20:12:42 ....A          317               src\guieti660.h
+2010-09-07 23:07:38 ....A         9198               src\guimain.h
+2009-07-09 21:48:48 ....A          322               src\guinano.h
+2010-09-06 22:47:50 ....A          325               src\guipecom.h
+2009-12-15 17:12:10 ....A          567               src\guistudio2.h
+2009-11-06 00:07:44 ....A          398               src\guitmc2000.h
+2010-09-06 22:47:50 ....A          795               src\guitmc600.h
+2010-09-29 22:25:02 ....A          507               src\guivip.h
+2010-09-09 18:39:40 ....A         4209               src\hbelf.h
+2010-01-04 20:59:34 ....A         3482               src\i8275.h
+2009-07-15 14:04:34 ....A          994               src\ide.h
+2010-07-05 21:45:26 ....A         4212               src\iodevice.h
+2008-11-30 20:15:56 ....A          175               src\joycard.h
+2010-01-08 19:27:14 ....A          711               src\keyboard.h
+2009-12-17 13:48:48 ....A          922               src\keymap.h
+2009-08-07 23:22:12 ....A          817               src\keypad.h
+2010-08-13 22:37:02 ....A          336               src\led.h
+2009-07-15 14:04:34 ....A          472               src\ledmodule.h
+2010-09-12 22:50:54 ....A        10506               src\main.h
+2010-01-04 20:59:34 ....A         3119               src\mc6845.h
+2010-08-12 22:18:52 ....A         2762               src\mc6847.h
+2010-08-18 20:47:02 ....A         2224               src\memory.h
+2010-05-13 19:48:06 ....A         1054               src\nano.h
+2010-09-06 22:47:52 ....A         1745               src\pecom.h
+2010-09-28 21:08:48 ....A         2631               src\pixie.h
+2009-07-15 14:04:34 ....A          425               src\portext.h
+2009-08-15 22:32:30 ....A          785               src\ports.h
+2010-09-12 22:50:54 ....A         6230               src\printer.h
+2009-07-15 14:10:58 ....A          619               src\ps2.h
+2009-07-29 08:27:54 ....A          664               src\ps2gpio.h
+2009-08-15 22:32:30 ....A          301               src\psave.h
+2009-08-07 22:06:24 ....A          851               src\pushbutton.h
+2010-04-30 18:57:06 ....A         2458               src\SDL_audioin.h
+2010-04-30 18:57:06 ....A         2310               src\SDL_audioin_internal.h
+2010-05-22 21:48:32 ....A         2504               src\sound.h
+2009-12-16 15:14:50 ....A         1149               src\studio2.h
+2010-09-09 18:39:44 ....A         4064               src\super.h
+2010-05-27 23:13:44 ....A         2238               src\Sync_Audio.h
+2009-04-13 22:10:04 ....A          327               src\til311.h
+2010-03-20 17:14:32 ....A          405               src\til313.full.h
+2010-03-18 23:28:34 ....A          336               src\til313.h
+2010-05-13 19:48:06 ....A         1126               src\tmc1800.h
+2010-05-13 19:48:06 ....A         1235               src\tmc2000.h
+2010-09-06 22:47:50 ....A         2210               src\tmc600.h
+2010-01-04 20:59:34 ....A         2489               src\tms9918.h
+2010-06-06 23:03:08 ....A         6110               src\v1870.h
+2009-12-16 15:24:20 ....A         1102               src\victory.h
+2010-03-11 23:53:36 ....A         1282               src\video.h
+2010-09-09 18:39:46 ....A         1656               src\vip.h
+2009-12-16 15:24:20 ....A         1079               src\visicom.h
+2010-03-23 23:41:08 ....A         6004               src\vt100.h
+2010-04-07 21:32:16 ....A          398               src\vtsetup.h
+2008-11-30 20:15:56 ....A          403               src\waveReader.h
+2008-11-30 20:15:56 ....A         1345               src\waveWriter.h
+2010-06-24 18:07:52 ....A         1218               src\about.cpp
+2008-11-30 20:15:56 ....A        10850               src\Blip_Buffer.cpp
+2009-07-26 21:33:04 ....A         1102               src\breakpoints.cpp
+2010-09-23 21:50:40 ....A        59888               src\cdp1802.cpp
+2010-03-22 21:49:12 ....A        10409               src\cidelsa.cpp
+2010-08-14 22:45:46 ....A         5546               src\cidelsastatusbar.cpp
+2010-01-08 15:36:18 ....A        15483               src\colour.cpp
+2010-09-06 19:41:32 ....A         7863               src\computer.cpp
+2010-08-28 18:19:44 ....A        25948               src\comx35.cpp
+2010-08-17 23:28:14 ....A         5349               src\comxstatusbar.cpp
+2010-09-03 21:22:40 ....A        25516               src\cosmicos.cpp
+2010-08-25 22:42:34 ....A         8440               src\cosmicoshex.cpp
+2010-08-28 12:43:58 ....A       154120               src\debug.cpp
+2010-07-28 19:34:42 ....A         9293               src\elf.cpp
+2010-09-11 14:48:16 ....A        32420               src\elf2.cpp
+2010-08-25 22:42:34 ....A        28739               src\elf2k.cpp
+2009-10-13 17:57:22 ....A        15799               src\elf2kdisk.cpp
+2010-08-25 22:42:34 ....A         7091               src\elf2khex.cpp
+2010-08-25 22:42:34 ....A         7520               src\elf2kswitch.cpp
+2010-05-13 19:48:06 ....A        12009               src\eti660.cpp
+2010-09-06 20:51:48 ....A        10583               src\expansion.cpp
+2009-08-27 20:44:22 ....A        19410               src\fdc.cpp
+2010-08-13 18:28:54 ....A         9060               src\guicidelsa.cpp
+2010-09-06 22:47:50 ....A        38255               src\guicomx.cpp
+2010-09-08 22:41:58 ....A        24137               src\guicosmicos.cpp
+2010-09-11 13:51:38 ....A       122182               src\guielf.cpp
+2010-09-08 22:41:58 ....A        28113               src\guielf2k.cpp
+2010-09-01 19:46:52 ....A         4124               src\guieprom.cpp
+2010-08-13 18:28:54 ....A         6495               src\guieti660.cpp
+2010-09-28 22:53:52 ....A        84111               src\guimain.cpp
+2010-09-13 23:10:54 ....A         6933               src\guinano.cpp
+2010-09-08 23:07:56 ....A         8286               src\guipecom.cpp
+2010-08-13 18:28:54 ....A        10916               src\guistudio2.cpp
+2010-09-13 22:57:06 ....A        14523               src\guitmc2000.cpp
+2010-09-08 23:07:56 ....A        13658               src\guitmc600.cpp
+2010-09-29 22:28:42 ....A        11341               src\guivip.cpp
+2010-09-11 14:48:16 ....A        35138               src\hbelf.cpp
+2010-08-25 22:42:34 ....A        27297               src\i8275.cpp
+2009-08-27 20:44:22 ....A        11288               src\ide.cpp
+2009-08-27 21:47:18 ....A         1088               src\iodevice.cpp
+2008-11-30 20:15:56 ....A         2246               src\joycard.cpp
+2010-07-28 15:46:02 ....A         5783               src\keyboard.cpp
+2010-03-17 23:41:08 ....A        21367               src\keymap.cpp
+2010-08-25 22:42:34 ....A         6934               src\keypad.cpp
+2010-08-14 22:37:02 ....A         2773               src\led.cpp
+2010-08-25 22:42:34 ....A         3416               src\ledmodule.cpp
+2010-09-09 19:09:32 ....A        69513               src\main.cpp
+2010-08-25 22:42:34 ....A        21337               src\mc6845.cpp
+2010-08-25 22:42:34 ....A        20583               src\mc6847.cpp
+2010-08-18 21:27:22 ....A         4107               src\memory.cpp
+2010-05-13 19:48:06 ....A         7278               src\nano.cpp
+2010-09-06 22:47:52 ....A        21128               src\pecom.cpp
+2010-09-28 22:38:08 ....A        22142               src\pixie.cpp
+2009-07-15 14:04:32 ....A         2938               src\portext.cpp
+2010-09-08 22:41:58 ....A        30603               src\ports.cpp
+2010-09-14 20:43:04 ....A        58741               src\printer.cpp
+2009-08-27 20:44:22 ....A        12501               src\ps2.cpp
+2009-08-27 20:44:22 ....A         6113               src\ps2gpio.cpp
+2010-05-29 22:47:04 ....A         2505               src\psave.cpp
+2009-08-07 22:07:02 ....A         2448               src\pushbutton.cpp
+2010-08-11 21:00:52 ....A        17633               src\sound.cpp
+2010-08-08 16:09:06 ....A         9606               src\studio2.cpp
+2010-09-11 14:48:16 ....A        36296               src\super.cpp
+2010-06-03 22:34:30 ....A         9906               src\Sync_Audio.cpp
+2010-08-15 15:41:58 ....A         2180               src\til311.cpp
+2010-08-15 15:46:28 ....A         1682               src\til313.cpp
+2010-08-15 15:43:42 ....A         2344               src\til313.full.cpp
+2010-05-13 19:48:06 ....A         7704               src\tmc1800.cpp
+2010-05-13 19:48:06 ....A         8176               src\tmc2000.cpp
+2010-09-08 22:56:12 ....A        21165               src\tmc600.cpp
+2010-08-25 22:42:34 ....A        17048               src\tms9918.cpp
+2010-09-06 23:20:28 ....A        48638               src\v1870.cpp
+2010-08-08 16:09:06 ....A         9311               src\victory.cpp
+2010-03-11 23:57:04 ....A         3448               src\video.cpp
+2010-09-28 20:56:56 ....A        13479               src\vip.cpp
+2010-08-08 16:09:06 ....A         9687               src\visicom.cpp
+2010-08-25 22:42:36 ....A        88997               src\vt100.cpp
+2010-04-08 22:46:10 ....A         2665               src\vtsetup.cpp
+2010-03-06 21:00:34 ....A         3634               src\waveReader.cpp
+2008-11-30 20:15:56 ....A         4744               src\waveWriter.cpp
+2010-08-25 22:39:04 ....A          500               Emma 02.rc
+2010-09-03 19:43:52 ....A        58170               Emma 02.vcproj
+2009-08-05 14:30:28 ....A          790               Helpfiles\CidelsaGame.htm
+2010-08-08 23:18:58 ....A         1095               Helpfiles\CidelsaKeys.htm
+2010-08-08 22:33:54 ....A         1202               Helpfiles\CidelsaMain.htm
+2010-08-08 23:06:52 ....A         2271               Helpfiles\Comx80Column.htm
+2010-08-08 23:10:50 ....A         5282               Helpfiles\ComxCassette.htm
+2009-08-10 12:55:48 ....A         2760               Helpfiles\ComxDidYouKnow.htm
+2010-08-29 16:31:34 ....A         3057               Helpfiles\ComxDisk.htm
+2010-09-02 22:34:32 ....A        10256               Helpfiles\ComxEprom.htm
+2010-08-27 16:32:14 ....A         7085               Helpfiles\ComxExpansion.htm
+2009-08-05 14:41:24 ....A         2214               Helpfiles\ComxInfo.htm
+2009-08-05 14:41:50 ....A         2010               Helpfiles\ComxJoy.htm
+2009-08-10 11:25:44 ....A         1445               Helpfiles\ComxKeyFile.htm
+2010-08-28 19:02:50 ....A         1413               Helpfiles\ComxMain.htm
+2010-08-08 23:00:06 ....A         3443               Helpfiles\ComxPlotter.htm
+2010-09-11 12:26:32 ....A         4165               Helpfiles\ComxPrinter.htm
+2010-08-29 16:55:28 ....A         1177               Helpfiles\ComxRamCard.htm
+2010-08-08 22:51:32 ....A         1046               Helpfiles\ComxRom.htm
+2010-08-08 22:59:20 ....A         3074               Helpfiles\ComxSerialPrinter.htm
+2010-08-08 22:58:52 ....A         3205               Helpfiles\ComxThermal.htm
+2009-08-05 14:49:38 ....A          634               Helpfiles\ComxVideo.htm
+2009-08-11 16:02:04 ....A         1477               Helpfiles\CosmacFront.htm
+2010-09-11 13:37:38 ....A         2030               Helpfiles\CosmacMain.htm
+2010-08-08 22:55:34 ....A          679               Helpfiles\CosmacWindows.htm
+2010-08-08 22:29:26 ....A         4219               Helpfiles\CosmicosAscii.htm
+2010-03-28 11:37:58 ....A          464               Helpfiles\CosmicosBoot.htm
+2010-08-08 23:13:50 ....A         5187               Helpfiles\CosmicosCassette.htm
+2010-08-08 22:29:04 ....A         4233               Helpfiles\CosmicosHex.htm
+2010-03-28 11:37:58 ....A         1366               Helpfiles\CosmicosKey.htm
+2010-08-08 22:27:14 ....A         1039               Helpfiles\CosmicosMain.htm
+2010-05-31 22:38:34 ....A         2187               Helpfiles\CosmicosMops.htm
+2010-03-31 22:42:38 ....A         1317               Helpfiles\CosmicosRam.htm
+2010-08-08 22:48:34 ....A          984               Helpfiles\CosmicosRom.htm
+2010-03-31 22:43:40 ....A          694               Helpfiles\CosmicosVideo.htm
+2010-05-31 22:38:36 ....A         2173               Helpfiles\CosmicosVt100.htm
+2010-03-31 22:43:12 ....A          575               Helpfiles\CosmicosWindows.htm
+2009-08-05 14:49:48 ....A         1263               Helpfiles\DebuggerAssembler.htm
+2010-08-08 23:13:24 ....A          809               Helpfiles\DebuggerMain.htm
+2010-01-04 14:05:48 ....A         6540               Helpfiles\DebuggerMemory.htm
+2010-01-28 05:05:02 ....A         5440               Helpfiles\DebuggerTrace.htm
+2009-08-11 14:25:56 ....A          414               Helpfiles\Elf2KBoot.htm
+2010-08-08 23:03:08 ....A          819               Helpfiles\Elf2KDisk.htm
+2009-10-20 22:12:50 ....A         1631               Helpfiles\Elf2KKey.htm
+2010-08-08 22:33:22 ....A          888               Helpfiles\Elf2KMain.htm
+2009-10-20 22:14:46 ....A         1163               Helpfiles\Elf2KNvrRtc.htm
+2009-08-05 14:54:48 ....A          763               Helpfiles\Elf2KPorts.htm
+2010-08-08 22:50:42 ....A          964               Helpfiles\Elf2KRom.htm
+2009-08-05 14:55:10 ....A          840               Helpfiles\Elf2KVideo.htm
+2009-11-01 11:50:34 ....A         2465               Helpfiles\Elf2KVt100.htm
+2010-08-08 22:55:54 ....A          778               Helpfiles\Elf2KWindows.htm
+2009-08-10 11:22:28 ....A          609               Helpfiles\ElfBoot.htm
+2010-08-08 23:12:30 ....A         5764               Helpfiles\ElfCassette.htm
+2010-03-24 16:26:22 ....A         3164               Helpfiles\ElfConfig.htm
+2010-09-11 13:41:52 ....A         1315               Helpfiles\ElfDisk.htm
+2009-11-04 19:49:00 ....A         4094               Helpfiles\ElfGiant.htm
+2010-09-11 13:42:30 ....A         1177               Helpfiles\ElfIIFront.htm
+2010-09-11 13:42:30 ....A         1814               Helpfiles\ElfIIMain.htm
+2009-08-11 16:08:48 ....A          413               Helpfiles\ElfIIWindows.htm
+2009-08-10 15:19:10 ....A         2306               Helpfiles\ElfInstBiosio.htm
+2010-08-08 23:05:48 ....A         4199               Helpfiles\ElfInstElfOs.htm
+2010-08-08 23:06:14 ....A         6735               Helpfiles\ElfInstElfOsIo.htm
+2009-10-20 22:12:50 ....A         2332               Helpfiles\ElfKey.htm
+2010-09-11 13:42:32 ....A          920               Helpfiles\ElfPorts.htm
+2009-08-05 15:00:02 ....A          830               Helpfiles\ElfRam.htm
+2010-01-28 05:04:56 ....A         1288               Helpfiles\ElfRcaBasic.htm
+2010-08-13 10:57:42 ....A         1453               Helpfiles\ElfRom.htm
+2009-09-02 15:06:38 ....A         1472               Helpfiles\ElfSuperBasic.htm
+2010-01-06 13:35:04 ....A         2533               Helpfiles\ElfVideo.htm
+2009-11-01 11:50:34 ....A         2646               Helpfiles\ElfVt100.htm
+2010-08-08 23:08:36 ....A         5041               Helpfiles\EtiCassette.htm
+2010-08-08 22:33:00 ....A          803               Helpfiles\EtiMain.htm
+2009-11-08 23:42:04 ....A         2558               Helpfiles\EtiMonitor.htm
+2010-08-08 22:51:20 ....A          789               Helpfiles\EtiRom.htm
+2010-08-08 22:53:40 ....A          746               Helpfiles\EtiSW.htm
+2010-08-08 23:01:08 ....A          469               Helpfiles\FaqCidelsa1.htm
+2010-08-08 23:01:36 ....A         1075               Helpfiles\FaqComx1.htm
+2010-08-13 14:38:38 ....A          593               Helpfiles\FaqComx2.htm
+2009-08-05 15:06:34 ....A          394               Helpfiles\FaqComx3.htm
+2009-08-05 15:06:46 ....A          331               Helpfiles\FaqComx4.htm
+2009-08-10 12:50:08 ....A          545               Helpfiles\FaqComx5.htm
+2010-08-08 23:18:58 ....A          715               Helpfiles\FaqMain.htm
+2009-12-17 00:22:20 ....A          835               Helpfiles\GenKeyboard.htm
+2009-08-10 11:16:38 ....A          635               Helpfiles\GenKeyFile.htm
+2010-08-13 14:38:42 ....A         4546               Helpfiles\GenMemAccess.htm
+2010-09-11 12:31:12 ....A         1717               Helpfiles\GenPrinter.htm
+2010-08-08 22:35:24 ....A         2873               Helpfiles\GenRealCassette (marcel-ubuntu's conflicted copy 2010-08-14).htm
+2010-08-13 10:57:44 ....A         2871               Helpfiles\GenRealCassette.htm
+2010-08-08 22:21:02 ....A         1390               Helpfiles\Main.htm
+2010-08-08 22:15:46 ....A         1824               Helpfiles\Main1802.htm
+2010-08-08 22:15:46 ....A          846               Helpfiles\MainClock.htm
+2010-08-13 14:38:40 ....A          685               Helpfiles\MainColour.htm
+2010-09-29 22:50:02 ....A         6642               Helpfiles\MainFile.htm
+2010-08-08 23:18:58 ....A          896               Helpfiles\MainGeneral.htm
+2010-08-08 22:15:46 ....A         1136               Helpfiles\MainScreendump.htm
+2009-11-03 00:11:18 ....A          439               Helpfiles\MainSound.htm
+2010-08-08 22:35:56 ....A          665               Helpfiles\MainZoom.htm
+2010-08-08 23:09:48 ....A         4753               Helpfiles\NanoCassette.htm
+2010-08-08 22:32:34 ....A          878               Helpfiles\NanoMain.htm
+2010-08-08 22:50:06 ....A          778               Helpfiles\NanoRom.htm
+2010-09-29 22:50:02 ....A         1169               Helpfiles\NanoSW.htm
+2010-08-08 23:09:18 ....A         4612               Helpfiles\PecomCassette.htm
+2009-11-25 00:39:18 ....A          625               Helpfiles\PecomKeyMapping.htm
+2010-09-11 12:35:12 ....A          657               Helpfiles\PecomMain.htm
+2010-08-08 22:50:52 ....A          978               Helpfiles\PecomRom.htm
+2009-08-05 15:13:54 ....A         1086               Helpfiles\StudioBaseball.htm
+2009-08-05 15:17:00 ....A          895               Helpfiles\StudioBlackjack.htm
+2009-12-10 20:37:38 ....A         1747               Helpfiles\StudioBuiltInGames.htm
+2009-08-05 15:17:22 ....A         7658               Helpfiles\StudioCombat.htm
+2009-09-05 13:06:32 ....A          443               Helpfiles\StudioComputer.htm
+2009-08-05 18:44:50 ....A          727               Helpfiles\StudioHockey.htm
+2009-08-05 15:17:50 ....A          502               Helpfiles\StudioInvaders.htm
+2009-12-16 16:19:58 ....A         3060               Helpfiles\StudioKeys.htm
+2010-08-08 22:34:04 ....A          971               Helpfiles\StudioMain.htm
+2010-08-08 22:50:28 ....A          953               Helpfiles\StudioRom.htm
+2009-08-05 15:19:04 ....A          413               Helpfiles\StudioSpacewar.htm
+2009-08-05 15:19:12 ....A          844               Helpfiles\StudioSpeedway.htm
+2009-08-10 15:34:12 ....A          768               Helpfiles\StudioTennis.htm
+2009-08-11 18:17:12 ....A          810               Helpfiles\SuperFront.htm
+2010-09-11 12:34:40 ....A         1968               Helpfiles\SuperMain.htm
+2010-08-08 22:55:20 ....A          634               Helpfiles\SuperWindows.htm
+2010-08-08 23:07:52 ....A         3963               Helpfiles\TMC-2000Cassette.htm
+2010-08-08 22:32:12 ....A         1059               Helpfiles\TMC-2000Main.htm
+2009-11-12 23:42:56 ....A          316               Helpfiles\TMC-2000Ram.htm
+2010-08-08 22:49:56 ....A          862               Helpfiles\TMC-2000Rom.htm
+2010-09-29 22:50:02 ....A         1195               Helpfiles\TMC-2000SW.htm
+2010-01-28 05:04:58 ....A         1012               Helpfiles\TMC-600AD.htm
+2010-08-08 23:10:24 ....A         4594               Helpfiles\TMC-600Cassette.htm
+2009-08-10 11:16:28 ....A          871               Helpfiles\TMC-600KeyFile.htm
+2009-10-20 22:12:50 ....A          882               Helpfiles\TMC-600KeyMapping.htm
+2010-09-11 12:32:28 ....A          783               Helpfiles\TMC-600Main.htm
+2009-08-05 16:27:26 ....A          440               Helpfiles\TMC-600Ram.htm
+2010-08-08 22:51:02 ....A          952               Helpfiles\TMC-600Rom.htm
+2009-12-17 00:22:20 ....A         1038               Helpfiles\TmcKeyboard.htm
+2010-08-08 22:33:34 ....A          479               Helpfiles\VictoryMain.htm
+2010-08-08 22:49:42 ....A          873               Helpfiles\VictoryRom.htm
+2010-08-08 23:12:58 ....A         5098               Helpfiles\VipCassette.htm
+2010-09-29 22:50:02 ....A         1636               Helpfiles\VipColour.htm
+2009-12-17 18:39:00 ....A         1390               Helpfiles\VipKeyboard.htm
+2010-09-11 12:33:14 ....A         1100               Helpfiles\VipMain.htm
+2010-09-29 22:50:02 ....A          862               Helpfiles\VipRam.htm
+2010-09-29 22:50:02 ....A          793               Helpfiles\VipRom.htm
+2010-09-29 22:50:02 ....A         1443               Helpfiles\VipSW.htm
+2009-12-10 20:36:24 ....A         1375               Helpfiles\VisicomBuiltInGames.htm
+2010-01-07 23:19:32 ....A         3265               Helpfiles\VisicomKeys.htm
+2010-08-08 22:33:44 ....A          540               Helpfiles\VisicomMain.htm
+2010-08-08 22:49:14 ....A          874               Helpfiles\VisicomRom.htm
+2008-05-27 22:27:32 ....A         1863               Compilation Instructions.txt
+2001-07-15 11:55:08 ....A        26430               LGPL.txt
+2007-07-20 01:25:30 ....A          438               README-SDL.txt
+2010-09-11 13:38:46 ....A        29963               Helpfiles\contents.hhc
+2010-09-29 22:49:54 ....A      2074262               Helpfiles\Index.hhk
+2010-09-11 13:38:46 ....A         2563               Helpfiles\Emma 02.hhp
+2010-09-29 22:50:02 ....A          366               Helpfiles\Log1.log
+2010-08-08 23:16:04 ....A          366               Helpfiles\Log2.log
+2010-05-30 23:23:44 ....A          386               Helpfiles\Log3.log
+2010-09-10 20:49:14 ....A        10506               src\ve-17CA.tmp
+2010-07-10 21:35:52 ....A        69143               src\ve-1A04.tmp
+2010-03-16 23:00:40 ....A         2857               src\ve-215.tmp
+2010-08-18 20:42:18 ....A       154120               src\ve-A3C0.tmp
+2010-08-25 22:35:42 ....A       137322               images\app_icon.xpm
+2010-01-06 16:01:46 ....A       431631               colour.xrc
+2010-09-29 22:47:52 ....A      2441217               main.xrc
+2009-08-10 18:32:26 ....A          113      1904961  copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0\Makefile
+2009-08-10 18:37:34 ....A          113               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version\Makefile
+2009-08-10 19:31:12 ....A          125               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version\Makefile
+2009-08-10 20:09:00 ....A          125               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm\Makefile
+2009-08-10 20:14:32 ....A          125               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version\Makefile
+2004-01-19 10:33:34 ....A         4096               copy to userappdata\Emma 02\TMC600\151182.bin
+2008-10-22 21:03:04 ....A         4096               copy to userappdata\Emma 02\Comx\80column.1.0.bin
+2008-10-23 19:37:40 ....A         4096               copy to userappdata\Emma 02\Comx\80column.1.1.bin
+2010-03-26 23:36:08 ....A         2048               copy to userappdata\Emma 02\Cosmicos\ascii.monitor.bin
+2008-11-07 23:35:34 ....A         4096               copy to userappdata\Emma 02\TMC600\character.bin
+2007-09-19 22:49:00 ....A        16384               copy to userappdata\Emma 02\Comx\comx35.1.1.bin
+2006-03-05 20:10:22 ....A        16384               copy to userappdata\Emma 02\Comx\comx35.bin
+2008-05-16 20:22:06 ....A         8192               copy to userappdata\Emma 02\Cidelsa\destroyer set 1.bin
+2008-05-16 20:24:36 ....A         8192               copy to userappdata\Emma 02\Cidelsa\destroyer set 2.bin
+2010-08-31 20:36:08 ....A         8192               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\disk.utilities.bin
+2008-05-16 20:25:12 ....A        16384               copy to userappdata\Emma 02\Cidelsa\draco.bin
+2009-08-11 13:18:26 ....A           41               copy to userappdata\Emma 02\Elf\Music\Elf Duet.bin
+2008-08-19 22:54:04 ....A         4096               copy to userappdata\Emma 02\Elf\Games\elfinvad.bin
+2009-07-19 12:59:48 ....A         1024               copy to userappdata\Emma 02\Eti\eti-660.bin
+2007-09-12 18:58:02 ....A         4096               copy to userappdata\Emma 02\Comx\expansion.bin
+2010-09-01 19:27:00 ....A         8192               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\f&m.basic.bin
+2010-09-01 12:49:20 ....A         2048               copy to userappdata\Emma 02\Comx\f&m.eprom.board.1.1.bin
+2007-09-03 08:27:36 ....A         4096               copy to userappdata\Emma 02\Comx\f&m.expansion.3.1.bin
+2010-08-25 18:43:48 ....A         4096               copy to userappdata\Emma 02\Comx\f&m.expansion.3.2.bin
+2007-09-13 00:36:38 ....A            2               copy to userappdata\Emma 02\Comx\f&m.joycard.bin
+2010-08-27 19:03:30 ....A         6016               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\f&m.monitor.dutch.bin
+2010-08-30 23:32:14 ....A         6016               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\f&m.monitor.english.bin
+2008-01-24 21:08:00 ....A         4096               copy to userappdata\Emma 02\Comx\f&m.printer.1.2.bin
+2010-08-31 20:36:04 ....A         7888               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\f&m.utilities.bin
+2007-08-10 23:40:34 ....A         8192               copy to userappdata\Emma 02\Comx\fdc.bin
+2010-04-03 22:38:34 ....A         2048               copy to userappdata\Emma 02\Cosmicos\hex.and.UT4.monitor.bin
+2010-03-23 23:49:00 ....A         1024               copy to userappdata\Emma 02\Cosmicos\hexmonitor.bin
+2010-03-23 22:02:08 ....A          149               copy to userappdata\Emma 02\Cosmicos\hexmops.bin
+2010-08-22 23:06:36 ....A         5136               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\hitandrun.bin
+2009-03-25 23:41:44 ....A         8192               copy to userappdata\Emma 02\Elf\intel8275.bin
+2009-03-25 23:41:44 ....A         8192               copy to userappdata\Emma 02\Elf2K\intel8275.bin
+2009-08-13 18:40:54 ....A         2048               copy to userappdata\Emma 02\Elf\mc6845.comx.bin
+2009-03-15 19:40:40 ....A         2048               copy to userappdata\Emma 02\Elf\mc6847.ntsc.round.bin
+2009-03-13 00:03:18 ....A         2048               copy to userappdata\Emma 02\Elf\mc6847.ntsc.square.bin
+2009-03-15 19:41:10 ....A         2048               copy to userappdata\Emma 02\Elf\mc6847.pal.round.bin
+2009-03-13 00:04:44 ....A         2048               copy to userappdata\Emma 02\Elf\mc6847.pal.square.bin
+2010-03-17 23:36:02 ....A           37               copy to userappdata\Emma 02\Cosmicos\mops.bin
+2009-08-11 13:18:48 ....A           41               copy to userappdata\Emma 02\Elf\Music\Overture.bin
+2008-11-19 00:04:48 ....A        32768               copy to userappdata\Emma 02\Pecom\pecom64.v1.bin
+2008-11-19 00:03:44 ....A        32768               copy to userappdata\Emma 02\Pecom\pecom64.v4.bin
+2007-09-24 22:28:48 ....A         3584               copy to userappdata\Emma 02\Comx\pl80.bin
+2007-09-25 14:09:00 ....A         8192               copy to userappdata\Emma 02\Comx\pl80.it.em.ou.bin
+2007-09-25 10:37:42 ....A         1024               copy to userappdata\Emma 02\Comx\pl80.tiny.bin
+2007-09-16 13:33:00 ....A         2048               copy to userappdata\Emma 02\Comx\printer.bin
+2007-09-17 09:34:30 ....A         2048               copy to userappdata\Emma 02\Comx\rs232.bin
+2009-08-11 13:14:04 ....A           41               copy to userappdata\Emma 02\Elf\Music\Songbird.bin
+2010-05-03 21:28:52 ....A         4352               copy to userappdata\Emma 02\Elf\Games\Starpilot.bin
+2009-08-11 22:44:20 ....A         2048               copy to userappdata\Emma 02\Elf\super.video.bin
+2009-08-11 12:14:22 ....A        12288               copy to userappdata\Emma 02\Elf\superbasic.1.4.bin
+2010-08-22 23:06:36 ....A         8192               copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard\tennismania.bin
+2007-12-04 23:10:20 ....A         4096               copy to userappdata\Emma 02\Comx\thermal.bin
+2008-11-30 20:12:00 ....A        16384               copy to userappdata\Emma 02\TMC600\tmc.24.3.bin
+2009-03-30 22:31:26 ....A        32768               copy to userappdata\Emma 02\Elf2K\v87a.bin
+2009-10-06 19:19:52 ....A         4096               copy to userappdata\Emma 02\Cosmicos\vt100.bin
+2009-10-06 19:19:52 ....A         4096               copy to userappdata\Emma 02\Elf\vt100.bin
+2009-10-06 19:19:52 ....A         4096               copy to userappdata\Emma 02\Elf2K\vt100.bin
+2009-10-04 14:12:48 ....A         2048               copy to userappdata\Emma 02\Cosmicos\vt52.a.bin
+2009-10-04 14:12:48 ....A         2048               copy to userappdata\Emma 02\Elf\vt52.a.bin
+2009-10-04 14:12:48 ....A         2048               copy to userappdata\Emma 02\Elf2K\vt52.a.bin
+2009-09-18 22:46:00 ....A         2048               copy to userappdata\Emma 02\Cosmicos\vt52.b.bin
+2009-09-18 22:46:00 ....A         2048               copy to userappdata\Emma 02\Elf\vt52.b.bin
+2009-09-18 22:46:00 ....A         2048               copy to userappdata\Emma 02\Elf2K\vt52.b.bin
+2009-08-11 13:18:00 ....A           41               copy to userappdata\Emma 02\Elf\Music\Witch Doctor.bin
+2007-08-30 20:32:00 ....A        71680               copy to userappdata\Emma 02\Comx\Disks\assembler.img
+2008-05-16 18:50:58 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\comxstar.img
+2008-01-31 00:05:50 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\dos.1.4+f&m.disk.tools.img
+2007-09-08 22:47:32 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\f&m-heijmans.sw.img
+2007-09-07 13:00:36 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\games.img
+2007-09-14 19:50:12 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\hit.it.img
+2007-10-04 22:55:52 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\plotter-2.img
+2007-10-04 22:44:40 ....A       143360               copy to userappdata\Emma 02\Comx\Disks\plotter.img
+2004-04-07 18:41:10 ....A          553               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0\bios.inc
+2004-10-08 21:25:12 ....A          928               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version\bios.inc
+2004-12-22 00:15:16 ....A          904               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm\bios.inc
+2005-02-11 05:58:52 ....A         1097               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version\bios.inc
+2005-03-22 02:13:38 ....A         1121               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version\bios.inc
+2006-05-05 07:08:12 ....A          928               copy to userappdata\Emma 02\Elf2K\1802 Disassembler\bios.inc
+2005-02-16 18:49:12 ....A        97539               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version\bascom.asm
+2006-12-21 17:26:02 ....A         2952               copy to userappdata\Emma 02\Elf2K\Clock\clock2.asm
+2006-05-20 08:50:58 ....A         9349               copy to userappdata\Emma 02\Elf2K\1802 Disassembler\disasm.asm
+2006-02-22 01:01:24 ....A        77974               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm\edtasm.asm
+2003-01-04 21:44:20 ....A        75672               copy to userappdata\Emma 02\Elf\Fig Forth 1802\FigForth.ASM
+2004-04-07 18:37:34 ....A       104875               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0\forth.asm
+2006-02-22 00:56:22 ....A       112541               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version\forth.asm
+2004-10-08 21:45:36 ....A        96638               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version\rclisp.asm
+2004-01-29 22:17:16 ....A        77879               copy to userappdata\Emma 02\Elf\Netronics Tiny Basic\Tinybasi.asm
+2006-12-21 17:27:26 ....A          843               copy to userappdata\Emma 02\Elf2K\Clock\index.html
+2009-08-08 22:01:52 ....A        21661               copy to userappdata\Emma 02\Elf\Music\Computer Christmas Music.mht
+2009-08-08 22:00:34 ....A       139963               copy to userappdata\Emma 02\Elf\Music\The 1802 Music Machine.mht
+2010-09-10 22:35:00 ....A          228               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\15 Puzzle [Roger Ivie].txt
+2003-08-31 01:09:20 ....A         1281               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Animal Race [Brian Astle].txt
+2010-07-17 21:19:52 ....A         1982               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Astro Dodge [Revival Studios_ 2008].txt
+2003-08-30 01:03:10 ....A         1910               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Bingo [Andrew Modla] (hybrid).txt
+2003-09-01 10:02:36 ....A         2243               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Biorhythm [Jef Winsor].txt
+2005-03-18 20:46:46 ....A         6782               copy to userappdata\Emma 02\Elf\Biosio\BIOSiov9REQ.txt
+2004-12-26 13:45:30 ....A         2693               copy to userappdata\Emma 02\Elf\BiosioPS2\BIOSPSV1REQ.txt
+2003-08-30 01:04:14 ....A         3212               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Blackjack [Andrew Modla] (hybrid).txt
+2010-09-11 12:53:06 ....A          247               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Blitz [David Winter].txt
+2003-09-02 12:10:48 ....A         1951               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Blockout [Steve Houk].txt
+2010-09-10 20:05:16 ....A          169               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\BMP Viewer - Hello (C8 example) [Hap_ 2005].txt
+2003-08-31 01:07:10 ....A         2243               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Bowling [Gooitzen van der Wal].txt
+2010-09-11 12:54:58 ....A          335               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Breakout (Brix hack) [David Winter_ 1997].txt
+2010-09-10 22:18:32 ....A          320               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Breakout [Carmelo Cortez_ 1979].txt
+2010-09-11 14:43:44 ....A          137               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Brick (Brix hack_ 1990).txt
+2010-09-10 22:11:20 ....A          222               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Coin Flipping [Carmelo Cortez_ 1978].txt
+2010-09-11 20:28:50 ....A          350               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Color Kaleidoscope [Steve Houk_ 1978].txt
+2008-01-23 20:22:02 ....A           37               copy to userappdata\Emma 02\Comx\Comx Key File Example.txt
+2010-09-10 22:25:54 ....A          495               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Connect 4 [David Winter].txt
+2010-09-10 22:14:02 ....A          283               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Craps [Camerlo Cortez_ 1978].txt
+2003-08-31 01:08:36 ....A         2346               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Deflection [John Fort].txt
+2010-09-11 11:26:48 ....A          354               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Delay Timer Test [Matthew Mikolay_ 2010].txt
+2008-07-17 18:52:36 ....A         5572               copy to userappdata\Emma 02\TMC600\demo.txt
+2008-07-18 20:27:58 ....A         2396               copy to userappdata\Emma 02\TMC600\demo2.txt
+2010-09-10 20:04:46 ....A           65               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Fishie [Hap_ 2005].txt
+2004-04-07 18:40:58 ....A        11845               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0\forth.txt
+2004-10-08 22:41:50 ....A        13445               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version\forth.txt
+2005-03-20 02:30:46 ....A         1684               copy to userappdata\Emma 02\Elf\Biosio\GRAINIZnotes.txt
+2010-09-10 22:34:18 ....A          189               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Guess [David Winter] (alt).txt
+2010-09-10 22:34:18 ....A          189               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Guess [David Winter].txt
+2010-09-11 23:45:12 ....A          486               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Hi-Lo [Jef Winsor_ 1978].txt
+1998-02-18 15:21:24 ....A          911               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Hidden [David Winter_ 1996].txt
+2010-09-11 19:55:24 ....A          505               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Jumping X and O [Harry Kleinberg_ 1977].txt
+2010-09-11 14:26:20 ....A          474               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Kaleidoscope [Joseph Weisbecker_ 1978].txt
+2010-09-10 20:14:44 ....A          271               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Keypad Test [Hap_ 2006].txt
+2003-08-31 06:08:08 ....A         5271               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Lunar Lander [Udo Pernisz_ 1979].txt
+2010-09-12 00:24:40 ....A         2053               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Mastermind FourRow (Robert Lindley_ 1978).txt
+2010-09-10 20:41:14 ....A          644               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Maze [David Winter_ 199x].txt
+2010-09-10 22:30:18 ....A          457               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Merlin [David Winter].txt
+2003-08-30 01:02:04 ....A         3791               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Message Center [Andrew Modla] (hybrid).txt
+2003-08-31 01:10:08 ....A         2395               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Most Dangerous Game [Peter Maruhnic].txt
+2009-08-05 09:15:50 ....A         1672               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Music Maker (ETI660 Hybrid) [Peter Collins_ 198x].txt
+2009-08-05 09:15:50 ....A         1672               copy to userappdata\Emma 02\Eti\Music Maker.txt
+2010-09-10 22:02:24 ....A          253               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Nim [Carmelo Cortez_ 1978].txt
+2004-04-01 23:27:24 ....A        43999               copy to userappdata\Emma 02\Elf\Netronics Tiny Basic\NTBManual.txt
+2003-08-30 01:01:08 ....A         1926               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Pinball [Andrew Modla].txt
+2004-12-08 00:30:14 ....A         1258               copy to userappdata\Emma 02\Elf\Biosio\pixiniznotes.txt
+2010-09-11 01:20:08 ....A          306               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Pong [Paul Vervalin_ 1990].txt
+2003-09-01 11:09:54 ....A         6793               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Programmable Spacefighters [Jef Winsor].txt
+2004-12-26 16:51:14 ....A         1232               copy to userappdata\Emma 02\Elf\BiosioPS2\PSiniznotes.txt
+2010-09-11 11:28:40 ....A          797               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Random Number Test [Matthew Mikolay_ 2010].txt
+2004-10-08 22:37:32 ....A        24879               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version\rclisp.txt
+2008-01-23 20:22:14 ....A          316               copy to userappdata\Emma 02\Comx\Recall Basic.txt
+2003-08-30 01:06:10 ....A         2137               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Reversi [Philip Baltzer].txt
+2010-08-23 09:30:18 ....A          147               copy to userappdata\Emma 02\Studio2\rocket_v101_readme.txt
+2010-08-23 09:30:18 ....A          147               copy to userappdata\Emma 02\Victory\rocket_v101_readme.txt
+2008-08-30 22:59:16 ....A         1153               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rush Hour [Hap_ 2006].txt
+2010-09-10 21:59:38 ....A          195               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Russian Roulette [Carmelo Cortez_ 1978].txt
+2010-09-12 21:00:24 ....A         1099               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Sequence Shoot [Joyce Weisbecker].txt
+2004-12-08 00:25:26 ....A         1886               copy to userappdata\Emma 02\Elf\Biosio\seriniznotes.txt
+2010-09-12 00:05:48 ....A           38               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Shooting Stars [Philip Baltzer_ 1978].txt
+2003-08-30 01:05:08 ....A          920               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Slide [Joyce Weisbecker].txt
+2008-07-16 23:24:32 ....A         1095               copy to userappdata\Emma 02\TMC600\snoopy.txt
+2002-10-06 20:14:42 ....A         2200               copy to userappdata\Emma 02\Elf\Music\sounder.1802asm.txt
+2010-09-11 21:29:40 ....A          355               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Intercept [Joseph Weisbecker_ 1978].txt
+2009-08-05 09:34:58 ....A         1084               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Space Invaders (ETI660 Hybrid) [P. Easdown_198x].txt
+2010-09-10 22:28:36 ....A          156               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Invaders [David Winter] (alt).txt
+2010-09-10 22:28:36 ....A          156               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Invaders [David Winter].txt
+2009-08-05 09:34:58 ....A         1084               copy to userappdata\Emma 02\Eti\Space Invaders.txt
+2010-09-11 21:55:06 ....A          425               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Spooky Spot [Joseph Weisbecker_ 1978].txt
+2010-09-10 22:16:34 ....A          218               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Submarine [Carmelo Cortez_ 1978].txt
+2003-08-30 01:11:06 ....A          897               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Sum Fun [Joyce Weisbecker].txt
+2010-09-11 01:36:20 ....A         2679               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Syzygy [Roy Trevino_ 1990].txt
+2010-09-10 22:33:26 ....A          281               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tank.txt
+2010-03-20 15:13:28 ....A          396               copy to userappdata\Emma 02\Elf\tapeloader.txt
+2010-09-11 01:34:22 ....A         1428               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tetris [Fran Dachille_ 1991].txt
+2005-01-11 19:29:14 ....A         1665               copy to userappdata\Emma 02\Elf\Biosio\TMSINIZnotes.txt
+2008-01-22 00:13:24 ....A         8795               copy to userappdata\Emma 02\Comx\Trainspotting.txt
+2010-09-15 21:41:18 ....A         2157               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Trip-8 Demo [Revival Studios_ 2008].txt
+2010-09-11 01:29:32 ....A         1214               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\UFO [Lutz V_ 1992].txt
+2010-09-11 14:29:44 ....A          328               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Video Display Drawing Game [Joseph Weisbecker] (hybrid).txt
+2004-12-07 21:37:20 ....A         1453               copy to userappdata\Emma 02\Elf\Biosio\VIDINIZnotes.txt
+2009-08-05 09:30:28 ....A         2043               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Wipeout (ETI660 hybrid) [W.F. Kreykes_ 1982].txt
+2009-08-05 09:30:28 ....A         2043               copy to userappdata\Emma 02\Eti\Wipeout.txt
+2010-09-12 20:48:34 ....A         1842               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Worm V4 [RB-Revival Studios_ 2007].txt
+2010-09-10 20:42:42 ....A           89               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Zero Demo [ZeroShadowZ_ 2007].txt
+2005-02-22 20:12:50 ....A         1157               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version\bascom.doc
+2006-02-21 22:28:28 ....A         2994               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm\edtasm.doc
+2010-08-23 22:22:10 ....A        67703               copy to userappdata\Emma 02\Studio2\rocket_v101.pdf
+2010-08-23 22:22:10 ....A        67703               copy to userappdata\Emma 02\Victory\rocket_v101.pdf
+2009-08-03 22:36:34 ....A           38               copy to userappdata\Emma 02\Eti\Maze 2.c8
+2009-08-05 09:18:52 ....A          510               copy to userappdata\Emma 02\Eti\Music Maker.c8
+2009-07-20 22:11:24 ....A          246               copy to userappdata\Emma 02\Eti\Pong.1.player.c8
+2009-08-03 19:08:00 ....A          400               copy to userappdata\Emma 02\Eti\Space Invaders.c8
+2009-08-01 22:15:30 ....A          606               copy to userappdata\Emma 02\Eti\Wipeout.c8
+2006-06-02 19:21:48 ....A          402               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Blockout [Steve Houk].c8x
+2009-10-30 17:56:18 ....A          132               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Color Kaleidoscope [Steve Houk_ 1978].c8x
+2009-10-30 14:24:52 ....A           50               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\ColourTest.c8x
+2009-10-30 14:27:58 ....A           20               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\SoundTest.c8x
+2010-09-27 22:44:06 ....A          122               copy to userappdata\Emma 02\Chip-8\Chip-10\Kaleidoscope [Joseph Weisbecker_ 1978].ch10
+2005-01-05 16:55:46 ....A          264               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\15 Puzzle [Roger Ivie] (alt).ch8
+2003-12-18 00:44:08 ....A          384               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\15 Puzzle [Roger Ivie].ch8
+2006-04-10 14:55:34 ....A          168               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Addition Problems [Paul C. Moews].ch8
+2006-01-04 18:16:22 ....A          356               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Airplane.ch8
+2006-06-02 20:11:34 ....A         1194               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Animal Race [Brian Astle].ch8
+2010-07-13 23:16:44 ....A         1113               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Astro Dodge [Revival Studios_ 2008].ch8
+2006-06-02 18:12:56 ....A          598               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Bingo [Andrew Modla] (hybrid).ch8
+2006-06-02 20:10:54 ....A          910               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Biorhythm [Jef Winsor].ch8
+2006-06-02 18:12:20 ....A         1166               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Blackjack [Andrew Modla] (hybrid).ch8
+2006-04-01 14:03:28 ....A         2078               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Blinky [Hans Christian Egeberg] (alt).ch8
+2003-12-18 01:05:12 ....A         2356               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Blinky [Hans Christian Egeberg_ 1991].ch8
+2003-12-18 01:05:12 ....A          391               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Blitz [David Winter].ch8
+2005-06-03 01:15:46 ....A          304               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\BMP Viewer - Hello (C8 example) [Hap_ 2005].ch8
+2006-01-06 19:09:50 ....A          128               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Boot-128 (hybrid).ch8
+2006-06-02 20:11:52 ....A         1194               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Bowling [Gooitzen van der Wal].ch8
+2004-02-07 22:12:32 ....A          280               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Breakout (Brix hack) [David Winter_ 1997].ch8
+2010-09-09 23:11:10 ....A          232               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Breakout [Carmelo Cortez_ 1979].ch8
+2006-04-01 18:09:18 ....A          286               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Brick (Brix hack_ 1990).ch8
+2003-12-18 00:52:12 ....A          280               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Brix [Andreas Gustafsson_ 1990].ch8
+2005-01-05 18:55:46 ....A          882               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Cave.ch8
+2006-02-15 03:54:50 ....A          288               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Chip8 emulator Logo [Garstyciuks].ch8
+2005-01-05 18:55:46 ....A          164               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Chip8 Picture.ch8
+2010-09-09 23:11:16 ....A          108               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Coin Flipping [Carmelo Cortez_ 1978].ch8
+2003-12-18 01:00:38 ....A          194               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Connect 4 [David Winter].ch8
+2010-09-09 23:11:20 ....A          192               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Craps [Camerlo Cortez_ 1978].ch8
+2006-06-02 20:11:44 ....A         1024               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Deflection [John Fort].ch8
+2010-09-11 11:18:44 ....A           58               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Delay Timer Test [Matthew Mikolay_ 2010].ch8
+2010-08-13 19:38:04 ....A          371               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Division Test [Sergey Naydenov_ 2010].ch8
+2006-01-04 18:16:22 ....A          290               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Figures.ch8
+2005-01-05 18:55:46 ....A          198               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Filter.ch8
+2005-07-10 13:00:56 ....A          160               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Fishie [Hap_ 2005].ch8
+2003-12-17 23:02:10 ....A          148               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Guess [David Winter] (alt).ch8
+2005-01-05 18:55:46 ....A          150               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Guess [David Winter].ch8
+2010-09-11 23:40:06 ....A          170               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Hi-Lo [Jef Winsor_ 1978].ch8
+2003-12-18 01:00:38 ....A          850               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Hidden [David Winter_ 1996].ch8
+2005-01-05 18:55:46 ....A          132               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\IBM Logo.ch8
+2010-09-11 19:45:06 ....A           82               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Jumping X and O [Harry Kleinberg_ 1977].ch8
+2006-06-02 19:52:04 ....A          122               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Kaleidoscope [Joseph Weisbecker_ 1978].ch8
+2006-02-15 03:08:58 ....A          114               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Keypad Test [Hap_ 2006].ch8
+2006-01-04 18:16:22 ....A          276               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Landing.ch8
+2006-06-02 20:10:28 ....A         1792               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Lunar Lander (Udo Pernisz_ 1979).ch8
+2010-09-09 23:11:28 ....A          292               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Mastermind FourRow (Robert Lindley_ 1978).ch8
+1997-09-12 23:50:04 ....A           38               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Maze (alt) [David Winter_ 199x].ch8
+2009-08-03 22:36:34 ....A           38               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Maze 2 (ETI660 Hybrid).ch8
+2003-12-18 01:00:38 ....A           34               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Maze [David Winter_ 199x].ch8
+2003-12-18 01:02:10 ....A          345               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Merlin [David Winter].ch8
+2006-06-02 18:13:06 ....A          951               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Message Center [Andrew Modla] (hybrid).ch8
+2010-07-08 21:09:22 ....A           85               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Minimal game [Revival Studios_ 2007].ch8
+2003-12-18 01:00:38 ....A          180               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Missile [David Winter].ch8
+2006-06-02 20:11:24 ....A         1010               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Most Dangerous Game [Peter Maruhnic].ch8
+2009-08-05 09:18:52 ....A          510               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Music Maker (ETI660 Hybrid) [Peter Collins_ 198x].ch8
+2010-09-09 23:11:38 ....A          182               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Nim [Carmelo Cortez_ 1978].ch8
+2006-01-04 18:16:22 ....A          560               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Paddles.ch8
+2008-08-24 23:09:14 ....A         1216               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Pinball [Andrew Modla].ch8
+2006-01-04 16:16:22 ....A          246               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Pong (1 player).ch8
+2010-09-12 21:00:08 ....A          264               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Pong (alt).ch8
+2009-07-20 22:11:24 ....A          246               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Pong (ETI660 Hybrid).ch8
+2005-01-05 18:55:46 ....A          294               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Pong 2 (Pong hack) [David Winter_ 1997].ch8
+2003-12-18 00:52:12 ....A          246               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Pong [Paul Vervalin_ 1990].ch8
+2006-06-02 20:10:38 ....A         1020               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Programmable Spacefighters [Jef Winsor].ch8
+2003-12-18 00:56:10 ....A          184               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Puzzle.ch8
+2010-09-11 11:19:04 ....A           34               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\Random Number Test [Matthew Mikolay_ 2010].ch8
+2006-06-02 20:12:02 ....A          578               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Reversi [Philip Baltzer].ch8
+1999-05-27 23:27:16 ....A          494               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rocket Launch [Jonas Lindstedt].ch8
+2005-01-05 18:55:46 ....A          112               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rocket Launcher.ch8
+2008-08-31 10:53:06 ....A          130               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rocket [Joseph Weisbecker_ 1978].ch8
+2010-09-12 21:00:16 ....A         3582               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rush Hour [Hap_ 2006] (alt).ch8
+2008-02-08 23:09:42 ....A         3582               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Rush Hour [Hap_ 2006].ch8
+2010-09-09 23:11:46 ....A          156               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Russian Roulette [Carmelo Cortez_ 1978].ch8
+2006-06-02 20:11:04 ....A          324               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Sequence Shoot [Joyce Weisbecker].ch8
+2010-09-11 23:57:18 ....A          204               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Shooting Stars [Philip Baltzer_ 1978].ch8
+2010-09-20 13:28:10 ....A          521               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Sirpinski [Sergey Naydenov_ 2010].ch8
+2006-06-02 20:12:10 ....A          388               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Slide [Joyce Weisbecker].ch8
+2006-01-04 18:16:22 ....A          334               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Soccer.ch8
+2006-01-04 18:16:22 ....A          716               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Flight.ch8
+2010-09-11 21:21:02 ....A          192               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Intercept [Joseph Weisbecker_ 1978].ch8
+2009-08-03 19:08:00 ....A          400               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Space Invaders (ETI660 Hybrid) [P. Easdown_198x].ch8
+2003-12-17 23:05:12 ....A         1283               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Invaders [David Winter] (alt).ch8
+2005-01-05 18:55:46 ....A         1301               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Space Invaders [David Winter].ch8
+2010-09-11 21:40:20 ....A          154               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Spooky Spot [Joseph Weisbecker_ 1978].ch8
+2010-08-13 19:37:04 ....A          386               copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs\SQRT Test [Sergey Naydenov_ 2010].ch8
+2004-02-07 22:12:32 ....A          211               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Squash [David Winter].ch8
+2010-09-09 23:11:52 ....A          288               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Submarine [Carmelo Cortez_ 1978].ch8
+2006-06-02 20:11:14 ....A          176               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Sum Fun [Joyce Weisbecker].ch8
+2003-12-18 00:52:12 ....A          946               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Syzygy [Roy Trevino_ 1990].ch8
+2003-12-18 01:00:38 ....A          560               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tank.ch8
+2005-01-05 18:55:46 ....A          284               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tapeworm [JDR_ 1999].ch8
+2003-12-18 00:52:12 ....A          494               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tetris [Fran Dachille_ 1991].ch8
+2003-12-18 01:00:38 ....A          486               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tic-Tac-Toe [David Winter].ch8
+2006-01-04 18:16:22 ....A          144               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Timebomb.ch8
+2010-09-15 21:26:30 ....A         3203               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Trip-8 Demo [Revival Studios_ 2008].ch8
+2006-01-04 18:16:22 ....A          382               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Tron.ch8
+2003-12-18 00:52:12 ....A          224               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\UFO [Lutz V_ 1992].ch8
+2003-12-18 01:05:12 ....A          230               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Vers [JMN_ 1991].ch8
+2003-12-18 01:05:12 ....A          507               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Vertical Brix [Paul Robson_ 1996].ch8
+2006-06-02 16:08:28 ....A           80               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Video Display Drawing Game [Joseph Weisbecker] (hybrid).ch8
+2004-02-07 22:12:32 ....A          229               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Wall [David Winter].ch8
+2003-12-18 00:52:12 ....A          206               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Wipe Off [Joseph Weisbecker].ch8
+2009-08-01 22:15:30 ....A          606               copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids\Wipeout (ETI660 hybrid) [W.F. Kreykes_ 1982].ch8
+2010-09-12 20:45:42 ....A          677               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\Worm V4 [RB-Revival Studios_ 2007].ch8
+2005-07-01 23:05:02 ....A          106               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\X-Mirror.ch8
+2007-07-29 01:56:44 ....A          144               copy to userappdata\Emma 02\Chip-8\Chip-8 Demos\Zero Demo [ZeroShadowZ_ 2007].ch8
+2007-07-28 02:18:50 ....A          184               copy to userappdata\Emma 02\Chip-8\Chip-8 Games\ZeroPong [ZeroShadowZ_ 2007].ch8
+2007-09-22 22:46:08 ....A         1750               copy to userappdata\Emma 02\Comx\Plotter\16 Line Types.comx
+2007-09-03 22:37:54 ....A        14805               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\1802Assembler.comx
+2007-09-25 14:32:24 ....A         3279               copy to userappdata\Emma 02\Comx\Plotter\3D Graphic.comx
+2007-11-15 23:11:30 ....A         9576               copy to userappdata\Emma 02\Comx\Spellen\3DBoterKaasEieren.comx
+2007-09-03 22:03:52 ....A        12509               copy to userappdata\Emma 02\Comx\Programmas\A&ESpandoek.comx
+2007-09-03 21:35:14 ....A         9333               copy to userappdata\Emma 02\Comx\Spellen\ABC.comx
+2007-12-17 13:41:32 ....A        11651               copy to userappdata\Emma 02\Comx\Programmas\Adressenbestand 2.comx
+2007-09-06 21:04:00 ....A         9400               copy to userappdata\Emma 02\Comx\Programmas\Adressenbestand.comx
+2007-12-16 10:39:44 ....A         3298               copy to userappdata\Emma 02\Comx\Spellen\Afdaling.comx
+2007-12-20 00:21:48 ....A         7981               copy to userappdata\Emma 02\Comx\Programmas\Algebra 1.comx
+2007-09-15 22:48:28 ....A         3381               copy to userappdata\Emma 02\Comx\F&M Basic\Alkohol.comx
+2007-09-12 15:23:26 ....A          202               copy to userappdata\Emma 02\Comx\F&M Basic\Alpha X$.comx
+2007-12-15 20:17:32 ....A        13178               copy to userappdata\Emma 02\Comx\Spellen\Appel Plukker.comx
+2007-09-03 22:37:28 ....A         3116               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Assembler.comx
+2007-12-18 16:34:56 ....A         4122               copy to userappdata\Emma 02\Comx\Programmas\Audiogram.comx
+2007-09-03 20:06:20 ....A         2798               copy to userappdata\Emma 02\Comx\Spellen\Autocross.comx
+2007-09-03 16:05:32 ....A         2718               copy to userappdata\Emma 02\Comx\Spellen\Autorace.comx
+2007-09-15 22:45:50 ....A         9377               copy to userappdata\Emma 02\Comx\F&M Basic\Autorace.comx
+2007-08-27 22:25:22 ....A        19439               copy to userappdata\Emma 02\Comx\Spellen\Backgammon.comx
+2007-09-05 20:53:28 ....A        10244               copy to userappdata\Emma 02\Comx\Spellen\Bakterieaanval.comx
+2007-09-04 22:16:28 ....A        10723               copy to userappdata\Emma 02\Comx\Spellen\Bankroof.comx
+2007-07-03 21:42:50 ....A        16010               copy to userappdata\Emma 02\Comx\Educatief\Basic introductie 1.comx
+2007-07-03 21:42:58 ....A        24690               copy to userappdata\Emma 02\Comx\Educatief\Basic introductie 2.comx
+2007-12-20 00:03:10 ....A         3750               copy to userappdata\Emma 02\Comx\Educatief\Basic Programming Exercise.comx
+2007-09-13 13:10:52 ....A         6700               copy to userappdata\Emma 02\Comx\Programmas\Basicode v8.comx
+2007-12-27 19:19:40 ....A          233               copy to userappdata\Emma 02\Comx\Programs\Benchmark.comx
+2007-12-15 14:52:30 ....A         5009               copy to userappdata\Emma 02\Comx\Programmas\Bestands Beheer.comx
+2007-12-15 19:54:46 ....A         5300               copy to userappdata\Emma 02\Comx\Programmas\Bioritme.comx
+2007-08-30 21:58:28 ....A        16482               copy to userappdata\Emma 02\Comx\Spellen\Blackjack.comx
+2007-12-18 23:24:48 ....A         2906               copy to userappdata\Emma 02\Comx\Programmas\Boeken Bestand.comx
+2007-12-15 23:21:56 ....A         4039               copy to userappdata\Emma 02\Comx\Spellen\Boggle.comx
+2007-12-16 10:24:56 ....A        19815               copy to userappdata\Emma 02\Comx\Spellen\Bombardement.comx
+2007-12-15 23:30:56 ....A         2774               copy to userappdata\Emma 02\Comx\Spellen\Bomber.comx
+2007-09-03 20:06:44 ....A         4811               copy to userappdata\Emma 02\Comx\Spellen\Bommenwerper.comx
+2007-09-03 18:35:16 ....A         7796               copy to userappdata\Emma 02\Comx\Spellen\Bord van Galton.comx
+2007-09-05 10:45:30 ....A         7069               copy to userappdata\Emma 02\Comx\Spellen\Boter Kaas Eieren.comx
+2007-09-03 20:10:06 ....A        29256               copy to userappdata\Emma 02\Comx\Spellen\Boulderdash.comx
+2007-09-05 10:05:56 ....A        11120               copy to userappdata\Emma 02\Comx\Spellen\Bowling.comx
+2007-09-05 10:10:04 ....A         4903               copy to userappdata\Emma 02\Comx\Spellen\Brandalarm.comx
+2007-09-03 22:03:16 ....A        12517               copy to userappdata\Emma 02\Comx\Programmas\Brandstofverbruik.comx
+2007-09-06 06:11:40 ....A         8143               copy to userappdata\Emma 02\Comx\Spellen\Brandstofzoeker.comx
+2007-12-18 16:33:40 ....A         7535               copy to userappdata\Emma 02\Comx\Programmas\Bruto-Netto Loon.comx
+2007-09-03 21:34:58 ....A         9714               copy to userappdata\Emma 02\Comx\Spellen\Burgertime.comx
+2007-09-03 18:35:50 ....A         2896               copy to userappdata\Emma 02\Comx\Programmas\Caleidoscoop.comx
+2007-10-01 09:30:38 ....A         3675               copy to userappdata\Emma 02\Comx\Spellen\Car Rally.comx
+2007-12-15 14:50:46 ....A         8997               copy to userappdata\Emma 02\Comx\Programmas\Cash Flow Analysis.comx
+2007-12-18 23:46:10 ....A        18683               copy to userappdata\Emma 02\Comx\Programmas\Cassette Beheer.comx
+2007-09-02 19:21:44 ....A        27623               copy to userappdata\Emma 02\Comx\Spellen\Cave invader.comx
+2008-01-10 00:25:02 ....A         9090               copy to userappdata\Emma 02\Comx\Spellen\CavePilot.comx
+2007-09-29 21:58:10 ....A        11357               copy to userappdata\Emma 02\Comx\Talen - Languages\CForthAssembler.comx
+2007-12-20 00:13:16 ....A         6800               copy to userappdata\Emma 02\Comx\Spellen\Character Mover.comx
+2007-09-23 09:28:58 ....A         1476               copy to userappdata\Emma 02\Comx\Plotter\Character Set.comx
+2007-12-17 13:02:16 ....A        15711               copy to userappdata\Emma 02\Comx\Spellen\Chinees Schaak.comx
+2007-12-15 20:16:52 ....A         1680               copy to userappdata\Emma 02\Comx\Spellen\Cijfer Series.comx
+2007-12-17 17:31:20 ....A        23662               copy to userappdata\Emma 02\Comx\Programmas\Cijferbeheer.comx
+2007-12-04 13:10:12 ....A         6246               copy to userappdata\Emma 02\Comx\Spellen\City Raid.comx
+2007-09-05 10:13:30 ....A        12680               copy to userappdata\Emma 02\Comx\Spellen\Cockpit.comx
+2007-09-25 14:31:22 ....A         7364               copy to userappdata\Emma 02\Comx\Plotter\Color Picture.comx
+2007-09-21 17:13:46 ....A        15809               copy to userappdata\Emma 02\Comx\Plotter\Columbia.comx
+2007-12-18 16:23:50 ....A        11414               copy to userappdata\Emma 02\Comx\Programmas\Competitie Stand.comx
+2007-12-20 14:14:46 ....A         2096               copy to userappdata\Emma 02\Comx\Educatief\Computer Kennismaking.comx
+2007-12-15 20:19:44 ....A        14969               copy to userappdata\Emma 02\Comx\Spellen\COMX Autorace.comx
+2007-07-03 22:13:20 ....A        14991               copy to userappdata\Emma 02\Comx\Spellen\COMX Bridge.comx
+2007-07-03 21:43:06 ....A         9309               copy to userappdata\Emma 02\Comx\Talen - Languages\COMX CForth.comx
+2007-12-14 23:37:30 ....A        12024               copy to userappdata\Emma 02\Comx\Programs\COMX Demo 3.comx
+2007-07-03 21:43:16 ....A         2349               copy to userappdata\Emma 02\Comx\Programmas\COMX Demo.comx
+2007-06-29 00:59:30 ....A         9763               copy to userappdata\Emma 02\Comx\Spellen\COMX Draak.comx
+2007-12-20 00:19:40 ....A         6697               copy to userappdata\Emma 02\Comx\Spellen\COMX Hybride.comx
+2007-07-03 21:43:24 ....A        11613               copy to userappdata\Emma 02\Comx\Talen - Languages\COMX Logo.comx
+2007-07-03 22:13:30 ....A         5831               copy to userappdata\Emma 02\Comx\Spellen\COMX Memo.comx
+2007-12-20 00:17:22 ....A        10570               copy to userappdata\Emma 02\Comx\Spellen\COMX Mijnenveld.comx
+2007-07-03 22:13:36 ....A         6093               copy to userappdata\Emma 02\Comx\Spellen\COMX Ordo.comx
+2007-12-04 13:08:04 ....A         3353               copy to userappdata\Emma 02\Comx\Programmas\COMX Orgel.comx
+2007-07-03 21:43:32 ....A        15197               copy to userappdata\Emma 02\Comx\Talen - Languages\COMX Pascal.comx
+2007-08-27 22:29:18 ....A        17651               copy to userappdata\Emma 02\Comx\Spellen\COMX Schaak.comx
+2007-12-04 13:15:06 ....A         6475               copy to userappdata\Emma 02\Comx\Programmas\COMX Tekenen.comx
+2007-09-22 22:30:38 ....A         3149               copy to userappdata\Emma 02\Comx\Plotter\Comx Turtle.comx
+2007-09-04 22:16:46 ....A         5826               copy to userappdata\Emma 02\Comx\Spellen\COMXMemory.comx
+2007-12-18 16:42:08 ....A         1901               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Concatenator.comx
+2007-12-18 16:41:52 ....A         3053               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Concatenator.Manual.comx
+2007-09-30 14:28:54 ....A        19614               copy to userappdata\Emma 02\Comx\Spellen\Connectica.comx
+2007-09-15 22:35:44 ....A        10306               copy to userappdata\Emma 02\Comx\F&M Basic\Crazy Kong.comx
+2007-12-14 23:41:26 ....A        12367               copy to userappdata\Emma 02\Comx\Games\Cross Fire.comx
+2007-09-13 12:21:00 ....A        24805               copy to userappdata\Emma 02\Comx\Spellen\Dammen.comx
+2007-12-17 17:23:34 ....A         5495               copy to userappdata\Emma 02\Comx\Programmas\Dbase I.comx
+2007-12-20 14:38:14 ....A        23034               copy to userappdata\Emma 02\Comx\Educatief\De Eerste Woordjes.comx
+2007-07-03 21:43:42 ....A        28434               copy to userappdata\Emma 02\Comx\Programmas\De Stelling van Pythagoras.comx
+2007-12-15 10:25:00 ....A        20557               copy to userappdata\Emma 02\Comx\Spellen\De Vrek.comx
+2007-12-20 14:26:28 ....A         7648               copy to userappdata\Emma 02\Comx\Programmas\Determinanten.comx
+2007-09-15 22:34:02 ....A         2935               copy to userappdata\Emma 02\Comx\F&M Basic\Digitaal klok.comx
+2007-12-16 17:42:20 ....A         3016               copy to userappdata\Emma 02\Comx\Programmas\Digitaal Klok.comx
+2007-09-03 22:38:26 ....A         4607               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Disassembler&Monitor.comx
+2007-09-03 22:37:10 ....A        27678               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Disassembler.comx
+2007-09-03 19:42:34 ....A        27058               copy to userappdata\Emma 02\Comx\Games\Diver.comx
+2007-12-16 10:29:04 ....A         4245               copy to userappdata\Emma 02\Comx\Spellen\Dobbelspel.comx
+2007-11-17 22:10:54 ....A         7480               copy to userappdata\Emma 02\Comx\Spellen\Doelschieten.comx
+2007-09-09 15:37:54 ....A         6606               copy to userappdata\Emma 02\Comx\Spellen\Donkey the kong.comx
+2007-12-16 10:37:40 ....A        28814               copy to userappdata\Emma 02\Comx\Spellen\Doolhof Race.comx
+2007-09-05 11:27:32 ....A         8254               copy to userappdata\Emma 02\Comx\Educatief\Dr Math.comx
+2007-09-13 12:20:04 ....A        25370               copy to userappdata\Emma 02\Comx\Spellen\Drie Schot.comx
+2007-07-03 21:43:54 ....A        10299               copy to userappdata\Emma 02\Comx\Programmas\Driehoek van pascal.comx
+2007-09-06 06:06:08 ....A        20304               copy to userappdata\Emma 02\Comx\Spellen\Drugsmokkel.comx
+2007-12-15 23:32:40 ....A         3520               copy to userappdata\Emma 02\Comx\Spellen\Dubbel en Zeven.comx
+2007-07-03 22:13:44 ....A         2344               copy to userappdata\Emma 02\Comx\Spellen\Duikbootjager.comx
+2007-07-03 22:13:50 ....A         3980               copy to userappdata\Emma 02\Comx\Spellen\Een is teveel.comx
+2007-07-03 22:13:58 ....A        10575               copy to userappdata\Emma 02\Comx\Spellen\Eet een pudding.comx
+2007-09-13 14:19:08 ....A         5850               copy to userappdata\Emma 02\Comx\Spellen\Eet Een Wurm 2.comx
+2007-06-29 01:12:24 ....A         4236               copy to userappdata\Emma 02\Comx\Spellen\Eet een wurm.comx
+2007-12-18 23:27:10 ....A         2127               copy to userappdata\Emma 02\Comx\Programmas\Eeuwigdurendekalender 2.comx
+2007-09-06 21:04:24 ....A         7128               copy to userappdata\Emma 02\Comx\Programmas\Eeuwigdurendekalender.comx
+2007-12-20 14:20:42 ....A         9292               copy to userappdata\Emma 02\Comx\Educatief\Electronica Condensatoren.comx
+2007-12-20 14:24:12 ....A         1666               copy to userappdata\Emma 02\Comx\Educatief\Electronica Transformatoren.comx
+2007-12-20 14:23:12 ....A        10427               copy to userappdata\Emma 02\Comx\Educatief\Electronica Voedingen.comx
+2007-12-20 14:19:52 ....A         5370               copy to userappdata\Emma 02\Comx\Educatief\Electronica Weerstanden.comx
+2007-12-20 14:22:28 ....A         9276               copy to userappdata\Emma 02\Comx\Educatief\Electronica Zelfinducties.comx
+2007-12-16 10:38:54 ....A         9945               copy to userappdata\Emma 02\Comx\Spellen\Empire.comx
+2007-12-18 16:38:50 ....A        24678               copy to userappdata\Emma 02\Comx\Programmas\Energie Programma.comx
+2007-12-18 16:24:34 ....A         4415               copy to userappdata\Emma 02\Comx\Programmas\Energie Verbruik.comx
+2007-09-09 15:54:28 ....A         6730               copy to userappdata\Emma 02\Comx\Spellen\Escape.comx
+2007-12-17 13:54:18 ....A         4748               copy to userappdata\Emma 02\Comx\Programmas\Etiketten Programma.comx
+2007-12-17 13:35:02 ....A         9860               copy to userappdata\Emma 02\Comx\Spellen\Expert.comx
+2008-01-23 16:25:56 ....A          523               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Activate Joycard - CALL (@B000).comx
+2008-01-23 16:28:48 ....A          841               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Activate Joycard.comx
+2007-12-16 22:45:42 ....A         3488               copy to userappdata\Emma 02\Comx\Programmas\F&M Alpha+ (tape).comx
+2007-09-12 15:18:28 ....A         3744               copy to userappdata\Emma 02\Comx\Programmas\F&M Alpha+.comx
+2010-09-01 19:27:00 ....A         9091               copy to userappdata\Emma 02\Comx\F&M Basic\F&M Basic.comx
+2010-09-01 19:27:00 ....A         9091               copy to userappdata\Emma 02\Comx\Programmas\F&M Basic.comx
+2010-09-01 19:27:00 ....A         9091               copy to userappdata\Emma 02\Comx\Programs\F&M Basic.comx
+2007-12-17 14:12:52 ....A         1214               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Clock.comx
+2007-09-12 12:27:36 ....A         1035               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Copydub.comx
+2007-09-12 14:50:40 ....A         7223               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Diskmonitor.comx
+2007-12-16 23:24:48 ....A        11313               copy to userappdata\Emma 02\Comx\Demo\F&M Donkey Kong Demo.comx
+2007-09-12 12:54:24 ....A         1279               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Joy in Basic.comx
+2007-09-12 14:30:36 ....A         2404               copy to userappdata\Emma 02\Comx\Programmas\F&M Joy Tekenen.comx
+2007-09-12 10:57:22 ....A          779               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Lock.comx
+2007-12-17 11:55:54 ....A         8404               copy to userappdata\Emma 02\Comx\Spellen\F&M Memory.comx
+2010-09-01 19:42:02 ....A         5770               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Monitor English.comx
+2007-09-03 14:16:50 ....A         5899               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Monitor.comx
+2007-09-12 23:33:22 ....A         4332               copy to userappdata\Emma 02\Comx\Spellen\F&M Pit Stop.comx
+2007-09-13 12:07:08 ....A         2635               copy to userappdata\Emma 02\Comx\Programs\F&M Pixel Drawing.comx
+2007-09-12 14:31:16 ....A         2617               copy to userappdata\Emma 02\Comx\Programmas\F&M Pixel Tekenen.comx
+2007-09-19 15:18:58 ....A        20567               copy to userappdata\Emma 02\Comx\Spellen\F&M Schaak.comx
+2007-12-16 23:15:16 ....A         5737               copy to userappdata\Emma 02\Comx\Programmas\F&M Super Plot+.comx
+2007-09-12 14:25:56 ....A         5629               copy to userappdata\Emma 02\Comx\Programmas\F&M Super Plot.comx
+2007-09-05 13:48:10 ....A         1012               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M TOS v3.00.Advies.comx
+2007-09-12 10:13:58 ....A         1331               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M TOS v3.00.comx
+2007-09-12 10:12:02 ....A         3533               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M TOS v3.00.Manual.comx
+2008-01-23 21:39:16 ....A          621               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Turbo v1.00.comx
+2008-01-23 20:51:20 ....A          563               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Turbo v2.00.comx
+2007-12-16 17:55:46 ....A         3333               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Turbo v2.00.Manual.comx
+2007-09-12 12:22:58 ....A          779               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\F&M Unlock.comx
+2007-09-25 14:18:34 ....A        10675               copy to userappdata\Emma 02\Comx\Programmas\F&M WP PL-80.comx
+2007-09-13 12:30:50 ....A        10361               copy to userappdata\Emma 02\Comx\Programmas\F&M WP v1.05.comx
+2007-09-07 18:43:02 ....A        10309               copy to userappdata\Emma 02\Comx\Programmas\F&M WP.comx
+2007-09-15 22:29:28 ....A         1334               copy to userappdata\Emma 02\Comx\F&M Basic\F-Toetsen.comx
+2007-12-20 00:12:00 ....A         7227               copy to userappdata\Emma 02\Comx\Spellen\Factoren.comx
+2007-09-05 10:03:24 ....A         2324               copy to userappdata\Emma 02\Comx\Spellen\Feyenoord-lied.comx
+2007-09-06 21:09:26 ....A        19891               copy to userappdata\Emma 02\Comx\Programmas\Fonetiek.comx
+2007-11-25 23:32:34 ....A          167               copy to userappdata\Emma 02\Comx\Plotter\Fonts.comx
+2007-09-06 06:07:46 ....A         5023               copy to userappdata\Emma 02\Comx\Spellen\From5to0.comx
+2007-12-16 17:29:14 ....A         3896               copy to userappdata\Emma 02\Comx\Spellen\Fruitautomaat.comx
+2007-09-27 00:04:42 ....A        19293               copy to userappdata\Emma 02\Comx\Programs\Fuel Economy.comx
+2007-12-16 10:48:20 ....A         4156               copy to userappdata\Emma 02\Comx\Spellen\Fun Factory.comx
+2007-12-20 14:29:32 ....A         3603               copy to userappdata\Emma 02\Comx\Programmas\Funktie Programma.comx
+2007-09-06 06:06:26 ....A        10378               copy to userappdata\Emma 02\Comx\Spellen\Galaxion.comx
+2007-09-05 20:53:12 ....A        15020               copy to userappdata\Emma 02\Comx\Spellen\Galaxis.comx
+2007-07-03 22:14:06 ....A         5003               copy to userappdata\Emma 02\Comx\Spellen\Galgje.comx
+2007-09-03 22:02:52 ....A        28115               copy to userappdata\Emma 02\Comx\Programmas\Gasverbruik-Besparing.comx
+2008-01-10 00:11:26 ....A         9021               copy to userappdata\Emma 02\Comx\Games\GateMaster.comx
+2007-12-18 23:30:12 ....A          863               copy to userappdata\Emma 02\Comx\Programmas\Geboorte Kalender.comx
+2007-12-16 17:30:12 ....A         2944               copy to userappdata\Emma 02\Comx\Spellen\Gedachten Lezen.comx
+2007-12-15 20:12:00 ....A         5090               copy to userappdata\Emma 02\Comx\Spellen\Geluksdoos.comx
+2007-11-05 23:22:58 ....A        16970               copy to userappdata\Emma 02\Comx\Spellen\Get Your Gadget.comx
+2009-02-25 23:18:38 ....A        16970               copy to userappdata\Emma 02\Comx\Games\Get Your Gadget.comx
+2007-12-20 00:29:08 ....A         3637               copy to userappdata\Emma 02\Comx\Spellen\Getal Raden II.comx
+2007-12-16 10:36:20 ....A         1797               copy to userappdata\Emma 02\Comx\Spellen\Getal Raden III.comx
+2007-07-03 22:24:20 ....A         1171               copy to userappdata\Emma 02\Comx\Spellen\Getal Raden.comx
+2007-12-20 00:10:32 ....A        11266               copy to userappdata\Emma 02\Comx\Educatief\Getallen Jager.comx
+2007-09-30 06:33:34 ....A        24176               copy to userappdata\Emma 02\Comx\Educatief\GetallenLijn.comx
+2007-06-06 23:02:28 ....A        18357               copy to userappdata\Emma 02\Comx\Spellen\GetYourGadget-Disk.comx
+2007-09-03 22:04:26 ....A        21071               copy to userappdata\Emma 02\Comx\Programmas\Gezinsbudget.comx
+2007-12-16 10:31:20 ....A        11300               copy to userappdata\Emma 02\Comx\Spellen\Golf.comx
+2007-12-18 16:35:56 ....A        18737               copy to userappdata\Emma 02\Comx\Programmas\Grafiek Demo.comx
+2007-09-23 14:00:06 ....A         6612               copy to userappdata\Emma 02\Comx\Plotter\Graph Chart.comx
+2007-12-18 23:35:34 ....A         7981               copy to userappdata\Emma 02\Comx\Educatief\Griekse Les.comx
+2007-09-02 19:19:04 ....A        13959               copy to userappdata\Emma 02\Comx\Spellen\Griezelgrotten.comx
+2007-09-26 20:08:24 ....A         8115               copy to userappdata\Emma 02\Comx\Games\Guess Who.comx
+2009-02-17 00:18:42 ....A        16046               copy to userappdata\Emma 02\Comx\Games\Happiehap 2.comx
+2009-02-17 00:20:00 ....A        12001               copy to userappdata\Emma 02\Comx\Spellen\Happiehap.comx
+2009-02-17 00:19:26 ....A        16097               copy to userappdata\Emma 02\Comx\Spellen\Happiehap2.comx
+2007-09-05 20:54:38 ....A        11021               copy to userappdata\Emma 02\Comx\Spellen\Hazenjacht.comx
+2007-12-18 16:25:24 ....A         3763               copy to userappdata\Emma 02\Comx\Programmas\Hex-Dec Conversie.comx
+2007-09-22 22:29:14 ....A        18622               copy to userappdata\Emma 02\Comx\Plotter\Highway.comx
+2007-12-17 13:51:38 ....A        11430               copy to userappdata\Emma 02\Comx\Programmas\Histogram Opbouw.comx
+2007-09-29 21:47:28 ....A        17243               copy to userappdata\Emma 02\Comx\Programs\HistoryTimeChart.comx
+2007-06-29 01:13:46 ....A         4890               copy to userappdata\Emma 02\Comx\Games\Hit and Run.comx
+2007-09-03 21:35:34 ....A        13373               copy to userappdata\Emma 02\Comx\Spellen\Hoger-Lager.comx
+2007-12-20 14:35:34 ....A        15681               copy to userappdata\Emma 02\Comx\Educatief\Honderdveld.comx
+2007-12-15 23:30:06 ....A         5158               copy to userappdata\Emma 02\Comx\Spellen\Hongerhapper.comx
+2007-12-20 00:21:08 ....A         8607               copy to userappdata\Emma 02\Comx\Spellen\Honingraat.comx
+2007-12-15 10:32:10 ....A        13938               copy to userappdata\Emma 02\Comx\Spellen\Hoofdsteden.comx
+2007-12-18 23:37:02 ....A        13811               copy to userappdata\Emma 02\Comx\Programmas\Huishoud Boekje II.comx
+2007-12-15 14:53:24 ....A         7251               copy to userappdata\Emma 02\Comx\Programmas\Huishoud Boekje.comx
+2007-12-18 16:30:30 ....A        17535               copy to userappdata\Emma 02\Comx\Programmas\Huishoud Budgetering.comx
+2007-12-17 17:28:44 ....A         6833               copy to userappdata\Emma 02\Comx\Programmas\Hypotheek Berekening.comx
+2007-12-17 17:25:36 ....A        11924               copy to userappdata\Emma 02\Comx\Programmas\Hypotheek Lening.comx
+2007-09-18 15:29:00 ....A        23831               copy to userappdata\Emma 02\Comx\Spellen\Ijskikker.comx
+2007-12-20 14:28:54 ....A         1375               copy to userappdata\Emma 02\Comx\Programmas\Integraal Berekening.comx
+2007-09-30 13:51:00 ....A        12993               copy to userappdata\Emma 02\Comx\Plotter\Isomech.comx
+2007-12-18 23:47:30 ....A        19243               copy to userappdata\Emma 02\Comx\Programmas\Jaaroverzicht.comx
+2007-12-15 19:51:32 ....A         4238               copy to userappdata\Emma 02\Comx\Spellen\Jack Pot Machine.comx
+2007-12-17 12:37:02 ....A        18719               copy to userappdata\Emma 02\Comx\Spellen\Jackpot.comx
+2007-12-18 16:22:56 ....A         8333               copy to userappdata\Emma 02\Comx\Programmas\Jogging.comx
+2007-12-20 14:10:52 ....A        18892               copy to userappdata\Emma 02\Comx\Programmas\Joodse Kalender.comx
+2007-12-15 20:10:40 ....A          710               copy to userappdata\Emma 02\Comx\Programmas\Joystick Tekenen.comx
+2007-12-15 19:57:02 ....A         8250               copy to userappdata\Emma 02\Comx\Spellen\Kaart Spel.comx
+2007-09-03 18:36:08 ....A         6654               copy to userappdata\Emma 02\Comx\Spellen\Kalah.comx
+2007-09-09 17:39:14 ....A         9036               copy to userappdata\Emma 02\Comx\Spellen\Kamikaze.comx
+2007-12-15 20:03:04 ....A         7244               copy to userappdata\Emma 02\Comx\Spellen\Kanonnen Jacht.comx
+2007-12-18 23:45:00 ....A         8487               copy to userappdata\Emma 02\Comx\Programmas\Kartografie.comx
+2007-12-18 23:36:12 ....A         6155               copy to userappdata\Emma 02\Comx\Programmas\Kassabeheer.comx
+2007-12-16 23:59:18 ....A         7318               copy to userappdata\Emma 02\Comx\Spellen\Kazka.comx
+2008-11-16 17:41:18 ....A         7134               copy to userappdata\Emma 02\Comx\Programmas\Kerstgroet.comx
+2007-09-03 22:28:04 ....A        14883               copy to userappdata\Emma 02\Comx\Spellen\KijkUit.comx
+2007-09-03 20:10:40 ....A        27208               copy to userappdata\Emma 02\Comx\Spellen\Killerwatt.comx
+2007-09-03 13:49:52 ....A         9481               copy to userappdata\Emma 02\Comx\Spellen\KleiduivenSchieten.comx
+2007-09-07 12:15:26 ....A          877               copy to userappdata\Emma 02\Comx\Programmas\Kleine letters data programma - Memory Access.comx
+2007-06-14 21:53:04 ....A         1888               copy to userappdata\Emma 02\Comx\Programmas\Kleine letters data programma.comx
+2007-09-07 12:16:06 ....A         1100               copy to userappdata\Emma 02\Comx\Programmas\Kleine letters DLOAD data.comx
+2007-07-03 22:09:26 ....A          954               copy to userappdata\Emma 02\Comx\Programmas\Kleine letters.comx
+2007-12-20 14:25:52 ....A        16842               copy to userappdata\Emma 02\Comx\Programmas\Kleinste Kwadraten.comx
+2007-09-04 22:17:36 ....A         2325               copy to userappdata\Emma 02\Comx\Educatief\KleuterBasRekenen.comx
+2007-09-04 22:17:14 ....A        14947               copy to userappdata\Emma 02\Comx\Educatief\KleuterRekenen.comx
+2007-09-15 22:28:28 ....A         2447               copy to userappdata\Emma 02\Comx\F&M Basic\Klinkertje.comx
+2007-12-16 10:23:44 ....A         5012               copy to userappdata\Emma 02\Comx\Spellen\Kluis Kraker.comx
+2007-12-18 23:42:00 ....A        22092               copy to userappdata\Emma 02\Comx\Programmas\Koekalender.comx
+2007-12-18 23:40:32 ....A         5731               copy to userappdata\Emma 02\Comx\Programmas\Koekalender.Manual.comx
+2007-09-30 15:10:48 ....A         7605               copy to userappdata\Emma 02\Comx\Spellen\Koekjesmonster.comx
+2007-07-03 22:24:34 ....A        30643               copy to userappdata\Emma 02\Comx\Spellen\Kokopoly.comx
+2007-12-20 14:43:26 ....A         4896               copy to userappdata\Emma 02\Comx\Programmas\Kookboek.comx
+2007-09-26 21:05:06 ....A        12367               copy to userappdata\Emma 02\Comx\Spellen\Kruisvuur.comx
+2007-12-20 14:27:50 ....A         3719               copy to userappdata\Emma 02\Comx\Programmas\Kwadratische Functies.comx
+2007-12-16 10:25:50 ....A        14715               copy to userappdata\Emma 02\Comx\Spellen\Kwiedelgrotten.comx
+2007-12-15 20:20:50 ....A         1651               copy to userappdata\Emma 02\Comx\Spellen\Laatste Gulden.comx
+2007-12-15 23:39:22 ....A         6940               copy to userappdata\Emma 02\Comx\Spellen\Labyrint.comx
+2007-12-16 10:29:50 ....A        13456               copy to userappdata\Emma 02\Comx\Spellen\Laser-Gun.comx
+2007-07-03 22:24:40 ....A        21192               copy to userappdata\Emma 02\Comx\Spellen\LazyBug.comx
+2007-09-03 22:05:24 ....A        18721               copy to userappdata\Emma 02\Comx\Programmas\Leasecalculatie.comx
+2007-12-20 00:14:04 ....A         1544               copy to userappdata\Emma 02\Comx\Programmas\Lichtschakeling.comx
+2007-10-20 19:23:12 ....A        14501               copy to userappdata\Emma 02\Comx\Spellen\Life 2.comx
+2007-12-14 23:40:16 ....A        14849               copy to userappdata\Emma 02\Comx\Games\Look Before You Leap.comx
+2007-07-03 22:24:46 ....A         2533               copy to userappdata\Emma 02\Comx\Spellen\Lotto.comx
+2007-12-17 13:56:32 ....A        18221               copy to userappdata\Emma 02\Comx\Educatief\Maanden Leerprogramma.comx
+2007-12-16 10:35:18 ....A        14613               copy to userappdata\Emma 02\Comx\Spellen\Magisch Vierkant.comx
+2007-09-15 22:43:54 ....A         5909               copy to userappdata\Emma 02\Comx\F&M Basic\Manneke pis.comx
+2007-09-03 20:05:28 ....A         8302               copy to userappdata\Emma 02\Comx\Spellen\MannekePis.comx
+2007-12-27 16:02:16 ....A        27918               copy to userappdata\Emma 02\Comx\Games\Marketing Game II.comx
+2007-12-17 00:21:04 ....A        15497               copy to userappdata\Emma 02\Comx\Games\Marketing Game.comx
+2007-09-03 18:37:14 ....A        14589               copy to userappdata\Emma 02\Comx\Spellen\Marketing spel.comx
+2007-10-01 09:28:52 ....A        21073               copy to userappdata\Emma 02\Comx\Spellen\Master Duck.comx
+2007-12-15 20:15:36 ....A         3488               copy to userappdata\Emma 02\Comx\Spellen\Mastermind.comx
+2007-12-15 20:21:26 ....A         4664               copy to userappdata\Emma 02\Comx\Spellen\Mastermind2.comx
+2007-09-05 20:52:08 ....A         4165               copy to userappdata\Emma 02\Comx\Spellen\Mastermind3.comx
+2007-09-06 21:09:02 ....A        24641               copy to userappdata\Emma 02\Comx\Educatief\Matrix.comx
+2007-12-20 00:04:34 ....A         8998               copy to userappdata\Emma 02\Comx\Programmas\Matrixrekening.comx
+2008-01-17 20:19:42 ....A        28877               copy to userappdata\Emma 02\Comx\Games\Maze Race.comx
+2007-07-03 22:24:52 ....A        18205               copy to userappdata\Emma 02\Comx\Spellen\MazeCaves.comx
+2007-09-25 14:28:58 ....A        19657               copy to userappdata\Emma 02\Comx\Plotter\Mechanical Drawing.comx
+2007-12-20 00:28:22 ....A        12245               copy to userappdata\Emma 02\Comx\Programmas\Meetkunde 1.comx
+2007-12-15 23:32:04 ....A        14735               copy to userappdata\Emma 02\Comx\Spellen\Middeleeuws Monopolie.comx
+2007-09-05 11:50:36 ....A         4659               copy to userappdata\Emma 02\Comx\Spellen\Mind Reader.comx
+2007-12-17 13:47:02 ....A         1073               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Mini Monitor.comx
+2007-09-05 10:00:16 ....A        20668               copy to userappdata\Emma 02\Comx\Spellen\MissionControl.comx
+2007-12-15 23:23:46 ....A         9887               copy to userappdata\Emma 02\Comx\Spellen\Molenspel.comx
+2007-12-15 20:08:30 ....A        18931               copy to userappdata\Emma 02\Comx\Programmas\Mondharmonica.comx
+2007-06-29 01:11:04 ....A         6148               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Monitor+.comx
+2007-09-30 08:15:04 ....A        23696               copy to userappdata\Emma 02\Comx\Spellen\MonsterEiland.comx
+2007-12-20 00:14:36 ....A         2591               copy to userappdata\Emma 02\Comx\Educatief\Morse Tekens.comx
+2007-12-20 14:12:34 ....A         5006               copy to userappdata\Emma 02\Comx\Educatief\Morse Trainer 2.comx
+2007-09-22 22:25:18 ....A         9921               copy to userappdata\Emma 02\Comx\Plotter\Mparts.comx
+2007-12-18 16:44:22 ....A        21507               copy to userappdata\Emma 02\Comx\Programmas\Multiplan.comx
+2007-09-03 21:35:54 ....A         7944               copy to userappdata\Emma 02\Comx\Spellen\Munten Vangen.comx
+2007-07-03 22:24:58 ....A        12637               copy to userappdata\Emma 02\Comx\Games\Music Bal.comx
+2007-12-16 10:21:00 ....A         9445               copy to userappdata\Emma 02\Comx\Programmas\Music Composer.comx
+2007-09-05 11:24:52 ....A         5108               copy to userappdata\Emma 02\Comx\Spellen\Music Expert.comx
+2007-09-05 20:51:14 ....A        13460               copy to userappdata\Emma 02\Comx\Spellen\Nachtvlucht.comx
+2007-12-19 22:25:30 ....A         6836               copy to userappdata\Emma 02\Comx\Spellen\Nederland.comx
+2007-07-03 22:25:04 ....A         6249               copy to userappdata\Emma 02\Comx\Spellen\Noordzeeramp.comx
+2007-12-20 00:00:38 ....A         4640               copy to userappdata\Emma 02\Comx\Programmas\Numerieke Wiskunde.comx
+2007-09-02 19:06:12 ....A        10062               copy to userappdata\Emma 02\Comx\Spellen\Nutty's fruitcake shop.comx
+2007-09-06 21:06:14 ....A         1934               copy to userappdata\Emma 02\Comx\Programmas\Obligatierendement.comx
+2007-12-18 23:22:46 ....A         5214               copy to userappdata\Emma 02\Comx\Programmas\Omreken Tabel.comx
+2007-09-30 06:29:12 ....A        27189               copy to userappdata\Emma 02\Comx\Educatief\OpsporingVerzocht.comx
+2007-12-16 10:20:12 ....A        11235               copy to userappdata\Emma 02\Comx\Programmas\Orgel.comx
+2007-07-03 22:25:10 ....A         7486               copy to userappdata\Emma 02\Comx\Spellen\Othello.comx
+2007-12-20 14:41:44 ....A         9318               copy to userappdata\Emma 02\Comx\Educatief\Overhoren Duits.comx
+2007-12-20 14:41:14 ....A         7559               copy to userappdata\Emma 02\Comx\Educatief\Overhoren Engels.comx
+2007-12-20 14:40:40 ....A         8318               copy to userappdata\Emma 02\Comx\Educatief\Overhoren Frans.comx
+2007-07-03 22:25:16 ....A         8122               copy to userappdata\Emma 02\Comx\Spellen\Paardenraces.comx
+2007-09-05 20:51:32 ....A         8161               copy to userappdata\Emma 02\Comx\Spellen\Pakze.comx
+2007-09-05 09:39:30 ....A        13525               copy to userappdata\Emma 02\Comx\Spellen\Patience.comx
+2007-09-15 22:34:52 ....A         9030               copy to userappdata\Emma 02\Comx\F&M Basic\Patience.comx
+2007-12-15 14:54:10 ....A         5980               copy to userappdata\Emma 02\Comx\Programmas\Personal Accounting.comx
+2007-09-25 14:27:08 ....A        15560               copy to userappdata\Emma 02\Comx\Plotter\Plotter Mechanism.comx
+2007-09-05 09:32:40 ....A        10857               copy to userappdata\Emma 02\Comx\Spellen\Poolbiljard.comx
+2007-12-16 21:48:30 ....A         5602               copy to userappdata\Emma 02\Comx\Programmas\Popcorn.comx
+2007-09-26 22:31:06 ....A         9080               copy to userappdata\Emma 02\Comx\Games\Preposition.comx
+2007-09-06 21:07:02 ....A         4396               copy to userappdata\Emma 02\Comx\Programmas\prijslijst.comx
+2007-12-18 23:33:36 ....A         9688               copy to userappdata\Emma 02\Comx\Programmas\Print Kalender 84.comx
+2007-09-30 08:35:34 ....A         5771               copy to userappdata\Emma 02\Comx\Spellen\Qchuck.comx
+2007-07-03 22:25:22 ....A        23641               copy to userappdata\Emma 02\Comx\Spellen\Quick Tac Toe.comx
+2007-12-14 23:50:46 ....A        27282               copy to userappdata\Emma 02\Comx\Games\Raider.comx
+2007-12-18 16:48:24 ....A         7162               copy to userappdata\Emma 02\Comx\Programmas\Ratiocalc.comx
+2007-12-20 00:05:38 ....A        24371               copy to userappdata\Emma 02\Comx\Educatief\RCA-CDP 1802 Microprocessor.comx
+2007-07-03 22:25:28 ....A         3862               copy to userappdata\Emma 02\Comx\Spellen\Reactie Snelheid.comx
+2007-12-18 16:47:50 ....A         3320               copy to userappdata\Emma 02\Comx\Programs\Regressie I.comx
+2007-12-20 14:39:08 ....A         5902               copy to userappdata\Emma 02\Comx\Educatief\Reken Treintje.comx
+2007-12-20 00:27:54 ....A         5690               copy to userappdata\Emma 02\Comx\Educatief\Rekenen 1.comx
+2007-12-20 14:10:16 ....A         9027               copy to userappdata\Emma 02\Comx\Educatief\Rekenen.comx
+2007-09-03 20:11:34 ....A        21319               copy to userappdata\Emma 02\Comx\Educatief\RekenenOpTijd.comx
+2007-12-20 14:34:40 ....A         1721               copy to userappdata\Emma 02\Comx\Educatief\Rekenoefeningen.comx
+2007-09-05 20:53:54 ....A         5051               copy to userappdata\Emma 02\Comx\Spellen\Renbaan.comx
+2007-09-06 21:06:44 ....A        10128               copy to userappdata\Emma 02\Comx\Programmas\Renteberekening.comx
+2007-09-02 19:31:38 ....A         1888               copy to userappdata\Emma 02\Comx\Programmas\Renumber.comx
+2007-09-25 14:35:58 ....A         3141               copy to userappdata\Emma 02\Comx\Plotter\Report Diagram.comx
+2007-12-18 16:40:50 ....A          316               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Restart.comx
+2007-12-18 16:40:38 ....A          662               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Restart.Manual.comx
+2007-12-16 10:49:36 ....A         2881               copy to userappdata\Emma 02\Comx\Spellen\Risk Dobbelen.comx
+2007-09-30 18:41:00 ....A        28374               copy to userappdata\Emma 02\Comx\Spellen\Rivier Race.comx
+2007-12-17 13:34:02 ....A         2923               copy to userappdata\Emma 02\Comx\Spellen\Rivier Race.Manual.comx
+2007-09-23 09:29:38 ....A         4805               copy to userappdata\Emma 02\Comx\Plotter\Rotate Ability.comx
+2007-09-06 06:05:16 ....A        16611               copy to userappdata\Emma 02\Comx\Spellen\Roulette.comx
+2007-09-06 06:07:00 ....A        14701               copy to userappdata\Emma 02\Comx\Spellen\Rubicscube.comx
+2007-12-15 22:05:04 ....A        12213               copy to userappdata\Emma 02\Comx\Spellen\Ruimte Kolonies.comx
+2007-07-03 22:25:36 ....A        27302               copy to userappdata\Emma 02\Comx\Spellen\Ruimte Oorlog.comx
+2007-09-05 20:51:48 ....A         5099               copy to userappdata\Emma 02\Comx\Spellen\Ruimtemission.comx
+2007-09-30 08:30:16 ....A         4269               copy to userappdata\Emma 02\Comx\Spellen\Runaway.comx
+2007-09-03 18:38:22 ....A         8555               copy to userappdata\Emma 02\Comx\Programmas\Schaakklok.comx
+2007-12-15 23:25:14 ....A        16209               copy to userappdata\Emma 02\Comx\Spellen\Schaken.comx
+2007-09-06 06:05:34 ....A        18599               copy to userappdata\Emma 02\Comx\Spellen\Scheepvaartspel.comx
+2007-12-20 00:01:48 ....A        23048               copy to userappdata\Emma 02\Comx\Educatief\Scheikunde - Natuurkunde.comx
+2007-12-15 23:28:46 ....A         3446               copy to userappdata\Emma 02\Comx\Spellen\Schiet een Getal.comx
+2007-12-15 23:42:34 ....A         3337               copy to userappdata\Emma 02\Comx\Programmas\Schippersklavier.comx
+2007-12-19 22:24:28 ....A        14598               copy to userappdata\Emma 02\Comx\Educatief\School Rekenen.comx
+2007-12-16 10:26:56 ....A         6761               copy to userappdata\Emma 02\Comx\Spellen\Schuifspel.comx
+2007-09-12 15:22:12 ....A          127               copy to userappdata\Emma 02\Comx\F&M Basic\SET(X).comx
+2007-09-07 12:19:04 ....A          497               copy to userappdata\Emma 02\Comx\Programmas\Shape lader - Memory Access.comx
+2007-06-14 21:55:30 ....A         1594               copy to userappdata\Emma 02\Comx\Programmas\Shape lader.comx
+2007-09-07 12:24:50 ....A         6893               copy to userappdata\Emma 02\Comx\Programmas\Shape maker - Memory Access.comx
+2007-12-17 13:49:52 ....A         4856               copy to userappdata\Emma 02\Comx\Programmas\Shape Maker 2.comx
+2007-12-18 16:26:40 ....A         7946               copy to userappdata\Emma 02\Comx\Programmas\Shape Maker 3.comx
+2007-12-18 16:27:08 ....A         3255               copy to userappdata\Emma 02\Comx\Programmas\Shape Maker 4.comx
+2007-07-03 22:10:18 ....A         6938               copy to userappdata\Emma 02\Comx\Programmas\Shape maker.comx
+2007-09-15 22:44:20 ....A         7033               copy to userappdata\Emma 02\Comx\F&M Basic\Simplepac.comx
+2007-09-23 13:50:54 ....A         4298               copy to userappdata\Emma 02\Comx\Plotter\Sin & Cosine.comx
+2007-09-05 09:53:26 ....A        10356               copy to userappdata\Emma 02\Comx\Spellen\Skien.comx
+2007-09-02 19:12:34 ....A        28406               copy to userappdata\Emma 02\Comx\Spellen\Smurfen.comx
+2007-12-16 23:18:56 ....A         7217               copy to userappdata\Emma 02\Comx\Demo\Snake Demo.comx
+2007-12-15 23:38:50 ....A         6315               copy to userappdata\Emma 02\Comx\Spellen\Solitaire.comx
+2007-12-18 16:28:08 ....A         7747               copy to userappdata\Emma 02\Comx\Programmas\Sorteer Programma.comx
+2007-12-15 22:07:30 ....A         5129               copy to userappdata\Emma 02\Comx\Spellen\Space Aliens.comx
+2007-06-29 01:14:02 ....A         8085               copy to userappdata\Emma 02\Comx\Games\Space Invaders.comx
+2007-07-03 22:25:46 ....A        13154               copy to userappdata\Emma 02\Comx\Spellen\Space Shuttle.comx
+2007-09-05 10:16:42 ....A         4180               copy to userappdata\Emma 02\Comx\Spellen\Spacejager.comx
+2007-09-13 13:19:34 ....A         8445               copy to userappdata\Emma 02\Comx\Spellen\Spellenslag.comx
+2007-12-15 23:34:04 ....A        11495               copy to userappdata\Emma 02\Comx\Spellen\Spelletje van Stijn.comx
+2007-09-05 12:10:02 ....A        14359               copy to userappdata\Emma 02\Comx\Educatief\Spelling Engels.comx
+2007-12-20 00:09:40 ....A        14626               copy to userappdata\Emma 02\Comx\Educatief\Spelling Nederlands.comx
+2007-12-20 00:31:04 ....A         6012               copy to userappdata\Emma 02\Comx\Educatief\Spelling.comx
+2007-12-15 20:04:48 ....A        14070               copy to userappdata\Emma 02\Comx\Spellen\Spionnenweb.comx
+2007-12-15 22:07:58 ....A        11631               copy to userappdata\Emma 02\Comx\Spellen\Spook Huis.comx
+2007-12-20 14:42:40 ....A        20379               copy to userappdata\Emma 02\Comx\Spellen\Spookbos.comx
+2007-09-03 21:56:00 ....A        15826               copy to userappdata\Emma 02\Comx\Spellen\Springplank.comx
+2007-09-02 19:08:18 ....A         3473               copy to userappdata\Emma 02\Comx\Spellen\Squash.comx
+2007-09-13 13:11:30 ....A          917               copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities\Startup.comx
+2007-12-20 14:27:02 ....A         4486               copy to userappdata\Emma 02\Comx\Programmas\Statistiek 1.comx
+2007-12-20 14:08:48 ....A        22330               copy to userappdata\Emma 02\Comx\Programmas\Sterrenbeelden.comx
+2007-09-05 20:54:20 ....A        11095               copy to userappdata\Emma 02\Comx\Spellen\Sterrenplukken.comx
+2007-09-05 20:52:30 ....A         5365               copy to userappdata\Emma 02\Comx\Spellen\Sterrenslag.comx
+2007-09-25 14:33:16 ....A         3542               copy to userappdata\Emma 02\Comx\Plotter\Straight Line.comx
+2007-07-03 22:25:52 ....A        21913               copy to userappdata\Emma 02\Comx\Spellen\strategisch dobbelen.comx
+2007-09-13 13:23:36 ....A        24281               copy to userappdata\Emma 02\Comx\Spellen\Stratego.comx
+2007-12-17 12:47:40 ....A        21059               copy to userappdata\Emma 02\Comx\Spellen\Strip Dobbel.comx
+2007-12-18 23:29:28 ....A         1871               copy to userappdata\Emma 02\Comx\Programmas\Super Lichtkrant.comx
+2007-09-13 13:24:40 ....A        10789               copy to userappdata\Emma 02\Comx\Spellen\Superzoeker.comx
+2007-12-20 14:16:02 ....A          743               copy to userappdata\Emma 02\Comx\Educatief\Tafels Leren.comx
+2007-12-20 14:09:38 ....A         1917               copy to userappdata\Emma 02\Comx\Educatief\Tafels.comx
+2007-12-20 14:34:06 ....A         5107               copy to userappdata\Emma 02\Comx\Educatief\Talen Leren.comx
+2007-09-06 06:05:50 ....A         9656               copy to userappdata\Emma 02\Comx\Spellen\Tankbattle.comx
+2007-12-18 16:32:26 ....A         9417               copy to userappdata\Emma 02\Comx\Programmas\Telefoonboek 2.comx
+2007-12-15 14:55:02 ....A         2477               copy to userappdata\Emma 02\Comx\Programmas\Telefoonboek.comx
+2007-12-20 14:37:22 ....A        16652               copy to userappdata\Emma 02\Comx\Programmas\Temperatuur Schalen.comx
+2008-01-09 23:53:18 ....A         8501               copy to userappdata\Emma 02\Comx\Games\Tennismania.comx
+2007-09-26 20:22:08 ....A        17927               copy to userappdata\Emma 02\Comx\Games\The Capture.comx
+2007-12-17 12:44:08 ....A        15090               copy to userappdata\Emma 02\Comx\Spellen\Tijd Bom.comx
+2007-09-15 22:34:26 ....A         8769               copy to userappdata\Emma 02\Comx\F&M Basic\Titreren.comx
+2007-12-20 14:40:08 ....A        16667               copy to userappdata\Emma 02\Comx\Educatief\Topografie Groningen.comx
+2007-08-30 13:59:58 ....A         7160               copy to userappdata\Emma 02\Comx\Spellen\Torens van Hanoi.comx
+2008-01-06 16:22:10 ....A         8425               copy to userappdata\Emma 02\Comx\Games\Trainspotting.comx
+2007-07-03 22:10:28 ....A        21616               copy to userappdata\Emma 02\Comx\Educatief\Trigoniometrie1.comx
+2007-09-06 21:08:32 ....A        28799               copy to userappdata\Emma 02\Comx\Educatief\Trigonometrie2.comx
+2007-09-12 15:22:46 ....A          155               copy to userappdata\Emma 02\Comx\F&M Basic\TYP.comx
+2007-12-20 14:33:24 ....A         2422               copy to userappdata\Emma 02\Comx\Spellen\Type Spel.comx
+2007-12-17 13:52:10 ....A        14105               copy to userappdata\Emma 02\Comx\Programmas\Type-Les.comx
+2007-09-05 20:53:42 ....A         2237               copy to userappdata\Emma 02\Comx\Spellen\UFO.comx
+2007-12-17 13:36:16 ....A        11405               copy to userappdata\Emma 02\Comx\Spellen\Utopia.comx
+2007-09-05 11:52:44 ....A         7265               copy to userappdata\Emma 02\Comx\Programmas\Vak-keuze.comx
+2007-09-02 12:28:08 ....A        10293               copy to userappdata\Emma 02\Comx\Spellen\Verdeel de wereld.comx
+2007-12-16 17:44:50 ....A         2459               copy to userappdata\Emma 02\Comx\Programmas\Vergelijkingen.comx
+2007-12-19 22:26:20 ....A        22147               copy to userappdata\Emma 02\Comx\Educatief\Verkeer.comx
+2007-12-18 23:39:10 ....A          880               copy to userappdata\Emma 02\Comx\Programmas\Vertegenwoordiger Beheer.comx
+2007-08-25 16:58:44 ....A        17932               copy to userappdata\Emma 02\Comx\Spellen\Vestingspel.comx
+2007-12-17 14:51:50 ....A         6675               copy to userappdata\Emma 02\Comx\Programmas\Vidicalc.comx
+2007-09-06 21:09:46 ....A         8523               copy to userappdata\Emma 02\Comx\Programmas\Vidicalc.Manual.comx
+2007-09-05 10:37:16 ....A         8195               copy to userappdata\Emma 02\Comx\Spellen\Vier Op Een Rij.comx
+2007-06-29 01:14:16 ....A        11279               copy to userappdata\Emma 02\Comx\Spellen\Virus.comx
+2007-12-14 23:54:40 ....A        13424               copy to userappdata\Emma 02\Comx\Educational\Vitamins.comx
+2007-12-20 14:32:08 ....A        12130               copy to userappdata\Emma 02\Comx\Programmas\Vlaggen.comx
+2007-09-03 20:12:10 ....A        25931               copy to userappdata\Emma 02\Comx\Spellen\VliegendTapijt.comx
+2007-12-15 19:59:48 ....A         1121               copy to userappdata\Emma 02\Comx\Spellen\Vlooienspel.comx
+2007-12-15 14:56:30 ....A         6940               copy to userappdata\Emma 02\Comx\Programmas\Voorraad Administratie.comx
+2007-12-20 00:02:28 ....A        14288               copy to userappdata\Emma 02\Comx\Educatief\Voortgezet Basic.comx
+2007-12-17 17:29:40 ....A         4137               copy to userappdata\Emma 02\Comx\Educatief\Vraag en Antwoord.comx
+2007-12-17 17:33:14 ....A         7108               copy to userappdata\Emma 02\Comx\Programmas\Wedstrijd Programma.comx
+2007-12-18 16:38:06 ....A         9327               copy to userappdata\Emma 02\Comx\Programmas\Weerstand Berekening.comx
+2007-12-17 17:30:34 ....A         6845               copy to userappdata\Emma 02\Comx\Programmas\Weet Je Veel.comx
+2007-12-20 14:36:34 ....A        18085               copy to userappdata\Emma 02\Comx\Educatief\Werkwoorden en Vervoegingen.comx
+2007-12-20 14:31:22 ....A         6195               copy to userappdata\Emma 02\Comx\Educatief\Werkwoorden.comx
+2007-07-03 22:10:38 ....A        27216               copy to userappdata\Emma 02\Comx\Programmas\Willekeurige driehoeken.comx
+2007-12-18 23:34:28 ....A        15618               copy to userappdata\Emma 02\Comx\Programmas\Winkel Admin.comx
+2007-09-04 22:18:56 ....A        19686               copy to userappdata\Emma 02\Comx\Programmas\WinkelDemo.comx
+2007-12-17 17:26:32 ....A         6794               copy to userappdata\Emma 02\Comx\Programmas\Wintersport Berekeningen.comx
+2007-12-18 16:49:10 ....A         8489               copy to userappdata\Emma 02\Comx\Programmas\Wissel Koersen.comx
+2007-09-03 22:04:56 ....A        18870               copy to userappdata\Emma 02\Comx\Programmas\Woninginrichting.comx
+2007-12-20 14:15:44 ....A         1192               copy to userappdata\Emma 02\Comx\Educatief\Woord Leren.comx
+2007-12-20 00:30:18 ....A         8836               copy to userappdata\Emma 02\Comx\Spellen\Woord Raden.comx
+2007-09-05 11:41:52 ....A         7811               copy to userappdata\Emma 02\Comx\Programmas\Woorden Maker 2.comx
+2007-09-05 11:32:48 ....A         7823               copy to userappdata\Emma 02\Comx\Programmas\Woorden Maker.comx
+2007-12-16 17:44:04 ....A         7977               copy to userappdata\Emma 02\Comx\Programmas\Woordenboek Makers.comx
+2007-09-15 22:48:10 ....A         6718               copy to userappdata\Emma 02\Comx\F&M Basic\Woordenspel.comx
+2007-09-15 22:29:06 ....A         2474               copy to userappdata\Emma 02\Comx\F&M Basic\Woordgooier.comx
+2007-09-09 15:03:38 ....A        26999               copy to userappdata\Emma 02\Comx\Spellen\Yathzee.comx
+2007-07-03 22:26:08 ....A        12721               copy to userappdata\Emma 02\Comx\Spellen\Zeegevecht.comx
+2007-09-15 22:47:30 ....A         8875               copy to userappdata\Emma 02\Comx\F&M Basic\Zeeslag.comx
+2007-12-16 10:30:40 ....A        16725               copy to userappdata\Emma 02\Comx\Spellen\Zeeslag.comx
+2007-12-20 14:11:38 ....A        13924               copy to userappdata\Emma 02\Comx\Spellen\Zeven Stedenspel.comx
+2007-12-20 14:16:34 ....A         3254               copy to userappdata\Emma 02\Comx\Educatief\Zin Ontleding.comx
+2007-09-15 22:32:08 ....A         8516               copy to userappdata\Emma 02\Comx\F&M Basic\Zoek de trein.comx
+2007-09-15 22:35:14 ....A         7157               copy to userappdata\Emma 02\Comx\F&M Basic\Zoek het woord.comx
+2007-09-05 20:29:36 ....A         8488               copy to userappdata\Emma 02\Comx\Spellen\Zoekdetrein.comx
+1998-01-04 01:18:16 ....A         4096               copy to userappdata\Emma 02\Elf\Games\Battle.cos
+2008-08-20 22:17:18 ....A          256               copy to userappdata\Emma 02\Elf\Games\flipflop.cos
+1998-01-04 00:38:42 ....A         6656               copy to userappdata\Emma 02\Elf\Games\Invaders.cos
+2008-08-20 22:21:48 ....A          768               copy to userappdata\Emma 02\Elf\Games\kaleidoscope.cos
+2008-08-20 22:22:00 ....A         7680               copy to userappdata\Emma 02\Elf\Games\Star Trek 2.cos
+1998-01-02 04:17:16 ....A         6656               copy to userappdata\Emma 02\Elf\Games\Star Trek.cos
+1998-01-04 00:55:14 ....A         4096               copy to userappdata\Emma 02\Elf\Games\Starship.cos
+2009-08-11 11:20:46 ....A         3781               copy to userappdata\Emma 02\Elf2K\1802 Disassembler.hex
+2009-08-08 20:49:44 ....A          238               copy to userappdata\Emma 02\Elf\Music\Angels We Have Heard On High.hex
+2009-08-08 16:02:48 ....A          193               copy to userappdata\Emma 02\Elf\Music\Away In A Manger.hex
+2010-01-07 16:08:12 ....A         1813               copy to userappdata\Emma 02\Vip\chip8.stepper.hex
+2006-12-21 17:26:02 ....A          568               copy to userappdata\Emma 02\Elf2K\Clock\clock2.hex
+2006-12-21 17:26:02 ....A          568               copy to userappdata\Emma 02\Elf2K\clock2.hex
+2009-08-08 16:03:36 ....A          238               copy to userappdata\Emma 02\Elf\Music\Deck The Halls  (1_2 Duration).hex
+2009-08-10 19:22:10 ....A          193               copy to userappdata\Emma 02\Elf\elf-emulation.com\Dice Rolling.hex
+2009-08-11 11:20:46 ....A         3781               copy to userappdata\Emma 02\Elf2K\1802 Disassembler\disasm.hex
+2009-08-10 20:11:34 ....A         9798               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm Rom Version.hex
+2009-08-10 20:09:10 ....A         8754               copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm.hex
+2009-09-03 22:51:08 ....A        53061               copy to userappdata\Emma 02\Elf\elfos.0.2.6.hex
+2007-06-12 13:03:10 ....A        46262               copy to userappdata\Emma 02\Elf\elfos.0.2.8.hex
+2009-03-30 23:19:30 ....A        44794               copy to userappdata\Emma 02\Elf2K\elfos2k_0_2_8.hex
+2009-08-10 19:34:42 ....A          193               copy to userappdata\Emma 02\Elf\elf-emulation.com\Extended ETOPS.hex
+2003-01-04 21:44:30 ....A        17840               copy to userappdata\Emma 02\Elf\fig.forth.1802.hex
+2003-01-04 21:44:30 ....A        17840               copy to userappdata\Emma 02\Elf\Fig Forth 1802\FigForth.hex
+2009-08-05 20:35:40 ....A          733               copy to userappdata\Emma 02\Elf\giantboard.hex
+2009-08-08 15:59:44 ....A          238               copy to userappdata\Emma 02\Elf\Music\God Rest Ye Merry Gentlemen (3_2 Duration).hex
+2009-08-08 15:52:10 ....A          193               copy to userappdata\Emma 02\Elf\Music\Good King Wenceslas.hex
+2009-08-08 21:53:14 ....A          283               copy to userappdata\Emma 02\Elf\Music\Hark! The Herald Angels Sing.hex
+2009-08-08 15:58:42 ....A          238               copy to userappdata\Emma 02\Elf\Music\It Came Upon A Midnight Clear (3_2 Duration).hex
+2009-08-08 15:49:36 ....A          193               copy to userappdata\Emma 02\Elf\Music\Jingle Bells.hex
+2009-08-08 20:50:32 ....A          193               copy to userappdata\Emma 02\Elf\Music\Jolly Old Saint Nicholas.hex
+2009-08-08 15:57:00 ....A          193               copy to userappdata\Emma 02\Elf\Music\Joy To The World.hex
+2010-03-04 19:19:18 ....A        46093               copy to userappdata\Emma 02\Elf\mini.monitor.and.super.basic.hex
+2009-08-08 21:44:30 ....A          238               copy to userappdata\Emma 02\Elf\Music\Music Machine (1_2 Duration).hex
+2009-08-08 21:46:32 ....A          238               copy to userappdata\Emma 02\Elf\Music\Music Machine (3_2 Duration).hex
+2009-08-08 21:46:06 ....A          238               copy to userappdata\Emma 02\Elf\Music\Music Machine (3_4 Duration).hex
+2009-08-08 21:45:00 ....A          238               copy to userappdata\Emma 02\Elf\Music\Music Machine (Double Duration).hex
+2009-08-08 15:43:58 ....A          238               copy to userappdata\Emma 02\Elf\Music\Music Machine.hex
+2009-08-14 23:11:20 ....A         9868               copy to userappdata\Emma 02\Elf\netronic.tinyBasic.hex
+2009-08-08 21:54:38 ....A          238               copy to userappdata\Emma 02\Elf\Music\O Christmas Tree.hex
+2009-08-08 16:02:02 ....A          193               copy to userappdata\Emma 02\Elf\Music\O Come All Ye Faithful (3_2 Duration).hex
+2009-08-08 20:47:10 ....A          193               copy to userappdata\Emma 02\Elf\Music\O Little Town Of Bethlehem.hex
+2010-07-03 20:56:24 ....A          373               copy to userappdata\Emma 02\Elf\quest.tape.loader.hex
+2009-09-02 21:52:06 ....A        34708               copy to userappdata\Emma 02\Elf\rca.basic3.v1.1.hex
+2009-09-03 19:57:00 ....A        43859               copy to userappdata\Emma 02\Elf\rca.basic4.v1.1.install.hex
+2009-08-10 20:32:44 ....A         8698               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcBasic L1.hex
+2009-08-10 20:34:24 ....A        17428               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcBasic L2.hex
+2009-08-10 18:37:56 ....A        12748               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version.hex
+2009-08-10 18:32:32 ....A        11404               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0.hex
+2009-08-10 19:31:54 ....A         9518               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version.hex
+2009-08-08 20:47:58 ....A          148               copy to userappdata\Emma 02\Elf\Music\Silent Night (Double Duration).hex
+2010-06-24 22:40:26 ....A        23053               copy to userappdata\Emma 02\Elf\super.gold.monitor.hex
+2007-07-24 11:34:22 ....A          733               copy to userappdata\Emma 02\Elf\supermon.hex
+2009-08-08 15:57:44 ....A          238               copy to userappdata\Emma 02\Elf\Music\The First Noel (3_2 Duration).hex
+2009-08-10 20:27:54 ....A        13072               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version.hex
+2009-08-14 21:06:00 ....A         6493               copy to userappdata\Emma 02\Elf\tiny.basic.interpreter.v2.hex
+2009-08-08 21:55:14 ....A          238               copy to userappdata\Emma 02\Elf\Music\We Three Kings (3_2 Duration).hex
+2009-08-08 15:54:38 ....A          238               copy to userappdata\Emma 02\Elf\Music\What Child Is This  (3_2 Duration).hex
+2009-08-08 16:01:10 ....A          103               copy to userappdata\Emma 02\Elf\Music\While Shepherds Watched.hex
+2009-04-03 22:44:38 ....A       115200               copy to userappdata\Emma 02\Elf2K\elf2k-installation.ide
+2008-09-07 21:50:18 ....A       250880               copy to userappdata\Emma 02\Elf\mc6845-installation.ide
+2009-03-15 00:12:36 ....A       131584               copy to userappdata\Emma 02\Elf\mc6847-installation.ide
+2008-09-07 21:45:38 ....A       250880               copy to userappdata\Emma 02\Elf\pixie-installation.ide
+2008-09-07 21:57:20 ....A       250880               copy to userappdata\Emma 02\Elf\tms-installation.ide
+2008-09-07 17:31:12 ....A       135680               copy to userappdata\Emma 02\Elf\vt100-installation.ide
+2006-12-21 17:26:02 ....A         4235               copy to userappdata\Emma 02\Elf2K\Clock\clock.lst
+2006-12-21 17:26:02 ....A         7458               copy to userappdata\Emma 02\Elf2K\Clock\clock2.lst
+2006-05-20 08:51:12 ....A        42353               copy to userappdata\Emma 02\Elf2K\1802 Disassembler\disasm.lst
+2003-01-04 21:44:30 ....A       193920               copy to userappdata\Emma 02\Elf\Fig Forth 1802\FigForth.LST
+2004-01-29 22:17:34 ....A       107897               copy to userappdata\Emma 02\Elf\Netronics Tiny Basic\TINYBASI.LST
+2008-11-21 00:29:14 ....A         8200               copy to userappdata\Emma 02\Pecom\Adresar.pecom
+2008-11-21 00:30:38 ....A         6183               copy to userappdata\Emma 02\Pecom\Bioritam.pecom
+2008-11-21 00:33:20 ....A        17740               copy to userappdata\Emma 02\Pecom\Lavirint.pecom
+2008-11-14 23:44:36 ....A        11830               copy to userappdata\Emma 02\Pecom\Lopov i Bankar.pecom
+2008-11-21 00:35:50 ....A        26024               copy to userappdata\Emma 02\Pecom\Osvajaci Svemira.pecom
+2008-11-21 00:42:22 ....A        10894               copy to userappdata\Emma 02\Pecom\Pecom Ratuje.pecom
+2008-11-21 00:43:36 ....A         3517               copy to userappdata\Emma 02\Pecom\Sam Svoj Kompozitor.pecom
+2008-11-21 00:44:50 ....A        11296               copy to userappdata\Emma 02\Pecom\Shljive.pecom
+2008-11-21 00:46:08 ....A        17218               copy to userappdata\Emma 02\Pecom\Suvi Ajnc.pecom
+2008-11-18 20:49:00 ....A         8503               copy to userappdata\Emma 02\Pecom\Trainspotting.pecom
+2008-11-21 00:47:38 ....A         8519               copy to userappdata\Emma 02\Pecom\Trka Konja.pecom
+2009-08-09 18:40:32 ....A        11549               copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version\bascom.prg
+2009-08-10 18:31:34 ....A        13856               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0\forth.prg
+2009-08-09 18:31:30 ....A        11573               copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version\rclisp.prg
+2008-08-03 23:25:40 ....A           16               copy to userappdata\Emma 02\Nano\beeper.ram
+2008-08-03 23:25:40 ....A           16               copy to userappdata\Emma 02\TMC1800\beeper.ram
+2008-08-03 23:25:40 ....A           16               copy to userappdata\Emma 02\TMC2000\beeper.ram
+2008-08-03 23:25:40 ....A           16               copy to userappdata\Emma 02\Vip\beeper.ram
+2008-08-10 23:09:54 ....A          512               copy to userappdata\Emma 02\Nano\chip8.ram
+2008-08-10 23:09:54 ....A          512               copy to userappdata\Emma 02\TMC1800\chip8.ram
+2008-08-10 23:09:54 ....A          512               copy to userappdata\Emma 02\TMC2000\chip8.ram
+2008-08-10 23:09:54 ....A          512               copy to userappdata\Emma 02\Vip\chip8.ram
+2008-08-25 23:13:40 ....A          768               copy to userappdata\Emma 02\Vip\chip8x.ram
+2008-08-13 18:20:30 ....A           48               copy to userappdata\Emma 02\Vip\cosmac.ram
+2008-05-11 21:41:28 ....A           31               copy to userappdata\Emma 02\TMC1800\esim1.ram
+2008-05-11 21:41:28 ....A           31               copy to userappdata\Emma 02\TMC2000\esim1.ram
+2008-05-11 21:45:16 ....A          301               copy to userappdata\Emma 02\TMC1800\esim2.ram
+2008-05-11 21:45:16 ....A          301               copy to userappdata\Emma 02\TMC2000\esim2.ram
+2008-05-11 15:32:06 ....A           21               copy to userappdata\Emma 02\TMC1800\esim3.ram
+2008-05-11 15:32:06 ....A           21               copy to userappdata\Emma 02\TMC2000\esim3.ram
+2008-05-11 21:46:02 ....A           26               copy to userappdata\Emma 02\TMC1800\esim4.ram
+2008-05-11 21:46:02 ....A           26               copy to userappdata\Emma 02\TMC2000\esim4.ram
+2008-05-11 21:58:06 ....A           31               copy to userappdata\Emma 02\TMC1800\esim5.ram
+2008-05-11 21:58:06 ....A           31               copy to userappdata\Emma 02\TMC2000\esim5.ram
+2010-01-05 10:12:02 ....A         3072               copy to userappdata\Emma 02\Vip\pin-8.4ch.ram
+2009-10-28 23:56:22 ....A         1792               copy to userappdata\Emma 02\Vip\pin-8.ram
+2008-08-29 22:44:28 ....A         3520               copy to userappdata\Emma 02\Nano\polka.ram
+2008-08-29 22:44:28 ....A         3520               copy to userappdata\Emma 02\Vip\polka.ram
+2010-09-07 22:08:18 ....A          272               copy to userappdata\Emma 02\Vip\printer-hexdump.ram
+2010-09-14 22:16:08 ....A            8               copy to userappdata\Emma 02\Vip\printer-test.ram
+2009-10-29 00:05:44 ....A         1792               copy to userappdata\Emma 02\Vip\yankee.ram
+2006-10-31 19:25:48 ....A        41094               copy to userappdata\Emma 02\Cidelsa\altair.rom
+2007-07-28 18:54:54 ....A        12943               copy to userappdata\Emma 02\Elf\bios+biosiov92.rom
+2009-03-14 15:36:30 ....A        12943               copy to userappdata\Emma 02\Elf\bios+biosiov92_32.column.rom
+2007-07-26 18:32:00 ....A         6546               copy to userappdata\Emma 02\Elf\bios.1.0.4.rom
+2007-07-26 19:27:00 ....A         6333               copy to userappdata\Emma 02\Elf\bios.1.0.rom
+2005-03-19 14:06:24 ....A        74086               copy to userappdata\Emma 02\Elf\biosio.elfos.0.2.5.rom
+2009-03-14 15:32:18 ....A        74086               copy to userappdata\Emma 02\Elf\biosio.elfos.0.2.5_32.column.rom
+2005-03-18 00:37:20 ....A         6272               copy to userappdata\Emma 02\Elf\Biosio\BIOSIOV9.ROM
+2004-12-25 20:23:30 ....A         7168               copy to userappdata\Emma 02\Elf\BiosioPS2\BIOSPSV1.ROM
+2005-01-11 22:44:58 ....A         4088               copy to userappdata\Emma 02\Elf\Biosio\GRAINIZ.ROM
+2008-05-18 13:03:42 ....A          512               copy to userappdata\Emma 02\Nano\nano.rom
+2004-12-07 23:37:04 ....A          392               copy to userappdata\Emma 02\Elf\Biosio\PIXINIZ.ROM
+2004-12-26 16:51:54 ....A          280               copy to userappdata\Emma 02\Elf\BiosioPS2\PSiniz.rom
+2004-12-06 22:54:36 ....A          504               copy to userappdata\Emma 02\Elf\Biosio\SERINIZ.ROM
+2007-03-09 20:53:20 ....A         5773               copy to userappdata\Emma 02\Studio2\studio2.rom
+2008-05-10 17:24:42 ....A          512               copy to userappdata\Emma 02\TMC1800\telmac1800.rom
+2008-05-10 17:24:42 ....A          512               copy to userappdata\Emma 02\TMC2000\telmac2000.rom
+2005-01-11 19:20:42 ....A         5880               copy to userappdata\Emma 02\Elf\Biosio\TMSINIZ.ROM
+2009-12-15 18:34:38 ....A         4096               copy to userappdata\Emma 02\Victory\victory.rom
+2004-12-07 20:31:06 ....A          392               copy to userappdata\Emma 02\Elf\Biosio\VIDINIZ.ROM
+1996-12-24 23:32:00 ....A          512               copy to userappdata\Emma 02\Vip\Vip.32.rom
+1996-12-24 23:32:00 ....A          512               copy to userappdata\Emma 02\Vip\Vip.rom
+1996-12-25 00:32:00 ....A         2048               copy to userappdata\Emma 02\Visicom\visicom.rom
+2000-11-01 21:10:42 ....A         1280               copy to userappdata\Emma 02\Studio2\baseball.st2
+2000-11-01 21:10:42 ....A         1280               copy to userappdata\Emma 02\Victory\baseball.st2
+2009-12-14 14:09:34 ....A         1280               copy to userappdata\Emma 02\Studio2\biorhythm.st2
+2009-12-14 14:09:34 ....A         1280               copy to userappdata\Emma 02\Victory\biorhythm.st2
+2000-11-01 21:10:42 ....A         1280               copy to userappdata\Emma 02\Studio2\blackjack.st2
+2000-11-01 21:10:42 ....A         1280               copy to userappdata\Emma 02\Victory\blackjack.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Studio2\combat.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Victory\combat.st2
+2009-06-18 23:27:24 ....A          768               copy to userappdata\Emma 02\Studio2\computer.st2
+2009-06-18 23:27:24 ....A          768               copy to userappdata\Emma 02\Victory\computer.st2
+2009-12-14 14:09:24 ....A         1280               copy to userappdata\Emma 02\Studio2\gunfighter.st2
+2009-12-14 14:09:24 ....A         1280               copy to userappdata\Emma 02\Victory\gunfighter.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Studio2\hockey.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Victory\hockey.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Studio2\invaders.st2
+2000-10-11 13:39:36 ....A         1280               copy to userappdata\Emma 02\Victory\invaders.st2
+2009-12-14 14:09:06 ....A         1280               copy to userappdata\Emma 02\Studio2\mathfun.st2
+2009-12-14 14:09:06 ....A         1280               copy to userappdata\Emma 02\Victory\mathfun.st2
+2010-08-23 08:43:04 ....A          512               copy to userappdata\Emma 02\Studio2\rocket.st2
+2010-08-23 08:43:04 ....A          512               copy to userappdata\Emma 02\Victory\rocket.st2
+2009-12-14 14:08:54 ....A          768               copy to userappdata\Emma 02\Studio2\school.st2
+2009-12-14 14:08:54 ....A          768               copy to userappdata\Emma 02\Victory\school.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Studio2\spacewar.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Victory\spacewar.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Studio2\speedway.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Victory\speedway.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Studio2\tennis.st2
+2000-11-01 21:10:42 ....A          768               copy to userappdata\Emma 02\Victory\tennis.st2
+2008-08-14 18:12:54 ....A         4672               copy to userappdata\Emma 02\TMC600\demo.tmc600
+2008-08-14 18:13:26 ....A         2025               copy to userappdata\Emma 02\TMC600\demo2.tmc600
+2008-08-14 18:13:42 ....A          817               copy to userappdata\Emma 02\TMC600\snoopy.tmc600
+2010-09-29 22:28:46 ....A      3718656      1074743  Emma 02.exe
+2010-04-28 22:33:26 ....A       364032               SDL.dll
+2010-05-02 14:48:44 ....A        11776               SDL_audioin.dll
+2016-12-24 19:05:53 D....            0            0  src
+2016-12-24 19:05:49 D....            0            0  Helpfiles
+2016-12-24 19:05:53 D....            0            0  images
+2007-07-18 15:22:46 ....A            0            0  copy to userappdata\Emma 02\Cidelsa\Put your Cidelsa files here.txt
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Visicom
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Vip
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Victory
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\TMC600
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\TMC2000
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\TMC1800
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Studio2
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Pecom
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Nano
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Eti
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf2K\Clock
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf2K\1802 Disassembler
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf2K
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\Netronics Tiny Basic
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\Music
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\Games
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\Fig Forth 1802
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com\Tiny Basic Compiler Rom Version
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com\RcLisp Rom Version
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth v1.0
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com\RcForth Rom Version
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com\EdtAsm
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Elf\elf-emulation.com
+2016-12-24 19:05:53 D....            0            0  copy to userappdata\Emma 02\Elf\BiosioPS2
+2016-12-24 19:05:53 D....            0            0  copy to userappdata\Emma 02\Elf\Biosio
+2016-12-24 19:05:53 D....            0            0  copy to userappdata\Emma 02\Elf
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Cosmicos
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Talen - Languages
+2016-12-24 19:05:50 D....            0            0  copy to userappdata\Emma 02\Comx\Spellen
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Programs
+2016-12-24 19:05:50 D....            0            0  copy to userappdata\Emma 02\Comx\Programmas
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Plotter
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Hulpmiddelen - Utilities
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Games
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\F&M EPROM Switchboard
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\F&M Basic
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Educational
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Educatief
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx\Disks
+2016-12-24 19:05:49 D....            0            0  copy to userappdata\Emma 02\Comx\Demo
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Comx
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Cidelsa
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Chip-8\Chip-8X and Hybrids
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Chip-8\Chip-8 Test Programs
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Chip-8\Chip-8 Games
+2016-12-24 19:05:51 D....            0            0  copy to userappdata\Emma 02\Chip-8\Chip-8 Demos
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Chip-8\Chip-10
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02\Chip-8
+2016-12-24 19:05:52 D....            0            0  copy to userappdata\Emma 02
+2016-12-24 19:05:49 D....            0            0  copy to userappdata
+------------------- ----- ------------ ------------  ------------------------
+2016-12-24 19:05:53           22073906      4200782  1305 files, 53 folders

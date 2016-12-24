@@ -1,0 +1,58 @@
+General
+· Added support for the COMX SuperBoard (http://www.comx35.com/superboard.html)
+· Added a powerful ‘Direct Assembler’
+· Added VIP II emulator (http://www.cosmacvip.com/VIP2/VIP2.php), including FPB
+· Uplifted to wxWidgets 3.0.0
+· Moved version file to different internet location to try and speed up version check
+· Fixed F12 handling when using VT100
+· Fixed load/save machine code length (last byte was missed in some cases)
+
+Debugger
+· Replaced ‘old’ assembler and disassemble with the new ‘Direct Assembler’
+· Added option to change EF flags
+· Re-ordered debugger tabs
+· Corrected color settings for Pager
+
+Help
+· Fixed some incorrect links in the help pages
+
+Comx
+· Added SuperBoard Support
+· Fixed bug in FDC ‘side’ handling (causing F&M Disk monitor not to switch to side B correctly)
+· Added Video log function
+· Corrected Thermal printer EF flag (CARDT7 is now working)
+· Correct mapping of 0DD-0DF memory when using floppy disk card
+· Fixed a crash when using a DOS LOAD while showing the debugger tab
+· Fixed load/save into/from slots
+
+Cosmac VIP / VIP II
+· Added FPB rom, fpb.bin and fpb.color
+· Added support for FPB
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+· Fixed a bug in the Device Port function that crashed on a ‘save’ of a new MC6845 address value
+· Added Super Basic files for 3.0, 5.0 and 6.0 as well as configuration menus for the SB versions
+· Added check before trying to load Cosmac.ram file to make sure it exists
+
+RCA Studio II
+· Added games files for: fun with numbers, star wars, pinball, concentration match and bingo
+· Added Paul Robsons games: scramble, pacman, kaboom, berserk, asteroids
+· Add Lee Romanov’s game: rocket and climber
+· Changed text ‘Hex’ to ‘Key’ in keypad definition
+
+Visicom COM-100
+· Added game files for: cas-130
+· Changed text ‘Hex’ to ‘Key’ in keypad definition
+
+Victory MPT-02
+· Corrected colours
+· Replace default and pink options with Natural and Theoretical options
+· Corrected background colour switch
+· Corrected foreground colour when games don’t use colour info
+· Added games files for: fun with numbers, grand pack, star wars, pinball, concentration match and bingo
+· Added Paul Robsons games: scramble, pacman, kaboom, berserk, asteroids
+· Add Lee Romanov’s game: rocket and climber
+· Changed text ‘Hex’ to ‘Key’ in keypad definition
+
+Pecom
+· Added Pecom 32 ROM

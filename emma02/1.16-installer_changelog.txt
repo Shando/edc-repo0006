@@ -1,0 +1,66 @@
+General
+· Bug fixes:
+· Crash when using ‘memory access’ save feature with ‘unknown’ file extension
+· Binary format save now also used for extension ch8, c8x and ch10
+· CDP1861, 1870 and TMS 9918 didn’t clear full screen on start-up
+· Update of ‘Leds’ (led and Til timing) is now possible to change during run time
+· ‘Leds’ value ’0’ (or empty): behaviour changed to ‘update leds’ in real time
+· All integer number text boxes now only allow numbers to be accepted
+· All float number text boxes now only allow numbers and a ‘.’ or ‘,’ depending on windows setting
+· All hexadecimal number text boxes now only allow hex numbers to be accepted.
+· All hexadecimal number text boxes for 16 bit values now only allow 4 digits and 8 bit values only 2.
+· Function keys F1 to F5, F12 and ‘Insert’ are now accepted when main emulator GUI window is active
+· Added F12 as reset button for all computers except where it was already used as CPU on/off button (Elfs, Cosmicos, VIP and Telmacs), for these pressing F12 twice will still reset the computer
+· Added help page describing ‘function keys’
+· Added F2: Activate main emulator computer window
+· Corrected printer output toolbar (combo and text boxes were not visible)
+
+Debugger
+· Simplified memory edit function on debugger / memory tab: after typing one byte the byte of the next memory address will be selected automatically. At the end of the page the next page will be shown and the first byte will be selected.
+· Disabling COMX EPROM Bank spin control corrected
+
+CDP 1861 / 1864
+· Added screen ‘switch off’ (clear) when CPU is not in RUN mode and at a CPU reset.
+
+Cosmac Elf 2000
+· Handling of ‘Non volatile RAM’ checkbox during runtime corrected
+· Corrected key event handling when control windows are selected now also including support for Video Terminal keys
+
+Cosmac VIP
+· Added changeable beeper frequency
+
+Cosmicos
+· Corrected key event handling when control windows are selected now also including support for Video Terminal keys
+· Corrected 7 segment display to update with a frequency of ~1000Hz when CPU is 1.75 MHz
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+· Changed Cassette on/off checkbox to a bitmap button next to the ‘Cassette’ button
+· Added Q Sound option including a changeable frequency for an external oscillator
+· Corrected key event handling when Elf control windows are selected now also including support for Video Terminal keys
+· Added F4 function (open printer window)
+· Added QuestData programs (provided by Eric) in the installation package
+· Added RAM mapping, if RAM end address is lower than 0x8000 the specified RAM is mapped. For example when specifying RAM address 0000-0FFF, memory locations 0000-0FFF will be repeated at 1000, 2000 etc. Note RAM ‘loading’ via the ‘RAM’ fields will only work if RAM is specified at that part of CPU memory.
+
+Netronics Elf II
+· Corrected bug in enabling ‘Leds’ text control and saving of value
+
+Cosmac Elf,
+· Corrected handling of EF switches
+
+Membership Card
+· Support added for Membership Card emulation!
+· Included example Membership software in Membership directory
+
+RCA Studio II
+· Added changeable beeper frequency
+· Removed ‘TAB’ as reset button, F12 works like for other emulators
+
+Visicom COM-100
+· Added changeable beeper frequency
+· Removed ‘TAB’ as reset button, F12 works like for other emulators
+
+Victory MPT-02
+· Removed ‘TAB’ as reset button, F12 works like for other emulators
+
+Telmac 1800
+· Added changeable beeper frequency

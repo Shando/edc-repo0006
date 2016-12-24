@@ -1,0 +1,54 @@
+General
+· Added an (optional) check at start-up for availability of later Emma 02 version
+· Added an option to specify and/or move the Emma 02 Data directory (a reset to Emma 02 default settings will be applied at the same time)
+· Upgrade to wxWidgets 2.9.1, including GUI and code changes to handle the new version.
+· Reformatted GUI to have a bit more aligned view for all computers
+· Added tooltips for some of the control windows for Quest, Cosmicos and Elf 2000
+· Help pages improvements, including removal of default window position
+· ‘Videodump’ button crash fixed
+· Colour of Eprom bank ‘spin control’ in debugger tab corrected
+· All Elf configuration menu items are now disabled when non Elf tabs are selected
+· Miscellaneous tooltip improvements in GUI
+· Added arcade key mapping for VIP, Cosmicos, Telmac 1800, 2000, Nano, Elfs, Studio II, Visicom and Victory
+· Hex key map window is now possible to open while running an emulator
+· Added a check for double key definition in hex key map, showing double keys in red.
+· All hex keypad are now default set to ‘on Character’ as in most games the cursor keys can be used (see arcade key mapping), default key mapping for Studio, Visicom and Victory is still ‘on Location’.
+· Added hex key definition file for all Chip-8, Studio II, Eti and Elf games so mapping is done according to a key definition file
+· Fixed ‘flickering’ of VU meter
+· Changed full screen mode to allow zoom with floating point values, using a larger part of the screen. Note this can be switched off to decrease PC load if needed
+
+Installation
+· Added Emma 02 logo on setup window
+· Added option to specify installation directory
+· Added Emma 02 icon for uninstall in Control Panel / Programs and Features
+· Added Emma 02 and forum web links in Control Panel / Programs and Features
+
+Comx
+· Added ‘missing’ screen zoom modes (3 and 5) for 80 column mode, using floating point zoom values
+
+Cosmac Elf 2000
+· Improved handling of disabled screen, now allowing full screen mode before Elf 2000 is fully started
+· Memory leak fixed in ‘led’ and ‘switch panel’ code
+· i8275 screen handling optimized
+
+Cosmac VIP
+· Corrected text label for CDP 1861 High Res mode (stated 1864 by mistake)
+· Disabled high res mode checkbox when emulator running
+· Added cihp10 interpreter file in installation package
+· Added ‘on Character’ option for second Hex Keypad (using the numeric pad), this is now also the default setting to avoid overlap of keys
+
+Cosmicos
+· Remove Key File buttons from GUI as no keyboard is supported
+· Memory leak fixed in ‘led’ code
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+· Memory leak fixed in ‘led’ code
+· TMS 9918, MC6845 (and Super Video) and MC6847 screen handling optimized
+· Memory leak fixed in Elf code
+
+Telmac 1800/2000
+· Change default Pong 2 game to Pong 1 (alt), pong 2 is for 2 players
+
+ETI 660
+· Correct ETI chip8 default directory to new ETI chip 8 location
+Changes introduced in V1.14
