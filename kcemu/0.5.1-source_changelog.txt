@@ -1,0 +1,98 @@
+Summary:
+========
+
+Add video encoder that writes animated GIF
+Fix stuck IRQ when running DIGGER
+Change color handling to allow changes in brightness and contrast
+Update Mega-ROM image
+Lots of fixes for the debian packaging (thanks to Adrian Glaubitz)
+
+
+-----------------------------------------------------------------------------
+
+Full change log:
+================
+
+* KCemu v0.5.1
+
+* Merge branches 'fix/irq', 'fix/spelling', 'fix/colors', 'gif', 'roms' and 'debian'
+
+* Update windows installer
+
+* Update documentation
+
+* Update translation files
+
+* Optimize the animated GIF by suppressing unchanged images
+
+* Update Mega-ROM image
+
+* Add video encoder that writes animated GIF
+
+* Escape minus-signs as "\-" in manpages to avoid lintian warnings.
+
+* Add field "Homepage" to debian/control.
+
+* Updated and corrected debian/control and debian/copyright.
+
+* Cleanup debian/rules file
+
+* Remove README.Debian
+
+* Use AM_CONDITIONAL to disable usage of cppunit checks
+
+* Bump debian Standards-Version to 3.8.4
+
+* Bump debhelper compat level to 7
+
+* Add .desktop-file for Gnome and KDE
+
+* Add image to be used as desktop icon
+
+* Fix build dependencies for Debian
+
+* Fix license headers
+
+* Add color configuration window to documentation
+
+* Update translation files
+
+* Change color handling to allow changes in brightness and contrast
+
+* Correct spelling in manpage: man/man1/tdtodump.1.
+
+* Correct spelling in src/kc/prefs/types.cc.
+
+* Remove obsolete SDL code
+
+* Remove obsolete BeOS code
+
+* Remove obsolete code
+
+* Remove leftover file from obsolete Z80 emulation core
+
+* Add debian/watch file to find new releases on sf.net
+
+* Add README.source to document usage of quilt
+
+* Switch to dpkg-source 3.0 (quilt) format
+
+* Fix lintian error 'debian-rules-ignores-make-clean-error'
+
+* Remove unnecessary library references
+
+* Do not use GNU make specific pattern rules
+
+* Update debian package description
+
+* Relax package dependencies for Ubuntu 9.04 compilation
+
+* Update debian changelog
+
+* Change ./configure options for debian package build
+
+* Fix stuck IRQ when running DIGGER
+
+* Remove obsolete interrupt handling code
+
+* Add ./configure option to link z80ex statically

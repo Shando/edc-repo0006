@@ -1,0 +1,58 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-05-22 15:06:56 ....A          512        90444  quicktyp\americanflag.txt
+2002-05-22 18:48:28 ....A          560               quicktyp\honeycombs.txt
+2002-05-22 22:07:40 ....A          230               quicktyp\morrison.txt
+2002-05-22 14:57:24 ....A          122               quicktyp\rays.txt
+2003-02-06 16:34:24 ....A         5014               docs\readme.txt
+2003-02-06 16:55:22 ....A          871               readme.txt
+2003-02-06 16:16:04 ....A          259               cassette\readme_c.txt
+2003-02-06 16:42:52 ....A         2024               tools\readme_t.txt
+2002-05-22 14:49:58 ....A          107               quicktyp\t1.txt
+2002-05-22 18:40:02 ....A          234               quicktyp\tapestry.txt
+2002-05-22 22:47:44 ....A          250               quicktyp\testhalf.txt
+2002-05-27 15:59:08 ....A          250               quicktyp\testjoy.txt
+2003-02-06 16:45:38 ....A         7614               default.ini
+1999-06-19 20:03:34 ....A           68               VINTER.ini
+2002-05-26 03:58:20 ....A         7664               cassette\addemup.CIN
+2002-12-03 16:20:50 ....A           73               cassette\musicmaestro\B1_SQ.CIN
+2002-12-03 22:46:58 ....A         8178               cassette\backgammon.CIN
+2002-05-25 04:45:16 ....A        10857               cassette\basic_lii.CIN
+2002-05-26 03:59:06 ....A         7664               cassette\biorhythm.CIN
+2002-05-26 13:23:10 ....A         7664               cassette\blackjack.CIN
+2002-12-25 10:27:56 ....A         7664               cassette\breakthrough.CIN
+2002-12-03 16:20:28 ....A          105               cassette\musicmaestro\C1_SQ.CIN
+2002-11-30 23:05:24 ....A         8178               cassette\calculator.CIN
+2002-12-03 23:09:22 ....A        11011               cassette\checkbook_balancer.CIN
+2002-05-27 01:48:16 ....A         7664               cassette\compucolor.CIN
+2002-05-27 19:33:46 ....A         7664               cassette\computermaze.CIN
+2002-05-27 05:47:52 ....A         7664               cassette\concentration.CIN
+2002-12-03 16:20:02 ....A           81               cassette\musicmaestro\D1_SQ.CIN
+2002-05-27 02:03:48 ....A         7664               cassette\diagnostic.CIN
+2002-05-27 19:34:44 ....A         8178               cassette\dogfight.CIN
+2002-05-27 06:12:48 ....A         7664               cassette\edu_basic.CIN
+2002-05-27 19:35:20 ....A         7664               cassette\hangman.CIN
+2002-05-27 06:00:08 ....A         7664               cassette\knockdown.CIN
+2002-12-03 21:32:52 ....A         7664               cassette\messagecenter.CIN
+2002-05-27 21:52:04 ....A        16356               cassette\microchess.CIN
+2002-12-03 16:21:50 ....A         8178               cassette\music_maestro.CIN
+2002-11-30 06:43:26 ....A        12905               cassette\outpost.CIN
+2002-05-27 21:43:50 ....A         7664               cassette\regatta.CIN
+2002-12-27 21:45:32 ....A         8178               cassette\reversi.CIN
+2002-05-27 21:44:38 ....A         8178               cassette\showdown.CIN
+2002-11-30 05:53:40 ....A         8178               cassette\star_track.CIN
+2002-12-03 20:43:10 ....A         8178               cassette\touchdown.CIN
+2002-05-27 21:45:22 ....A         7664               cassette\trailblazers.CIN
+2002-11-30 22:52:28 ....A         8178               cassette\videochess.CIN
+2002-12-03 21:22:00 ....A         8178               cassette\volleyball.CIN
+2002-12-02 05:20:48 ....A        53248        72592  tools\CIN2WAV.exe
+2002-02-03 19:19:54 ....A        49152               tools\ClipWav.exe
+2003-02-06 16:44:10 ....A       221184               VINTER.exe
+2016-12-31 15:40:41 D....            0            0  tools
+2016-12-31 15:40:41 D....            0            0  rom
+2016-12-31 15:40:41 D....            0            0  quicktyp
+2016-12-31 15:40:41 D....            0            0  docs
+2016-12-31 15:40:41 D....            0            0  cassette\musicmaestro
+2016-12-31 15:40:41 D....            0            0  cassette
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 15:40:41             582163       163036  48 files, 6 folders

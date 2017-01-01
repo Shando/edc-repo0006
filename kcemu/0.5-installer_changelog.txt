@@ -1,0 +1,211 @@
+Summary:
+========
+
+Add Video output (Theora/Ogg, AVI, MPEG4, VNC, Dirac, Schroedinger)
+Add functionality to take Screenshots
+Add emulation of the M052 module
+Add RAF module (4MB RAM Floppy)
+Add M033 ROM module (16k segmented ROM with TypeStar+RAMDOS)
+Update rom image of the z9001 Mega-ROM-Module
+Extend VDIP Emulation
+Fix compilation on 64-bit systems
+Support compilation on FreeBSD
+
+
+-----------------------------------------------------------------------------
+
+Full change log:
+================
+
+* KCemu v0.5
+
+* Fix socket error handling for MinGW
+
+* Force usage of external libintl for MinGW compilation
+
+* Update translations
+
+* Update documentation
+
+* Rename gtkbuilder files back to *.glade for easier xgettext handling
+
+* Fix reading of version information in ./configure
+
+* Update to gettext-0.17
+
+* Merge branches 'libgtkex', 'video', 'screenshot', 'm052-gui' and 'mingw'
+
+* Workaround for compilation problem with libintl
+
+* Fix typo in gtk+ check
+
+* Add theora and xvid libs for MinGW
+
+* Update cross compilation script and installer to gtk+-2.18.5
+  This also adds new dependencies: freetype, fontconfig, expat.
+  Those are required when checking for gtk with pkg-config as
+  they are defined as dependency in the package configuration
+  file.
+
+* Remove sysdep.h from kc/system.h
+
+* Add socket abstraction layer for MinGW compilation
+
+* Allow usage of libtheora version 1.0
+  Relax the version requirement as version 1.0 of libtheora is still
+  used in most distributions. Because this version can not handle the
+  encoding in TH_PF_444 pixel format, it will only be used if we find
+  at least version 1.1 when doing ./configure.
+
+* Update Windows Installer
+
+* Add video output based on libschroedinger
+
+* Add video output based on libdirac
+
+* Fix encoder cleanup
+
+* Allow different video frame rates
+
+* Add video output based on libavformat (ffmpeg)
+
+* Handle TH_PF_444 and TH_PF_420 pixel formats
+  The older theora codes do not seem to handle TH_PF_444. Even
+  the decoder included in firefox (currently on debian testing)
+  does not show files encoded in this format correctly.
+  So for now we encode only quality >= 85% with the new and more
+  accurate pixel format. Everything below this quality will be
+  encoded in TH_PF_420 format.
+
+* Fix handling of empty dirty buffer and NULL filenames
+
+* Add GUI for video encoder
+
+* Add video output based on xvid encoder
+
+* Add video output based on libvncserver
+
+* Add video output based on libtheora/libogg
+
+* Add dummy encoder
+
+* Add interface for video output
+
+* Update Windows Installer
+
+* Add functionality to save screenshots
+  This is using the pixbuf library so it can save all the
+  formats this library provides (except for the ico format
+  that is disabled).
+  For now the compression options are fixed at a quality
+  setting of 90% for jpeg and a compression factor of 9
+  for png files.
+
+* Fix compilation on FreeBSD
+  FreeBSD 8 still uses glib-2.20 as default. The method to check for a
+  valid ip-address was added in glib-2.22. Just add a small wrapper that
+  simply disables the check if glib is too old.
+
+* Make default network settings configurable
+
+* Move test client into test directory
+
+* Emit signal only if filename actually changed
+
+* Fix usage of GtkRecentManager
+
+* Create library for custom gtk widgets
+
+* Fix directory handling
+  When creating DirectoryList objects for a path that does not
+  exist closedir() was called with NULL. This seems to be ignored
+  by the Linux glibc but causes a crash on FreeBSD.
+
+* Add compilation target for FreeBSD
+  This is currently needed to disable the compilation of the
+  joystick module.
+
+* Fix headers for compilation on FreeBSD
+
+* Remove obsolete comment
+
+* Merge branch 'gtkbuilder'
+
+* Merge branch 'm052'
+
+* Merge branches 'z80core', 'raf-module', 'teledisk', 'fix/64bit',
+ 'fix/fdc', 'fix/mega-rom' and 'fix/valgrind'
+
+* Replace Z80 core emulation with libz80ex
+
+* Extend teledisk export tool
+
+* Add emulation of the M052 module
+
+* Update rom image of the z9001 Mega-ROM-Module
+
+* Fix EOT handling in READ_DATA and WRITE_DATA command.
+  Normally the end of data transfer is signaled by the terminal
+  count pulse. If there is no terminal count signaled, automatically
+  the next sector will be read until the end of track is reached.
+  Checking for end of track works by comparing the currently read
+  sector with the EOT value in the read command. So if we now read
+  the last byte of the sector that is defined to be EOT the read
+  operation is aborted and the "abnormal termination" flag is set.
+
+* Switch from libglade to GtkBuilder
+
+* Add RAF module (4MB RAM Floppy)
+
+* Remove duplicate image entries that cause 'make install' to fail
+
+* Enable remote control via kcemu-remote command line tool
+
+* Merge branches 'fix/64bit', 'typestar' and 'usb-vinculum'
+
+* Add command line parameter to set VDIP root directory
+
+* Add new default user ROM with VDIP software in kc85/5 mode
+
+* Sort kc85 modules by module number
+
+* 64bit: Fix definition of wav header
+
+* 64bit: Fix type of variable
+
+* Add M033 ROM module (16k segmented ROM with TypeStar+RAMDOS)
+
+* Refactor emulation of segmented memory
+  The change makes it possible to use the base implementation
+  of segmented memory to handle both RAM and ROM modules.
+
+* Update configure.in
+  - Remove detection of cppunit
+  - Fix warning about variable declaration
+
+* Move command name mapping to factory method
+
+* Add REN command
+
+* Add RD command
+
+* Add DLF command
+
+* Add DLD command
+
+* Add MKD command
+
+* Add FWV command
+
+* Add "cd /" command
+  This command is mentioned in the release notes of firmware
+  revision V03.64. It seems that only the first character is
+  checked as "cd /+" also executes the command instead of
+  giving a "Filename Invalid" error message (This behaviour
+  was checked on firmware V03.66).
+
+* Change connect/disconnect message to use correct port 2
+
+* Update start-up message
+
+* Fix array delete

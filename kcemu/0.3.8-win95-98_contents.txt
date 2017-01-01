@@ -1,0 +1,254 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-01-01 10:31:42 ....A        49845      2631909  share\doc\kcemu\changelog
+2017-01-01 10:31:42 ....A        11948               share\KCemu\doc\sys-a5105.jpg
+2017-01-01 10:31:42 ....A         7795               share\KCemu\doc\sys-kc85.jpg
+2017-01-01 10:31:42 ....A        12765               share\KCemu\doc\sys-kc855.jpg
+2017-01-01 10:31:42 ....A        18425               share\KCemu\doc\sys-lc80.jpg
+2017-01-01 10:31:42 ....A        58654               share\KCemu\doc\sys-poly880.jpg
+2017-01-01 10:31:42 ....A        21263               share\KCemu\doc\sys-z1013.jpg
+2017-01-01 10:31:42 ....A         9230               share\KCemu\doc\sys-z9001.jpg
+2017-01-01 10:31:42 ....A          234               share\KCemu\icons\kcemu-winicon_16x16.png
+2017-01-01 10:31:42 ....A          792               share\KCemu\icons\kcemu-winicon_32x32.png
+2017-01-01 10:31:42 ....A         1158               share\KCemu\icons\kcemu-winicon_48x48.png
+2017-01-01 10:31:42 ....A        20074               share\KCemu\images\kcemu.png
+2017-01-01 10:31:42 ....A         7680               share\KCemu\images\logo-flac.png
+2017-01-01 10:31:42 ....A         6533               share\KCemu\images\logo-gtk.png
+2017-01-01 10:31:42 ....A         3652               share\KCemu\images\logo-lame.png
+2017-01-01 10:31:42 ....A         6756               share\KCemu\images\logo-libsdl.png
+2017-01-01 10:31:42 ....A        12771               share\KCemu\images\logo-libsndfile.png
+2017-01-01 10:31:42 ....A         6838               share\KCemu\images\logo-openclipartlibrary.png
+2017-01-01 10:31:42 ....A         6407               share\KCemu\images\logo-vorbisdotcom.png
+2017-01-01 10:31:42 ....A         1547               share\KCemu\images\media-end.png
+2017-01-01 10:31:42 ....A         1553               share\KCemu\images\media-play.png
+2017-01-01 10:31:42 ....A         1727               share\KCemu\images\media-record.png
+2017-01-01 10:31:42 ....A         1615               share\KCemu\images\media-start.png
+2017-01-01 10:31:42 ....A         1347               share\KCemu\images\media-stop.png
+2017-01-01 10:31:42 ....A         2780               share\KCemu\images\window-about.png
+2017-01-01 10:31:42 ....A         7272               share\KCemu\doc\window-audio.png
+2017-01-01 10:31:42 ....A         3291               share\KCemu\images\window-audio.png
+2017-01-01 10:31:42 ....A         2114               share\KCemu\images\window-copying.png
+2017-01-01 10:31:42 ....A         5899               share\KCemu\doc\window-disk.png
+2017-01-01 10:31:42 ....A         1608               share\KCemu\images\window-disk.png
+2017-01-01 10:31:42 ....A         3436               share\KCemu\images\window-help.png
+2017-01-01 10:31:42 ....A         2616               share\KCemu\images\window-info.png
+2017-01-01 10:31:42 ....A         9167               share\KCemu\doc\window-module-kc85.png
+2017-01-01 10:31:42 ....A         5829               share\KCemu\doc\window-module-z1013.png
+2017-01-01 10:31:42 ....A         6243               share\KCemu\doc\window-module-z9001.png
+2017-01-01 10:31:42 ....A         1675               share\KCemu\images\window-module.png
+2017-01-01 10:31:42 ....A         3227               share\KCemu\images\window-question.png
+2017-01-01 10:31:42 ....A        12505               share\KCemu\doc\window-tape.png
+2017-01-01 10:31:42 ....A         2076               share\KCemu\images\window-tape.png
+2017-01-01 10:31:42 ....A         2045               share\KCemu\images\window-thanks.png
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-bic.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-kc85.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-kc87.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-kramermc.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-lc80.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-pcm.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-poly880.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-vcs80.ico
+2017-01-01 10:31:42 ....A         4846               share\KCemu\icons\kcemu-winicon.ico
+2017-01-01 10:31:42 ....A         3774               share\KCemu\icons\kcemu-z1013.ico
+2017-01-01 10:31:42 ....A         2534               share\KCemu\keymaps\kc851.key
+2017-01-01 10:31:42 ....A         2526               share\KCemu\keymaps\kc854.key
+2017-01-01 10:31:42 ....A         1071               share\KCemu\keymaps\lc80.key
+2017-01-01 10:31:42 ....A         1079               share\KCemu\keymaps\poly880.key
+2017-01-01 10:31:42 ....A         1011               share\KCemu\keymaps\vcs80.key
+2017-01-01 10:31:42 ....A          433               share\KCemu\lib\z80\kc853.bin
+2017-01-01 10:31:42 ....A         5603               share\KCemu\asm\autostart\kc853.asm
+2017-01-01 10:31:42 ....A        29808               share\KCemu\doc\kcemu-help.xml
+2017-01-01 10:31:42 ....A         1331               share\man\man1\kc2img.1
+2017-01-01 10:31:42 ....A          975               share\man\man1\kc2raw.1
+2017-01-01 10:31:42 ....A          915               share\man\man1\kc2tap.1
+2017-01-01 10:31:42 ....A          919               share\man\man1\kc2wav.1
+2017-01-01 10:31:42 ....A         1569               share\man\man1\kcemu-remote.1
+2017-01-01 10:31:42 ....A         1359               share\man\man1\kctape.1
+2017-01-01 10:31:42 ....A          594               share\man\man1\tdtodump.1
+2017-01-01 10:31:42 ....A         1310               share\man\man1\kcemu.1x
+2017-01-01 10:31:42 ....A        65536               share\KCemu\roms\z9001\192k__d2.851
+2017-01-01 10:31:42 ....A        32768               share\KCemu\roms\z9001\192k__d3.851
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\z9001\192k__d5.851
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\basic_c0.851
+2017-01-01 10:31:42 ....A         6144               share\KCemu\roms\z9001\bitex_c0.851
+2017-01-01 10:31:42 ....A         2048               share\KCemu\roms\z9001\cpmz9_c0.851
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\edas__c0.851
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\idas__c0.851
+2017-01-01 10:31:42 ....A        32768               share\KCemu\roms\z9001\kcpascal.851
+2017-01-01 10:31:42 ....A      2621440               share\KCemu\roms\z9001\mega_rom.851
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z9001\os____f0.851
+2017-01-01 10:31:42 ....A         7168               share\KCemu\roms\z9001\r80___c0.851
+2017-01-01 10:31:42 ....A       131072               share\KCemu\roms\z9001\rom_bank.851
+2017-01-01 10:31:42 ....A         3328               share\KCemu\roms\z9001\zm30__c0.851
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\zsid__c0.851
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\caos__e0.852
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\caos__e0.853
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\basic_c0.854
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\kc85\caos__c0.854
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\caos__e0.854
+2017-01-01 10:31:42 ....A        32768               share\KCemu\roms\kc85\basic_c0.855
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\caos__c0.855
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\caos__e0.855
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\basic_c0.87a
+2017-01-01 10:31:42 ....A        10240               share\KCemu\roms\z9001\basic_c0.87b
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z9001\os____f0.87b
+2017-01-01 10:31:42 ....A          196               lib\charset.alias
+2017-01-01 10:31:42 ....A         2652               share\locale\locale.alias
+2017-01-01 10:31:42 ....A          276               etc\pango\pango.aliases
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\a5105sys.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\caos.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\cpmz9.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\microdos.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\tools.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\z1013cpm.dump
+2017-01-01 10:31:42 ....A       825600               share\KCemu\disks\z1013gdc.dump
+2017-01-01 10:31:42 ....A         1463               etc\gtk-2.0\gtk.immodules
+2017-01-01 10:31:42 ....A          229               share\KCemu\.kcemurc
+2017-01-01 10:31:42 ....A        61952               share\KCemu\tapes\files.kct
+2017-01-01 10:31:42 ....A       112896               share\KCemu\tapes\z1013.kct
+2017-01-01 10:31:42 ....A         7168               share\KCemu\roms\kramermc\ass.kmc
+2017-01-01 10:31:42 ....A        12288               share\KCemu\roms\kramermc\basic.kmc
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\kramermc\debugger.kmc
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\kramermc\editor.kmc
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\kramermc\io-mon.kmc
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\kramermc\reass.kmc
+2017-01-01 10:31:42 ....A         3005               etc\gtk-2.0\gdk-pixbuf.loaders
+2017-01-01 10:31:43 ....A         7982               lib\locale\de\LC_MESSAGES\atk10.mo
+2017-01-01 10:31:43 ....A        16485               lib\locale\de\LC_MESSAGES\glib20.mo
+2017-01-01 10:31:43 ....A        40452               lib\locale\de\LC_MESSAGES\gtk20.mo
+2017-01-01 10:31:42 ....A        74872               share\locale\de\LC_MESSAGES\KCemu.mo
+2017-01-01 10:31:42 ....A         2858               etc\pango\pango.modules
+2017-01-01 10:31:42 ....A         2048               share\KCemu\roms\muglerpc\chargen.pcm
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\muglerpc\muglerpc.pcm
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\floppy20.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\floppy31.rom
+2017-01-01 10:31:42 ....A        32768               share\KCemu\roms\a5105\k1505_00.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\a5105\k1505_80.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\a5105\k5651_40.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\a5105\k5651_60.rom
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\lc80\lc80__00.rom
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\lc80\lc80__08.rom
+2017-01-01 10:31:42 ....A        16384               share\KCemu\roms\kc85\m006.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\m012.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\m026.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\m027.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\m900.rom
+2017-01-01 10:31:42 ....A         8192               share\KCemu\roms\kc85\m901.rom
+2017-01-01 10:31:42 ....A          512               share\KCemu\roms\vcs80\monitor.rom
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z9001\os_rb20.rom
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z9001\os_rb21.rom
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\poly880\poly880a.rom
+2017-01-01 10:31:42 ....A         1024               share\KCemu\roms\poly880\poly880b.rom
+2017-01-01 10:31:42 ....A         2048               share\KCemu\roms\z1013\z1013_20.rom
+2017-01-01 10:31:42 ....A         2048               share\KCemu\roms\z1013\z1013_a2.rom
+2017-01-01 10:31:42 ....A         2432               share\KCemu\roms\z1013\z1013_bl.rom
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z1013\z1013_rb.rom
+2017-01-01 10:31:42 ....A         2048               share\KCemu\roms\z1013\z1013_ul.rom
+2017-01-01 10:31:42 ....A         4096               share\KCemu\roms\z1013\z1013_zg.rom
+2017-01-01 10:31:42 ....A        11458               share\KCemu\doc\kcemurc.sample
+2017-01-01 10:31:42 ....A       371692               share\KCemu\keymaps\kc851_keyboard.xpm
+2017-01-01 10:31:42 ....A       371732               share\KCemu\keymaps\kc851_keyboard_pressed.xpm
+2017-01-01 10:31:42 ....A       638787               share\KCemu\keymaps\kc854_keyboard.xpm
+2017-01-01 10:31:42 ....A       638608               share\KCemu\keymaps\kc854_keyboard_pressed.xpm
+2017-01-01 10:31:42 ....A         3527               share\KCemu\icons\kcemu-bic.xpm
+2017-01-01 10:31:42 ....A        10213               share\KCemu\icons\kcemu-kc85.xpm
+2017-01-01 10:31:42 ....A         9242               share\KCemu\icons\kcemu-kc87.xpm
+2017-01-01 10:31:42 ....A         3472               share\KCemu\icons\kcemu-kramermc.xpm
+2017-01-01 10:31:42 ....A         9850               share\KCemu\icons\kcemu-lc80.xpm
+2017-01-01 10:31:42 ....A         3437               share\KCemu\icons\kcemu-pcm.xpm
+2017-01-01 10:31:42 ....A         3531               share\KCemu\icons\kcemu-poly880.xpm
+2017-01-01 10:31:42 ....A         7691               share\KCemu\icons\kcemu-vcs80.xpm
+2017-01-01 10:31:42 ....A         3529               share\KCemu\icons\kcemu-z1013.xpm
+2017-01-01 10:31:42 ....A       260027               share\KCemu\keymaps\lc80_keyboard.xpm
+2017-01-01 10:31:42 ....A       260035               share\KCemu\keymaps\lc80_keyboard_pressed.xpm
+2017-01-01 10:31:42 ....A       233498               share\KCemu\keymaps\poly880_keyboard.xpm
+2017-01-01 10:31:42 ....A       233506               share\KCemu\keymaps\poly880_keyboard_pressed.xpm
+2017-01-01 10:31:42 ....A       381107               share\KCemu\keymaps\vcs80_keyboard.xpm
+2017-01-01 10:31:42 ....A       379656               share\KCemu\keymaps\vcs80_keyboard_pressed.xpm
+2017-01-01 10:31:41 ....A       255439      1700784  bin\kc2img.exe
+2017-01-01 10:31:41 ....A       257194               bin\kc2raw.exe
+2017-01-01 10:31:41 ....A       255439               bin\kc2tap.exe
+2017-01-01 10:31:41 ....A       258374               bin\kc2wav.exe
+2017-01-01 10:31:42 ....A     10021116               bin\kcemu.exe
+2017-01-01 10:31:42 ....A      1094192               bin\kctape.exe
+2017-01-01 10:31:42 ....A       213789               bin\tdtodump.exe
+2017-01-01 10:31:43 ....A        28880               lib\gtk-2.0\2.4.0\immodules\im-am-et.dll
+2017-01-01 10:31:43 ....A        15571               lib\gtk-2.0\2.4.0\immodules\im-cedilla.dll
+2017-01-01 10:31:43 ....A        17180               lib\gtk-2.0\2.4.0\immodules\im-cyrillic-translit.dll
+2017-01-01 10:31:43 ....A        41272               lib\gtk-2.0\2.4.0\immodules\im-ime.dll
+2017-01-01 10:31:43 ....A        17640               lib\gtk-2.0\2.4.0\immodules\im-inuktitut.dll
+2017-01-01 10:31:43 ....A        16059               lib\gtk-2.0\2.4.0\immodules\im-ipa.dll
+2017-01-01 10:31:43 ....A        16619               lib\gtk-2.0\2.4.0\immodules\im-thai-broken.dll
+2017-01-01 10:31:43 ....A        28880               lib\gtk-2.0\2.4.0\immodules\im-ti-er.dll
+2017-01-01 10:31:43 ....A        28880               lib\gtk-2.0\2.4.0\immodules\im-ti-et.dll
+2017-01-01 10:31:43 ....A        17098               lib\gtk-2.0\2.4.0\immodules\im-viqr.dll
+2017-01-01 10:31:42 ....A        29918               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-ani.dll
+2017-01-01 10:31:42 ....A        26837               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-bmp.dll
+2017-01-01 10:31:42 ....A        42497               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-gif.dll
+2017-01-01 10:31:42 ....A        28122               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-ico.dll
+2017-01-01 10:31:42 ....A        32304               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-jpeg.dll
+2017-01-01 10:31:42 ....A        22665               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-pcx.dll
+2017-01-01 10:31:42 ....A        35770               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-png.dll
+2017-01-01 10:31:42 ....A        26057               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-pnm.dll
+2017-01-01 10:31:42 ....A        20161               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-ras.dll
+2017-01-01 10:31:42 ....A        25605               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-tga.dll
+2017-01-01 10:31:42 ....A        25366               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-tiff.dll
+2017-01-01 10:31:42 ....A        19015               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-wbmp.dll
+2017-01-01 10:31:42 ....A        24537               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-xbm.dll
+2017-01-01 10:31:43 ....A        45210               lib\gtk-2.0\2.4.0\loaders\libpixbufloader-xpm.dll
+2017-01-01 10:31:43 ....A        27866               lib\pango\1.4.0\modules\pango-arabic-fc.dll
+2017-01-01 10:31:43 ....A        19735               lib\pango\1.4.0\modules\pango-basic-fc.dll
+2017-01-01 10:31:43 ....A        35277               lib\pango\1.4.0\modules\pango-basic-win32.dll
+2017-01-01 10:31:43 ....A        23029               lib\pango\1.4.0\modules\pango-hangul-fc.dll
+2017-01-01 10:31:43 ....A        30095               lib\pango\1.4.0\modules\pango-hebrew-fc.dll
+2017-01-01 10:31:43 ....A        40910               lib\pango\1.4.0\modules\pango-indic-fc.dll
+2017-01-01 10:31:43 ....A        25338               lib\pango\1.4.0\modules\pango-khmer-fc.dll
+2017-01-01 10:31:43 ....A        27184               lib\pango\1.4.0\modules\pango-syriac-fc.dll
+2017-01-01 10:31:43 ....A        35156               lib\pango\1.4.0\modules\pango-thai-fc.dll
+2017-01-01 10:31:43 ....A        23257               lib\pango\1.4.0\modules\pango-tibetan-fc.dll
+2017-01-01 10:31:42 D....            0            0  share\man\man1
+2017-01-01 10:31:42 D....            0            0  share\man
+2017-01-01 10:31:42 D....            0            0  share\locale\de\LC_MESSAGES
+2017-01-01 10:31:42 D....            0            0  share\locale\de
+2017-01-01 10:31:42 D....            0            0  share\locale
+2017-01-01 10:31:42 D....            0            0  share\KCemu\tapes
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\z9001
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\z1013
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\vcs80
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\poly880
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\muglerpc
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\lc80
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\kramermc
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\kc85
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms\a5105
+2017-01-01 10:31:42 D....            0            0  share\KCemu\roms
+2017-01-01 10:31:42 D....            0            0  share\KCemu\lib\z80
+2017-01-01 10:31:42 D....            0            0  share\KCemu\lib
+2017-01-01 10:31:42 D....            0            0  share\KCemu\keymaps
+2017-01-01 10:31:42 D....            0            0  share\KCemu\images
+2017-01-01 10:31:42 D....            0            0  share\KCemu\icons
+2017-01-01 10:31:42 D....            0            0  share\KCemu\doc
+2017-01-01 10:31:42 D....            0            0  share\KCemu\disks
+2017-01-01 10:31:42 D....            0            0  share\KCemu\asm\autostart
+2017-01-01 10:31:42 D....            0            0  share\KCemu\asm
+2017-01-01 10:31:42 D....            0            0  share\KCemu
+2017-01-01 10:31:42 D....            0            0  share\doc\kcemu
+2017-01-01 10:31:42 D....            0            0  share\doc
+2017-01-01 10:31:42 D....            0            0  share
+2017-01-01 10:33:07 D....            0            0  lib\pango\1.4.0\modules
+2017-01-01 10:33:07 D....            0            0  lib\pango\1.4.0
+2017-01-01 10:33:07 D....            0            0  lib\pango
+2017-01-01 10:33:07 D....            0            0  lib\locale\de\LC_MESSAGES
+2017-01-01 10:33:07 D....            0            0  lib\locale\de
+2017-01-01 10:33:07 D....            0            0  lib\locale
+2017-01-01 10:33:07 D....            0            0  lib\gtk-2.0\2.4.0\loaders
+2017-01-01 10:33:07 D....            0            0  lib\gtk-2.0\2.4.0\immodules
+2017-01-01 10:33:07 D....            0            0  lib\gtk-2.0\2.4.0
+2017-01-01 10:33:07 D....            0            0  lib\gtk-2.0
+2017-01-01 10:33:07 D....            0            0  lib
+2017-01-01 10:31:42 D....            0            0  etc\pango
+2017-01-01 10:31:42 D....            0            0  etc\gtk-2.0
+2017-01-01 10:31:42 D....            0            0  etc
+2017-01-01 10:31:42 D....            0            0  bin
+------------------- ----- ------------ ------------  ------------------------
+2017-01-01 10:33:07           26909434      4332693  206 files, 44 folders

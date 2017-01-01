@@ -1,0 +1,1 @@
+This version is implemented XInput for XBOX360 Gamepad for Windows.

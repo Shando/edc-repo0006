@@ -1,0 +1,132 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-10-05 11:53:24 .R..A        11474       155556  src\win\infozip\copying
+2001-08-26 11:44:26 ....A        18329               copying
+1997-11-02 19:57:36 .R..A        10093               src\win\infozip\readme
+1997-11-02 20:40:36 .R..A        17040               src\win\infozip\where
+1997-10-17 21:11:16 ....A          478               src\win\toolbar1.bmp
+1998-07-20 18:12:06 ....A          238               src\win\toolbar2.bmp
+1998-10-01 15:19:18 ....A          958               src\win\toolbar3.bmp
+2001-08-25 13:13:58 ....A         2471               src\ep\audioevent.h
+2001-08-27 08:14:06 ....A          131               src\ep\config.h
+2001-08-27 08:35:58 ....A         1590               src\ep\cpcglob.h
+2000-02-24 22:03:40 ....A         2272               src\ep\notused\dave.h
+2001-08-27 08:19:16 ....A         3382               src\ep\Dave.h
+2001-08-27 09:34:24 ....A         1670               src\win\directx\dd.h
+2001-08-25 13:15:18 ....A         1327               src\ep\debugger\debug.h
+2001-08-25 13:10:32 ....A         1091               src\win\debugger.h
+1997-10-31 06:59:12 .R..A          461               src\win\infozip\decs.h
+2001-08-25 13:10:44 ....A         1291               src\win\detectos.h
+2001-08-25 13:13:28 ....A         1317               src\ep\device.h
+2001-08-25 13:12:40 ....A         1111               src\win\directx\di.h
+2001-08-25 13:15:58 ....A         2209               src\ep\diskimage\diskimg.h
+2001-08-27 09:29:42 ....A         1450               src\win\directx\ds.h
+2001-08-25 13:16:06 ....A         2319               src\ep\diskimage\dsk.h
+2001-08-25 13:13:32 ....A         1549               src\ep\endian.h
+1999-11-07 10:58:10 ....A         3707               src\ep\notused\ep.h
+2001-08-27 09:30:24 ....A         7176               src\ep\ep.h
+1997-10-31 06:59:12 .R..A         1134               src\win\infozip\example.h
+2001-08-25 13:16:14 ....A         2388               src\ep\diskimage\extdsk.h
+2001-08-25 13:10:58 ....A         1263               src\win\filedlg.h
+2001-08-25 13:15:32 ....A         5448               src\ep\debugger\gdebug.h
+2001-08-27 08:37:40 ....A         1508               src\win\global.h
+2001-08-25 13:13:04 ....A         1932               src\win\directx\graphlib.h
+2001-08-25 13:13:38 ....A         3702               src\ep\host.h
+2001-08-25 13:16:22 ....A         2377               src\ep\diskimage\iextdsk.h
+2001-08-25 13:11:24 ....A         1183               src\win\joy.h
+2001-08-25 13:13:12 ....A         2573               src\win\general\lnklist\lnklist.h
+2001-08-25 13:11:26 ....A         1188               src\win\myapp.h
+2001-08-25 13:11:36 ....A         1193               src\win\mylistvw.h
+2001-08-27 08:15:04 ....A         4682               src\ep\nick.h
+2001-08-25 13:14:30 ....A         5831               src\ep\packedimage.h
+2001-08-25 13:14:34 ....A         1808               src\ep\parse.h
+2001-08-25 13:11:56 ....A         1454               src\win\reg.h
+2001-08-27 08:57:02 ....A         5907               src\ep\render.h
+2001-08-25 13:08:30 ....A        16670               src\win\resource.h
+2001-08-25 13:14:42 ....A         1098               src\ep\rtc.h
+2001-08-25 13:14:50 ....A         2748               src\ep\sampload.h
+1997-11-02 19:02:52 .R..A         1494               src\win\infozip\structs.h
+2001-08-25 13:12:16 ....A         1117               src\win\treev.h
+1997-10-18 14:58:08 .R..A        18398               src\win\infozip\unzip.h
+1997-07-23 07:20:42 .R..A          174               src\win\infozip\unzver.h
+2001-08-25 13:15:10 ....A         1131               src\ep\voc.h
+2000-02-17 16:02:14 ....A          488               src\ep\wav.h
+2001-08-27 09:22:44 ....A        10409               src\ep\z80\z80.h
+1999-10-12 23:00:20 ....A        17365               src\ep\z80\z80daa.h
+2001-08-27 09:23:20 ....A        27647               src\ep\z80\z80funcs.h
+2001-08-27 09:23:12 ....A         7386               src\ep\z80\z80funcs2.h
+2001-08-27 09:23:00 ....A        67871               src\ep\z80\z80macros.h
+2001-08-27 09:20:12 ....A         1067               src\ep\z80\z80tables.h
+2001-08-25 13:12:30 ....A         1071               src\win\ziphandle.h
+2000-02-24 20:15:34 ....A        22999               src\ep\notused\audioevent.c
+2001-08-27 08:03:04 ....A        22940               src\ep\audioevent.c
+2001-08-27 08:14:22 ....A        11076               src\ep\config.c
+2000-02-25 07:02:02 ....A        22497               src\ep\notused\dave.c
+2001-08-27 08:08:58 ....A        24203               src\ep\dave.c
+2001-08-27 09:48:02 ....A        52458               src\win\directx\ddraw.c
+2001-08-25 13:15:14 ....A         2420               src\ep\debugger\debug.c
+2001-08-27 09:28:48 ....A        67493               src\win\debugger.c
+2001-08-25 13:10:40 ....A         2048               src\win\detectos.c
+2001-08-25 13:12:46 ....A         3989               src\win\directx\dinput.c
+1999-10-17 09:04:10 ....A        11825               src\ep\notused\diskimage\diskimg.c
+2001-08-25 13:15:46 ....A        12761               src\ep\diskimage\diskimg.c
+2001-08-25 13:16:02 ....A         6771               src\ep\diskimage\dsk.c
+2001-08-25 13:13:00 ....A        12613               src\win\directx\dsound.c
+2000-02-24 22:04:06 ....A        37567               src\ep\notused\ep.c
+2001-08-27 08:17:50 ....A        40849               src\ep\ep.c
+1997-10-31 07:07:28 .R..A        10351               src\win\infozip\example.c
+2001-08-25 13:16:10 ....A         8579               src\ep\diskimage\extdsk.c
+2001-08-27 08:35:22 ....A         2380               src\win\filedlg.c
+2001-08-27 08:50:30 ....A        69717               src\ep\debugger\gdebug.c
+2001-08-27 08:38:42 ....A         2987               src\win\global.c
+2001-08-27 09:30:42 ....A         6584               src\win\host.c
+2001-08-25 13:16:18 ....A        26763               src\ep\diskimage\iextdsk.c
+2001-08-25 13:11:12 ....A         2561               src\win\iface.c
+2001-08-25 13:11:20 ....A         2925               src\win\joy.c
+2001-08-25 13:13:08 ....A         9507               src\win\general\lnklist\lnklist.c
+2001-08-27 09:34:02 ....A        36465               src\win\myapp.c
+2001-08-25 13:11:32 ....A         1887               src\win\mylistvw.c
+2000-02-19 20:25:44 ....A        35248               src\ep\notused\nick.c
+2001-08-27 08:20:24 ....A        36277               src\ep\nick.c
+2001-08-27 08:43:22 ....A         6610               src\win\reg.c
+1999-11-09 21:17:34 ....A        12927               src\ep\notused\render5.c
+2001-08-25 13:13:50 ....A        14540               src\ep\render5.c
+2001-08-25 13:14:38 ....A         3841               src\ep\rtc.c
+2001-08-25 13:14:44 ....A         7720               src\ep\sampload.c
+2001-08-25 13:12:00 ....A         1779               src\win\treev.c
+2001-08-27 08:39:32 ....A        10678               src\ep\voc.c
+2001-08-26 15:47:30 ....A        13275               src\ep\wav.c
+2001-08-25 13:12:06 ....A         3447               src\win\win.c
+2001-08-27 09:26:52 ....A       141235               src\ep\z80\z80.c
+2001-08-25 13:12:20 ....A         5729               src\win\ziphandle.c
+2000-02-28 19:08:06 ....A        26894               src\win\cpcemu.rc
+1997-10-31 06:59:12 .R..A         8685               src\win\infozip\vb\vbunzip.bas
+1997-10-31 06:59:12 .R..A         2367               src\win\infozip\vb\vbunzip.frm
+2001-08-26 16:01:16 ....A         9332               src\enter.dsp
+2001-08-26 15:38:42 ....A          533               src\enter.dsw
+2001-08-26 15:56:12 ....A         9751               doc.txt
+2001-08-27 08:32:42 ....A         2623               src\readme.txt
+2001-08-26 15:58:42 ....A          383               whatsnew.txt
+1997-10-31 06:59:12 .R..A         9940               src\win\infozip\windll.doc
+2000-12-14 18:10:02 ....A          683               enter.cfg
+1997-07-23 18:57:42 .R..A          666               src\win\infozip\vb\vbunzip.vbp
+1997-07-23 18:57:42 .R..A           85               src\win\infozip\vb\vbunzip.vbw
+2001-08-26 11:39:26 ....A         1628               src\ep\makefile.w32
+2001-08-27 09:35:56 ....A         1195               src\makefile.w32
+1997-11-03 04:32:00 .R..A       143872        57648  src\win\infozip\unzip32.dll
+2016-12-31 11:57:39 D....            0            0  src\win\infozip\vb
+2016-12-31 11:57:39 D....            0            0  src\win\infozip
+2016-12-31 11:57:38 D....            0            0  src\win\general\lnklist
+2016-12-31 11:57:38 D....            0            0  src\win\general
+2016-12-31 11:57:38 D....            0            0  src\win\directx
+2016-12-31 11:57:39 D....            0            0  src\win
+2016-12-31 11:57:38 D....            0            0  src\ep\z80
+2016-12-31 11:57:38 D....            0            0  src\ep\notused\diskimage
+2016-12-31 11:57:38 D....            0            0  src\ep\notused
+2016-12-31 11:57:38 D....            0            0  src\ep\diskimage
+2016-12-31 11:57:38 D....            0            0  src\ep\debugger
+2016-12-31 11:57:38 D....            0            0  src\ep
+2016-12-31 11:57:39 D....            0            0  src
+2016-12-31 11:57:38 D....            0            0  roms
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 11:57:39            1363997       213204  114 files, 14 folders
