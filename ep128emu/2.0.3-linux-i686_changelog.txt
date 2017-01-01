@@ -1,1 +1,6 @@
-UNKNOWN
+Changes in version 2.0.3
+------------------------
+
+  * fixed interrupts in Spectrum emulator
+  * other minor fixes, including changes to allow for compiling with
+    Microsoft Visual Studio 2005

@@ -1,1 +1,40 @@
-UNKNOWN
+Changes in version 2.0.1
+------------------------
+
+  * improved timing accuracy of Z80 memory and NICK port accesses (this
+    is still not perfect); note that when playing demo files recorded by
+    previous releases, the timing may go out of sync because of this
+    change
+  * DAVE internal sample rate can now be changed with the sound clock
+    frequency option
+  * removed video memory latency option
+  * implemented 'ignore' watchpoints in the debugger; these can be
+    defined by using the 'i' suffix. Watchpoints and single step mode
+    will not stop the emulation and open the debugger while the program
+    counter is at any address for which the ignore flag is set
+  * added I/O tab to the debugger (displays the state of I/O registers)
+  * the disassembler now supports the undocumented SLL instruction, and
+    also prints RST 30 as 'EXOS nn'
+  * added 'step over' button to the debugger; it is similar to 'step',
+    but when encountering any subroutine call or looping instructions,
+    it will continue program execution until the subroutine returns or
+    the loop is finished
+  * disassembly view address is automatically updated when the debugger
+    is opened by a watchpoint being triggered or using the step buttons;
+    the current tab is also remembered and not changed to 'general'
+  * new 't' debugger command for copying memory
+  * added limited (read-only) support for EPTE/TAPir format tape files
+  * fixed direct floppy disk access on Windows
+  * improved autodetection of disk geometry parameters; with a disk
+    image that contains a FAT filesystem, none of the parameters need to
+    be specified explicitly (all can be set to -1)
+  * added workaround for FLTK bug that resulted in the right shift key
+    being interpreted as left shift on Windows
+  * various minor improvements in the software video driver, such as
+    reduced aliasing when using a display resolution of 1152x864, and
+    slightly lower CPU usage with exact integer scaling ratios (i.e.
+    resolutions 384x288, 768x576, 1152x864, and 1536x1152 with the pixel
+    aspect ratio set to 1.0)
+  * when loading large ROM images, the GUI now automatically sets the
+    file name and offset for all segments
+  * minor bug fixes

@@ -1,1 +1,18 @@
-UNKNOWN
+Changes in version 2.0.0
+------------------------
+
+  * removed Plus/4 emulation (moved to a separate plus4emu project)
+  * implemented new video mode that resamples the video output to the
+    refresh rate of the monitor; enabling this allows smoother display
+    update at the expense of higher CPU usage and some latency in the
+    video output
+  * screenshots can be saved in 8-bit RLE compressed TGA format
+  * quick loading of clock frequency and timing configuration presets
+    with PageUp/PageDown keys (useful for switching between normal and
+    fast Z80 speed)
+  * virtual file I/O can be disabled in the machine configuration
+  * bug fixes in NICK emulation
+  * attempt to fix OpenGL crash that occurs on some machines
+  * added some hacks to the audio driver to reduce timing jitter on
+    Windows; this still needs improvements
+  * various minor bug fixes

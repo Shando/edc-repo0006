@@ -1,1 +1,50 @@
-UNKNOWN
+Changes in version 1.6.1
+------------------------
+
+ * ep128emu home page has been moved to
+   http://sourceforge.net/projects/ep128emu/
+ * Video and sound driver can be selected with the 'video_driver' and
+   'sound_driver' configuration options. The available video drivers are
+   'null' (no video and keyboard - not very useful), 'sdl', and 'opengl'.
+   Sound drivers are 'null' (disable sound), 'sdl', 'alsa' (Linux only),
+   and 'winmm' (Win32 only, does not work very well yet).
+ * New, OpenGL based video driver that can be enabled with the
+   'video_driver=opengl' option. Allows scaling the emulator window by
+   any ratio (e.g. from 720x540 to 1024x768), optionally with linear
+   filtering, and is faster than the old SDL driver if a high resolution
+   is used. Double buffering and 'blit_on_change_only' are supported,
+   however, there is no implementation for interlaced display and half
+   refresh rate. 'video_hw' is ignored in GL mode, as it always uses
+   hardware acceleration. See the file '.ep128rc.gl' for more details.
+ * If the OpenGL video module is used, a transparent console overlay may
+   be enabled (with the 'gl_console=1' option). This is most useful in
+   fullscreen mode where the console messages could not be seen
+   otherwise. Messages are shown when the keyboard is in program control
+   mode (F12), and are hidden in normal emulation mode.
+   The disadvantage of enabling the console is increased CPU usage, and
+   it also automatically turns on double buffering and disables
+   'blit_on_change_only'. So, the GL console is best used on fast
+   computers.
+ * Improved color correction: gamma, contrast, and brightness can be
+   specified for each color channel (R, G, B), in addition to the overall
+   values that affect all channels. For example, the 'gamma_b' option
+   sets the gamma correction for the blue channel, 'min_intensity_g'
+   controls the minimum intensity (brightness) of the green channel etc.
+ * Emulator messages can be logged to a file with the 'logfile=filename'
+   option, and it is possible to disable printing to stderr with
+   'msg_stderr=0'.
+ * Direct floppy access under Windows 2000/XP; set the image name to
+   '\\.\A:@80,2,9' or '\\.\B:@80,2,9' for a 3.5" 720k disk (note: the
+   disk geometry must be specified, as the emulator cannot detect it).
+   5.25" disks were not tested.
+ * Bug in disk emulation after snapshot loading may be fixed now.
+ * Some functions of the emulator can be accessed with multiple
+   keys, for improved compatibility with systems where the original keys
+   could not be used for some reason. The new keys are:
+     Reset CPU frequency to 4 MHz       Keypad Enter, Keypad *
+     HOLD / Quit emulator               Pause, PageUp
+     STOP                               Print Screen, End
+ * New sound driver for Win32 that uses the waveOut interface, and is
+   enabled with 'sound_driver=winmm'. This is experimental, and currently
+   not really usable.
+ * Added more example configuration files. 
