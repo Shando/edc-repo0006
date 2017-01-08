@@ -1,0 +1,39 @@
+General 
+· Added simple command line interface (see help) 
+· Moved configuration data from registry to emma_02.ini file, default this file is stored in AppDataEmma 02 directory but moveable via GUI or command line (portable option) 
+· Added compatibility with Hyperspin (via command line interface and portability option) 
+· Clean-up of naming in configuration file 
+· Improved GUI to work ‘ok’ on Ubuntu, openSUSE and Windows 
+· Update check now only performed max once every week 
+· Added ‘Windows’ menu under settings including 
+· Set Default Positions 
+· Fixed Positions 
+· Activate Main 
+· Full Screen 
+· Enable Floating Point Zooming (moved from settings) 
+· Added menu item to specify function key behaviour as well as hot keys, including enable ‘Exit Key’ default set to off and value ‘ESC’ 
+· Fixed bug in changing hex keys with value > 9 
+· Changed ‘HexKeyMap’ buttons to ‘Key Map’, and added ‘IN Button’ in Key Map window for Elf emulators, Cosmicos and ETI 660 
+· Added popup menu (default started by ‘Menu’ key, changeable in function/hot key window), mainly for changing run time items like disk or cassette files when using command line interface. 
+
+Installation 
+· Added openSUSE / rpm installation package 
+
+Debugger 
+· Chip 8 (ST2) debug trace fixed for Visicom 
+· Fixed OUT / INP instruction trace 
+
+Video Terminal 
+· Changed mapping VT100 PF1 to PF4 to PC SHIFT F1 to F4 
+
+Cosmicos 
+· Cosmicos doesn’t support uart so ‘R’ baud button removed 
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf 
+· Solved bug on Linux when loading Super Basic during run time 
+
+Membership Card 
+· Changed membership picture (thanks to Bill) 
+
+Pecom 
+· Fixed bug in PSAVE when no tape file was specified

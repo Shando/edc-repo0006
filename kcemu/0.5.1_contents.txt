@@ -1,0 +1,369 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-03-07 20:53:56 ....A        51384      4325961  share\doc\kcemu\changelog
+2010-03-07 20:52:36 ....A         1825               etc\gtk-2.0\gtkrc
+2010-03-07 20:53:56 ....A          229               share\KCemu\kcemurc
+2010-03-07 20:53:56 ....A        11948               share\KCemu\doc\sys-a5105.jpg
+2010-03-07 20:53:56 ....A         7795               share\KCemu\doc\sys-kc85.jpg
+2010-03-07 20:53:56 ....A        12765               share\KCemu\doc\sys-kc855.jpg
+2010-03-07 20:53:56 ....A        18425               share\KCemu\doc\sys-lc80.jpg
+2010-03-07 20:53:56 ....A        58654               share\KCemu\doc\sys-poly880.jpg
+2010-03-07 20:53:56 ....A         8325               share\KCemu\doc\sys-xy4131.jpg
+2010-03-07 20:53:56 ....A        21263               share\KCemu\doc\sys-z1013.jpg
+2010-03-07 20:53:56 ....A         9230               share\KCemu\doc\sys-z9001.jpg
+2010-03-07 20:53:16 ....A         5918               share\KCemu\keymaps\a5105_keyboard.png
+2010-03-07 20:53:16 ....A         5841               share\KCemu\keymaps\a5105_keyboard_pressed.png
+2010-03-07 20:53:56 ....A         1434               share\KCemu\icons\icon-bic.png
+2010-03-07 20:53:56 ....A         1329               share\KCemu\icons\icon-c80.png
+2010-03-07 20:53:56 ....A         2136               share\KCemu\icons\icon-default.png
+2010-03-07 20:53:56 ....A         1832               share\KCemu\icons\icon-deleted.png
+2010-03-07 20:53:56 ....A         1487               share\KCemu\icons\icon-kc85.png
+2010-03-07 20:53:56 ....A         1389               share\KCemu\icons\icon-kc87.png
+2010-03-07 20:53:56 ....A         1423               share\KCemu\icons\icon-kramermc.png
+2010-03-07 20:53:56 ....A         1374               share\KCemu\icons\icon-lc80.png
+2010-03-07 20:53:56 ....A         1352               share\KCemu\icons\icon-pcm.png
+2010-03-07 20:53:56 ....A         1382               share\KCemu\icons\icon-poly880.png
+2010-03-07 20:53:56 ....A         2279               share\KCemu\icons\icon-root.png
+2010-03-07 20:53:56 ....A         1381               share\KCemu\icons\icon-vcs80.png
+2010-03-07 20:53:56 ....A         1455               share\KCemu\icons\icon-z1013.png
+2010-03-07 20:53:56 ....A         1156               share\KCemu\icons\kcemu-icon.png
+2010-03-07 20:53:56 ....A          234               share\KCemu\icons\kcemu-winicon_16x16.png
+2010-03-07 20:53:56 ....A          792               share\KCemu\icons\kcemu-winicon_32x32.png
+2010-03-07 20:53:56 ....A         1158               share\KCemu\icons\kcemu-winicon_48x48.png
+2010-03-07 20:53:56 ....A        20074               share\KCemu\doc\kcemu.png
+2010-03-07 20:53:56 ....A          663               share\KCemu\images\logo-bbc.png
+2010-03-07 20:53:56 ....A         3664               share\KCemu\images\logo-ffmpeg.png
+2010-03-07 20:53:56 ....A         7680               share\KCemu\images\logo-flac.png
+2010-03-07 20:53:56 ....A         6533               share\KCemu\images\logo-gtk.png
+2010-03-07 20:53:56 ....A         3652               share\KCemu\images\logo-lame.png
+2010-03-07 20:53:56 ....A         6756               share\KCemu\images\logo-libsdl.png
+2010-03-07 20:53:56 ....A        12771               share\KCemu\images\logo-libsndfile.png
+2010-03-07 20:53:56 ....A         6838               share\KCemu\images\logo-openclipartlibrary.png
+2010-03-07 20:53:56 ....A         8133               share\KCemu\images\logo-theora_org.png
+2010-03-07 20:53:56 ....A         6407               share\KCemu\images\logo-vorbisdotcom.png
+2010-03-07 20:53:56 ....A         3163               share\KCemu\images\logo-xvid.png
+2010-03-07 20:53:56 ....A         1547               share\KCemu\images\media-end.png
+2010-03-07 20:53:56 ....A         1395               share\KCemu\images\media-pause.png
+2010-03-07 20:53:56 ....A         1553               share\KCemu\images\media-play.png
+2010-03-07 20:53:56 ....A         1727               share\KCemu\images\media-record.png
+2010-03-07 20:53:56 ....A         1615               share\KCemu\images\media-start.png
+2010-03-07 20:53:56 ....A         1347               share\KCemu\images\media-stop.png
+2010-03-07 20:53:56 ....A         2780               share\KCemu\images\window-about.png
+2010-03-07 20:53:56 ....A         3291               share\KCemu\images\window-audio.png
+2010-03-07 20:53:56 ....A        23497               share\KCemu\doc\window-audio.png
+2010-03-07 20:53:56 ....A         1217               share\KCemu\images\window-color.png
+2010-03-07 20:53:56 ....A        14335               share\KCemu\doc\window-colors.png
+2010-03-07 20:53:56 ....A         2114               share\KCemu\images\window-copying.png
+2010-03-07 20:53:56 ....A         1608               share\KCemu\images\window-disk.png
+2010-03-07 20:53:56 ....A        27129               share\KCemu\doc\window-disk.png
+2010-03-07 20:53:56 ....A         3436               share\KCemu\images\window-help.png
+2010-03-07 20:53:56 ....A         2618               share\KCemu\images\window-info.png
+2010-03-07 20:53:56 ....A         1991               share\KCemu\images\window-keyboard.png
+2010-03-07 20:53:56 ....A        32925               share\KCemu\doc\window-module-kc85.png
+2010-03-07 20:53:56 ....A        23778               share\KCemu\doc\window-module-z1013.png
+2010-03-07 20:53:56 ....A        26947               share\KCemu\doc\window-module-z9001.png
+2010-03-07 20:53:56 ....A         1675               share\KCemu\images\window-module.png
+2010-03-07 20:53:56 ....A         2453               share\KCemu\images\window-options.png
+2010-03-07 20:53:56 ....A        54328               share\KCemu\doc\window-plotter-1.png
+2010-03-07 20:53:56 ....A        87342               share\KCemu\doc\window-plotter-1_small.png
+2010-03-07 20:53:56 ....A        23514               share\KCemu\doc\window-plotter-2.png
+2010-03-07 20:53:56 ....A        15014               share\KCemu\doc\window-plotter-2_small.png
+2010-03-07 20:53:56 ....A         1538               share\KCemu\images\window-plotter.png
+2010-03-07 20:53:56 ....A        72692               share\KCemu\doc\window-profile-1.png
+2010-03-07 20:53:56 ....A        76464               share\KCemu\doc\window-profile-1_small.png
+2010-03-07 20:53:56 ....A        70616               share\KCemu\doc\window-profile-2.png
+2010-03-07 20:53:56 ....A        73174               share\KCemu\doc\window-profile-2_small.png
+2010-03-07 20:53:56 ....A        87564               share\KCemu\doc\window-profile-3.png
+2010-03-07 20:53:56 ....A        90937               share\KCemu\doc\window-profile-3_small.png
+2010-03-07 20:53:56 ....A        91692               share\KCemu\doc\window-profile-4.png
+2010-03-07 20:53:56 ....A        92405               share\KCemu\doc\window-profile-4_small.png
+2010-03-07 20:53:56 ....A        73699               share\KCemu\doc\window-profile-5.png
+2010-03-07 20:53:56 ....A        77371               share\KCemu\doc\window-profile-5_small.png
+2010-03-07 20:53:56 ....A         3226               share\KCemu\images\window-question.png
+2010-03-07 20:53:56 ....A        69892               share\KCemu\doc\window-savemem.png
+2010-03-07 20:53:56 ....A       139716               share\KCemu\doc\window-savemem_small.png
+2010-03-07 20:53:56 ....A         1614               share\KCemu\images\window-screenshot.png
+2010-03-07 20:53:56 ....A        26689               share\KCemu\doc\window-screenshot.png
+2010-03-07 20:53:56 ....A        60849               share\KCemu\doc\window-select-profile.png
+2010-03-07 20:53:56 ....A       111701               share\KCemu\doc\window-select-profile_small.png
+2010-03-07 20:53:56 ....A         3778               share\KCemu\images\window-selector.png
+2010-03-07 20:53:56 ....A         2076               share\KCemu\images\window-tape.png
+2010-03-07 20:53:56 ....A        45241               share\KCemu\doc\window-tape.png
+2010-03-07 20:53:56 ....A         2045               share\KCemu\images\window-thanks.png
+2010-03-07 20:53:56 ....A         1723               share\KCemu\images\window-video.png
+2010-03-07 20:53:56 ....A        29933               share\KCemu\doc\window-video.png
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-bic.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-c80.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-kc85.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-kc87.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-kramermc.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-lc80.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-pcm.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-poly880.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-vcs80.ico
+2010-03-07 20:53:56 ....A         4846               share\KCemu\icons\kcemu-winicon.ico
+2010-03-07 20:53:56 ....A         3774               share\KCemu\icons\kcemu-z1013.ico
+2010-03-07 20:53:16 ....A         2681               share\KCemu\keymaps\a5105.key
+2010-03-07 20:53:16 ....A         2534               share\KCemu\keymaps\kc851.key
+2010-03-07 20:53:16 ....A         2526               share\KCemu\keymaps\kc854.key
+2010-03-07 20:53:16 ....A         1141               share\KCemu\keymaps\lc80.key
+2010-03-07 20:53:16 ....A         1079               share\KCemu\keymaps\poly880.key
+2010-03-07 20:53:16 ....A         1011               share\KCemu\keymaps\vcs80.key
+2010-03-07 20:53:54 ....A          433               share\KCemu\lib\z80\kc853.bin
+2010-03-07 20:53:54 ....A         5603               share\KCemu\asm\autostart\kc853.asm
+2010-03-07 20:53:56 ....A        44887               share\KCemu\doc\kcemu-help.xml
+2010-03-07 20:53:56 ....A         1331               share\man\man1\kc2img.1
+2010-03-07 20:53:56 ....A          975               share\man\man1\kc2raw.1
+2010-03-07 20:53:56 ....A          915               share\man\man1\kc2tap.1
+2010-03-07 20:53:56 ....A          919               share\man\man1\kc2wav.1
+2010-03-07 20:53:56 ....A         1571               share\man\man1\kcemu-remote.1
+2010-03-07 20:53:56 ....A         1392               share\man\man1\kctape.1
+2010-03-07 20:53:56 ....A          593               share\man\man1\tdtodump.1
+2010-03-07 20:53:56 ....A         1327               share\man\man1\kcemu.1x
+2010-03-07 20:53:54 ....A        65536               share\KCemu\roms\z9001\192k__d2.851
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\z9001\192k__d3.851
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\z9001\192k__d5.851
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\basic_c0.851
+2010-03-07 20:53:54 ....A         6144               share\KCemu\roms\z9001\bitex_c0.851
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z9001\chargen.851
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z9001\cpmz9_c0.851
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\edas__c0.851
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\idas__c0.851
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\z9001\kcpascal.851
+2010-03-07 20:53:54 ....A      2621440               share\KCemu\roms\z9001\mega_rom.851
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z9001\os____f0.851
+2010-03-07 20:53:54 ....A         7168               share\KCemu\roms\z9001\r80___c0.851
+2010-03-07 20:53:54 ....A       131072               share\KCemu\roms\z9001\rom_bank.851
+2010-03-07 20:53:54 ....A         3328               share\KCemu\roms\z9001\zm30__c0.851
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\zsid__c0.851
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos__e0.852
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\hc900.852
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\basic_c0.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos33.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos34.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos__e0.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\pi88_ge.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\pi88_sw.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\pi88_ws.853
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\basic_c0.854
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\kc85\caos41c.854
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos41e.854
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\kc85\caos__c0.854
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos__e0.854
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\kc85\basicusb.855
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\kc85\basic_c0.855
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos43c.855
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos43e.855
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos__c0.855
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\caos__e0.855
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\basic_c0.87a
+2010-03-07 20:53:54 ....A        10240               share\KCemu\roms\z9001\basic_c0.87b
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z9001\os____f0.87b
+2010-03-07 20:53:56 ....A           39               share\KCemu\config\a5105.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\c80.conf
+2010-03-07 20:53:56 ....A          281               share\KCemu\config\default.conf
+2010-03-07 20:53:56 ....A           39               share\KCemu\config\kc85-1.conf
+2010-03-07 20:53:56 ....A           42               share\KCemu\config\kc85-2.conf
+2010-03-07 20:53:56 ....A           42               share\KCemu\config\kc85-3.conf
+2010-03-07 20:53:56 ....A           51               share\KCemu\config\kc85-4.conf
+2010-03-07 20:53:56 ....A           51               share\KCemu\config\kc85-5.conf
+2010-03-07 20:53:56 ....A           39               share\KCemu\config\kc87.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\kramermc.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\lc80.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\pcm.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\poly880.conf
+2010-03-07 20:53:56 ....A           27               share\KCemu\config\vcs80.conf
+2010-03-07 20:53:56 ....A           39               share\KCemu\config\z1013.conf
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\a5105sys.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\caos.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\cpmz9.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\microdos.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\tools.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\z1013cpm.dump
+2010-03-07 20:53:56 ....A       825600               share\KCemu\disks\z1013gdc.dump
+2010-03-07 20:53:56 ....A         8178               share\KCemu\images\about.glade
+2010-03-07 20:53:56 ....A        16524               share\KCemu\images\audio.glade
+2010-03-07 20:53:56 ....A        20440               share\KCemu\images\color.glade
+2010-03-07 20:53:56 ....A         7854               share\KCemu\images\dialog.glade
+2010-03-07 20:53:56 ....A        18411               share\KCemu\images\disk.glade
+2010-03-07 20:53:56 ....A        11709               share\KCemu\images\help.glade
+2010-03-07 20:53:56 ....A         7629               share\KCemu\images\keyboard.glade
+2010-03-07 20:53:56 ....A         6822               share\KCemu\images\legal.glade
+2010-03-07 20:53:56 ....A        27155               share\KCemu\images\main.glade
+2010-03-07 20:53:56 ....A         4870               share\KCemu\images\module.glade
+2010-03-07 20:53:56 ....A       191966               share\KCemu\images\options.glade
+2010-03-07 20:53:56 ....A        33870               share\KCemu\images\plotter.glade
+2010-03-07 20:53:56 ....A        23135               share\KCemu\images\savemem.glade
+2010-03-07 20:53:56 ....A        19899               share\KCemu\images\screenshot.glade
+2010-03-07 20:53:56 ....A        11102               share\KCemu\images\selector.glade
+2010-03-07 20:53:56 ....A        23481               share\KCemu\images\tape.glade
+2010-03-07 20:53:56 ....A         7675               share\KCemu\images\tapeedit.glade
+2010-03-07 20:53:56 ....A        63559               share\KCemu\images\thanks.glade
+2010-03-07 20:53:56 ....A        11159               share\KCemu\images\vdip.glade
+2010-03-07 20:53:56 ....A        18481               share\KCemu\images\video.glade
+2009-12-09 11:32:26 ....A           37               etc\gtk-2.0\gtk.immodules
+2010-03-07 20:53:56 ....A        61952               share\KCemu\tapes\files.kct
+2010-03-07 20:53:56 ....A         6400               share\KCemu\tapes\lc80.kct
+2010-03-07 20:53:56 ....A       112896               share\KCemu\tapes\z1013.kct
+2010-03-07 20:53:54 ....A         7168               share\KCemu\roms\kramermc\ass.kmc
+2010-03-07 20:53:54 ....A        12288               share\KCemu\roms\kramermc\basic.kmc
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\kramermc\chargen.kmc
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\kramermc\debugger.kmc
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\kramermc\editor.kmc
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\kramermc\io-mon.kmc
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\kramermc\reass.kmc
+2009-12-09 11:32:26 ....A           42               etc\gtk-2.0\gdk-pixbuf.loaders
+2009-12-08 15:43:00 ....A        45195               share\locale\de\LC_MESSAGES\glib20.mo
+2009-12-09 11:18:58 ....A       161942               share\locale\de\LC_MESSAGES\gtk20-properties.mo
+2009-12-09 11:18:10 ....A        77646               share\locale\de\LC_MESSAGES\gtk20.mo
+2010-03-07 20:53:56 ....A        82938               share\locale\en\LC_MESSAGES\KCemu.mo
+2010-03-07 20:53:56 ....A        86695               share\locale\de\LC_MESSAGES\KCemu.mo
+2003-05-06 12:32:22 ....A         2055               share\locale\de\LC_MESSAGES\libiconv.mo
+2009-12-08 15:54:46 ....A          163               etc\pango\pango.modules
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\muglerpc\chargen.pcm
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\muglerpc\muglerpc.pcm
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\floppy20.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\floppy30.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\floppy31.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\floppy32.rom
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\a5105\k1505_00.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\a5105\k1505_80.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\a5105\k5651_40.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\a5105\k5651_60.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z9001\kc_caos.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\lc80\lc80e_00.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\lc80\lc80e_10.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\lc80\lc80e_c0.rom
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\lc80\lc80__00.rom
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\lc80\lc80__08.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\lc80\lc80__2k.rom
+2010-03-07 20:53:54 ....A        16384               share\KCemu\roms\kc85\m006.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\m012.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\m026.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\m027.rom
+2010-03-07 20:53:54 ....A        16384               share\KCemu\roms\kc85\m033.rom
+2010-03-07 20:53:54 ....A        32768               share\KCemu\roms\kc85\m052.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\m900.rom
+2010-03-07 20:53:54 ....A         8192               share\KCemu\roms\kc85\m901.rom
+2010-03-07 20:53:54 ....A          512               share\KCemu\roms\vcs80\monitor.rom
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\c80\monitor.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z9001\os_rb20.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z9001\os_rb21.rom
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\poly880\poly880a.rom
+2010-03-07 20:53:54 ....A         1024               share\KCemu\roms\poly880\poly880b.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\poly880\sc1.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\kc85\vdip12.rom
+2010-03-07 20:53:54 ....A         4736               share\KCemu\roms\kc85\vdip21.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z1013\z1013_20.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z1013\z1013_a2.rom
+2010-03-07 20:53:54 ....A         2432               share\KCemu\roms\z1013\z1013_bl.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z1013\z1013_rb.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z1013\z1013_ul.rom
+2010-03-07 20:53:54 ....A         4096               share\KCemu\roms\z1013\z1013_zg.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z9001\zg_cga.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z9001\zg_cgai.rom
+2010-03-07 20:53:54 ....A         2048               share\KCemu\roms\z9001\zg_de.rom
+2010-03-07 20:53:56 ....A        11458               share\KCemu\doc\kcemurc.sample
+2010-03-07 20:53:16 ....A       371692               share\KCemu\keymaps\kc851_keyboard.xpm
+2010-03-07 20:53:16 ....A       371732               share\KCemu\keymaps\kc851_keyboard_pressed.xpm
+2010-03-07 20:53:16 ....A       638787               share\KCemu\keymaps\kc854_keyboard.xpm
+2010-03-07 20:53:16 ....A       638608               share\KCemu\keymaps\kc854_keyboard_pressed.xpm
+2010-03-07 20:53:56 ....A         3527               share\KCemu\icons\kcemu-bic.xpm
+2010-03-07 20:53:56 ....A         7241               share\KCemu\icons\kcemu-c80.xpm
+2010-03-07 20:53:56 ....A         6554               share\KCemu\icons\kcemu-icon.xpm
+2010-03-07 20:53:56 ....A        10213               share\KCemu\icons\kcemu-kc85.xpm
+2010-03-07 20:53:56 ....A         9242               share\KCemu\icons\kcemu-kc87.xpm
+2010-03-07 20:53:56 ....A         3472               share\KCemu\icons\kcemu-kramermc.xpm
+2010-03-07 20:53:56 ....A         9850               share\KCemu\icons\kcemu-lc80.xpm
+2010-03-07 20:53:56 ....A         3437               share\KCemu\icons\kcemu-pcm.xpm
+2010-03-07 20:53:56 ....A         3531               share\KCemu\icons\kcemu-poly880.xpm
+2010-03-07 20:53:56 ....A         7691               share\KCemu\icons\kcemu-vcs80.xpm
+2010-03-07 20:53:56 ....A         3529               share\KCemu\icons\kcemu-z1013.xpm
+2010-03-07 20:53:16 ....A       260027               share\KCemu\keymaps\lc80_keyboard.xpm
+2010-03-07 20:53:16 ....A       260035               share\KCemu\keymaps\lc80_keyboard_pressed.xpm
+2010-03-07 20:53:16 ....A       233498               share\KCemu\keymaps\poly880_keyboard.xpm
+2010-03-07 20:53:16 ....A       233506               share\KCemu\keymaps\poly880_keyboard_pressed.xpm
+2010-03-07 20:53:16 ....A       381107               share\KCemu\keymaps\vcs80_keyboard.xpm
+2010-03-07 20:53:16 ....A       379656               share\KCemu\keymaps\vcs80_keyboard_pressed.xpm
+2003-05-23 18:45:14 ....A        16384      7182186  bin\iconv.exe
+2010-03-07 20:52:48 ....A        79178               bin\kc2img.exe
+2010-03-07 20:52:48 ....A       102404               bin\kc2raw.exe
+2010-03-07 20:52:48 ....A        79178               bin\kc2tap.exe
+2010-03-07 20:52:48 ....A        84405               bin\kc2wav.exe
+2010-03-07 20:53:54 ....A     13306930               bin\kcemu.exe
+2010-03-07 20:52:50 ....A      1308859               bin\kctape.exe
+2009-12-08 15:54:28 ....A        26537               bin\pango-querymodules.exe
+2010-03-07 20:52:50 ....A        64487               bin\tdtodump.exe
+2003-05-23 18:45:06 ....A        24576               bin\charset.dll
+2009-11-19 19:15:18 ....A       535212               bin\freetype6.dll
+2007-02-21 21:32:30 ....A        31744               bin\giflib4.dll
+2003-05-23 18:45:12 ....A       892928               bin\iconv.dll
+2008-01-24 23:54:48 ....A       104861               bin\intl.dll
+2009-09-28 13:10:28 ....A       153763               bin\libatk-1.0-0.dll
+2009-08-26 22:19:36 ....A       859585               bin\libcairo-2.dll
+2009-01-31 22:42:36 ....A       143096               bin\libexpat-1.dll
+2009-11-19 19:20:46 ....A       278495               bin\libfontconfig-1.dll
+2009-12-09 11:26:50 ....A        52991               bin\libgailutil-18.dll
+2009-12-09 11:21:04 ....A       893048               bin\libgdk-win32-2.0-0.dll
+2009-12-09 11:20:16 ....A       264708               bin\libgdk_pixbuf-2.0-0.dll
+2009-12-08 15:41:36 ....A       671177               bin\libgio-2.0-0.dll
+2009-12-08 15:39:18 ....A      1110713               bin\libglib-2.0-0.dll
+2009-12-08 15:39:52 ....A        31692               bin\libgmodule-2.0-0.dll
+2009-12-08 15:40:34 ....A       316586               bin\libgobject-2.0-0.dll
+2009-12-08 15:40:04 ....A        40146               bin\libgthread-2.0-0.dll
+2009-12-09 11:25:18 ....A      4982449               bin\libgtk-win32-2.0-0.dll
+2009-09-02 22:50:38 ....A       233192               bin\libjpeg-7.dll
+2009-12-08 15:54:24 ....A       336626               bin\libpango-1.0-0.dll
+2009-12-08 15:54:24 ....A        94625               bin\libpangocairo-1.0-0.dll
+2009-12-08 15:54:24 ....A       679322               bin\libpangoft2-1.0-0.dll
+2009-12-08 15:54:26 ....A       102210               bin\libpangowin32-1.0-0.dll
+2009-12-09 11:26:34 ....A        55672               lib\gtk-2.0\2.10.0\engines\libpixmap.dll
+2009-09-11 10:14:04 ....A       223915               bin\libpng12-0.dll
+2009-09-02 22:43:50 ....A       396766               bin\libtiff-3.dll
+2009-09-02 22:43:52 ....A      3820605               bin\libtiffxx-3.dll
+2009-12-09 11:26:18 ....A        87478               lib\gtk-2.0\2.10.0\engines\libwimp.dll
+2005-08-28 08:45:16 ....A       237568               bin\SDL.dll
+2005-07-20 10:48:10 ....A        59904               bin\zlib1.dll
+2017-01-01 10:32:16 D....            0            0  share\man\man1
+2017-01-01 10:32:16 D....            0            0  share\man
+2017-01-01 10:32:16 D....            0            0  share\locale\en\LC_MESSAGES
+2017-01-01 10:32:16 D....            0            0  share\locale\en
+2017-01-01 10:32:16 D....            0            0  share\locale\de\LC_MESSAGES
+2017-01-01 10:30:30 D....            0            0  share\locale\de
+2017-01-01 10:32:16 D....            0            0  share\locale
+2017-01-01 10:32:16 D....            0            0  share\KCemu\tapes
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\z9001
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\z1013
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\vcs80
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\poly880
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\muglerpc
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\lc80
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\kramermc
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\kc85
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\c80
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms\a5105
+2017-01-01 10:32:16 D....            0            0  share\KCemu\roms
+2017-01-01 10:32:16 D....            0            0  share\KCemu\lib\z80
+2017-01-01 10:32:16 D....            0            0  share\KCemu\lib
+2017-01-01 10:32:16 D....            0            0  share\KCemu\keymaps
+2017-01-01 10:32:16 D....            0            0  share\KCemu\images
+2017-01-01 10:32:16 D....            0            0  share\KCemu\icons
+2017-01-01 10:32:16 D....            0            0  share\KCemu\doc
+2017-01-01 10:32:16 D....            0            0  share\KCemu\disks
+2017-01-01 10:32:16 D....            0            0  share\KCemu\config
+2017-01-01 10:32:16 D....            0            0  share\KCemu\asm\autostart
+2017-01-01 10:32:16 D....            0            0  share\KCemu\asm
+2017-01-01 10:32:16 D....            0            0  share\KCemu
+2017-01-01 10:32:16 D....            0            0  share\doc\kcemu
+2017-01-01 10:32:16 D....            0            0  share\doc
+2017-01-01 10:32:16 D....            0            0  share
+2017-01-01 10:30:30 D....            0            0  lib\gtk-2.0\2.10.0\engines
+2017-01-01 10:30:30 D....            0            0  lib\gtk-2.0\2.10.0
+2017-01-01 10:30:30 D....            0            0  lib\gtk-2.0
+2017-01-01 10:30:30 D....            0            0  lib
+2017-01-01 10:30:30 D....            0            0  etc\pango
+2017-01-01 10:30:30 D....            0            0  etc\gtk-2.0
+2017-01-01 10:30:30 D....            0            0  etc
+2017-01-01 10:32:16 D....            0            0  bin
+------------------- ----- ------------ ------------  ------------------------
+2017-01-01 10:32:16           49174557     11508147  324 files, 41 folders

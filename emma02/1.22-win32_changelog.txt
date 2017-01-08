@@ -1,0 +1,29 @@
+General
+
+Added support for Windows 64 bit version
+Added support for Windows 10 (small addition for window locations)
+Upgraded to Microsoft Visual Studio 2015 (windows XP/2000 version is still using VC Express 2008)
+Corrected bugs in command line handling
+Added a check on start-up to set data directory as relative if a sub directory of the Emma 02 application directory is used
+Corrected window status update when using F12 on Mac OS X
+Corrected error in loading of configurations (window positions is now not reset to default anymore)
+Corrected text error in VT setup window for Cosmicos and Membership card: 'Reversed EFx' changed to 'Reversed EF'.
+Corrected bug in handling of Stretch dot for the Cosmicos VT
+
+Installation
+
+Windows installer is now split in 3 different packages: 32 bit, 64 bit and XP/2000
+
+Libraries
+
+Upgraded to latest wxWidgets version 3.0.2
+Upgraded to latest SDL2 version 2.0.3
+Upgraded to latest curl version 7.45.0
+
+Cosmac VELF
+
+Support for VELF added
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+
+Added an option to specify a printer data ready EF. Quest SB 5.0 and 6.0 use this for commands like PLIST and POUT.

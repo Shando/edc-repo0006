@@ -1,0 +1,240 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-05-17 00:31:40 ....A        20975      2367953  tilem-2.0\CHANGELOG
+2012-05-28 05:04:06 ....A       178060               tilem-2.0\configure
+2007-07-02 00:55:35 ....A        35147               tilem-2.0\COPYING
+2012-05-22 08:43:40 ....A         1849               tilem-2.0\installer\win32\COPYING-PIXMAN
+2012-05-22 08:43:46 ....A         1018               tilem-2.0\installer\win32\COPYING-ZLIB
+2012-05-28 07:30:32 ....A         2106               tilem-2.0\installer\win32\gtkrc
+2012-05-24 06:20:49 ....A         1928               tilem-2.0\INSTALL
+2011-04-10 07:40:48 ....A        13663               tilem-2.0\install-sh
+2012-05-21 03:06:12 ....A        23274               tilem-2.0\KEYS
+2012-06-07 21:14:54 ....A         2697               tilem-2.0\NEWS
+2011-12-13 02:59:08 ....A         1670               tilem-2.0\data\skins\README
+2012-06-07 21:12:09 ....A         3669               tilem-2.0\README
+2012-06-08 02:58:51 ....A         1854               tilem-2.0\THANKS
+2012-05-09 02:51:33 ....A          204               tilem-2.0\TODO
+2011-04-21 05:34:38 ....A          472               tilem-2.0\data\icons\hicolor\16x16\actions\tilem-db-finish.png
+2011-04-21 05:34:38 ....A          978               tilem-2.0\data\icons\hicolor\24x24\actions\tilem-db-finish.png
+2011-04-21 05:34:38 ....A          490               tilem-2.0\data\icons\hicolor\16x16\actions\tilem-db-step-over.png
+2011-04-21 05:34:38 ....A          959               tilem-2.0\data\icons\hicolor\24x24\actions\tilem-db-step-over.png
+2011-04-21 05:34:38 ....A          498               tilem-2.0\data\icons\hicolor\16x16\actions\tilem-db-step.png
+2011-04-21 05:34:38 ....A         1073               tilem-2.0\data\icons\hicolor\24x24\actions\tilem-db-step.png
+2011-04-15 06:54:03 ....A          592               tilem-2.0\data\icons\hicolor\16x16\status\tilem-disasm-break-pc.png
+2011-04-15 06:54:08 ....A          534               tilem-2.0\data\icons\hicolor\16x16\status\tilem-disasm-break.png
+2011-04-15 06:54:05 ....A          269               tilem-2.0\data\icons\hicolor\16x16\status\tilem-disasm-pc.png
+2012-04-25 03:07:53 ....A          679               tilem-2.0\data\icons\hicolor\16x16\apps\tilem.png
+2012-04-25 03:08:01 ....A         1001               tilem-2.0\data\icons\hicolor\22x22\apps\tilem.png
+2012-04-25 03:08:07 ....A         1004               tilem-2.0\data\icons\hicolor\24x24\apps\tilem.png
+2012-04-25 03:08:15 ....A         1355               tilem-2.0\data\icons\hicolor\32x32\apps\tilem.png
+2012-04-25 03:08:21 ....A         1838               tilem-2.0\data\icons\hicolor\48x48\apps\tilem.png
+2012-05-17 04:58:04 ....A        23558               tilem-2.0\gui\tilem2.ico
+2011-04-14 08:19:16 ....A         3840               tilem-2.0\data\icons-svg\breakpoint.svg
+2011-04-14 08:20:25 ....A         4949               tilem-2.0\data\icons-svg\pc-arrow.svg
+2011-04-21 05:34:38 ....A         7176               tilem-2.0\data\icons-svg\stepicons-16.svg
+2011-04-21 05:34:38 ....A        13495               tilem-2.0\data\icons-svg\stepicons-24.svg
+2011-11-11 18:30:31 ....A         3825               tilem-2.0\gui\animation.h
+2011-11-01 04:00:50 ....A          867               tilem-2.0\gui\charmap.h
+2012-05-10 02:35:16 ....A         4540               tilem-2.0\gui\debugger.h
+2012-05-06 07:23:19 ....A         2689               tilem-2.0\gui\disasmview.h
+2011-12-09 05:45:38 ....A         3572               tilem-2.0\gui\emucore.h
+2012-05-06 01:12:52 ....A         8361               tilem-2.0\gui\emulator.h
+2012-05-22 05:28:50 ....A         2415               tilem-2.0\gui\emuwin.h
+2011-11-23 04:06:06 ....A         3921               tilem-2.0\gui\filedlg.h
+2011-12-05 07:20:32 ....A         1714               tilem-2.0\gui\files.h
+2011-11-20 19:23:09 ....A         1769               tilem-2.0\gui\fixedtreeview.h
+2010-12-16 06:20:03 ....A         4592               tilem-2.0\gui\gifencod.h
+2011-05-14 00:59:35 ....A         2006               tilem-2.0\emu\graylcd.h
+2011-11-20 19:23:09 ....A          519               tilem-2.0\gui\gtk-compat.h
+2011-12-03 23:04:48 ....A        12681               tilem-2.0\gui\gui.h
+2011-04-15 07:10:49 ....A          739               tilem-2.0\gui\icons.h
+2012-05-10 02:37:15 ....A         2857               tilem-2.0\gui\memmodel.h
+2011-03-09 05:10:18 ....A         2648               tilem-2.0\gui\msgbox.h
+2011-04-10 01:35:24 ....A         2319               tilem-2.0\emu\scancodes.h
+2011-12-08 04:24:22 ....A         2873               tilem-2.0\gui\skinops.h
+2011-04-10 01:35:24 ....A         3289               tilem-2.0\gui\ti81prg.h
+2012-05-15 04:17:19 ....A        31506               tilem-2.0\emu\tilem.h
+2010-12-16 06:20:04 ....A         4780               tilem-2.0\db\tilemdb.h
+2011-04-10 01:35:24 ....A          183               tilem-2.0\emu\tilemint.h
+2011-04-10 01:35:24 ....A         1811               tilem-2.0\emu\x1\x1.h
+2011-04-10 01:35:24 ....A         1696               tilem-2.0\emu\x2\x2.h
+2011-04-10 01:35:24 ....A         1697               tilem-2.0\emu\x3\x3.h
+2011-10-30 19:28:08 ....A         3704               tilem-2.0\emu\x4\x4.h
+2011-04-10 01:35:24 ....A         1606               tilem-2.0\emu\x5\x5.h
+2011-04-10 01:35:24 ....A         1606               tilem-2.0\emu\x6\x6.h
+2011-04-10 01:35:24 ....A         1891               tilem-2.0\emu\x7\x7.h
+2011-11-27 02:40:41 ....A         3709               tilem-2.0\emu\xn\xn.h
+2011-04-10 01:35:24 ....A         2018               tilem-2.0\emu\xp\xp.h
+2011-10-30 18:47:00 ....A         3537               tilem-2.0\emu\xs\xs.h
+2011-10-30 19:29:05 ....A         3704               tilem-2.0\emu\xz\xz.h
+2011-04-10 01:35:24 ....A         2805               tilem-2.0\emu\z80.h
+2011-04-10 01:35:24 ....A        12394               tilem-2.0\emu\z80cb.h
+2011-12-13 03:36:06 ....A        34578               tilem-2.0\emu\z80cmds.h
+2011-04-10 01:35:24 ....A         8013               tilem-2.0\emu\z80ddfd.h
+2011-12-13 03:36:06 ....A         7217               tilem-2.0\emu\z80ed.h
+2011-12-13 03:36:06 ....A        16945               tilem-2.0\emu\z80main.h
+2011-11-11 18:45:02 ....A         6362               tilem-2.0\gui\address.c
+2011-12-03 23:04:48 ....A         8279               tilem-2.0\gui\animatedgif.c
+2011-11-23 04:06:06 ....A        16137               tilem-2.0\gui\animation.c
+2011-11-20 19:23:09 ....A        31004               tilem-2.0\gui\breakpoints.c
+2011-04-10 01:35:24 ....A         4685               tilem-2.0\emu\calcs.c
+2011-12-22 05:45:31 ....A         3245               tilem-2.0\emu\cert.c
+2011-11-01 04:21:21 ....A         4291               tilem-2.0\gui\charmap.c
+2011-11-17 04:21:13 ....A         7845               tilem-2.0\gui\config.c
+2012-05-22 05:59:47 ....A        39678               tilem-2.0\gui\debugger.c
+2011-12-05 07:20:32 ....A        35402               tilem-2.0\db\disasm.c
+2012-05-06 07:24:21 ....A        29933               tilem-2.0\gui\disasmview.c
+2011-12-09 05:45:38 ....A        10799               tilem-2.0\gui\emucore.c
+2012-05-21 06:48:49 ....A        22158               tilem-2.0\gui\emulator.c
+2012-05-28 22:20:33 ....A        18473               tilem-2.0\gui\emuwin.c
+2011-12-01 06:12:36 ....A        11414               tilem-2.0\gui\event.c
+2012-05-21 06:42:27 ....A        26291               tilem-2.0\gui\filedlg.c
+2012-05-24 04:11:53 ....A         6328               tilem-2.0\gui\files.c
+2011-11-20 19:23:09 ....A         4290               tilem-2.0\gui\fixedtreeview.c
+2012-05-07 03:10:45 ....A         7923               tilem-2.0\emu\flash.c
+2011-04-10 01:35:24 ....A        10262               tilem-2.0\gui\gifencod.c
+2011-05-14 20:33:35 ....A         2432               tilem-2.0\emu\graycolor.c
+2011-11-01 04:59:56 ....A         7917               tilem-2.0\emu\grayimage.c
+2012-05-21 06:46:10 ....A         7244               tilem-2.0\emu\graylcd.c
+2012-05-07 08:49:57 ....A         1834               tilem-2.0\gui\icons.c
+2011-05-15 06:13:44 ....A         6292               tilem-2.0\gui\keybindings.c
+2011-04-10 01:35:24 ....A         2266               tilem-2.0\emu\keypad.c
+2011-11-10 04:34:47 ....A         7860               tilem-2.0\gui\keypaddlg.c
+2011-04-10 01:35:24 ....A         5768               tilem-2.0\emu\lcd.c
+2011-04-10 01:35:24 ....A        12050               tilem-2.0\emu\link.c
+2012-05-21 06:26:47 ....A        32457               tilem-2.0\gui\link.c
+2010-12-16 06:20:04 ....A         8345               tilem-2.0\db\listing.c
+2010-01-22 06:14:08 ....A         9932               tilem-2.0\db\lstfile.c
+2011-11-26 21:47:07 ....A         7693               tilem-2.0\gui\macro.c
+2011-04-10 01:35:24 ....A         2168               tilem-2.0\emu\md5.c
+2012-05-10 03:39:25 ....A        13547               tilem-2.0\gui\memmodel.c
+2011-04-10 01:35:24 ....A         2004               tilem-2.0\gui\memory.c
+2012-05-10 02:35:16 ....A         8416               tilem-2.0\gui\memview.c
+2012-05-17 01:14:56 ....A         9036               tilem-2.0\gui\menu.c
+2011-05-14 00:59:35 ....A         3631               tilem-2.0\emu\monolcd.c
+2011-12-09 05:45:38 ....A         4394               tilem-2.0\gui\pbar.c
+2011-12-13 08:29:04 ....A         7721               tilem-2.0\gui\preferences.c
+2012-05-17 03:02:44 ....A        20252               tilem-2.0\gui\rcvmenu.c
+2011-04-10 01:35:24 ....A         2942               tilem-2.0\emu\rom.c
+2011-12-05 07:48:42 ....A        26182               tilem-2.0\gui\screenshot.c
+2012-05-28 07:27:28 ....A        15799               tilem-2.0\gui\sendfile.c
+2011-12-09 05:17:11 ....A         7008               tilem-2.0\gui\skinops.c
+2012-05-06 08:48:03 ....A        23123               tilem-2.0\emu\state.c
+2011-04-10 01:35:24 ....A         8660               tilem-2.0\gui\ti81prg.c
+2012-04-25 04:54:43 ....A         8809               tilem-2.0\gui\tilem2.c
+2011-04-10 01:35:24 ....A         5811               tilem-2.0\emu\timers.c
+2011-12-03 23:04:48 ....A        10438               tilem-2.0\gui\tool.c
+2011-04-10 01:35:24 ....A         1390               tilem-2.0\emu\x1\x1_init.c
+2011-04-10 01:35:24 ....A         4616               tilem-2.0\emu\x1\x1_io.c
+2011-04-10 01:35:24 ....A         1842               tilem-2.0\emu\x1\x1_memory.c
+2011-04-10 01:35:24 ....A         1865               tilem-2.0\emu\x1\x1_subcore.c
+2011-04-10 01:35:24 ....A         1296               tilem-2.0\emu\x2\x2_init.c
+2011-04-10 01:35:24 ....A         4635               tilem-2.0\emu\x2\x2_io.c
+2011-04-10 01:35:24 ....A         1632               tilem-2.0\emu\x2\x2_memory.c
+2011-04-10 01:35:24 ....A         1913               tilem-2.0\emu\x2\x2_subcore.c
+2011-04-10 01:35:24 ....A         1401               tilem-2.0\emu\x3\x3_init.c
+2011-04-10 01:35:24 ....A         4417               tilem-2.0\emu\x3\x3_io.c
+2011-04-10 01:35:24 ....A         1578               tilem-2.0\emu\x3\x3_memory.c
+2011-04-10 01:35:24 ....A         2326               tilem-2.0\emu\x3\x3_subcore.c
+2011-12-22 03:46:36 ....A         2498               tilem-2.0\emu\x4\x4_init.c
+2012-05-07 03:06:38 ....A        15046               tilem-2.0\emu\x4\x4_io.c
+2011-11-20 19:23:10 ....A         4935               tilem-2.0\emu\x4\x4_memory.c
+2012-05-06 08:55:55 ....A         2205               tilem-2.0\emu\x4\x4_subcore.c
+2011-04-10 01:35:24 ....A         1351               tilem-2.0\emu\x5\x5_init.c
+2011-04-10 01:35:24 ....A         3628               tilem-2.0\emu\x5\x5_io.c
+2011-04-10 01:35:24 ....A         1709               tilem-2.0\emu\x5\x5_memory.c
+2011-04-10 01:35:24 ....A         1864               tilem-2.0\emu\x5\x5_subcore.c
+2011-04-10 01:35:24 ....A         1358               tilem-2.0\emu\x6\x6_init.c
+2011-04-10 01:35:24 ....A         3619               tilem-2.0\emu\x6\x6_io.c
+2011-04-10 01:35:24 ....A         1709               tilem-2.0\emu\x6\x6_memory.c
+2011-05-15 05:14:40 ....A         1874               tilem-2.0\emu\x6\x6_subcore.c
+2011-12-22 03:45:40 ....A         1674               tilem-2.0\emu\x7\x7_init.c
+2011-04-10 01:35:24 ....A         5194               tilem-2.0\emu\x7\x7_io.c
+2011-11-20 19:23:10 ....A         3179               tilem-2.0\emu\x7\x7_memory.c
+2012-05-08 04:47:28 ....A         2394               tilem-2.0\emu\x7\x7_subcore.c
+2011-12-22 03:47:15 ....A         2510               tilem-2.0\emu\xn\xn_init.c
+2011-11-27 02:43:02 ....A        17634               tilem-2.0\emu\xn\xn_io.c
+2011-11-20 19:23:09 ....A         4764               tilem-2.0\emu\xn\xn_memory.c
+2012-05-06 08:59:00 ....A         2627               tilem-2.0\emu\xn\xn_subcore.c
+2011-12-22 03:46:05 ....A         1875               tilem-2.0\emu\xp\xp_init.c
+2011-04-10 01:35:24 ....A         6076               tilem-2.0\emu\xp\xp_io.c
+2011-11-20 19:23:09 ....A         3279               tilem-2.0\emu\xp\xp_memory.c
+2012-05-08 04:47:08 ....A         2410               tilem-2.0\emu\xp\xp_subcore.c
+2012-05-06 09:01:33 ....A         2579               tilem-2.0\emu\xs\xs_init.c
+2012-05-07 03:05:31 ....A        13353               tilem-2.0\emu\xs\xs_io.c
+2011-11-20 19:23:10 ....A         5199               tilem-2.0\emu\xs\xs_memory.c
+2012-05-06 08:45:52 ....A         2617               tilem-2.0\emu\xs\xs_subcore.c
+2012-05-06 09:03:04 ....A         2531               tilem-2.0\emu\xz\xz_init.c
+2012-05-07 02:50:19 ....A        15046               tilem-2.0\emu\xz\xz_io.c
+2011-11-20 19:23:10 ....A         4938               tilem-2.0\emu\xz\xz_memory.c
+2012-05-06 08:56:29 ....A         2617               tilem-2.0\emu\xz\xz_subcore.c
+2012-05-15 04:17:19 ....A        23954               tilem-2.0\emu\z80.c
+2012-05-08 03:59:59 ....A        10744               tilem-2.0\data\desktop\tilem2.xml
+2012-05-20 22:22:21 ....A        14417               tilem-2.0\data\keybindings.ini
+2012-05-28 04:40:15 ....A         4926               tilem-2.0\configure.ac
+2012-05-08 02:59:36 ....A          816               tilem-2.0\data\desktop\tilem2.desktop
+2012-05-28 05:04:09 ....A         2829               tilem-2.0\config.h.in
+2012-06-07 21:10:37 ....A         2332               tilem-2.0\installer\win32\installer.nsi.in
+2011-12-08 04:24:06 ....A         1260               tilem-2.0\db\Makefile.in
+2011-12-08 04:24:06 ....A         7272               tilem-2.0\emu\Makefile.in
+2012-05-08 04:34:40 ....A         4040               tilem-2.0\data\Makefile.in
+2012-05-17 07:27:56 ....A         6518               tilem-2.0\gui\Makefile.in
+2012-06-07 21:10:37 ....A         5270               tilem-2.0\installer\win32\Makefile.in
+2012-06-08 05:32:43 ....A         2388               tilem-2.0\Makefile.in
+2012-05-17 07:09:02 ....A         1092               tilem-2.0\gui\tilem2.rc.in
+2012-05-28 04:25:32 ....A         6257               tilem-2.0\aclocal.m4
+2011-12-15 05:12:35 ....A       342274               tilem-2.0\data\skins\ti76.skn
+2012-04-30 03:07:52 ....A        77418               tilem-2.0\data\skins\ti81.skn
+2011-12-15 05:39:26 ....A       231162               tilem-2.0\data\skins\ti82.skn
+2011-12-15 05:41:05 ....A       198808               tilem-2.0\data\skins\ti82stats.skn
+2012-05-06 01:36:32 ....A       291972               tilem-2.0\data\skins\ti83.skn
+2012-05-06 01:41:30 ....A       285916               tilem-2.0\data\skins\ti83p.skn
+2012-05-06 01:47:40 ....A       274760               tilem-2.0\data\skins\ti83pfr.skn
+2011-04-13 02:54:17 ....A        88935               tilem-2.0\data\skins\ti84p.skn
+2012-05-06 01:51:39 ....A       201136               tilem-2.0\data\skins\ti84p2.skn
+2012-05-06 03:41:40 ....A       127830               tilem-2.0\data\skins\ti86.skn
+2011-12-05 07:20:32 ....A        14812               tilem-2.0\data\symbols\ti82.sym
+2011-05-04 03:51:10 ....A        20792               tilem-2.0\data\symbols\ti83.sym
+2011-12-13 02:59:08 ....A        35611               tilem-2.0\data\symbols\ti83p.sym
+2012-05-08 02:10:08 ....A         3947               tilem-2.0\data\symbols\ti85.sym
+2012-05-08 02:10:08 ....A        18672               tilem-2.0\data\symbols\ti86.sym
+2012-04-25 03:12:00 ....A          612               tilem-2.0\data\icons\hicolor\index.theme
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\installer\win32
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\installer
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\gui
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\xz
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\xs
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\xp
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\xn
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\emu\x7
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\x6
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu\x5
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\emu\x4
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\emu\x3
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\emu\x2
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\emu\x1
+2016-11-29 21:31:50 D....            0            0  tilem-2.0\emu
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\db
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\symbols
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\skins
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\48x48\apps
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\48x48
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\32x32\apps
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\32x32
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\24x24\apps
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\24x24\actions
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\24x24
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\22x22\apps
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\22x22
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\16x16\status
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\16x16\apps
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\16x16\actions
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor\16x16
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons\hicolor
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons-svg
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\icons
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data\desktop
+2016-11-29 21:31:49 D....            0            0  tilem-2.0\data
+2016-11-29 21:31:50 D....            0            0  tilem-2.0
+------------------- ----- ------------ ------------  ------------------------
+2016-11-29 21:31:50            3645275      2367953  199 files, 37 folders

@@ -1,0 +1,80 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-06-08 04:45:06 ....A         2106      2169140  etc\gtk-2.0\gtkrc
+2012-06-08 04:45:06 ....A          472               share\tilem2\icons\hicolor\16x16\actions\tilem-db-finish.png
+2012-06-08 04:45:06 ....A          978               share\tilem2\icons\hicolor\24x24\actions\tilem-db-finish.png
+2012-06-08 04:45:06 ....A          490               share\tilem2\icons\hicolor\16x16\actions\tilem-db-step-over.png
+2012-06-08 04:45:06 ....A          959               share\tilem2\icons\hicolor\24x24\actions\tilem-db-step-over.png
+2012-06-08 04:45:06 ....A          498               share\tilem2\icons\hicolor\16x16\actions\tilem-db-step.png
+2012-06-08 04:45:06 ....A         1073               share\tilem2\icons\hicolor\24x24\actions\tilem-db-step.png
+2012-06-08 04:45:06 ....A          592               share\tilem2\icons\hicolor\16x16\status\tilem-disasm-break-pc.png
+2012-06-08 04:45:06 ....A          534               share\tilem2\icons\hicolor\16x16\status\tilem-disasm-break.png
+2012-06-08 04:45:06 ....A          269               share\tilem2\icons\hicolor\16x16\status\tilem-disasm-pc.png
+2012-06-08 04:45:06 ....A        21291               CHANGELOG.txt
+2012-06-08 04:45:06 ....A         1888               COPYING-PIXMAN.txt
+2012-06-08 04:45:06 ....A         1041               COPYING-ZLIB.txt
+2012-06-08 04:45:06 ....A        35821               COPYING.txt
+2012-06-08 04:45:06 ....A        23544               KEYS.txt
+2012-06-08 04:45:06 ....A         2770               NEWS.txt
+2012-06-08 04:45:06 ....A         3761               README.txt
+2012-06-08 04:45:06 ....A         1891               THANKS.txt
+2012-06-08 04:45:06 ....A        14417               share\tilem2\keybindings.ini
+2012-06-08 04:45:06 ....A       342274               share\tilem2\skins\ti76.skn
+2012-06-08 04:45:06 ....A        77418               share\tilem2\skins\ti81.skn
+2012-06-08 04:45:06 ....A       231162               share\tilem2\skins\ti82.skn
+2012-06-08 04:45:06 ....A       198808               share\tilem2\skins\ti82stats.skn
+2012-06-08 04:45:06 ....A       291972               share\tilem2\skins\ti83.skn
+2012-06-08 04:45:06 ....A       285916               share\tilem2\skins\ti83p.skn
+2012-06-08 04:45:06 ....A       274760               share\tilem2\skins\ti83pfr.skn
+2012-06-08 04:45:06 ....A        88935               share\tilem2\skins\ti84p.skn
+2012-06-08 04:45:06 ....A       201136               share\tilem2\skins\ti84p2.skn
+2012-06-08 04:45:06 ....A       127830               share\tilem2\skins\ti86.skn
+2012-06-08 04:45:06 ....A        14812               share\tilem2\symbols\ti82.sym
+2012-06-08 04:45:06 ....A        20792               share\tilem2\symbols\ti83.sym
+2012-06-08 04:45:06 ....A        35611               share\tilem2\symbols\ti83p.sym
+2012-06-08 04:45:06 ....A         3947               share\tilem2\symbols\ti85.sym
+2012-06-08 04:45:06 ....A        18672               share\tilem2\symbols\ti86.sym
+2012-06-08 04:45:06 ....A          612               share\tilem2\icons\hicolor\index.theme
+2012-06-08 04:45:06 ....A       495616      2751356  tilem2.exe
+2010-09-12 07:22:14 ....A       152489               intl.dll
+2011-12-08 06:26:22 ....A        92160               libatk-1.0-0.dll
+2011-12-08 06:26:22 ....A       521216               libcairo-2.dll
+2011-12-08 06:26:22 ....A       571392               libgdk-win32-2.0-0.dll
+2011-12-08 06:26:22 ....A       141312               libgdk_pixbuf-2.0-0.dll
+2011-12-08 06:26:22 ....A       885248               libgio-2.0-0.dll
+2011-12-08 06:26:22 ....A      1069056               libglib-2.0-0.dll
+2011-12-08 06:26:22 ....A        18944               libgmodule-2.0-0.dll
+2011-12-08 06:26:22 ....A       267776               libgobject-2.0-0.dll
+2011-12-08 06:26:22 ....A        24064               libgthread-2.0-0.dll
+2011-12-08 06:26:22 ....A      3328000               libgtk-win32-2.0-0.dll
+2011-12-08 06:26:22 ....A       220672               libpango-1.0-0.dll
+2011-12-08 06:26:22 ....A        41984               libpangocairo-1.0-0.dll
+2011-12-08 06:26:22 ....A        52736               libpangowin32-1.0-0.dll
+2011-12-08 06:26:22 ....A       545280               libpixman-1-0.dll
+2010-08-17 15:38:28 ....A       230529               libpng14-14.dll
+2012-06-01 04:12:26 ....A        58368               libticables2-5.dll
+2012-06-01 04:12:26 ....A       258560               libticalcs2-10.dll
+2012-06-01 04:12:26 ....A        34816               libticonv-6.dll
+2012-06-01 04:12:26 ....A       116736               libtifiles2-8.dll
+2012-05-17 03:49:20 ....A        67680               libusb0.dll
+2011-12-07 07:37:58 ....A       150223               lib\gtk-2.0\2.10.0\engines\libwimp.dll
+2010-08-20 10:18:12 ....A       100352               zlib1.dll
+2016-11-29 21:35:40 D....            0            0  share\tilem2\symbols
+2016-11-29 21:35:40 D....            0            0  share\tilem2\skins
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor\24x24\actions
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor\24x24
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor\16x16\status
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor\16x16\actions
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor\16x16
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons\hicolor
+2016-11-29 21:35:40 D....            0            0  share\tilem2\icons
+2016-11-29 21:35:40 D....            0            0  share\tilem2
+2016-11-29 21:35:40 D....            0            0  share
+2016-11-29 21:35:40 D....            0            0  lib\gtk-2.0\2.10.0\engines
+2016-11-29 21:35:40 D....            0            0  lib\gtk-2.0\2.10.0
+2016-11-29 21:35:40 D....            0            0  lib\gtk-2.0
+2016-11-29 21:35:40 D....            0            0  lib
+2016-11-29 21:35:40 D....            0            0  etc\gtk-2.0
+2016-11-29 21:35:40 D....            0            0  etc
+------------------- ----- ------------ ------------  ------------------------
+2016-11-29 21:35:40           11774261      4920496  59 files, 17 folders

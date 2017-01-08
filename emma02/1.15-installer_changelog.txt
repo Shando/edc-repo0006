@@ -1,0 +1,91 @@
+General
+
+· About layout corrected
+· Added license information for wxWidgets in about field and licence text at installation
+· Help window bookmark buttons corrected
+· Added a message window after 'check for update' in case no update is available
+· Emma 02 will now exit if an update download is selected
+· Changed default ‘screendump’ file format to .png
+· Added feature to allow floating point zooming for all emulator screens
+· Added feature to change emulator screen size by dragging window ‘bottom right corner’, ‘sides’ or pushing ‘full screen’ button
+· Re-factored video handling code
+· Changed ‘Colour’ buttons to ‘Video Setup’
+· Fixed bug when using ‘Colour/Video Setup’ button after using memory access functions
+· Added optional ‘borders’ for all video types, changeable in the ‘Video Setup’ window
+· Multiple memory leaks fixed
+· Added a check on the upper limit of 500 MHz for the CPU clock speed, as larger values will crash the emulator. Practically the limit is probably around 30/40 MHz depending on PC speed.
+· Added permanent CPU statistics CPU cycles, effective clock, video frequency and run time on the messages tab. This info was previously available when pressing F2 and at exit of the emulated computer.
+· Added Vertical video frequency printout on message tab for all video types
+· Added video (and video terminal) timing adjustment when clock speed is changed during run time, keeping video frequency the same on different CPU speeds. Note that very high clock frequencies will still mess up the video frequency.
+· Cleared message window at start-up of new emulator
+· Bug fixed when using ‘use location’ check box (some text boxes sometimes disappeared)
+· Solved emulator crash when pressing VIP or Elf print button when other computer is running.
+
+Installation
+· Corrected installation to reset Emma 02 to default settings at every installation. Note V1.14 does not perform this reset correctly and as V1.14 is not compatible with V1.15 re-installation of V1.14 might give some problems.
+
+Debugger
+· Bug in memory tab fixed (emulator crashed when viewing memory; unless CDP 1870 was in use)
+
+CDP 1861 / 1864
+· Added horizontal scale factor. Default set to 3 for all CDP 1861 and 4 for all CDP 1864 emulation. Changeable via the video Setup window.
+· Timing corrected
+
+Video Terminal
+· Moved uart, reverse EF and log check boxes to VT set-up window
+· Added zoom spin button for changing VT terminal size
+
+Comx
+· Added alternative/additional text on status bar depending on window size
+· Video timing corrected (again)
+
+Cosmac Elf 2000
+· Changed Q led update to follow the same timing as TILL 311 (default 100 ms). Timing is now specified in the ’Leds’ flied. This also solves PC CPU load and sound issues when switching Q flag.
+· Intel 8275 timing corrected
+· Default clock when using Pixie (CDP1861) set to 1.7898 MHz otherwise 3.5795 Mhz is used
+· Reset (when pixie video is in use) corrected, pixie video is now switched off at reset
+
+Cosmac VIP
+· Key definition (in run-time) for keypad A and B corrected
+
+Cosmicos
+· Zoom function corrected
+· Added colour definition / video setup window and button
+· Changed Q led update to follow the same timing as TILL 311 for the Elf (default 100 ms). Timing is specified in the ’Leds’ flied. This also solves PC CPU load and sound issues when switching Q flag.
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+· Set printer to ‘Switched off’ in all Elf OS configurations
+· Changed Q led update to follow the same timing as TILL 311 (default 100 ms). Timing is now specified in the ’Leds’ flied. This also solves PC CPU load and sound issues when switching Q flag.
+· MC6847 timing corrected
+
+Chip 8
+· Added latest CHIP-8 Pack from www.chip8.com
+
+RCA Studio II
+
+· Added colour definition / video setup window and button
+· Key definition (in run-time) for keypad A and B corrected
+· Corrected default values for keypad B
+
+Visicom COM-100
+
+· Key definition (in run-time) for keypad A and B corrected
+· Corrected default values for keypad B
+
+Victory MPT-02
+
+· Key definition (in run-time) for keypad A and B corrected
+· Corrected default values for keypad B
+· Colour RAM definition corrected to 0xB00 instead of 0xA00
+
+Cidelsa
+
+· Added key-mapping for ‘numpad’ keys for ‘fire’ keys in Draco game
+
+Telmac 1800
+
+· Added colour definition / video setup window and button
+
+Oscom Nano
+
+· Added colour definition / video setup window and button

@@ -1,0 +1,84 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-07-17 18:03:22 ....A         9846      1062553  Doxyfile
+2007-07-17 18:17:48 ....A         9850               Doxyfile-source
+2007-07-22 13:00:16 ....A          432               Source\Z80\codegen\Makefile
+2007-07-09 14:07:12 ....A       131129               Utils\cpmtools-2.6.tar.gz
+2007-07-09 13:31:40 ....A       803982               Libs\libdsk-1.1.12.tar.gz
+2007-07-26 23:54:02 ....A         3530               Utils\cpmtools-microbee-patch.zip
+2007-07-26 11:52:42 ....A        12794               Images\nanowasp-logo.png
+2007-07-26 14:20:14 ....A        17542               Images\nanowasp.ico
+2007-07-26 16:14:16 ....A         5545               Source\CRTC.h
+2007-07-26 16:14:24 ....A         4254               Source\CRTCMemory.h
+2007-07-26 16:14:26 ....A         4675               Source\Device.h
+2007-07-26 16:14:30 ....A         2598               Source\DeviceFactory.h
+2007-07-26 16:14:32 ....A         2511               Source\Disk.h
+2007-07-26 16:14:36 ....A         4606               Source\Drives.h
+2007-07-26 16:14:38 ....A         2764               Source\Exceptions.h
+2007-07-26 16:14:42 ....A         7162               Source\FDC.h
+2007-07-26 16:14:44 ....A         1919               Source\Forms.h
+2007-07-26 16:14:46 ....A         2949               Source\Keyboard.h
+2007-07-26 16:14:52 ....A         1618               Source\LatchROM.h
+2007-07-28 21:27:20 ....A         2042               Source\MainWindow.h
+2007-07-26 16:15:00 ....A         3119               Source\MemMapper.h
+2007-07-26 16:15:04 ....A         2065               Source\MemoryDevice.h
+2007-07-26 16:15:06 ....A         4750               Source\Microbee.h
+2007-07-26 16:15:10 ....A         1036               Source\Nanowasp.h
+2007-07-26 16:15:12 ....A         1294               Source\NullMemory.h
+2007-07-26 16:15:26 ....A         1284               Source\NullPort.h
+2007-07-26 16:15:28 ....A         1823               Source\PortDevice.h
+2007-07-26 16:15:32 ....A         1550               Source\RAM.h
+2007-07-26 16:15:34 ....A         1636               Source\ROM.h
+2007-07-26 17:34:28 ....A        46161               Libs\wxWidgets\setup.h
+2007-07-26 16:15:40 ....A         2260               Source\stdafx.h
+2007-07-26 16:15:56 ....A         1672               Source\Terminal.h
+2007-05-07 08:41:24 ....A         8783               Source\tinyxml\tinystr.h
+2007-05-07 08:41:24 ....A        64574               Source\tinyxml\tinyxml.h
+2007-07-26 16:16:08 ....A         1062               Source\version.h
+2007-07-26 16:21:40 ....A         9358               Source\Z80\Z80CPU.h
+2007-07-26 16:27:56 ....A        14904               Source\Z80\codegen\mktables.c
+2007-07-26 16:25:04 ....A         9223               Source\CRTC.cpp
+2007-07-26 16:25:12 ....A         5666               Source\CRTCMemory.cpp
+2007-07-26 16:25:26 ....A         3107               Source\DeviceFactory.cpp
+2007-07-26 16:25:30 ....A         5770               Source\Disk.cpp
+2007-07-26 16:25:32 ....A         6200               Source\Drives.cpp
+2007-07-26 16:25:34 ....A        25697               Source\FDC.cpp
+2007-07-26 16:25:38 ....A         3412               Source\Forms.cpp
+2007-07-28 21:31:22 ....A         3845               Source\Keyboard.cpp
+2007-07-26 16:25:44 ....A         1156               Source\LatchROM.cpp
+2007-07-28 21:26:54 ....A         6415               Source\MainWindow.cpp
+2007-07-26 16:25:48 ....A         5029               Source\MemMapper.cpp
+2007-07-26 16:25:52 ....A         7811               Source\Microbee.cpp
+2007-07-26 16:25:54 ....A         1398               Source\Nanowasp.cpp
+2007-07-26 16:25:56 ....A         2428               Source\RAM.cpp
+2007-07-26 16:26:00 ....A         2769               Source\ROM.cpp
+2007-07-26 16:26:04 ....A          999               Source\stdafx.cpp
+2007-07-26 16:26:12 ....A         1359               Source\Terminal.cpp
+2007-05-07 08:41:24 ....A         2602               Source\tinyxml\tinystr.cpp
+2007-05-07 08:41:24 ....A        36964               Source\tinyxml\tinyxml.cpp
+2007-05-07 08:41:24 ....A         1810               Source\tinyxml\tinyxmlerror.cpp
+2007-05-07 08:41:24 ....A        37335               Source\tinyxml\tinyxmlparser.cpp
+2007-07-26 16:22:28 ....A        20212               Source\Z80\Z80CPU.cpp
+2007-07-26 16:25:18 ....A         1624               nanowasp.rc
+2007-07-27 14:43:08 ....A        11891               nanowasp.vcproj
+2007-06-13 21:17:38 ....A          885               nanowasp.sln
+2007-07-11 22:30:12 ....A           64               Doxygen.cmd
+2007-07-26 17:39:18 ....A         1801               Microbee.xml
+2007-07-26 23:52:48 ....A         1479               building.txt
+2007-07-26 12:54:28 ....A        35147               license.txt
+2007-07-26 16:05:36 ....A        56434               Forms\nanowasp.fbp
+2007-07-25 00:19:14 ....A        43551               Source\Z80\codegen\opcodes.lst
+2007-07-29 00:46:00 ....A         3755               nanowasp.nsi
+2007-07-26 23:38:46 ....A          414               Libs\libdsk-nanowasp.patch
+2007-07-26 16:24:32 ....A        11235               Source\Z80\codegen\mktables.spec
+2017-01-01 11:52:47 D....            0            0  Utils
+2017-01-01 11:52:47 D....            0            0  Source\Z80\codegen
+2017-01-01 11:52:47 D....            0            0  Source\Z80
+2017-01-01 11:52:47 D....            0            0  Source\tinyxml
+2017-01-01 11:52:47 D....            0            0  Source
+2017-01-01 11:52:47 D....            0            0  Libs\wxWidgets
+2017-01-01 11:52:47 D....            0            0  Libs
+2017-01-01 11:52:47 D....            0            0  Images
+2017-01-01 11:52:47 D....            0            0  Forms
+------------------- ----- ------------ ------------  ------------------------
+2017-01-01 11:52:47            1558566      1062553  71 files, 9 folders

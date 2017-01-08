@@ -1,0 +1,3 @@
+*Version 0.53
+This is maintenance Release.
+Speed Control added. See Setting menu.

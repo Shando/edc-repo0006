@@ -1,0 +1,757 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-05-13 07:55:38 ....A        76402      1397160  nucleus-0.1.0\externals\zlib\ChangeLog
+2016-05-13 07:55:38 ....A        18026               nucleus-0.1.0\LICENSE
+2016-05-13 07:55:38 ....A         5185               nucleus-0.1.0\externals\zlib\README
+2016-05-13 07:55:38 ....A        15589               nucleus-0.1.0\wrappers\uwp\Assets\LockScreenLogo.scale-200.png
+2016-05-13 07:55:38 ....A        24736               nucleus-0.1.0\resources\icons\nucleus-alpha-1240x600.png
+2016-05-13 07:55:38 ....A        15331               nucleus-0.1.0\resources\icons\nucleus-alpha-24x24.png
+2016-05-13 07:55:38 ....A        18801               nucleus-0.1.0\resources\icons\nucleus-alpha-300x300.png
+2016-05-13 07:55:38 ....A        15589               nucleus-0.1.0\resources\icons\nucleus-alpha-48x48.png
+2016-05-13 07:55:38 ....A        15616               nucleus-0.1.0\resources\icons\nucleus-alpha-50x50.png
+2016-05-13 07:55:38 ....A        19093               nucleus-0.1.0\resources\icons\nucleus-alpha-620x300.png
+2016-05-13 07:55:38 ....A        16022               nucleus-0.1.0\resources\icons\nucleus-alpha-88x88.png
+2016-05-13 07:55:38 ....A       124739               nucleus-0.1.0\resources\images\nucleus-logo.png
+2016-05-13 07:55:38 ....A        16920               nucleus-0.1.0\resources\icons\nucleus-opaque-1024x1024.png
+2016-05-13 07:55:38 ....A        24736               nucleus-0.1.0\wrappers\uwp\Assets\SplashScreen.scale-200.png
+2016-05-13 07:55:38 ....A        18801               nucleus-0.1.0\wrappers\uwp\Assets\Square150x150Logo.scale-200.png
+2016-05-13 07:55:38 ....A        16022               nucleus-0.1.0\wrappers\uwp\Assets\Square44x44Logo.scale-200.png
+2016-05-13 07:55:38 ....A        15331               nucleus-0.1.0\wrappers\uwp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+2016-05-13 07:55:38 ....A        15616               nucleus-0.1.0\wrappers\uwp\Assets\StoreLogo.png
+2016-05-13 07:55:38 ....A        15616               nucleus-0.1.0\wrappers\uwp\Assets\StoreLogo.scale-100.png
+2016-05-13 07:55:38 ....A        19093               nucleus-0.1.0\wrappers\uwp\Assets\Wide310x150Logo.scale-200.png
+2016-05-13 07:55:38 ....A        59299               nucleus-0.1.0\resources\icons\nucleus-opaque.ico
+2016-05-13 07:55:38 ....A          959               nucleus-0.1.0\resources\images\nucleus-logo.svg
+2016-05-13 07:55:38 ....A          576               nucleus-0.1.0\resources\icons\nucleus-opaque.svg
+2016-05-13 07:55:38 ....A         2422               nucleus-0.1.0\docs\development\building.md
+2016-05-13 07:55:38 ....A         2380               nucleus-0.1.0\CONTRIBUTING.md
+2016-05-13 07:55:38 ....A         2451               nucleus-0.1.0\docs\development\conventions.md
+2016-05-13 07:55:38 ....A         8676               nucleus-0.1.0\docs\technical\ps3\cpu.md
+2016-05-13 07:55:38 ....A          375               nucleus-0.1.0\docs\user\credits.md
+2016-05-13 07:55:38 ....A           33               nucleus-0.1.0\docs\user\faq.md
+2016-05-13 07:55:38 ....A           45               nucleus-0.1.0\docs\technical\ps4\gpu.md
+2016-05-13 07:55:38 ....A        13900               nucleus-0.1.0\docs\technical\ps3\gpu.md
+2016-05-13 07:55:38 ....A         1040               nucleus-0.1.0\docs\index.md
+2016-05-13 07:55:38 ....A         2430               nucleus-0.1.0\docs\user\keys.md
+2016-05-13 07:55:38 ....A          806               nucleus-0.1.0\docs\development\overview.md
+2016-05-13 07:55:38 ....A          586               nucleus-0.1.0\tools\README.md
+2016-05-13 07:55:38 ....A          812               nucleus-0.1.0\wrappers\uwp\Assets\README.md
+2016-05-13 07:55:38 ....A         1020               nucleus-0.1.0\resources\fonts\README.md
+2016-05-13 07:55:38 ....A         1529               nucleus-0.1.0\README.md
+2016-05-13 07:55:38 ....A         4216               nucleus-0.1.0\externals\rapidjson\readme.md
+2016-05-13 07:55:38 ....A         6198               nucleus-0.1.0\externals\stb\README.md
+2016-05-13 07:55:38 ....A          487               nucleus-0.1.0\docs\development\roadmap.md
+2016-05-13 07:55:38 ....A         2016               nucleus-0.1.0\docs\technical\ps3\system.md
+2016-05-13 07:55:38 ....A          211               nucleus-0.1.0\bin\platforms\ps4\system\common\font2\_README.md
+2016-05-13 07:55:38 ....A          807               nucleus-0.1.0\bin\platforms\ps3\dev_flash\data\font\_README.md
+2016-05-13 07:55:38 ....A         2909               nucleus-0.1.0\bin\platforms\ps3\dev_flash\sys\external\_README.md
+2016-05-13 07:55:38 ....A         3651               nucleus-0.1.0\bin\platforms\ps4\system\common\lib\_README.md
+2016-05-13 07:55:38 ....A          418               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11.inl
+2016-05-13 07:55:38 ....A          912               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12.inl
+2016-05-13 07:55:38 ....A         1449               nucleus-0.1.0\nucleus\graphics\format.inl
+2016-05-13 07:55:38 ....A         3305               nucleus-0.1.0\nucleus\cpu\hir\opcodes.inl
+2016-05-13 07:55:38 ....A         5100               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl.inl
+2016-05-13 07:55:38 ....A         1094               nucleus-0.1.0\nucleus\core\resource.inl
+2016-05-13 07:55:38 ....A        17907               nucleus-0.1.0\nucleus\gpu\rsx\rsx_methods.inl
+2016-05-13 07:55:38 ....A         7878               nucleus-0.1.0\tests\cpu\test_ppc.inl
+2016-05-13 07:55:38 ....A         3495               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan.inl
+2016-05-13 07:55:38 ....A       143426               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_assembler.inl
+2016-05-13 07:55:38 ....A          161               nucleus-0.1.0\nucleus\audio\backend\xaudio2\xaudio2.inl
+2016-05-13 07:55:38 ....A         5906               nucleus-0.1.0\externals\aes.h
+2016-05-13 07:55:38 ....A         9914               nucleus-0.1.0\externals\rapidjson\allocators.h
+2016-05-13 07:55:38 ....A        11657               nucleus-0.1.0\wrappers\android\android_native_glue.h
+2016-05-13 07:55:38 ....A         1468               nucleus-0.1.0\wrappers\uwp\App.h
+2016-05-13 07:55:38 ....A          700               nucleus-0.1.0\nucleus\architecture.h
+2016-05-13 07:55:38 ....A        37494               nucleus-0.1.0\nucleus\cpu\backend\arm\arm_assembler.h
+2016-05-13 07:55:38 ....A         1455               nucleus-0.1.0\nucleus\cpu\backend\assembler.h
+2016-05-13 07:55:38 ....A         1986               nucleus-0.1.0\nucleus\assert.h
+2016-05-13 07:55:38 ....A          596               nucleus-0.1.0\nucleus\audio\audio.h
+2016-05-13 07:55:38 ....A          913               nucleus-0.1.0\nucleus\cpu\hir\block.h
+2016-05-13 07:55:38 ....A         1060               nucleus-0.1.0\nucleus\graphics\hir\block.h
+2016-05-13 07:55:38 ....A         5738               nucleus-0.1.0\nucleus\cpu\hir\builder.h
+2016-05-13 07:55:38 ....A         6698               nucleus-0.1.0\nucleus\graphics\hir\builder.h
+2016-05-13 07:55:38 ....A         1001               nucleus-0.1.0\nucleus\system\scei\cellos\callback.h
+2016-05-13 07:55:38 ....A          468               nucleus-0.1.0\nucleus\cpu\cell.h
+2016-05-13 07:55:38 ....A          448               nucleus-0.1.0\nucleus\system\scei\cellos\cellos_info.h
+2016-05-13 07:55:38 ....A          521               nucleus-0.1.0\nucleus\system\scei\cellos\cellos_loader.h
+2016-05-13 07:55:38 ....A         5167               nucleus-0.1.0\nucleus\graphics\command_buffer.h
+2016-05-13 07:55:38 ....A          736               nucleus-0.1.0\nucleus\graphics\command_queue.h
+2016-05-13 07:55:38 ....A          387               nucleus-0.1.0\tests\common.h
+2016-05-13 07:55:38 ....A         1753               nucleus-0.1.0\nucleus\common.h
+2016-05-13 07:55:38 ....A         2094               nucleus-0.1.0\tests\cpu\common.h
+2016-05-13 07:55:38 ....A          730               nucleus-0.1.0\nucleus\compiler.h
+2016-05-13 07:55:38 ....A         1656               nucleus-0.1.0\nucleus\cpu\backend\compiler.h
+2016-05-13 07:55:38 ....A         2061               nucleus-0.1.0\nucleus\core\config.h
+2016-05-13 07:55:38 ....A          900               nucleus-0.1.0\nucleus\cpu\cpu.h
+2016-05-13 07:55:38 ....A        30562               nucleus-0.1.0\externals\zlib\crc32.h
+2016-05-13 07:55:38 ....A        57242               nucleus-0.1.0\externals\direct3d12\d3dx12.h
+2016-05-13 07:55:38 ....A          631               nucleus-0.1.0\nucleus\cpu\hir\passes\dead_code_elimination_pass.h
+2016-05-13 07:55:38 ....A          526               nucleus-0.1.0\nucleus\debugger\debugger.h
+2016-05-13 07:55:38 ....A        12774               nucleus-0.1.0\externals\zlib\deflate.h
+2016-05-13 07:55:38 ....A          721               nucleus-0.1.0\nucleus\filesystem\device.h
+2016-05-13 07:55:38 ....A          823               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11.h
+2016-05-13 07:55:38 ....A         1615               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_backend.h
+2016-05-13 07:55:38 ....A         1559               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_command_buffer.h
+2016-05-13 07:55:38 ....A          652               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_command_queue.h
+2016-05-13 07:55:38 ....A          409               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_heap.h
+2016-05-13 07:55:38 ....A          340               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_pipeline.h
+2016-05-13 07:55:38 ....A          538               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_target.h
+2016-05-13 07:55:38 ....A          416               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_texture.h
+2016-05-13 07:55:38 ....A         1767               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12.h
+2016-05-13 07:55:38 ....A         1853               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_backend.h
+2016-05-13 07:55:38 ....A         1949               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_command_buffer.h
+2016-05-13 07:55:38 ....A          696               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_command_queue.h
+2016-05-13 07:55:38 ....A         1551               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_convert.h
+2016-05-13 07:55:38 ....A         1185               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_debug.h
+2016-05-13 07:55:38 ....A          738               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_fence.h
+2016-05-13 07:55:38 ....A          969               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_heap.h
+2016-05-13 07:55:38 ....A          466               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_pipeline.h
+2016-05-13 07:55:38 ....A          625               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_resource.h
+2016-05-13 07:55:38 ....A         2815               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_shader.h
+2016-05-13 07:55:38 ....A          625               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_target.h
+2016-05-13 07:55:38 ....A         1118               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_texture.h
+2016-05-13 07:55:38 ....A          643               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_vertex_buffer.h
+2016-05-13 07:55:38 ....A          423               nucleus-0.1.0\nucleus\filesystem\directory.h
+2016-05-13 07:55:38 ....A        81112               nucleus-0.1.0\externals\rapidjson\document.h
+2016-05-13 07:55:38 ....A         1323               nucleus-0.1.0\wrappers\windows\drop_target.h
+2016-05-13 07:55:38 ....A        16737               nucleus-0.1.0\externals\rapidjson\internal\dtoa.h
+2016-05-13 07:55:38 ....A         5234               nucleus-0.1.0\nucleus\system\elf64.h
+2016-05-13 07:55:38 ....A         1388               nucleus-0.1.0\nucleus\emulator.h
+2016-05-13 07:55:38 ....A         4066               nucleus-0.1.0\externals\rapidjson\error\en.h
+2016-05-13 07:55:38 ....A        10349               nucleus-0.1.0\externals\rapidjson\encodedstream.h
+2016-05-13 07:55:38 ....A        23282               nucleus-0.1.0\externals\rapidjson\encodings.h
+2016-05-13 07:55:38 ....A         6558               nucleus-0.1.0\nucleus\endianness.h
+2016-05-13 07:55:38 ....A         6066               nucleus-0.1.0\externals\rapidjson\error\error.h
+2016-05-13 07:55:38 ....A         1317               nucleus-0.1.0\nucleus\ui\event.h
+2016-05-13 07:55:38 ....A         1050               nucleus-0.1.0\nucleus\feature.h
+2016-05-13 07:55:38 ....A          682               nucleus-0.1.0\nucleus\graphics\fence.h
+2016-05-13 07:55:38 ....A         1832               nucleus-0.1.0\nucleus\filesystem\file.h
+2016-05-13 07:55:38 ....A         3180               nucleus-0.1.0\externals\rapidjson\filereadstream.h
+2016-05-13 07:55:38 ....A         2558               nucleus-0.1.0\externals\rapidjson\filestream.h
+2016-05-13 07:55:38 ....A         1448               nucleus-0.1.0\nucleus\filesystem\filesystem_app.h
+2016-05-13 07:55:38 ....A          750               nucleus-0.1.0\nucleus\filesystem\filesystem_host.h
+2016-05-13 07:55:38 ....A         1144               nucleus-0.1.0\nucleus\filesystem\filesystem_virtual.h
+2016-05-13 07:55:38 ....A         3170               nucleus-0.1.0\externals\rapidjson\filewritestream.h
+2016-05-13 07:55:38 ....A          494               nucleus-0.1.0\nucleus\ui\font.h
+2016-05-13 07:55:38 ....A          450               nucleus-0.1.0\nucleus\graphics\format.h
+2016-05-13 07:55:38 ....A         1057               nucleus-0.1.0\nucleus\format.h
+2016-05-13 07:55:38 ....A         1405               nucleus-0.1.0\nucleus\cpu\frontend\frontend_block.h
+2016-05-13 07:55:38 ....A         1179               nucleus-0.1.0\nucleus\cpu\frontend\frontend_function.h
+2016-05-13 07:55:38 ....A         1139               nucleus-0.1.0\nucleus\cpu\frontend\frontend_module.h
+2016-05-13 07:55:38 ....A          895               nucleus-0.1.0\nucleus\cpu\frontend\frontend_recompiler.h
+2016-05-13 07:55:38 ....A         1354               nucleus-0.1.0\nucleus\graphics\hir\function.h
+2016-05-13 07:55:38 ....A         2140               nucleus-0.1.0\nucleus\cpu\hir\function.h
+2016-05-13 07:55:38 ....A         4127               nucleus-0.1.0\externals\spirv\GLSL.std.450.h
+2016-05-13 07:55:38 ....A          499               nucleus-0.1.0\nucleus\gpu\gpu.h
+2016-05-13 07:55:38 ....A         1641               nucleus-0.1.0\nucleus\gpu\gpu_hash.h
+2016-05-13 07:55:38 ....A         3785               nucleus-0.1.0\nucleus\graphics\graphics.h
+2016-05-13 07:55:38 ....A         6552               nucleus-0.1.0\externals\zlib\gzguts.h
+2016-05-13 07:55:38 ....A          877               nucleus-0.1.0\nucleus\graphics\heap.h
+2016-05-13 07:55:38 ....A        11843               nucleus-0.1.0\nucleus\graphics\hir\hir.h
+2016-05-13 07:55:38 ....A          684               nucleus-0.1.0\nucleus\filesystem\device\host_path\host_path_device.h
+2016-05-13 07:55:38 ....A          745               nucleus-0.1.0\nucleus\filesystem\device\host_path\host_path_file.h
+2016-05-13 07:55:38 ....A          480               nucleus-0.1.0\nucleus\ui\icon.h
+2016-05-13 07:55:38 ....A          677               nucleus-0.1.0\nucleus\filesystem\device\img_container\img_container_device.h
+2016-05-13 07:55:38 ....A          427               nucleus-0.1.0\externals\zlib\inffast.h
+2016-05-13 07:55:38 ....A         6332               nucleus-0.1.0\externals\zlib\inffixed.h
+2016-05-13 07:55:38 ....A         6399               nucleus-0.1.0\externals\zlib\inflate.h
+2016-05-13 07:55:38 ....A          837               nucleus-0.1.0\nucleus\system\information.h
+2016-05-13 07:55:38 ....A         2928               nucleus-0.1.0\externals\zlib\inftrees.h
+2016-05-13 07:55:38 ....A          953               nucleus-0.1.0\nucleus\graphics\hir\instruction.h
+2016-05-13 07:55:38 ....A         1588               nucleus-0.1.0\nucleus\cpu\hir\instruction.h
+2016-05-13 07:55:38 ....A         8060               nucleus-0.1.0\externals\rapidjson\msinttypes\inttypes.h
+2016-05-13 07:55:38 ....A          677               nucleus-0.1.0\nucleus\filesystem\device\iso_container\iso_container_device.h
+2016-05-13 07:55:38 ....A          684               nucleus-0.1.0\nucleus\filesystem\device\iso_container\iso_container_file.h
+2016-05-13 07:55:38 ....A        10636               nucleus-0.1.0\externals\rapidjson\internal\itoa.h
+2016-05-13 07:55:38 ....A          852               nucleus-0.1.0\nucleus\system\keys.h
+2016-05-13 07:55:38 ....A          613               nucleus-0.1.0\nucleus\ui\language.h
+2016-05-13 07:55:38 ....A         2871               nucleus-0.1.0\nucleus\ui\length.h
+2016-05-13 07:55:38 ....A         5053               nucleus-0.1.0\nucleus\system\scei\cellos\modules\libsysutil.h
+2016-05-13 07:55:38 ....A          258               nucleus-0.1.0\nucleus\system\scei\cellos\modules\libsysutil_avconf_ext.h
+2016-05-13 07:55:38 ....A          229               nucleus-0.1.0\nucleus\ui\screens\list.h
+2016-05-13 07:55:38 ....A          350               nucleus-0.1.0\nucleus\ui\widgets\list.h
+2016-05-13 07:55:38 ....A          364               nucleus-0.1.0\nucleus\filesystem\device\list.h
+2016-05-13 07:55:38 ....A          492               nucleus-0.1.0\nucleus\gpu\list.h
+2016-05-13 07:55:38 ....A          574               nucleus-0.1.0\nucleus\system\list.h
+2016-05-13 07:55:38 ....A          853               nucleus-0.1.0\nucleus\audio\backend\list.h
+2016-05-13 07:55:38 ....A         1075               nucleus-0.1.0\nucleus\graphics\backend\list.h
+2016-05-13 07:55:38 ....A         1340               nucleus-0.1.0\nucleus\literals.h
+2016-05-13 07:55:38 ....A         1065               nucleus-0.1.0\nucleus\system\loader.h
+2016-05-13 07:55:38 ....A         1363               nucleus-0.1.0\nucleus\logger\logger.h
+2016-05-13 07:55:38 ....A         1347               nucleus-0.1.0\nucleus\system\scei\cellos\lv1.h
+2016-05-13 07:55:38 ....A         4619               nucleus-0.1.0\nucleus\system\scei\cellos\lv1\lv1_gpu.h
+2016-05-13 07:55:38 ....A         4447               nucleus-0.1.0\nucleus\system\scei\cellos\lv2.h
+2016-05-13 07:55:38 ....A          767               nucleus-0.1.0\nucleus\macro.h
+2016-05-13 07:55:38 ....A         1674               nucleus-0.1.0\nucleus\memory\memory.h
+2016-05-13 07:55:38 ....A         2952               nucleus-0.1.0\externals\rapidjson\memorybuffer.h
+2016-05-13 07:55:38 ....A         2860               nucleus-0.1.0\externals\rapidjson\memorystream.h
+2016-05-13 07:55:38 ....A         6987               nucleus-0.1.0\externals\rapidjson\internal\meta.h
+2016-05-13 07:55:38 ....A         1043               nucleus-0.1.0\nucleus\system\scei\cellos\module.h
+2016-05-13 07:55:38 ....A         1507               nucleus-0.1.0\nucleus\cpu\hir\module.h
+2016-05-13 07:55:38 ....A         1849               nucleus-0.1.0\nucleus\graphics\hir\module.h
+2016-05-13 07:55:38 ....A         1266               nucleus-0.1.0\nucleus\nucleus.h
+2016-05-13 07:55:38 ....A         2287               nucleus-0.1.0\nucleus\system\object.h
+2016-05-13 07:55:38 ....A         3567               nucleus-0.1.0\nucleus\cpu\hir\opcodes.h
+2016-05-13 07:55:38 ....A         1707               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl.h
+2016-05-13 07:55:38 ....A         2149               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_backend.h
+2016-05-13 07:55:38 ....A         4918               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_command_buffer.h
+2016-05-13 07:55:38 ....A         2137               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_command_queue.h
+2016-05-13 07:55:38 ....A          566               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_convert.h
+2016-05-13 07:55:38 ....A          881               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_debug.h
+2016-05-13 07:55:38 ....A          682               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_fence.h
+2016-05-13 07:55:38 ....A          362               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_heap.h
+2016-05-13 07:55:38 ....A          768               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_pipeline.h
+2016-05-13 07:55:38 ....A         1627               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_shader.h
+2016-05-13 07:55:38 ....A         1216               nucleus-0.1.0\nucleus\graphics\frontend\opengl\opengl_shader_parser.h
+2016-05-13 07:55:38 ....A          849               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_target.h
+2016-05-13 07:55:38 ....A          386               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_texture.h
+2016-05-13 07:55:38 ....A          555               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_vertex_buffer.h
+2016-05-13 07:55:38 ....A          747               nucleus-0.1.0\nucleus\system\scei\orbisos\orbisos.h
+2016-05-13 07:55:38 ....A         1140               nucleus-0.1.0\nucleus\system\scei\orbisos\syscalls\orbis_dynlib.h
+2016-05-13 07:55:38 ....A          520               nucleus-0.1.0\nucleus\system\scei\orbisos\orbis_loader.h
+2016-05-13 07:55:38 ....A         1460               nucleus-0.1.0\nucleus\system\scei\orbisos\orbis_self.h
+2016-05-13 07:55:38 ....A          646               nucleus-0.1.0\nucleus\cpu\hir\pass.h
+2016-05-13 07:55:38 ....A          318               nucleus-0.1.0\nucleus\cpu\hir\passes.h
+2016-05-13 07:55:38 ....A          296               nucleus-0.1.0\nucleus\filesystem\path.h
+2016-05-13 07:55:38 ....A         5184               nucleus-0.1.0\nucleus\graphics\pipeline.h
+2016-05-13 07:55:38 ....A         1745               nucleus-0.1.0\nucleus\system\scei\pkg.h
+2016-05-13 07:55:38 ....A          805               nucleus-0.1.0\nucleus\platform.h
+2016-05-13 07:55:38 ....A         3957               nucleus-0.1.0\externals\rapidjson\internal\pow10.h
+2016-05-13 07:55:38 ....A        23957               nucleus-0.1.0\nucleus\cpu\backend\ppc\ppc_assembler.h
+2016-05-13 07:55:38 ....A        15938               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer.h
+2016-05-13 07:55:38 ....A         3240               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_decoder.h
+2016-05-13 07:55:38 ....A         6243               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_instruction.h
+2016-05-13 07:55:38 ....A        17080               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler.h
+2016-05-13 07:55:38 ....A         8172               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_state.h
+2016-05-13 07:55:38 ....A         1487               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_tables.h
+2016-05-13 07:55:38 ....A          729               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_thread.h
+2016-05-13 07:55:38 ....A          796               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_utils.h
+2016-05-13 07:55:38 ....A         7881               nucleus-0.1.0\externals\rapidjson\prettywriter.h
+2016-05-13 07:55:38 ....A          576               nucleus-0.1.0\nucleus\graphics\primitive.h
+2016-05-13 07:55:38 ....A         1196               nucleus-0.1.0\nucleus\system\scei\psf.h
+2016-05-13 07:55:38 ....A          421               nucleus-0.1.0\nucleus\gpu\r10xx\r10xx.h
+2016-05-13 07:55:38 ....A        19391               nucleus-0.1.0\externals\rapidjson\rapidjson.h
+2016-05-13 07:55:38 ....A        55164               nucleus-0.1.0\externals\rapidjson\reader.h
+2016-05-13 07:55:38 ....A          444               nucleus-0.1.0\nucleus\graphics\rectangle.h
+2016-05-13 07:55:38 ....A         2250               nucleus-0.1.0\nucleus\cpu\hir\passes\register_allocation_pass.h
+2016-05-13 07:55:38 ....A          561               nucleus-0.1.0\nucleus\core\resource.h
+2016-05-13 07:55:38 ....A          919               nucleus-0.1.0\nucleus\graphics\resource.h
+2016-05-13 07:55:38 ....A         1150               nucleus-0.1.0\wrappers\windows\resource.h
+2016-05-13 07:55:38 ....A         3485               nucleus-0.1.0\nucleus\gpu\rsx\rsx.h
+2016-05-13 07:55:38 ....A         1238               nucleus-0.1.0\nucleus\gpu\rsx\rsx_convert.h
+2016-05-13 07:55:38 ....A         2695               nucleus-0.1.0\nucleus\gpu\rsx\rsx_dma.h
+2016-05-13 07:55:38 ....A         4964               nucleus-0.1.0\nucleus\gpu\rsx\rsx_enum.h
+2016-05-13 07:55:38 ....A         8791               nucleus-0.1.0\nucleus\gpu\rsx\rsx_fp.h
+2016-05-13 07:55:38 ....A         1391               nucleus-0.1.0\nucleus\gpu\rsx\rsx_methods.h
+2016-05-13 07:55:38 ....A        19080               nucleus-0.1.0\nucleus\gpu\rsx\rsx_mmio.h
+2016-05-13 07:55:38 ....A         6834               nucleus-0.1.0\nucleus\gpu\rsx\rsx_pgraph.h
+2016-05-13 07:55:38 ....A         3496               nucleus-0.1.0\nucleus\gpu\rsx\rsx_texture.h
+2016-05-13 07:55:38 ....A         6615               nucleus-0.1.0\nucleus\gpu\rsx\rsx_vp.h
+2016-05-13 07:55:38 ....A         2156               nucleus-0.1.0\nucleus\ui\screen.h
+2016-05-13 07:55:38 ....A          398               nucleus-0.1.0\nucleus\ui\screens\screen_emulator.h
+2016-05-13 07:55:38 ....A          465               nucleus-0.1.0\nucleus\ui\screens\screen_logo.h
+2016-05-13 07:55:38 ....A          349               nucleus-0.1.0\nucleus\ui\screens\screen_main.h
+2016-05-13 07:55:38 ....A          937               nucleus-0.1.0\nucleus\memory\segment.h
+2016-05-13 07:55:38 ....A         4323               nucleus-0.1.0\nucleus\system\scei\self.h
+2016-05-13 07:55:38 ....A         7728               nucleus-0.1.0\nucleus\cpu\backend\sequences.h
+2016-05-13 07:55:38 ....A          333               nucleus-0.1.0\nucleus\cpu\backend\settings.h
+2016-05-13 07:55:38 ....A         4356               nucleus-0.1.0\externals\sha1.h
+2016-05-13 07:55:38 ....A          540               nucleus-0.1.0\nucleus\graphics\shader.h
+2016-05-13 07:55:38 ....A          689               nucleus-0.1.0\nucleus\graphics\frontend\shader_parser.h
+2016-05-13 07:55:38 ....A         2155               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_instruction.h
+2016-05-13 07:55:38 ....A         7871               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler.h
+2016-05-13 07:55:38 ....A          425               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_state.h
+2016-05-13 07:55:38 ....A          887               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_tables.h
+2016-05-13 07:55:38 ....A          729               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_thread.h
+2016-05-13 07:55:38 ....A         5956               nucleus-0.1.0\externals\rapidjson\internal\stack.h
+2016-05-13 07:55:38 ....A       452608               nucleus-0.1.0\externals\stb\stb.h
+2016-05-13 07:55:38 ....A       227413               nucleus-0.1.0\externals\stb\stb_image.h
+2016-05-13 07:55:38 ....A       127862               nucleus-0.1.0\externals\stb\stb_truetype.h
+2016-05-13 07:55:38 ....A         9140               nucleus-0.1.0\externals\rapidjson\msinttypes\stdint.h
+2016-05-13 07:55:38 ....A         1771               nucleus-0.1.0\externals\rapidjson\internal\strfunc.h
+2016-05-13 07:55:38 ....A         2904               nucleus-0.1.0\externals\rapidjson\stringbuffer.h
+2016-05-13 07:55:38 ....A         1794               nucleus-0.1.0\nucleus\ui\style.h
+2016-05-13 07:55:38 ....A         1131               nucleus-0.1.0\nucleus\ui\surface.h
+2016-05-13 07:55:38 ....A         4482               nucleus-0.1.0\nucleus\system\scei\cellos\syscall.h
+2016-05-13 07:55:38 ....A          297               nucleus-0.1.0\nucleus\system\system.h
+2016-05-13 07:55:38 ....A          823               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_cond.h
+2016-05-13 07:55:38 ....A          315               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_config.h
+2016-05-13 07:55:38 ....A         3434               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_dbg.h
+2016-05-13 07:55:38 ....A         2684               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_event.h
+2016-05-13 07:55:38 ....A         2808               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_fs.h
+2016-05-13 07:55:38 ....A          256               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_gamepad.h
+2016-05-13 07:55:38 ....A          292               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_hid.h
+2016-05-13 07:55:38 ....A          813               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_lwmutex.h
+2016-05-13 07:55:38 ....A         1114               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_memory.h
+2016-05-13 07:55:38 ....A          409               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_mmapper.h
+2016-05-13 07:55:38 ....A         1030               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_mutex.h
+2016-05-13 07:55:38 ....A         1343               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_ppu_thread.h
+2016-05-13 07:55:38 ....A         2784               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_process.h
+2016-05-13 07:55:38 ....A         6112               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_prx.h
+2016-05-13 07:55:38 ....A         1745               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_rsx.h
+2016-05-13 07:55:38 ....A          944               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_semaphore.h
+2016-05-13 07:55:38 ....A          376               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_ss.h
+2016-05-13 07:55:38 ....A          366               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_synchronization.h
+2016-05-13 07:55:38 ....A          395               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_time.h
+2016-05-13 07:55:38 ....A          828               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_timer.h
+2016-05-13 07:55:38 ....A          894               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_tty.h
+2016-05-13 07:55:38 ....A          258               nucleus-0.1.0\nucleus\graphics\target.h
+2016-05-13 07:55:38 ....A          587               nucleus-0.1.0\nucleus\cpu\backend\target.h
+2016-05-13 07:55:38 ....A          829               nucleus-0.1.0\nucleus\target.h
+2016-05-13 07:55:38 ....A         2742               nucleus-0.1.0\tests\cpu\test_ppc.h
+2016-05-13 07:55:38 ....A         2480               nucleus-0.1.0\nucleus\graphics\texture.h
+2016-05-13 07:55:38 ....A         1459               nucleus-0.1.0\nucleus\gpu\texture_cache.h
+2016-05-13 07:55:38 ....A         1141               nucleus-0.1.0\nucleus\cpu\thread.h
+2016-05-13 07:55:38 ....A         3870               nucleus-0.1.0\nucleus\ui\transitions.h
+2016-05-13 07:55:38 ....A         8472               nucleus-0.1.0\externals\zlib\trees.h
+2016-05-13 07:55:38 ....A          421               nucleus-0.1.0\nucleus\cpu\hir\type.h
+2016-05-13 07:55:38 ....A         3189               nucleus-0.1.0\nucleus\types.h
+2016-05-13 07:55:38 ....A         3188               nucleus-0.1.0\nucleus\ui\ui.h
+2016-05-13 07:55:38 ....A         2034               nucleus-0.1.0\nucleus\cpu\util.h
+2016-05-13 07:55:38 ....A          334               nucleus-0.1.0\nucleus\filesystem\utils.h
+2016-05-13 07:55:38 ....A         2373               nucleus-0.1.0\nucleus\cpu\hir\value.h
+2016-05-13 07:55:38 ....A          434               nucleus-0.1.0\nucleus\graphics\vertex_buffer.h
+2016-05-13 07:55:38 ....A          322               nucleus-0.1.0\nucleus\graphics\viewport.h
+2016-05-13 07:55:38 ....A         4428               nucleus-0.1.0\externals\vulkan\vk_platform.h
+2016-05-13 07:55:38 ....A          338               nucleus-0.1.0\nucleus\graphics\frontend\vulkan\vulkan.h
+2016-05-13 07:55:38 ....A          923               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan.h
+2016-05-13 07:55:38 ....A       179429               nucleus-0.1.0\externals\vulkan\vulkan.h
+2016-05-13 07:55:38 ....A         1685               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_backend.h
+2016-05-13 07:55:38 ....A          424               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_debug.h
+2016-05-13 07:55:38 ....A          854               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_shader.h
+2016-05-13 07:55:38 ....A         1967               nucleus-0.1.0\nucleus\graphics\frontend\vulkan\vulkan_shader_parser.h
+2016-05-13 07:55:38 ....A         5338               nucleus-0.1.0\nucleus\ui\widget.h
+2016-05-13 07:55:38 ....A         1331               nucleus-0.1.0\nucleus\ui\widgets\composite\widget_button.h
+2016-05-13 07:55:38 ....A         1766               nucleus-0.1.0\nucleus\ui\widgets\widget_container.h
+2016-05-13 07:55:38 ....A         1955               nucleus-0.1.0\nucleus\ui\widgets\widget_image.h
+2016-05-13 07:55:38 ....A         1101               nucleus-0.1.0\nucleus\ui\widgets\composite\widget_item_app.h
+2016-05-13 07:55:38 ....A         1404               nucleus-0.1.0\nucleus\ui\widgets\widget_text.h
+2016-05-13 07:55:38 ....A          433               nucleus-0.1.0\wrappers\windows\window.h
+2016-05-13 07:55:38 ....A        13900               nucleus-0.1.0\externals\rapidjson\writer.h
+2016-05-13 07:55:38 ....A        80788               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_assembler.h
+2016-05-13 07:55:38 ....A         1173               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_compiler.h
+2016-05-13 07:55:38 ....A         2061               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_constants.h
+2016-05-13 07:55:38 ....A         1373               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_emitter.h
+2016-05-13 07:55:38 ....A         1388               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_sequences.h
+2016-05-13 07:55:38 ....A          499               nucleus-0.1.0\nucleus\audio\backend\xaudio2\xaudio2.h
+2016-05-13 07:55:38 ....A          553               nucleus-0.1.0\nucleus\audio\backend\xaudio2\xaudio2_backend.h
+2016-05-13 07:55:38 ....A        15508               nucleus-0.1.0\externals\zlib\zconf.h
+2016-05-13 07:55:38 ....A        87883               nucleus-0.1.0\externals\zlib\zlib.h
+2016-05-13 07:55:38 ....A         6766               nucleus-0.1.0\externals\zlib\zutil.h
+2016-05-13 07:55:38 ....A         5130               nucleus-0.1.0\nucleus\graphics\frontend\opengl\glsl_parser.y.hpp
+2016-05-13 07:55:38 ....A       118341               nucleus-0.1.0\externals\rapidxml\rapidxml.hpp
+2016-05-13 07:55:38 ....A         3918               nucleus-0.1.0\externals\rapidxml\rapidxml_iterators.hpp
+2016-05-13 07:55:38 ....A        15671               nucleus-0.1.0\externals\rapidxml\rapidxml_print.hpp
+2016-05-13 07:55:38 ....A         3417               nucleus-0.1.0\externals\rapidxml\rapidxml_utils.hpp
+2016-05-13 07:55:38 ....A        26307               nucleus-0.1.0\externals\spirv\spirv.hpp
+2016-05-13 07:55:38 ....A         4968               nucleus-0.1.0\externals\zlib\adler32.c
+2016-05-13 07:55:38 ....A        16462               nucleus-0.1.0\wrappers\android\android_native_glue.c
+2016-05-13 07:55:38 ....A         2529               nucleus-0.1.0\externals\zlib\compress.c
+2016-05-13 07:55:38 ....A        13174               nucleus-0.1.0\externals\zlib\crc32.c
+2016-05-13 07:55:38 ....A        71476               nucleus-0.1.0\externals\zlib\deflate.c
+2016-05-13 07:55:38 ....A          678               nucleus-0.1.0\externals\zlib\gzclose.c
+2016-05-13 07:55:38 ....A        16415               nucleus-0.1.0\externals\zlib\gzlib.c
+2016-05-13 07:55:38 ....A        18694               nucleus-0.1.0\externals\zlib\gzread.c
+2016-05-13 07:55:38 ....A        16199               nucleus-0.1.0\externals\zlib\gzwrite.c
+2016-05-13 07:55:38 ....A        22709               nucleus-0.1.0\externals\zlib\infback.c
+2016-05-13 07:55:38 ....A        13455               nucleus-0.1.0\externals\zlib\inffast.c
+2016-05-13 07:55:38 ....A        53512               nucleus-0.1.0\externals\zlib\inflate.c
+2016-05-13 07:55:38 ....A        13028               nucleus-0.1.0\externals\zlib\inftrees.c
+2016-05-13 07:55:38 ....A        44255               nucleus-0.1.0\externals\zlib\trees.c
+2016-05-13 07:55:38 ....A         2003               nucleus-0.1.0\externals\zlib\uncompr.c
+2016-05-13 07:55:38 ....A         7414               nucleus-0.1.0\externals\zlib\zutil.c
+2016-05-13 07:55:38 ....A        32890               nucleus-0.1.0\externals\aes.cpp
+2016-05-13 07:55:38 ....A         4751               nucleus-0.1.0\wrappers\uwp\App.cpp
+2016-05-13 07:55:38 ....A        43224               nucleus-0.1.0\nucleus\cpu\backend\arm\arm_assembler.cpp
+2016-05-13 07:55:38 ....A          412               nucleus-0.1.0\nucleus\cpu\backend\assembler.cpp
+2016-05-13 07:55:38 ....A         1537               nucleus-0.1.0\nucleus\graphics\hir\block.cpp
+2016-05-13 07:55:38 ....A        15639               nucleus-0.1.0\nucleus\graphics\hir\builder.cpp
+2016-05-13 07:55:38 ....A          270               nucleus-0.1.0\nucleus\cpu\cell.cpp
+2016-05-13 07:55:38 ....A         1554               nucleus-0.1.0\nucleus\system\scei\cellos\cellos_info.cpp
+2016-05-13 07:55:38 ....A         1181               nucleus-0.1.0\nucleus\system\scei\cellos\cellos_loader.cpp
+2016-05-13 07:55:38 ....A         1944               nucleus-0.1.0\nucleus\cpu\backend\compiler.cpp
+2016-05-13 07:55:38 ....A         1103               nucleus-0.1.0\nucleus\core\config.cpp
+2016-05-13 07:55:38 ....A         2399               nucleus-0.1.0\nucleus\cpu\cpu.cpp
+2016-05-13 07:55:38 ....A          990               nucleus-0.1.0\nucleus\cpu\hir\cpu_block.cpp
+2016-05-13 07:55:38 ....A        23222               nucleus-0.1.0\nucleus\cpu\hir\cpu_builder.cpp
+2016-05-13 07:55:38 ....A         1237               nucleus-0.1.0\nucleus\cpu\hir\cpu_function.cpp
+2016-05-13 07:55:38 ....A         5388               nucleus-0.1.0\nucleus\cpu\hir\cpu_instruction.cpp
+2016-05-13 07:55:38 ....A          538               nucleus-0.1.0\nucleus\cpu\hir\cpu_module.cpp
+2016-05-13 07:55:38 ....A          490               nucleus-0.1.0\nucleus\cpu\hir\passes\dead_code_elimination_pass.cpp
+2016-05-13 07:55:38 ....A         2509               nucleus-0.1.0\nucleus\debugger\debugger.cpp
+2016-05-13 07:55:38 ....A         1214               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11.cpp
+2016-05-13 07:55:38 ....A         5302               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_backend.cpp
+2016-05-13 07:55:38 ....A         4267               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_command_buffer.cpp
+2016-05-13 07:55:38 ....A          804               nucleus-0.1.0\nucleus\graphics\backend\direct3d11\direct3d11_command_queue.cpp
+2016-05-13 07:55:38 ....A         1405               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12.cpp
+2016-05-13 07:55:38 ....A        21151               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_backend.cpp
+2016-05-13 07:55:38 ....A         8385               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_command_buffer.cpp
+2016-05-13 07:55:38 ....A         1406               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_command_queue.cpp
+2016-05-13 07:55:38 ....A        10690               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_convert.cpp
+2016-05-13 07:55:38 ....A         7012               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_debug.cpp
+2016-05-13 07:55:38 ....A         1783               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_fence.cpp
+2016-05-13 07:55:38 ....A         2455               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_heap.cpp
+2016-05-13 07:55:38 ....A          592               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_resource.cpp
+2016-05-13 07:55:38 ....A        26652               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_shader.cpp
+2016-05-13 07:55:38 ....A         7831               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_texture.cpp
+2016-05-13 07:55:38 ....A         1733               nucleus-0.1.0\nucleus\graphics\backend\direct3d12\direct3d12_vertex_buffer.cpp
+2016-05-13 07:55:38 ....A          921               nucleus-0.1.0\wrappers\windows\drop_target.cpp
+2016-05-13 07:55:38 ....A         6120               nucleus-0.1.0\nucleus\emulator.cpp
+2016-05-13 07:55:38 ....A         2333               nucleus-0.1.0\nucleus\filesystem\filesystem_app.cpp
+2016-05-13 07:55:38 ....A          584               nucleus-0.1.0\nucleus\filesystem\filesystem_host.cpp
+2016-05-13 07:55:38 ....A         1962               nucleus-0.1.0\nucleus\filesystem\filesystem_virtual.cpp
+2016-05-13 07:55:38 ....A          509               nucleus-0.1.0\nucleus\fmt.cpp
+2016-05-13 07:55:38 ....A          447               nucleus-0.1.0\nucleus\ui\font.cpp
+2016-05-13 07:55:38 ....A          351               nucleus-0.1.0\nucleus\graphics\format.cpp
+2016-05-13 07:55:38 ....A         1617               nucleus-0.1.0\nucleus\graphics\hir\function.cpp
+2016-05-13 07:55:38 ....A        89593               nucleus-0.1.0\nucleus\graphics\frontend\opengl\glsl_parser.l.cpp
+2016-05-13 07:55:38 ....A        49868               nucleus-0.1.0\nucleus\graphics\frontend\opengl\glsl_parser.y.cpp
+2016-05-13 07:55:38 ....A          193               nucleus-0.1.0\nucleus\gpu\gpu.cpp
+2016-05-13 07:55:38 ....A          222               nucleus-0.1.0\nucleus\graphics\graphics.cpp
+2016-05-13 07:55:38 ....A         1725               nucleus-0.1.0\nucleus\system\scei\cellos\hle_module.cpp
+2016-05-13 07:55:38 ....A         2131               nucleus-0.1.0\nucleus\filesystem\device\host_path\host_path_device.cpp
+2016-05-13 07:55:38 ....A         2167               nucleus-0.1.0\nucleus\filesystem\device\host_path\host_path_file.cpp
+2016-05-13 07:55:38 ....A          405               nucleus-0.1.0\nucleus\system\information.cpp
+2016-05-13 07:55:38 ....A         1730               nucleus-0.1.0\nucleus\graphics\hir\instruction.cpp
+2016-05-13 07:55:38 ....A         1060               nucleus-0.1.0\nucleus\filesystem\device\iso_container\iso_container_device.cpp
+2016-05-13 07:55:38 ....A         1069               nucleus-0.1.0\nucleus\filesystem\device\iso_container\iso_container_file.cpp
+2016-05-13 07:55:38 ....A         2814               nucleus-0.1.0\nucleus\system\keys.cpp
+2016-05-13 07:55:38 ....A         1450               nucleus-0.1.0\nucleus\ui\language.cpp
+2016-05-13 07:55:38 ....A         2815               nucleus-0.1.0\nucleus\system\scei\cellos\modules\libsysutil.cpp
+2016-05-13 07:55:38 ....A          438               nucleus-0.1.0\nucleus\system\scei\cellos\modules\libsysutil_avconf_ext.cpp
+2016-05-13 07:55:38 ....A         1849               nucleus-0.1.0\nucleus\system\loader.cpp
+2016-05-13 07:55:38 ....A          196               nucleus-0.1.0\nucleus\logger\logger.cpp
+2016-05-13 07:55:38 ....A         3963               nucleus-0.1.0\nucleus\system\scei\cellos\lv1\lv1_gpu.cpp
+2016-05-13 07:55:38 ....A         9390               nucleus-0.1.0\nucleus\system\scei\cellos\lv2.cpp
+2016-05-13 07:55:38 ....A          790               nucleus-0.1.0\wrappers\windows\main.cpp
+2016-05-13 07:55:38 ....A         2550               nucleus-0.1.0\wrappers\linux\main.cpp
+2016-05-13 07:55:38 ....A         5198               nucleus-0.1.0\wrappers\android\main.cpp
+2016-05-13 07:55:38 ....A         3646               nucleus-0.1.0\nucleus\memory\memory.cpp
+2016-05-13 07:55:38 ....A         1205               nucleus-0.1.0\nucleus\graphics\hir\module.cpp
+2016-05-13 07:55:38 ....A         4699               nucleus-0.1.0\nucleus\nucleus.cpp
+2016-05-13 07:55:38 ....A          379               nucleus-0.1.0\nucleus\cpu\hir\opcodes.cpp
+2016-05-13 07:55:38 ....A         1495               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl.cpp
+2016-05-13 07:55:38 ....A         9572               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_backend.cpp
+2016-05-13 07:55:38 ....A         6065               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_command_buffer.cpp
+2016-05-13 07:55:38 ....A        10896               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_command_queue.cpp
+2016-05-13 07:55:38 ....A         3146               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_convert.cpp
+2016-05-13 07:55:38 ....A         2321               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_debug.cpp
+2016-05-13 07:55:38 ....A          645               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_fence.cpp
+2016-05-13 07:55:38 ....A         7312               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_shader.cpp
+2016-05-13 07:55:38 ....A         1746               nucleus-0.1.0\nucleus\graphics\frontend\opengl\opengl_shader_parser.cpp
+2016-05-13 07:55:38 ....A         1619               nucleus-0.1.0\nucleus\graphics\backend\opengl\opengl_vertex_buffer.cpp
+2016-05-13 07:55:38 ....A        14514               nucleus-0.1.0\nucleus\system\scei\orbisos\orbisos.cpp
+2016-05-13 07:55:38 ....A          278               nucleus-0.1.0\nucleus\system\scei\orbisos\syscalls\orbis_dynlib.cpp
+2016-05-13 07:55:38 ....A         1168               nucleus-0.1.0\nucleus\system\scei\orbisos\orbis_loader.cpp
+2016-05-13 07:55:38 ....A         2407               nucleus-0.1.0\nucleus\system\scei\orbisos\orbis_self.cpp
+2016-05-13 07:55:38 ....A          191               nucleus-0.1.0\nucleus\system\scei\pkg.cpp
+2016-05-13 07:55:38 ....A        38817               nucleus-0.1.0\nucleus\cpu\backend\ppc\ppc_assembler.cpp
+2016-05-13 07:55:38 ....A         2594               nucleus-0.1.0\tests\cpu\ppc\ppc_branch.cpp
+2016-05-13 07:55:38 ....A         5652               nucleus-0.1.0\tests\cpu\ppc\ppc_control.cpp
+2016-05-13 07:55:38 ....A        15620               nucleus-0.1.0\tests\cpu\ppc\ppc_float.cpp
+2016-05-13 07:55:38 ....A        82664               nucleus-0.1.0\tests\cpu\ppc\ppc_integer.cpp
+2016-05-13 07:55:38 ....A        38219               nucleus-0.1.0\tests\cpu\ppc\ppc_memory.cpp
+2016-05-13 07:55:38 ....A         6043               nucleus-0.1.0\tests\cpu\ppc\ppc_vector.cpp
+2016-05-13 07:55:38 ....A          494               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer.cpp
+2016-05-13 07:55:38 ....A         2566               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_branch.cpp
+2016-05-13 07:55:38 ....A         2760               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_control.cpp
+2016-05-13 07:55:38 ....A         9357               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_float.cpp
+2016-05-13 07:55:38 ....A        14746               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_integer.cpp
+2016-05-13 07:55:38 ....A        12146               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_memory.cpp
+2016-05-13 07:55:38 ....A        27527               nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer\ppu_analyzer_vector.cpp
+2016-05-13 07:55:38 ....A        18215               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_decoder.cpp
+2016-05-13 07:55:38 ....A         2708               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_instruction.cpp
+2016-05-13 07:55:38 ....A        15292               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler.cpp
+2016-05-13 07:55:38 ....A         7886               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_branch.cpp
+2016-05-13 07:55:38 ....A         3764               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_control.cpp
+2016-05-13 07:55:38 ....A        12125               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_float.cpp
+2016-05-13 07:55:38 ....A        26854               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_integer.cpp
+2016-05-13 07:55:38 ....A        18149               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_memory.cpp
+2016-05-13 07:55:38 ....A        21496               nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler\ppu_recompiler_vector.cpp
+2016-05-13 07:55:38 ....A          762               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_state.cpp
+2016-05-13 07:55:38 ....A        20658               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_tables.cpp
+2016-05-13 07:55:38 ....A         2928               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_thread.cpp
+2016-05-13 07:55:38 ....A          329               nucleus-0.1.0\nucleus\cpu\frontend\ppu\ppu_utils.cpp
+2016-05-13 07:55:38 ....A         2864               nucleus-0.1.0\nucleus\system\scei\psf.cpp
+2016-05-13 07:55:38 ....A          355               nucleus-0.1.0\nucleus\gpu\r10xx\r10xx.cpp
+2016-05-13 07:55:38 ....A         5301               nucleus-0.1.0\nucleus\cpu\hir\passes\register_allocation_pass.cpp
+2016-05-13 07:55:38 ....A         1496               nucleus-0.1.0\nucleus\core\resource.cpp
+2016-05-13 07:55:38 ....A        20680               nucleus-0.1.0\nucleus\gpu\rsx\rsx.cpp
+2016-05-13 07:55:38 ....A        17448               nucleus-0.1.0\nucleus\gpu\rsx\rsx_convert.cpp
+2016-05-13 07:55:38 ....A         3634               nucleus-0.1.0\nucleus\gpu\rsx\rsx_dma.cpp
+2016-05-13 07:55:38 ....A         8872               nucleus-0.1.0\nucleus\gpu\rsx\rsx_fp.cpp
+2016-05-13 07:55:38 ....A        19659               nucleus-0.1.0\nucleus\gpu\rsx\rsx_pgraph.cpp
+2016-05-13 07:55:38 ....A         9346               nucleus-0.1.0\nucleus\gpu\rsx\rsx_vp.cpp
+2016-05-13 07:55:38 ....A          692               nucleus-0.1.0\nucleus\ui\screen.cpp
+2016-05-13 07:55:38 ....A          822               nucleus-0.1.0\nucleus\ui\screens\screen_emulator.cpp
+2016-05-13 07:55:38 ....A         2523               nucleus-0.1.0\nucleus\ui\screens\screen_logo.cpp
+2016-05-13 07:55:38 ....A         3979               nucleus-0.1.0\nucleus\ui\screens\screen_main.cpp
+2016-05-13 07:55:38 ....A         3689               nucleus-0.1.0\nucleus\memory\segment.cpp
+2016-05-13 07:55:38 ....A        18012               nucleus-0.1.0\nucleus\system\scei\self.cpp
+2016-05-13 07:55:38 ....A        10310               nucleus-0.1.0\externals\sha1.cpp
+2016-05-13 07:55:38 ....A          630               nucleus-0.1.0\nucleus\graphics\frontend\shader_parser.cpp
+2016-05-13 07:55:38 ....A          288               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_instruction.cpp
+2016-05-13 07:55:38 ....A          383               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler.cpp
+2016-05-13 07:55:38 ....A         4007               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_branch.cpp
+2016-05-13 07:55:38 ....A          640               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_channel.cpp
+2016-05-13 07:55:38 ....A         1046               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_control.cpp
+2016-05-13 07:55:38 ....A         3090               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_float.cpp
+2016-05-13 07:55:38 ....A        11709               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_integer.cpp
+2016-05-13 07:55:38 ....A         1697               nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler\spu_recompiler_memory.cpp
+2016-05-13 07:55:38 ....A          243               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_state.cpp
+2016-05-13 07:55:38 ....A          810               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_tables.cpp
+2016-05-13 07:55:38 ....A          954               nucleus-0.1.0\nucleus\cpu\frontend\spu\spu_thread.cpp
+2016-05-13 07:55:38 ....A         1104               nucleus-0.1.0\nucleus\ui\surface.cpp
+2016-05-13 07:55:38 ....A         2892               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_cond.cpp
+2016-05-13 07:55:38 ....A          445               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_config.cpp
+2016-05-13 07:55:38 ....A          947               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_dbg.cpp
+2016-05-13 07:55:38 ....A        10506               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_event.cpp
+2016-05-13 07:55:38 ....A         4028               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_fs.cpp
+2016-05-13 07:55:38 ....A          309               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_gamepad.cpp
+2016-05-13 07:55:38 ....A          419               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_hid.cpp
+2016-05-13 07:55:38 ....A         2319               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_lwmutex.cpp
+2016-05-13 07:55:38 ....A         2522               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_memory.cpp
+2016-05-13 07:55:38 ....A         1107               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_mmapper.cpp
+2016-05-13 07:55:38 ....A         2309               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_mutex.cpp
+2016-05-13 07:55:38 ....A         3223               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_ppu_thread.cpp
+2016-05-13 07:55:38 ....A         1018               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_process.cpp
+2016-05-13 07:55:38 ....A         5345               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_prx.cpp
+2016-05-13 07:55:38 ....A         6366               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_rsx.cpp
+2016-05-13 07:55:38 ....A         3764               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_semaphore.cpp
+2016-05-13 07:55:38 ....A          325               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_ss.cpp
+2016-05-13 07:55:38 ....A          548               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_time.cpp
+2016-05-13 07:55:38 ....A          769               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_timer.cpp
+2016-05-13 07:55:38 ....A          544               nucleus-0.1.0\nucleus\system\scei\cellos\lv2\sys_tty.cpp
+2016-05-13 07:55:38 ....A         2206               nucleus-0.1.0\tests\test_common.cpp
+2016-05-13 07:55:38 ....A         1399               nucleus-0.1.0\tests\cpu\test_ir.cpp
+2016-05-13 07:55:38 ....A          522               nucleus-0.1.0\tests\cpu\test_ppc.cpp
+2016-05-13 07:55:38 ....A          514               nucleus-0.1.0\tests\cpu\test_spu.cpp
+2016-05-13 07:55:38 ....A          325               nucleus-0.1.0\nucleus\gpu\texture_cache.cpp
+2016-05-13 07:55:38 ....A          290               nucleus-0.1.0\nucleus\cpu\thread.cpp
+2016-05-13 07:55:38 ....A          577               nucleus-0.1.0\nucleus\ui\transitions.cpp
+2016-05-13 07:55:38 ....A          228               nucleus-0.1.0\nucleus\cpu\hir\type.cpp
+2016-05-13 07:55:38 ....A         8463               nucleus-0.1.0\nucleus\ui\ui.cpp
+2016-05-13 07:55:38 ....A         2579               nucleus-0.1.0\nucleus\cpu\util.cpp
+2016-05-13 07:55:38 ....A         1176               nucleus-0.1.0\nucleus\filesystem\utils.cpp
+2016-05-13 07:55:38 ....A        18719               nucleus-0.1.0\nucleus\cpu\hir\value.cpp
+2016-05-13 07:55:38 ....A         1703               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan.cpp
+2016-05-13 07:55:38 ....A         8610               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_backend.cpp
+2016-05-13 07:55:38 ....A          375               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_debug.cpp
+2016-05-13 07:55:38 ....A         2617               nucleus-0.1.0\nucleus\graphics\backend\vulkan\vulkan_shader.cpp
+2016-05-13 07:55:38 ....A         9521               nucleus-0.1.0\nucleus\graphics\frontend\vulkan\vulkan_shader_parser.cpp
+2016-05-13 07:55:38 ....A         4782               nucleus-0.1.0\nucleus\ui\widget.cpp
+2016-05-13 07:55:38 ....A         1199               nucleus-0.1.0\nucleus\ui\widgets\composite\widget_button.cpp
+2016-05-13 07:55:38 ....A         8185               nucleus-0.1.0\nucleus\ui\widgets\widget_container.cpp
+2016-05-13 07:55:38 ....A         7267               nucleus-0.1.0\nucleus\ui\widgets\widget_image.cpp
+2016-05-13 07:55:38 ....A          722               nucleus-0.1.0\nucleus\ui\widgets\composite\widget_item_app.cpp
+2016-05-13 07:55:38 ....A         6789               nucleus-0.1.0\nucleus\ui\widgets\widget_text.cpp
+2016-05-13 07:55:38 ....A         3615               nucleus-0.1.0\wrappers\windows\window.cpp
+2016-05-13 07:55:38 ....A         4660               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_compiler.cpp
+2016-05-13 07:55:38 ....A         3454               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_constants.cpp
+2016-05-13 07:55:38 ....A          792               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_emitter.cpp
+2016-05-13 07:55:38 ....A        74594               nucleus-0.1.0\nucleus\cpu\backend\x86\x86_sequences.cpp
+2016-05-13 07:55:38 ....A          921               nucleus-0.1.0\nucleus\audio\backend\xaudio2\xaudio2.cpp
+2016-05-13 07:55:38 ....A         1128               nucleus-0.1.0\nucleus\audio\backend\xaudio2\xaudio2_backend.cpp
+2016-05-13 07:55:38 ....A         3152               nucleus-0.1.0\wrappers\windows\nucleus-windows.rc
+2016-05-13 07:55:38 ....A        24749               nucleus-0.1.0\nucleus.sln
+2016-05-13 07:55:38 ....A         1691               nucleus-0.1.0\wrappers\android\AndroidManifest.xml
+2016-05-13 07:55:38 ....A         2043               nucleus-0.1.0\wrappers\android\build.xml
+2016-05-13 07:55:38 ....A          394               nucleus-0.1.0\resources\languages\de_DE.xml
+2016-05-13 07:55:38 ....A          391               nucleus-0.1.0\resources\languages\en_US.xml
+2016-05-13 07:55:38 ....A          395               nucleus-0.1.0\resources\languages\es_ES.xml
+2016-05-13 07:55:38 ....A       113099               nucleus-0.1.0\externals\rapidxml\manual.html
+2016-05-13 07:55:38 ....A          417               nucleus-0.1.0\tools\nucleus-clean.py
+2016-05-13 07:55:38 ....A         1610               nucleus-0.1.0\tools\nucleus-format.py
+2016-05-13 07:55:38 ....A          482               nucleus-0.1.0\tools\nucleus-init.py
+2016-05-13 07:55:38 ....A         2658               nucleus-0.1.0\tools\nucleus-preprocess.py
+2016-05-13 07:55:38 ....A         7235               nucleus-0.1.0\CMakeLists.txt
+2016-05-13 07:55:38 ....A         8098               nucleus-0.1.0\externals\zlib\CMakeLists.txt
+2016-05-13 07:55:38 ....A         1051               nucleus-0.1.0\externals\rapidjson\license.txt
+2016-05-13 07:55:38 ....A         2752               nucleus-0.1.0\externals\rapidxml\license.txt
+2016-05-13 07:55:38 ....A         4535               nucleus-0.1.0\resources\fonts\LICENSE.txt
+2016-05-13 07:55:38 ....A       289364               nucleus-0.1.0\resources\fonts\SourceSansPro-Black.ttf
+2016-05-13 07:55:38 ....A       103404               nucleus-0.1.0\resources\fonts\SourceSansPro-BlackIt.ttf
+2016-05-13 07:55:38 ....A       291424               nucleus-0.1.0\resources\fonts\SourceSansPro-Bold.ttf
+2016-05-13 07:55:38 ....A       103608               nucleus-0.1.0\resources\fonts\SourceSansPro-BoldIt.ttf
+2016-05-13 07:55:38 ....A       291652               nucleus-0.1.0\resources\fonts\SourceSansPro-ExtraLight.ttf
+2016-05-13 07:55:38 ....A       104768               nucleus-0.1.0\resources\fonts\SourceSansPro-ExtraLightIt.ttf
+2016-05-13 07:55:38 ....A       104236               nucleus-0.1.0\resources\fonts\SourceSansPro-It.ttf
+2016-05-13 07:55:38 ....A       293220               nucleus-0.1.0\resources\fonts\SourceSansPro-Light.ttf
+2016-05-13 07:55:38 ....A       104616               nucleus-0.1.0\resources\fonts\SourceSansPro-LightIt.ttf
+2016-05-13 07:55:38 ....A       293956               nucleus-0.1.0\resources\fonts\SourceSansPro-Regular.ttf
+2016-05-13 07:55:38 ....A       292404               nucleus-0.1.0\resources\fonts\SourceSansPro-Semibold.ttf
+2016-05-13 07:55:38 ....A       104020               nucleus-0.1.0\resources\fonts\SourceSansPro-SemiboldIt.ttf
+2016-05-13 07:55:38 ....A         5369               nucleus-0.1.0\wrappers\android\nucleus-android.androidproj
+2016-05-13 07:55:38 ....A         1616               nucleus-0.1.0\wrappers\uwp\Package.appxmanifest
+2016-05-13 07:55:38 ....A        82026               nucleus-0.1.0\wrappers\android\android.toolchain.cmake
+2016-05-13 07:55:38 ....A          143               nucleus-0.1.0\wrappers\uwp\packages.config
+2016-05-13 07:55:38 ....A          289               nucleus-0.1.0\.editorconfig
+2016-05-13 07:55:38 ....A          505               nucleus-0.1.0\nucleus\audio\audio.vcxitems.filters
+2016-05-13 07:55:38 ....A         2382               nucleus-0.1.0\nucleus\core\core.vcxitems.filters
+2016-05-13 07:55:38 ....A        13411               nucleus-0.1.0\nucleus\cpu\cpu.vcxitems.filters
+2016-05-13 07:55:38 ....A         3089               nucleus-0.1.0\nucleus\filesystem\filesystem.vcxitems.filters
+2016-05-13 07:55:38 ....A         3036               nucleus-0.1.0\nucleus\gpu\gpu.vcxitems.filters
+2016-05-13 07:55:38 ....A         5114               nucleus-0.1.0\nucleus\graphics\graphics.vcxitems.filters
+2016-05-13 07:55:38 ....A          336               nucleus-0.1.0\wrappers\android\nucleus-android-native.vcxproj.filters
+2016-05-13 07:55:38 ....A          449               nucleus-0.1.0\wrappers\ios\nucleus-ios.iosproj.filters
+2016-05-13 07:55:38 ....A         3935               nucleus-0.1.0\wrappers\uwp\nucleus-uwp.vcxproj.filters
+2016-05-13 07:55:38 ....A          519               nucleus-0.1.0\wrappers\windows\nucleus-windows.vcxproj.filters
+2016-05-13 07:55:38 ....A        11545               nucleus-0.1.0\nucleus\system\system.vcxitems.filters
+2016-05-13 07:55:38 ....A         1112               nucleus-0.1.0\tests\cpu\test_cpu.vcxproj.filters
+2016-05-13 07:55:38 ....A         4113               nucleus-0.1.0\nucleus\ui\ui.vcxitems.filters
+2016-05-13 07:55:38 ....A         1171               nucleus-0.1.0\externals\zlib\zlib.vcxproj.filters
+2016-05-13 07:55:38 ....A           46               nucleus-0.1.0\wrappers\uwp\.gitignore
+2016-05-13 07:55:38 ....A          116               nucleus-0.1.0\bin\.gitignore
+2016-05-13 07:55:38 ....A          188               nucleus-0.1.0\bin\platforms\.gitignore
+2016-05-13 07:55:38 ....A          582               nucleus-0.1.0\.gitignore
+2016-05-13 07:55:38 ....A          279               nucleus-0.1.0\resources\shaders\ui_widget_container_ps.glsl
+2016-05-13 07:55:38 ....A          428               nucleus-0.1.0\resources\shaders\ui_widget_container_vs.glsl
+2016-05-13 07:55:38 ....A          429               nucleus-0.1.0\resources\shaders\ui_widget_image_ps.glsl
+2016-05-13 07:55:38 ....A          560               nucleus-0.1.0\resources\shaders\ui_widget_image_vs.glsl
+2016-05-13 07:55:38 ....A          735               nucleus-0.1.0\resources\shaders\ui_widget_ps.glsl
+2016-05-13 07:55:38 ....A          500               nucleus-0.1.0\resources\shaders\ui_widget_text_ps.glsl
+2016-05-13 07:55:38 ....A          538               nucleus-0.1.0\resources\shaders\ui_widget_text_vs.glsl
+2016-05-13 07:55:38 ....A          634               nucleus-0.1.0\resources\shaders\ui_widget_vs.glsl
+2016-05-13 07:55:38 ....A         9880               nucleus-0.1.0\wrappers\ios\nucleus-ios.iosproj
+2016-05-13 07:55:38 ....A        12502               nucleus-0.1.0\nucleus\graphics\frontend\opengl\glsl_parser.l
+2016-05-13 07:55:38 ....A           75               nucleus-0.1.0\wrappers\ios\main.mm
+2016-05-13 07:55:38 ....A        10016               nucleus-0.1.0\wrappers\ios\nucleus-ios.xcodeproj\nucleus-ios.pbxproj
+2016-05-13 07:55:38 ....A          660               nucleus-0.1.0\wrappers\ios\Info.plist
+2016-05-13 07:55:38 ....A          138               nucleus-0.1.0\wrappers\android\project.properties
+2016-05-13 07:55:38 ....A          556               nucleus-0.1.0\resources\shaders\ui_widget_container_ps.spv
+2016-05-13 07:55:38 ....A         1424               nucleus-0.1.0\resources\shaders\ui_widget_container_vs.spv
+2016-05-13 07:55:38 ....A         1048               nucleus-0.1.0\resources\shaders\ui_widget_image_ps.spv
+2016-05-13 07:55:38 ....A         1556               nucleus-0.1.0\resources\shaders\ui_widget_image_vs.spv
+2016-05-13 07:55:38 ....A         1416               nucleus-0.1.0\resources\shaders\ui_widget_ps.spv
+2016-05-13 07:55:38 ....A         1384               nucleus-0.1.0\resources\shaders\ui_widget_text_ps.spv
+2016-05-13 07:55:38 ....A         1580               nucleus-0.1.0\resources\shaders\ui_widget_text_vs.spv
+2016-05-13 07:55:38 ....A         1712               nucleus-0.1.0\resources\shaders\ui_widget_vs.spv
+2016-05-13 07:55:38 ....A          688               nucleus-0.1.0\nucleus\audio\backend\audio-coreaudio.vcxitems
+2016-05-13 07:55:38 ....A          688               nucleus-0.1.0\nucleus\audio\backend\audio-openal.vcxitems
+2016-05-13 07:55:38 ....A         1157               nucleus-0.1.0\nucleus\audio\backend\audio-xaudio2.vcxitems
+2016-05-13 07:55:38 ....A          850               nucleus-0.1.0\nucleus\audio\audio.vcxitems
+2016-05-13 07:55:38 ....A         2579               nucleus-0.1.0\nucleus\core\core.vcxitems
+2016-05-13 07:55:38 ....A         8290               nucleus-0.1.0\nucleus\cpu\cpu.vcxitems
+2016-05-13 07:55:38 ....A          880               nucleus-0.1.0\nucleus\debugger\debugger.vcxitems
+2016-05-13 07:55:38 ....A         2505               nucleus-0.1.0\nucleus\filesystem\filesystem.vcxitems
+2016-05-13 07:55:38 ....A         2509               nucleus-0.1.0\nucleus\gpu\gpu.vcxitems
+2016-05-13 07:55:38 ....A          685               nucleus-0.1.0\nucleus\graphics\backend\graphics-direct3d11.vcxitems
+2016-05-13 07:55:38 ....A         3145               nucleus-0.1.0\nucleus\graphics\backend\graphics-direct3d12.vcxitems
+2016-05-13 07:55:38 ....A          688               nucleus-0.1.0\nucleus\graphics\backend\graphics-opengl.vcxitems
+2016-05-13 07:55:38 ....A         1461               nucleus-0.1.0\nucleus\graphics\backend\graphics-vulkan.vcxitems
+2016-05-13 07:55:38 ....A         3852               nucleus-0.1.0\nucleus\graphics\graphics.vcxitems
+2016-05-13 07:55:38 ....A          876               nucleus-0.1.0\nucleus\logger\logger.vcxitems
+2016-05-13 07:55:38 ....A         1008               nucleus-0.1.0\nucleus\memory\memory.vcxitems
+2016-05-13 07:55:38 ....A         7338               nucleus-0.1.0\nucleus\system\system.vcxitems
+2016-05-13 07:55:38 ....A         3372               nucleus-0.1.0\nucleus\ui\ui.vcxitems
+2016-05-13 07:55:38 ....A        14092               nucleus-0.1.0\wrappers\android\nucleus-android-native.vcxproj
+2016-05-13 07:55:38 ....A        21007               nucleus-0.1.0\wrappers\uwp\nucleus-uwp.vcxproj
+2016-05-13 07:55:38 ....A         6761               nucleus-0.1.0\wrappers\windows\nucleus-windows.vcxproj
+2016-05-13 07:55:38 ....A         6345               nucleus-0.1.0\tests\cpu\test_cpu.vcxproj
+2016-05-13 07:55:38 ....A        10068               nucleus-0.1.0\externals\zlib\zlib.vcxproj
+2016-05-13 07:55:38 ....A           65               nucleus-0.1.0\wrappers\ios\vcreference.xcconfig
+2016-05-13 07:55:38 ....A        30878               nucleus-0.1.0\nucleus\graphics\frontend\opengl\glsl_parser.y
+2016-05-13 07:55:38 ....A          519               nucleus-0.1.0\.travis.yml
+2016-05-13 07:55:38 ....A            0            0  nucleus-0.1.0\.gitmodules
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\windows
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\uwp\Assets
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\uwp
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\linux
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\ios\nucleus-ios.xcodeproj
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\ios
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers\android
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\wrappers
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\tools
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\tests\cpu\ppc
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\tests\cpu
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\tests
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources\shaders
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources\languages
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources\images
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources\icons
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources\fonts
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0\resources
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\ui\widgets\composite
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\ui\widgets
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\ui\screens
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\ui
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\orbisos\syscalls
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\orbisos
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\cellos\modules
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\cellos\lv2
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\cellos\lv1
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei\cellos
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system\scei
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\system
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\memory
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\logger
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\graphics\hir
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\graphics\frontend\vulkan
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\graphics\frontend\opengl
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\graphics\frontend
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\graphics\backend\vulkan
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\graphics\backend\opengl
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\graphics\backend\direct3d12
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\graphics\backend\direct3d11
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\graphics\backend
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus\graphics
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\gpu\rsx
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\gpu\r10xx
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\gpu
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\filesystem\device\iso_container
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\filesystem\device\img_container
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\filesystem\device\host_path
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\filesystem\device
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\filesystem
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\debugger
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\cpu\hir\passes
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\cpu\hir
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend\spu\recompiler
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend\spu
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend\ppu\recompiler
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend\ppu\analyzer
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend\ppu
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\frontend
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\backend\x86
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\backend\ppc
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\backend\arm
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\cpu\backend
+2016-11-27 23:21:32 D....            0            0  nucleus-0.1.0\nucleus\cpu
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\core
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\audio\backend\xaudio2
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\audio\backend
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\nucleus\audio
+2016-11-27 23:21:33 D....            0            0  nucleus-0.1.0\nucleus
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\zlib
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\vulkan
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\stb
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\spirv
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\rapidxml
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\rapidjson\msinttypes
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\rapidjson\internal
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\rapidjson\error
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\rapidjson
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals\direct3d12
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\externals
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs\user
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs\technical\ps4
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs\technical\ps3
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs\technical
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs\development
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\docs
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps4\system\common\lib
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps4\system\common\font2
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps4\system\common
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps4\system
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps4
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3\dev_flash\sys\external
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3\dev_flash\sys
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3\dev_flash\data\font
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3\dev_flash\data
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3\dev_flash
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms\ps3
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin\platforms
+2016-11-27 23:21:31 D....            0            0  nucleus-0.1.0\bin
+2016-11-27 23:21:34 D....            0            0  nucleus-0.1.0
+------------------- ----- ------------ ------------  ------------------------
+2016-11-27 23:21:34            7632607      1397160  653 files, 100 folders

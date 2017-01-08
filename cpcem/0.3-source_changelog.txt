@@ -1,0 +1,7 @@
+17/01/04 - Added Z80 core from ZX82 and made a couple of bugfixes. Added 8255,
+           CRTC, PSG, FDC and Gate Array emulation.
+18/01/04 - Fixed mode 0 colours. Improved timing a bit.
+19/01/04 - Fixed R register problem, Highway Encounter now works.
+20/01/04 - Optimization, high resolution mode added.
+21/01/04 - Added GUI and sound. Changed CPU timing to be more accurate.
+22/01/04 - Tidied up some stuff. Made Windows port.

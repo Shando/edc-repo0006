@@ -1,0 +1,17 @@
+Changes in version 2.0.0 beta1 (since version 1.6.1)
+----------------------------------------------------
+
+  * graphical user interface using the FLTK library
+  * a GUI debugger with support for listing CPU registers, memory dump,
+    disassembly, setting watchpoints, and more
+  * new audio and video drivers with more features and improved quality
+  * new ROM module that implements a FILE: EXOS device for direct file
+    access
+  * improved tape emulation
+  * demo recording (snapshot and keyboard events stored in a file)
+  * external joystick emulation (using the numeric keypad)
+  * various internal code changes to allow for the emulation of multiple
+    machine types
+  * added Commodore Plus/4 emulator mode with high accuracy and support
+    for SID emulation, as well as 1541 and 1581 floppy drives
+

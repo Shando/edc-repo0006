@@ -1,0 +1,11 @@
+*Version 0.52
+This is maintenance Release.....
+The folder position of ROM image files have been changed. 
+You must move ROM images into the folder named 'ROMS' and rename your
+'MZ700.ROM' to '1Z013.ROM'.
+
+Supported Original Monitor-ROM named 'MZ-NEW MONITOR'. But it is for 
+*Japanese* version of MZ700/80K/C/1200 Only.
+
+'MZ-NEW MONITOR'
+Copyright 1982,1983,2000 Musashino Microcomputer Club.

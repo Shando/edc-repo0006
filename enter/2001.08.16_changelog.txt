@@ -1,4 +1,0 @@
-Changes - 16th August 2001
---------------------------
-
-- Source released under GNU Public License

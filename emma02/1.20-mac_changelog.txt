@@ -1,0 +1,71 @@
+General
+- Added support for Mac OS X port, this resulted in some GUI changes on windows (slightly large character font and miscellaneous other small changes)
+- Fixed bug in switching keypad / player in keypad definitions for Elf and Studio II clones
+- Changed default ‘menu button’ to F7 (was windows Menu button)
+- Changed default ‘IN Button’ for Elf clones on Max OS X to ‘Control’
+- Fixed bug in command line
+- Added support for some specific (language) keyboard layouts as well as a ‘user defined’ option, if you want any other keyboard layout added please drop me an email. Only used for Elf hex and Studio II clone keypads as well as the Telmac TMC-600
+- Restructured Elf hex and Studio II clone key mapping:
+* Added menu option ‘Use numeric keypad’ (unselect for keyboards without numeric keypad)
+* Simplified arcade key settings
+* Added a second key map ‘set’
+* Key definition file format changed, see help ‘General Information / Key Mapping’
+* Key definition file is now loaded when opening ‘Key Map’ window
+* Only PC and hex buttons that are defined in key definition file are now disabled in ‘Key Map’ window
+* Added option to load key definition (from file) for build in Studio II clone games
+* Added diagonal arcade definition for Studio clones valid when pressing 2 arrow keys simultaneously 
+* Changed ‘default settings’ to not reset any of the global ‘menu’ settings
+
+
+
+Debugger
+- Improved flexibility of loading debugger program configuration files to allow use of files created on Windows also on Mac and the other way around
+- Fixed bug in memory dump colouring (when SB is used)
+
+Video Terminal
+- Changes GUI to allow for Mac port: removed word ‘baud’ for all computers allowing terminal support
+
+Comx
+- Corrected a bug in USB BROWSER support where in some cases URLs in tables got corrupted
+- Added corrected and/or improved versions for ‘high score’ English games: Music Ball, Look Before You, Cross Fire, COMX Dragon, GateMaster, Happiehap 2 and Get Your Gadget as well as Dutch games: Happiehap, Happiehap 2, Get your Gadget and COMX Draak
+- Fixed bugs in handling of COMX Plotter ROMs which caused no characters to work on the plotter windows
+
+Cosmac Elf 2000
+- Elf/Os installation files will now be renamed to ‘run’ files if the ‘run’ files do not exist on start-up of one of the Elf computers (vt100-installation.ide to vt100.ide etc.)
+- Included a new elf2k-installation.ide file as previous file was corrupt
+- Added LOAD-8275 command on ide-installation file (and as .hex file) which supports LOAD command on Intel 8275 video
+
+Cosmac VIP / VIP II
+- Changes GUI to allow for Mac port: changed ‘Beeper’ to ‘Beep’ and simplified VIP sound options (Removed ‘Card’ and ‘System’ text)
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+- Changes GUI to allow for Mac port: Changed ‘RAM address:’ to ‘RAM:’
+- Added biosiov93 files
+- Elf/Os installation files will now be renamed to ‘run’ files if the ‘run’ files do not exist on start-up of one of the Elf computers (vt100-installation.ide to vt100.ide etc.)
+- Included new Elf/Os ide files including more Elf/Os software
+- Including adapted/corrected chip8 file on ide-installation files
+- Elf/Os configuration menu items for installation and run restructured
+- Added support for hex keyboard when Ascii keyboard is configured
+- Added chip8 loading support with offset of 0x200 for .ch8 files
+- Added chip8 support in menu loadable configuration
+- Added loading key definition file when using chip8 (both with and without Elf/Os)
+
+Quest Super Elf
+- Fixed a bug in led-timer for Super Elf emulator (causing the emulator to use extreme high PC load)
+
+Membership Card
+- Added support for 64 K RAM
+
+RCA Studio II, Visicom COM-100, Victory MPT-02
+- Changed default beep frequency to 480 Hz and changed implementation to try and mimic Studio II and Visicom tone which decays to about 240 Hz after start.
+- Corrected key definition layout pictures in help
+- Improved Studio II sound
+- Add key definitions for ‘new’ Studio II games like: asteroids, bezerk, bingo, climber, kaboom, pacman, scramble, star-wars etc.
+- Improved help pages for games
+
+Telmac TMC-600
+- Changed keyboard mapping mainly because the old code was not working on Mac OS X. New code is a bit cleaner even if it is not as user friendly as before. This resulted in a new ‘kemap’ definition window.
+
+Pecom
+- Switched END / ESC key definition, to be able to use ‘break’ key when there is no numeric keypad and/or no END key
+- Removed start-up in caps lock, instead lower case characters are now under shift

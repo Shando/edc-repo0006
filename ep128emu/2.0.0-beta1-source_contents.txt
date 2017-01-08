@@ -1,0 +1,147 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-01-17 00:36:02 ....A           79       201689  ep128emu-2.0.0-beta1\plus4\resid\AUTHORS
+2007-01-17 00:36:02 ....A        10903               ep128emu-2.0.0-beta1\plus4\resid\ChangeLog
+2006-09-20 17:34:43 ....A        17992               ep128emu-2.0.0-beta1\COPYING
+2006-09-20 17:34:55 ....A        17992               ep128emu-2.0.0-beta1\z80\COPYING
+2007-01-17 00:36:02 ....A        17992               ep128emu-2.0.0-beta1\plus4\resid\COPYING
+2007-01-17 00:36:02 ....A        10485               ep128emu-2.0.0-beta1\plus4\resid\NEWS
+2007-01-17 00:36:02 ....A         1418               ep128emu-2.0.0-beta1\plus4\resid\README
+2007-03-15 14:20:15 ....A        17575               ep128emu-2.0.0-beta1\README
+2007-03-06 01:41:59 ....A         9168               ep128emu-2.0.0-beta1\SConstruct
+2007-01-17 00:36:02 ....A         4342               ep128emu-2.0.0-beta1\plus4\resid\THANKS
+2007-01-17 00:36:02 ....A          295               ep128emu-2.0.0-beta1\plus4\resid\TODO
+2007-03-15 14:15:50 ....A         7896               ep128emu-2.0.0-beta1\disk\disk.zip
+2007-01-02 01:30:00 ....A         5313               ep128emu-2.0.0-beta1\bplist.hpp
+2006-12-30 12:44:28 ....A         4497               ep128emu-2.0.0-beta1\cfg_db.hpp
+2007-02-20 00:42:29 ....A         5381               ep128emu-2.0.0-beta1\plus4\cia8520.hpp
+2007-03-10 02:24:40 ....A        10685               ep128emu-2.0.0-beta1\plus4\cpu.hpp
+2006-12-30 12:44:28 ....A        10787               ep128emu-2.0.0-beta1\dave.hpp
+2007-01-02 01:30:00 ....A         2225               ep128emu-2.0.0-beta1\plus4\disasm.hpp
+2007-01-04 01:32:41 ....A         2251               ep128emu-2.0.0-beta1\z80\disasm.hpp
+2007-02-06 00:57:49 ....A         5273               ep128emu-2.0.0-beta1\display.hpp
+2007-01-27 02:10:32 ....A         5199               ep128emu-2.0.0-beta1\emucfg.hpp
+2007-01-17 00:36:02 ....A         9774               ep128emu-2.0.0-beta1\plus4\resid\envelope.hpp
+2006-12-30 12:44:28 ....A         2200               ep128emu-2.0.0-beta1\ep128emu.hpp
+2007-01-09 00:04:44 ....A        15061               ep128emu-2.0.0-beta1\ep128vm.hpp
+2007-01-17 00:36:02 ....A         5318               ep128emu-2.0.0-beta1\plus4\resid\extfilt.hpp
+2007-01-17 00:37:01 ....A         3734               ep128emu-2.0.0-beta1\fileio.hpp
+2007-01-17 00:36:02 ....A        15094               ep128emu-2.0.0-beta1\plus4\resid\filter.hpp
+2007-02-27 02:01:50 ....A         7141               ep128emu-2.0.0-beta1\fldisp.hpp
+2007-02-27 02:01:50 ....A         7315               ep128emu-2.0.0-beta1\gldisp.hpp
+2007-02-10 00:13:39 ....A         1672               ep128emu-2.0.0-beta1\gui\gui.hpp
+2006-12-30 12:44:28 ....A         3531               ep128emu-2.0.0-beta1\ioports.hpp
+2007-01-02 01:30:00 ....A         4862               ep128emu-2.0.0-beta1\memory.hpp
+2007-01-20 16:06:28 ....A         9498               ep128emu-2.0.0-beta1\nick.hpp
+2007-03-02 22:37:31 ....A         2106               ep128emu-2.0.0-beta1\plus4\p4floppy.hpp
+2007-03-02 22:37:31 ....A        11776               ep128emu-2.0.0-beta1\plus4\plus4vm.hpp
+2007-01-17 00:36:02 ....A         1227               ep128emu-2.0.0-beta1\plus4\resid\pot.hpp
+2007-02-20 00:42:29 ....A         3515               ep128emu-2.0.0-beta1\plus4\serial.hpp
+2007-01-17 00:36:02 ....A         2848               ep128emu-2.0.0-beta1\plus4\resid\sid.hpp
+2007-01-17 00:36:02 ....A         2082               ep128emu-2.0.0-beta1\plus4\resid\siddefs.hpp
+2007-02-17 02:31:30 ....A         4847               ep128emu-2.0.0-beta1\snd_conv.hpp
+2007-03-07 19:16:09 ....A         4092               ep128emu-2.0.0-beta1\soundio.hpp
+2007-01-17 00:36:02 ....A         9500               ep128emu-2.0.0-beta1\plus4\resid\spline.hpp
+2007-01-09 22:30:50 ....A         4276               ep128emu-2.0.0-beta1\system.hpp
+2007-01-27 02:10:32 ....A         6958               ep128emu-2.0.0-beta1\tape.hpp
+2007-01-27 02:10:32 ....A         5450               ep128emu-2.0.0-beta1\tapeutil\tapeio.hpp
+2007-03-14 19:25:51 ....A        20661               ep128emu-2.0.0-beta1\plus4\ted.hpp
+2007-03-04 01:45:36 ....A         5028               ep128emu-2.0.0-beta1\plus4\vc1541.hpp
+2007-03-02 22:37:31 ....A         3600               ep128emu-2.0.0-beta1\plus4\vc1581.hpp
+2007-03-02 22:37:31 ....A         6300               ep128emu-2.0.0-beta1\plus4\via6522.hpp
+2007-02-17 02:31:30 ....A        17077               ep128emu-2.0.0-beta1\vm.hpp
+2007-02-03 01:50:49 ....A         8939               ep128emu-2.0.0-beta1\vmthread.hpp
+2007-01-17 00:36:03 ....A         2430               ep128emu-2.0.0-beta1\plus4\resid\voice.hpp
+2007-01-17 00:36:03 ....A        16166               ep128emu-2.0.0-beta1\plus4\resid\wave.hpp
+2007-02-20 00:42:28 ....A         3201               ep128emu-2.0.0-beta1\wd177x.hpp
+2006-12-30 12:49:55 ....A         7965               ep128emu-2.0.0-beta1\z80\z80.hpp
+2006-12-30 12:49:56 ....A         5524               ep128emu-2.0.0-beta1\z80\z80funcs.hpp
+2006-12-30 12:49:56 ....A        70025               ep128emu-2.0.0-beta1\z80\z80macros.hpp
+2007-02-15 01:30:48 ....A        11448               ep128emu-2.0.0-beta1\bplist.cpp
+2007-02-08 02:23:47 ....A        31911               ep128emu-2.0.0-beta1\cfg_db.cpp
+2007-02-20 00:42:29 ....A         9810               ep128emu-2.0.0-beta1\plus4\cia8520.cpp
+2007-03-11 02:18:00 ....A        44144               ep128emu-2.0.0-beta1\plus4\cpu.cpp
+2007-03-10 02:24:40 ....A        96094               ep128emu-2.0.0-beta1\plus4\cpuoptbl.cpp
+2006-12-30 12:44:28 ....A        39855               ep128emu-2.0.0-beta1\dave.cpp
+2007-01-02 01:30:00 ....A         7267               ep128emu-2.0.0-beta1\plus4\disasm.cpp
+2007-01-04 01:32:41 ....A        42278               ep128emu-2.0.0-beta1\z80\disasm.cpp
+2007-01-19 19:26:24 ....A         6542               ep128emu-2.0.0-beta1\display.cpp
+2007-01-27 02:10:32 ....A        23059               ep128emu-2.0.0-beta1\emucfg.cpp
+2007-01-17 00:36:02 ....A         8677               ep128emu-2.0.0-beta1\plus4\resid\envelope.cpp
+2007-02-08 02:23:47 ....A        46143               ep128emu-2.0.0-beta1\ep128vm.cpp
+2007-01-17 00:36:02 ....A         2917               ep128emu-2.0.0-beta1\plus4\resid\extfilt.cpp
+2006-12-30 12:44:28 ....A        12327               ep128emu-2.0.0-beta1\fileio.cpp
+2007-01-17 00:36:02 ....A         9682               ep128emu-2.0.0-beta1\plus4\resid\filter.cpp
+2007-03-13 16:17:21 ....A        22554               ep128emu-2.0.0-beta1\fldisp.cpp
+2007-03-13 16:17:21 ....A        36288               ep128emu-2.0.0-beta1\gldisp.cpp
+2007-03-06 01:41:25 ....A        53945               ep128emu-2.0.0-beta1\gui\gui.cpp
+2006-12-30 12:44:28 ....A         8213               ep128emu-2.0.0-beta1\ioports.cpp
+2007-02-17 02:27:13 ....A         8630               ep128emu-2.0.0-beta1\gui\main.cpp
+2007-03-07 19:16:49 ....A        25940               ep128emu-2.0.0-beta1\installer\makecfg.cpp
+2006-12-30 12:44:28 ....A        13822               ep128emu-2.0.0-beta1\memory.cpp
+2007-01-12 01:40:11 ....A        14060               ep128emu-2.0.0-beta1\plus4\memory.cpp
+2007-01-20 16:06:28 ....A        33959               ep128emu-2.0.0-beta1\nick.cpp
+2007-03-13 15:01:55 ....A        34560               ep128emu-2.0.0-beta1\plus4\plus4vm.cpp
+2007-01-17 00:36:02 ....A         1174               ep128emu-2.0.0-beta1\plus4\resid\pot.cpp
+2007-03-14 22:25:20 ....A        39819               ep128emu-2.0.0-beta1\plus4\render.cpp
+2007-01-17 00:36:02 ....A        19184               ep128emu-2.0.0-beta1\plus4\resid\sid.cpp
+2007-02-17 02:31:30 ....A        15328               ep128emu-2.0.0-beta1\snd_conv.cpp
+2007-03-07 19:16:09 ....A        16743               ep128emu-2.0.0-beta1\soundio.cpp
+2007-02-01 19:44:55 ....A        10608               ep128emu-2.0.0-beta1\system.cpp
+2007-02-08 22:32:25 ....A         3270               ep128emu-2.0.0-beta1\plus4\util\tapconv.cpp
+2007-01-27 02:10:32 ....A        15049               ep128emu-2.0.0-beta1\tape.cpp
+2007-01-27 02:10:32 ....A        25451               ep128emu-2.0.0-beta1\tapeutil\tapeio.cpp
+2007-03-14 19:25:51 ....A        20233               ep128emu-2.0.0-beta1\plus4\ted_api.cpp
+2007-03-14 19:25:51 ....A        12454               ep128emu-2.0.0-beta1\plus4\ted_init.cpp
+2007-03-14 22:25:20 ....A        19789               ep128emu-2.0.0-beta1\plus4\ted_main.cpp
+2007-02-20 00:42:29 ....A         8364               ep128emu-2.0.0-beta1\plus4\ted_read.cpp
+2007-03-12 02:37:20 ....A        15110               ep128emu-2.0.0-beta1\plus4\ted_write.cpp
+2007-03-13 15:01:55 ....A        24877               ep128emu-2.0.0-beta1\plus4\vc1541.cpp
+2007-02-20 00:42:29 ....A         8133               ep128emu-2.0.0-beta1\plus4\vc1581.cpp
+2007-01-17 00:36:03 ....A         1074               ep128emu-2.0.0-beta1\plus4\resid\version.cpp
+2007-03-02 22:37:31 ....A         9861               ep128emu-2.0.0-beta1\plus4\via6522.cpp
+2007-02-17 02:31:30 ....A        23457               ep128emu-2.0.0-beta1\vm.cpp
+2007-02-03 01:50:49 ....A        11690               ep128emu-2.0.0-beta1\vmthread.cpp
+2007-01-17 00:36:03 ....A         5132               ep128emu-2.0.0-beta1\plus4\resid\voice.cpp
+2007-01-17 00:36:03 ....A         4489               ep128emu-2.0.0-beta1\plus4\resid\wave.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave6581_PST.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave6581_PS_.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave6581_P_T.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave6581__ST.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave8580_PST.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave8580_PS_.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave8580_P_T.cpp
+2007-01-17 00:36:03 ....A        33920               ep128emu-2.0.0-beta1\plus4\resid\wave8580__ST.cpp
+2007-02-20 00:42:28 ....A        18604               ep128emu-2.0.0-beta1\wd177x.cpp
+2006-12-30 12:49:55 ....A       190968               ep128emu-2.0.0-beta1\z80\z80.cpp
+2006-12-30 12:49:56 ....A        13769               ep128emu-2.0.0-beta1\z80\z80funcs2.cpp
+2007-03-10 02:24:40 ....A        21686               ep128emu-2.0.0-beta1\plus4\opcodtbl.py
+2007-02-27 01:59:47 ....A         4866               ep128emu-2.0.0-beta1\config\clearkbd.cfg
+2007-02-27 01:59:16 ....A         2582               ep128emu-2.0.0-beta1\config\ep_keys.cfg
+2007-02-27 01:59:47 ....A         2382               ep128emu-2.0.0-beta1\config\p4keyshu.cfg
+2007-02-27 01:59:16 ....A         2382               ep128emu-2.0.0-beta1\config\p4_keys.cfg
+2007-03-06 01:41:25 ....A         2724               ep128emu-2.0.0-beta1\gui\about.fl
+2007-02-17 02:29:31 ....A        30971               ep128emu-2.0.0-beta1\gui\debug.fl
+2007-02-12 02:10:45 ....A        14511               ep128emu-2.0.0-beta1\gui\disk_cfg.fl
+2007-02-12 02:10:45 ....A        17296               ep128emu-2.0.0-beta1\gui\disp_cfg.fl
+2007-02-27 01:58:10 ....A        12382               ep128emu-2.0.0-beta1\gui\gui.fl
+2007-03-06 01:43:02 ....A         2045               ep128emu-2.0.0-beta1\installer\mkcfg.fl
+2007-02-12 02:10:45 ....A        14234               ep128emu-2.0.0-beta1\gui\snd_cfg.fl
+2007-01-27 02:09:55 ....A        19834               ep128emu-2.0.0-beta1\tapeutil\tapeedit.fl
+2007-02-17 02:29:05 ....A        42565               ep128emu-2.0.0-beta1\gui\vm_cfg.fl
+2007-03-15 14:20:16 ....A        11365               ep128emu-2.0.0-beta1\installer\ep128emu.nsi
+2007-01-09 00:04:44 ....A        16384               ep128emu-2.0.0-beta1\roms\epfileio.rom
+2007-01-07 15:35:23 ....A        16384               ep128emu-2.0.0-beta1\roms\p4fileio.rom
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\z80
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\tapeutil
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\roms
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\plus4\util
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\plus4\resid
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\plus4
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1\installer
+2016-12-31 12:26:25 D....            0            0  ep128emu-2.0.0-beta1\gui
+2016-12-31 12:26:25 D....            0            0  ep128emu-2.0.0-beta1\disk
+2016-12-31 12:26:25 D....            0            0  ep128emu-2.0.0-beta1\config
+2016-12-31 12:26:26 D....            0            0  ep128emu-2.0.0-beta1
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 12:26:26            2163249       201689  132 files, 11 folders

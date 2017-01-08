@@ -1,0 +1,132 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-03-23 17:34:51 ....A        17992       219372  ep128emu-2.0.6\COPYING
+2007-03-23 17:36:40 ....A        17992               ep128emu-2.0.6\z80\COPYING
+2008-11-25 00:49:02 ....A          278               ep128emu-2.0.6\Fl_Native_File_Chooser\CREDITS
+2008-12-13 17:46:14 ....A        10283               ep128emu-2.0.6\NEWS
+2007-10-24 16:14:54 ....A            9               ep128emu-2.0.6\ep128emu.app\Contents\PkgInfo
+2008-12-13 17:46:14 ....A        25912               ep128emu-2.0.6\README
+2008-12-13 17:46:14 ....A        14064               ep128emu-2.0.6\SConstruct
+2007-03-23 17:41:08 ....A         6711               ep128emu-2.0.6\disk\disk.zip
+2008-12-03 19:06:59 ....A          766               ep128emu-2.0.6\resource\ep128emu.ico
+2008-11-25 00:48:23 ....A         1281               ep128emu-2.0.6\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser.H
+2008-11-25 00:48:23 ....A         2938               ep128emu-2.0.6\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_FLTK.H
+2008-11-25 00:48:23 ....A         4755               ep128emu-2.0.6\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_MAC.H
+2008-11-25 00:48:23 ....A         3637               ep128emu-2.0.6\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_WIN32.H
+2007-04-27 22:45:17 ....A         6969               ep128emu-2.0.6\msvc\include\stdint.h
+2008-11-26 01:59:19 ....A         5483               ep128emu-2.0.6\src\bplist.hpp
+2007-03-31 17:23:58 ....A         4497               ep128emu-2.0.6\src\cfg_db.hpp
+2007-05-03 19:10:43 ....A        10979               ep128emu-2.0.6\src\dave.hpp
+2007-12-14 01:13:40 ....A         2010               ep128emu-2.0.6\gui\debugger.hpp
+2008-11-25 01:10:03 ....A         3767               ep128emu-2.0.6\src\debuglib.hpp
+2008-12-13 17:42:32 ....A         5749               ep128emu-2.0.6\src\display.hpp
+2008-11-28 02:11:17 ....A         6028               ep128emu-2.0.6\src\emucfg.hpp
+2008-12-13 17:33:09 ....A         3118               ep128emu-2.0.6\src\ep128emu.hpp
+2008-12-09 01:09:26 ....A        20303               ep128emu-2.0.6\src\ep128vm.hpp
+2007-04-19 01:52:52 ....A         3860               ep128emu-2.0.6\src\fileio.hpp
+2008-12-13 17:42:32 ....A         9797               ep128emu-2.0.6\src\fldisp.hpp
+2008-12-06 01:53:08 ....A         3753               ep128emu-2.0.6\src\gldisp.hpp
+2008-11-25 01:09:38 ....A         1986               ep128emu-2.0.6\gui\gui.hpp
+2008-11-25 01:02:17 ....A         1656               ep128emu-2.0.6\src\guicolor.hpp
+2008-12-09 01:09:02 ....A         4084               ep128emu-2.0.6\src\ioports.hpp
+2007-10-21 15:42:56 ....A         4144               ep128emu-2.0.6\src\joystick.hpp
+2008-11-26 01:59:19 ....A         5354               ep128emu-2.0.6\src\memory.hpp
+2007-12-18 18:28:07 ....A         4724               ep128emu-2.0.6\gui\monitor.hpp
+2008-12-13 17:42:32 ....A        10132               ep128emu-2.0.6\src\nick.hpp
+2007-12-18 18:31:26 ....A         5332               ep128emu-2.0.6\src\script.hpp
+2007-03-31 17:23:58 ....A         4847               ep128emu-2.0.6\src\snd_conv.hpp
+2008-12-13 17:44:57 ....A         4237               ep128emu-2.0.6\src\soundio.hpp
+2008-12-13 17:42:53 ....A         5304               ep128emu-2.0.6\src\system.hpp
+2008-11-25 01:10:03 ....A        13602               ep128emu-2.0.6\src\tape.hpp
+2008-11-25 01:10:03 ....A         4284               ep128emu-2.0.6\tapeutil\tapeio.hpp
+2007-11-03 01:15:34 ....A         7950               ep128emu-2.0.6\src\videorec.hpp
+2008-12-13 17:43:45 ....A        24499               ep128emu-2.0.6\src\vm.hpp
+2007-10-21 15:42:57 ....A         9638               ep128emu-2.0.6\src\vmthread.hpp
+2008-12-04 19:53:07 ....A         5538               ep128emu-2.0.6\src\wd177x.hpp
+2008-12-13 17:33:09 ....A         9143               ep128emu-2.0.6\z80\z80.hpp
+2008-12-06 01:51:47 ....A         5759               ep128emu-2.0.6\z80\z80funcs.hpp
+2007-04-04 00:39:37 ....A        69655               ep128emu-2.0.6\z80\z80macros.hpp
+2008-11-26 01:59:19 ....A        14564               ep128emu-2.0.6\src\bplist.cpp
+2008-12-13 17:33:09 ....A        31781               ep128emu-2.0.6\src\cfg_db.cpp
+2007-04-16 19:10:42 ....A        39850               ep128emu-2.0.6\src\dave.cpp
+2008-12-13 17:35:52 ....A        18467               ep128emu-2.0.6\gui\debugger.cpp
+2008-12-08 12:25:33 ....A        60834               ep128emu-2.0.6\src\debuglib.cpp
+2007-10-21 15:42:56 ....A         7033               ep128emu-2.0.6\src\display.cpp
+2008-12-13 17:41:03 ....A        26638               ep128emu-2.0.6\src\emucfg.cpp
+2008-12-09 20:13:08 ....A        71679               ep128emu-2.0.6\src\ep128vm.cpp
+2008-11-25 01:10:03 ....A        13613               ep128emu-2.0.6\src\fileio.cpp
+2008-12-13 17:42:32 ....A        33003               ep128emu-2.0.6\src\fldisp.cpp
+2008-12-13 17:42:32 ....A        36247               ep128emu-2.0.6\src\gldisp.cpp
+2008-12-13 17:37:18 ....A        81922               ep128emu-2.0.6\gui\gui.cpp
+2008-12-13 17:33:09 ....A         6487               ep128emu-2.0.6\src\guicolor.cpp
+2007-12-19 23:26:10 ....A         9586               ep128emu-2.0.6\src\ioports.cpp
+2007-10-21 15:42:56 ....A        15132               ep128emu-2.0.6\src\joystick.cpp
+2008-12-13 17:38:36 ....A         8900               ep128emu-2.0.6\gui\main.cpp
+2008-12-13 17:40:43 ....A        55474               ep128emu-2.0.6\installer\makecfg.cpp
+2008-11-26 01:59:19 ....A        15188               ep128emu-2.0.6\src\memory.cpp
+2008-12-08 00:18:39 ....A        45608               ep128emu-2.0.6\gui\monitor.cpp
+2008-12-09 20:12:03 ....A        35282               ep128emu-2.0.6\src\nick.cpp
+2008-12-13 17:43:45 ....A        50843               ep128emu-2.0.6\src\script.cpp
+2007-03-31 17:23:58 ....A        15328               ep128emu-2.0.6\src\snd_conv.cpp
+2008-12-13 17:44:57 ....A        18204               ep128emu-2.0.6\src\soundio.cpp
+2008-12-13 17:42:53 ....A        13406               ep128emu-2.0.6\src\system.cpp
+2008-11-25 00:57:23 ....A        36210               ep128emu-2.0.6\src\tape.cpp
+2008-11-25 01:10:03 ....A        17333               ep128emu-2.0.6\tapeutil\tapeio.cpp
+2008-11-25 00:54:09 ....A        75996               ep128emu-2.0.6\src\videorec.cpp
+2008-12-13 17:33:09 ....A        31964               ep128emu-2.0.6\src\vm.cpp
+2008-12-13 17:43:45 ....A        13017               ep128emu-2.0.6\src\vmthread.cpp
+2008-12-13 17:33:09 ....A        34573               ep128emu-2.0.6\src\wd177x.cpp
+2008-12-06 01:51:47 ....A       163703               ep128emu-2.0.6\z80\z80.cpp
+2008-11-25 01:10:03 ....A        15278               ep128emu-2.0.6\z80\z80funcs2.cpp
+2008-11-25 00:48:23 ....A         2428               ep128emu-2.0.6\Fl_Native_File_Chooser\common.cxx
+2008-11-25 00:48:23 ....A         1177               ep128emu-2.0.6\Fl_Native_File_Chooser\Fl_Native_File_Chooser.cxx
+2008-11-25 00:48:23 ....A         9999               ep128emu-2.0.6\Fl_Native_File_Chooser\Fl_Native_File_Chooser_FLTK.cxx
+2008-11-25 00:48:23 ....A        23915               ep128emu-2.0.6\Fl_Native_File_Chooser\Fl_Native_File_Chooser_MAC.cxx
+2008-11-25 00:48:23 ....A        22459               ep128emu-2.0.6\Fl_Native_File_Chooser\Fl_Native_File_Chooser_WIN32.cxx
+2008-11-25 00:49:43 ....A          935               ep128emu-2.0.6\resource\ep128emu.rc
+2007-04-28 15:53:49 ....A         7319               ep128emu-2.0.6\msvc\ep128emu2.vcproj
+2007-04-28 15:53:49 ....A         4610               ep128emu-2.0.6\msvc\ep128emuLib.vcproj
+2007-04-28 15:53:49 ....A         4025               ep128emu-2.0.6\msvc\ep128Lib.vcproj
+2007-04-28 15:53:49 ....A         5492               ep128emu-2.0.6\msvc\makecfg.vcproj
+2007-04-28 15:53:49 ....A         5715               ep128emu-2.0.6\msvc\tapeedit.vcproj
+2007-04-28 15:53:49 ....A         3772               ep128emu-2.0.6\msvc\z80Lib.vcproj
+2007-04-28 15:53:49 ....A         3717               ep128emu-2.0.6\msvc\ep128emu2.sln
+2008-12-03 19:11:21 ....A          502               ep128emu-2.0.6\install-osx.sh
+2008-11-25 00:48:23 ....A         3589               ep128emu-2.0.6\Fl_Native_File_Chooser\README.txt
+2007-03-23 17:41:08 ....A         4866               ep128emu-2.0.6\config\clearkbd.cfg
+2008-11-25 01:00:39 ....A         2966               ep128emu-2.0.6\config\ep_keys.cfg
+2008-12-13 17:46:14 ....A         2580               ep128emu-2.0.6\gui\about.fl
+2008-12-13 17:45:55 ....A        22569               ep128emu-2.0.6\gui\debug.fl
+2008-12-13 17:33:09 ....A        15518               ep128emu-2.0.6\gui\disk_cfg.fl
+2008-11-25 01:09:38 ....A        18219               ep128emu-2.0.6\gui\disp_cfg.fl
+2008-11-30 15:37:28 ....A        14125               ep128emu-2.0.6\gui\gui.fl
+2008-12-13 17:33:09 ....A        26594               ep128emu-2.0.6\gui\kbd_cfg.fl
+2008-12-03 19:11:40 ....A         2225               ep128emu-2.0.6\installer\mkcfg.fl
+2008-12-13 17:39:40 ....A        14536               ep128emu-2.0.6\gui\snd_cfg.fl
+2007-11-03 16:49:17 ....A        21679               ep128emu-2.0.6\tapeutil\tapeedit.fl
+2008-11-28 02:11:17 ....A        41785               ep128emu-2.0.6\gui\vm_cfg.fl
+2007-10-24 16:14:54 ....A        50034               ep128emu-2.0.6\ep128emu.app\Contents\Resources\ep128emu.icns
+2008-12-13 17:40:14 ....A        19266               ep128emu-2.0.6\installer\ep128emu.nsi
+2007-10-24 16:14:53 ....A          959               ep128emu-2.0.6\fltk-1.1.7-MacOSX.patch
+2008-11-25 00:51:36 ....A          861               ep128emu-2.0.6\ep128emu.app\Contents\Info.plist
+2007-03-23 17:41:09 ....A        16384               ep128emu-2.0.6\roms\epfileio.rom
+2007-04-28 15:53:49 ....A          641               ep128emu-2.0.6\msvc\fl_rules.rules
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\z80
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\tapeutil
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\src
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\roms
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\resource
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\msvc\include
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\msvc
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\installer
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\gui
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\Fl_Native_File_Chooser\FL
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\Fl_Native_File_Chooser
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\ep128emu.app\Contents\Resources
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\ep128emu.app\Contents
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\ep128emu.app
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\disk
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6\config
+2016-12-31 13:31:56 D....            0            0  ep128emu-2.0.6
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 13:31:56            1883403       219372  111 files, 17 folders

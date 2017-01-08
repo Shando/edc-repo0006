@@ -1,0 +1,10 @@
+2007.07.28
+Nanowasp v2.0b released. This version is a redesign with the following major changes from the previous version:
+
+Ported from C to C++
+Framework changed from SDL to wxWidgets/OpenGL
+Menus to control the emulation (e.g. pause, reset, load disk)
+Machine definition in XML (components, port maps, etc)
+Disk image format changed from raw to DSK
+Cpmtools included to modify disk images
+Disk write support (formatting is not yet fully functional)

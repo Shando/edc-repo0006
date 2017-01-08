@@ -1,0 +1,81 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-01-12 16:01:38 ....A        17992        88714  ep128emu-1.6.1-alpha1\z80\COPYING
+1999-09-16 21:44:58 ....A        17992               ep128emu-1.6.1-alpha1\COPYING
+2004-06-29 01:04:01 ....A          361               ep128emu-1.6.1-alpha1\tapeutil\Makefile
+2004-07-25 01:06:00 ....A        12202               ep128emu-1.6.1-alpha1\NEWS
+2004-07-25 01:06:00 ....A         6711               ep128emu-1.6.1-alpha1\disk\disk.zip
+2004-07-25 01:06:00 ....A        24546               ep128emu-1.6.1-alpha1\images\images.zip
+2004-07-25 01:06:00 ....A        18572               ep128emu-1.6.1-alpha1\tape\tape.zip
+2005-01-18 01:06:01 ....A         2397               ep128emu-1.6.1-alpha1\cfgparse.h
+2005-01-18 01:06:01 ....A         3462               ep128emu-1.6.1-alpha1\console.h
+2005-01-18 01:06:01 ....A         3011               ep128emu-1.6.1-alpha1\dave.h
+2005-01-18 01:06:01 ....A         1839               ep128emu-1.6.1-alpha1\ep128.h
+2005-01-18 01:06:01 ....A         1625               ep128emu-1.6.1-alpha1\epcolors.h
+2005-01-18 01:06:01 ....A        27454               ep128emu-1.6.1-alpha1\fontdata.h
+2005-01-18 01:06:01 ....A         1579               ep128emu-1.6.1-alpha1\main.h
+2005-01-18 01:06:01 ....A         4140               ep128emu-1.6.1-alpha1\memory.h
+2005-01-18 01:06:01 ....A         6956               ep128emu-1.6.1-alpha1\modules.h
+2005-01-18 01:06:01 ....A         2251               ep128emu-1.6.1-alpha1\nick.h
+2005-01-18 01:06:01 ....A         2698               ep128emu-1.6.1-alpha1\snapshot.h
+2005-01-18 01:06:01 ....A         1778               ep128emu-1.6.1-alpha1\sysdep.h
+2005-01-18 01:06:01 ....A         3153               ep128emu-1.6.1-alpha1\tape.h
+2005-01-18 01:06:01 ....A         1744               ep128emu-1.6.1-alpha1\ui.h
+2005-01-18 01:06:01 ....A         1577               ep128emu-1.6.1-alpha1\version.h
+2005-01-18 01:06:01 ....A         4089               ep128emu-1.6.1-alpha1\wd177x.h
+2004-07-25 01:06:00 ....A         6250               ep128emu-1.6.1-alpha1\z80\z80.h
+2004-07-15 01:05:02 ....A        23495               ep128emu-1.6.1-alpha1\z80\z80daa.h
+2004-07-25 01:06:00 ....A        30553               ep128emu-1.6.1-alpha1\z80\z80funcs.h
+2004-07-15 01:05:02 ....A         5671               ep128emu-1.6.1-alpha1\z80\z80funcs2.h
+2004-07-15 01:05:02 ....A        72457               ep128emu-1.6.1-alpha1\z80\z80macros.h
+2004-07-15 01:05:02 ....A         1044               ep128emu-1.6.1-alpha1\z80\z80tables.h
+2005-01-18 01:06:01 ....A         3944               ep128emu-1.6.1-alpha1\z80_wrap.h
+2005-01-18 01:06:01 ....A        21743               ep128emu-1.6.1-alpha1\cfgparse.c
+2005-01-18 01:06:01 ....A        18169               ep128emu-1.6.1-alpha1\console.c
+2005-01-18 01:06:01 ....A         2308               ep128emu-1.6.1-alpha1\tapeutil\conv1to8.c
+2005-01-18 01:06:01 ....A        42185               ep128emu-1.6.1-alpha1\dave.c
+2005-01-18 01:06:01 ....A        11934               ep128emu-1.6.1-alpha1\tapeutil\decode1.c
+2005-01-18 01:06:01 ....A        14972               ep128emu-1.6.1-alpha1\tapeutil\decode8.c
+2005-01-18 01:06:01 ....A         4206               ep128emu-1.6.1-alpha1\epcolors.c
+2005-01-18 01:06:01 ....A         3265               ep128emu-1.6.1-alpha1\misc\findpoly.c
+2005-01-18 01:06:01 ....A         6008               ep128emu-1.6.1-alpha1\main.c
+2005-01-18 01:06:01 ....A        17609               ep128emu-1.6.1-alpha1\memory.c
+2005-01-18 01:06:01 ....A        10540               ep128emu-1.6.1-alpha1\modules.c
+2005-01-18 01:06:01 ....A        27534               ep128emu-1.6.1-alpha1\nick.c
+2005-01-18 01:06:01 ....A         8314               ep128emu-1.6.1-alpha1\snapshot.c
+2005-01-18 01:06:01 ....A         8640               ep128emu-1.6.1-alpha1\s_alsa.c
+2005-01-18 01:06:01 ....A         3219               ep128emu-1.6.1-alpha1\s_dummy.c
+2005-01-18 01:06:01 ....A         9737               ep128emu-1.6.1-alpha1\s_sdl.c
+2005-01-18 01:06:01 ....A        13835               ep128emu-1.6.1-alpha1\s_winmm.c
+2005-01-18 01:06:01 ....A        11139               ep128emu-1.6.1-alpha1\tape.c
+2005-01-18 01:06:01 ....A         8059               ep128emu-1.6.1-alpha1\tapeutil\tape_enc.c
+2005-01-18 01:06:01 ....A         5391               ep128emu-1.6.1-alpha1\ui.c
+2005-01-18 01:06:01 ....A         2701               ep128emu-1.6.1-alpha1\v_dummy.c
+2005-01-18 01:06:01 ....A        28042               ep128emu-1.6.1-alpha1\v_opengl.c
+2005-01-18 01:06:01 ....A        29819               ep128emu-1.6.1-alpha1\v_sdl.c
+2005-01-18 01:06:01 ....A        23399               ep128emu-1.6.1-alpha1\wd177x.c
+2004-07-15 01:05:02 ....A       196319               ep128emu-1.6.1-alpha1\z80\z80.c
+2005-01-18 01:06:01 ....A        16493               ep128emu-1.6.1-alpha1\z80_wrap.c
+2004-07-09 01:05:01 ....A          315               ep128emu-1.6.1-alpha1\misc\findpoly.sh
+2004-06-23 01:02:00 ....A          665               ep128emu-1.6.1-alpha1\tapeutil\fix_tape.sh
+2004-07-15 01:05:02 ....A          532               ep128emu-1.6.1-alpha1\misc\format.sh
+2003-05-22 01:00:00 ....A         1588               ep128emu-1.6.1-alpha1\epkeys.txt
+2005-01-18 01:06:01 ....A        13783               ep128emu-1.6.1-alpha1\.ep128rc
+2005-01-18 01:06:01 ....A        14002               ep128emu-1.6.1-alpha1\.ep128rc.gl
+2005-01-18 01:06:01 ....A         2395               ep128emu-1.6.1-alpha1\Makefile.Linux
+2004-07-25 01:06:00 ....A          425               ep128emu-1.6.1-alpha1\tapeutil\Makefile.mingw32
+2005-01-18 01:06:01 ....A         2496               ep128emu-1.6.1-alpha1\Makefile.mingw32
+2003-05-22 01:00:00 ....A          913               ep128emu-1.6.1-alpha1\tapeutil\filter\convert.orc
+2005-01-18 01:06:01 ....A          104               ep128emu-1.6.1-alpha1\roms\README.roms
+2003-05-22 01:00:00 ....A           38               ep128emu-1.6.1-alpha1\tapeutil\filter\convert.sco
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\z80
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\tapeutil\filter
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\tapeutil
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\tape
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\roms
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\misc
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\images
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1\disk
+2016-12-31 12:05:30 D....            0            0  ep128emu-1.6.1-alpha1
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 12:05:30             894379        88714  68 files, 9 folders

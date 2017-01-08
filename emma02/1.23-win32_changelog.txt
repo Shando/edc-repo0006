@@ -1,0 +1,56 @@
+General
+
+Added a popup window when loading a binary file and at the same time an address is specified in the 'load' field. The popup will give the option to select either a load at the specified address or at 0.
+Fixed a bug in loading of binary files for computer emulations that used the extended load GUI
+Corrected handling of 'illegal instruction' 68 in CPU 1802 mode; i.e. as an INP 0
+Added menu item 'Settings/Startup Value' to define initial CPU Register, RAM and Video RAM values. Options for CPU Register are zero or random, for RAM/Video RAM zero, random and dynamic. Dynamic is mimicking the COMX dynamic RAM pattern
+Fixed support for Windows 2000 (use XP package)
+Fixed crash on 'Function and Hot Keys'
+
+
+Debugger
+
+Added support for Memory Dump of intel 8275 Video RAM and 1870 Colour RAM
+Added support for COMX SB Eprom Bank switching in Memory Dump
+Fixed a bug in the direct assembler which caused some Chip 8 code to show up on machines not actually running chip 8.
+Corrected updates of Direct Assembler data fields if changed in real time by the emulated computer
+
+
+Help
+
+Updated / corrected help for all added features
+
+
+Video Terminal
+
+Correct bug in timing VT
+For Cosmac Elf, Netronics Elf II, Quest Super Elf: Added VT 'Ajust baud rate' option which should be selected when using Mini and Super Gold Monitor programs as they use slighly different VT timing
+Corrected saving of VT speed in configuration for Cosmicos
+Correct bug when setting default configuration where VT speed was not shown correctly
+Corrected bug when using 7 bits
+Corrected bug when using parity bit
+Corrected bug in setting VT configuration correctly after use of VT Setup.
+Added option to select bell frequency or wav file
+
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf
+
+Added RCABug.hex file in the package
+Corrected mapping / ghosting when using giantboard
+Netronics Elf II
+Corrected RAM mapping / ghosting, i.e. only when 256 bytes RAM option is used
+
+
+Membership Card
+
+Added support for Chuck's monitor program including binary and hex files for version 1.5
+Chuck's monitor set as default
+Correct bug in loading non-volitile RAM
+Changed led output to OUT 4
+Changed switch input to INP 4
+Added 2 memory configurations to handle 32K ROM - 32K RAM and 32K RAM - 32K ROM (i.e. either ROM/RAM starting at 0 or at @8000)
+Added possibility to save and load filed from/to the VT (for use in L, S, I and C commands of Chuck's monitor
+Corrected I/O handling (INP/OUT 4, 5, 6 and 7 the same and 1, 2, 3 input 69h, 6Ah and 6Bh)
+Added I/O selection on N0, N1 or N2 with N2 being the default setting
+Added support for red/green Q led
+Added configuration and files for Richard's Bascomm3

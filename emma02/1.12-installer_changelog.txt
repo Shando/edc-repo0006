@@ -1,0 +1,27 @@
+General 
+· Name changed to Emma 02 including new logo and new web site link (see above) 
+· Removed all specific computer logo’s 
+· Replaced all GUI buttons 
+· Re-factored auto load implementation 
+· Corrected ‘pausing’ of emulator in debugger which was corrupted due to the introduction of ‘real tape’ loading 
+· Changed the drop down box for ‘screendump’ with initial filenames for .bmp, .jpeg, .png and .pcx 
+· Added INP/OUT address in debugger tracing when tracing on INP/OUT only 
+
+Comx 
+· Added F&M EPROM Switchboard support, including firmware and multiple EPROMs (F&M Utilities, Disk Utilities, F&M Monitor (Dutch and English), F&M BASIC, Tennismania, Hit and Run). Only 5 EPROMs can be loaded simultaneously in the Switchboard. 
+· Added F&M Expansion 3.2 with a small bug fix to handle the F&M Clock and F&M Char routines that are available in the Switchboard firmware and F&M Utilities EPROM 
+· Corrected HELP and automatic save/load for F&M Printer ROM (F&M Turbo save/load routine CALLs were incorrect) 
+· Added automatic save/load for BSAVE/BLOAD in F&M BASIC 
+· Added English version for F&M Monitor 
+· Corrected bug in turbo tape loading (in some cases the speed was not reset correctly) 
+
+Cosmac Elf, Netronics Elf II, Quest Super Elf 
+· Added automated save/load support for Super BASIC versions V3.0 and V5.0 (Super BASIC versions not included as yet) 
+· Fixed enabling of load button when switching between Super BASIC and SuperMon 
+· Changed character font on debugger memory tab 
+
+Chip 8 
+· Chip 8 program Astro Dodge (from Revival Studios) added 
+
+RCA Studio II, Victory MPT-02 
+· Converted rocket game added (from Lee Romanov) 

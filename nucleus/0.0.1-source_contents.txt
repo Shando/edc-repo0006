@@ -1,0 +1,149 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-10-24 04:33:44 ....A        76402       202157  nucleus-0.0.1\externals\zlib\ChangeLog
+2014-10-24 04:33:44 ....A        18026               nucleus-0.0.1\LICENSE
+2014-10-24 04:33:44 ....A         5185               nucleus-0.0.1\externals\zlib\README
+2014-10-24 04:33:44 ....A         1724               nucleus-0.0.1\docs\cpu.md
+2014-10-24 04:33:44 ....A          807               nucleus-0.0.1\bin\dev_flash\data\font\README.md
+2014-10-24 04:33:44 ....A          999               nucleus-0.0.1\README.md
+2014-10-24 04:33:44 ....A         2909               nucleus-0.0.1\bin\dev_flash\sys\external\README.md
+2014-10-24 04:33:44 ....A         5906               nucleus-0.0.1\externals\aes.h
+2014-10-24 04:33:44 ....A          934               nucleus-0.0.1\nucleus\syscalls\callback.h
+2014-10-24 04:33:44 ....A          713               nucleus-0.0.1\nucleus\cpu\cell.h
+2014-10-24 04:33:44 ....A         7633               nucleus-0.0.1\nucleus\common.h
+2014-10-24 04:33:44 ....A        30562               nucleus-0.0.1\externals\zlib\crc32.h
+2014-10-24 04:33:44 ....A        12774               nucleus-0.0.1\externals\zlib\deflate.h
+2014-10-24 04:33:44 ....A         1015               nucleus-0.0.1\nucleus\emulator.h
+2014-10-24 04:33:44 ....A         1453               nucleus-0.0.1\nucleus\filesystem\filesystem.h
+2014-10-24 04:33:44 ....A         6552               nucleus-0.0.1\externals\zlib\gzguts.h
+2014-10-24 04:33:44 ....A          427               nucleus-0.0.1\externals\zlib\inffast.h
+2014-10-24 04:33:44 ....A         6332               nucleus-0.0.1\externals\zlib\inffixed.h
+2014-10-24 04:33:44 ....A         6399               nucleus-0.0.1\externals\zlib\inflate.h
+2014-10-24 04:33:44 ....A         2928               nucleus-0.0.1\externals\zlib\inftrees.h
+2014-10-24 04:33:44 ....A          845               nucleus-0.0.1\nucleus\loader\keys.h
+2014-10-24 04:33:44 ....A          543               nucleus-0.0.1\nucleus\loader\loader.h
+2014-10-24 04:33:44 ....A         1578               nucleus-0.0.1\nucleus\logging.h
+2014-10-24 04:33:44 ....A         4063               nucleus-0.0.1\nucleus\syscalls\lv2.h
+2014-10-24 04:33:44 ....A         1672               nucleus-0.0.1\nucleus\memory\memory.h
+2014-10-24 04:33:44 ....A          977               nucleus-0.0.1\nucleus\memory\object.h
+2014-10-24 04:33:44 ....A         2331               nucleus-0.0.1\nucleus\syscalls\object.h
+2014-10-24 04:33:44 ....A        14904               nucleus-0.0.1\nucleus\cpu\ppu\ppu_disasm.h
+2014-10-24 04:33:44 ....A         5067               nucleus-0.0.1\nucleus\cpu\ppu\ppu_fields.h
+2014-10-24 04:33:44 ....A        24543               nucleus-0.0.1\nucleus\cpu\ppu\interpreter\ppu_interpreter.h
+2014-10-24 04:33:44 ....A          884               nucleus-0.0.1\nucleus\cpu\ppu\ppu_tables.h
+2014-10-24 04:33:44 ....A         5601               nucleus-0.0.1\nucleus\cpu\ppu\ppu_thread.h
+2014-10-24 04:33:44 ....A          330               nucleus-0.0.1\nucleus\gpu\rsx.h
+2014-10-24 04:33:44 ....A          821               nucleus-0.0.1\nucleus\memory\segment.h
+2014-10-24 04:33:44 ....A         4501               nucleus-0.0.1\nucleus\loader\self.h
+2014-10-24 04:33:44 ....A         4356               nucleus-0.0.1\externals\sha1.h
+2014-10-24 04:33:44 ....A         4400               nucleus-0.0.1\nucleus\syscalls\syscall.h
+2014-10-24 04:33:44 ....A          780               nucleus-0.0.1\nucleus\syscalls\lv2\sys_cond.h
+2014-10-24 04:33:44 ....A          216               nucleus-0.0.1\nucleus\syscalls\lv2\sys_dbg.h
+2014-10-24 04:33:44 ....A         2520               nucleus-0.0.1\nucleus\syscalls\lv2\sys_event.h
+2014-10-24 04:33:44 ....A         2711               nucleus-0.0.1\nucleus\syscalls\lv2\sys_fs.h
+2014-10-24 04:33:44 ....A          662               nucleus-0.0.1\nucleus\syscalls\lv2\sys_lwmutex.h
+2014-10-24 04:33:44 ....A         1082               nucleus-0.0.1\nucleus\syscalls\lv2\sys_memory.h
+2014-10-24 04:33:44 ....A          359               nucleus-0.0.1\nucleus\syscalls\lv2\sys_mmapper.h
+2014-10-24 04:33:44 ....A          888               nucleus-0.0.1\nucleus\syscalls\lv2\sys_mutex.h
+2014-10-24 04:33:44 ....A         1081               nucleus-0.0.1\nucleus\syscalls\lv2\sys_ppu_thread.h
+2014-10-24 04:33:44 ....A         2378               nucleus-0.0.1\nucleus\syscalls\lv2\sys_process.h
+2014-10-24 04:33:44 ....A         6330               nucleus-0.0.1\nucleus\syscalls\lv2\sys_prx.h
+2014-10-24 04:33:44 ....A          981               nucleus-0.0.1\nucleus\syscalls\lv2\sys_rsx.h
+2014-10-24 04:33:44 ....A          907               nucleus-0.0.1\nucleus\syscalls\lv2\sys_semaphore.h
+2014-10-24 04:33:44 ....A          330               nucleus-0.0.1\nucleus\syscalls\lv2\sys_ss.h
+2014-10-24 04:33:44 ....A          353               nucleus-0.0.1\nucleus\syscalls\lv2\sys_time.h
+2014-10-24 04:33:44 ....A          780               nucleus-0.0.1\nucleus\syscalls\lv2\sys_timer.h
+2014-10-24 04:33:44 ....A          877               nucleus-0.0.1\nucleus\syscalls\lv2\sys_tty.h
+2014-10-24 04:33:44 ....A         1021               nucleus-0.0.1\nucleus\cpu\thread.h
+2014-10-24 04:33:44 ....A          370               nucleus-0.0.1\nucleus\cpu\translator.h
+2014-10-24 04:33:44 ....A         8472               nucleus-0.0.1\externals\zlib\trees.h
+2014-10-24 04:33:44 ....A         1068               nucleus-0.0.1\nucleus\filesystem\virtual_filesystem.h
+2014-10-24 04:33:44 ....A        15508               nucleus-0.0.1\externals\zlib\zconf.h
+2014-10-24 04:33:44 ....A        87883               nucleus-0.0.1\externals\zlib\zlib.h
+2014-10-24 04:33:44 ....A         6766               nucleus-0.0.1\externals\zlib\zutil.h
+2014-10-24 04:33:44 ....A         4968               nucleus-0.0.1\externals\zlib\adler32.c
+2014-10-24 04:33:44 ....A         2529               nucleus-0.0.1\externals\zlib\compress.c
+2014-10-24 04:33:44 ....A        13174               nucleus-0.0.1\externals\zlib\crc32.c
+2014-10-24 04:33:44 ....A        71476               nucleus-0.0.1\externals\zlib\deflate.c
+2014-10-24 04:33:44 ....A          678               nucleus-0.0.1\externals\zlib\gzclose.c
+2014-10-24 04:33:44 ....A        16415               nucleus-0.0.1\externals\zlib\gzlib.c
+2014-10-24 04:33:44 ....A        18694               nucleus-0.0.1\externals\zlib\gzread.c
+2014-10-24 04:33:44 ....A        16199               nucleus-0.0.1\externals\zlib\gzwrite.c
+2014-10-24 04:33:44 ....A        22709               nucleus-0.0.1\externals\zlib\infback.c
+2014-10-24 04:33:44 ....A        13455               nucleus-0.0.1\externals\zlib\inffast.c
+2014-10-24 04:33:44 ....A        53512               nucleus-0.0.1\externals\zlib\inflate.c
+2014-10-24 04:33:44 ....A        13028               nucleus-0.0.1\externals\zlib\inftrees.c
+2014-10-24 04:33:44 ....A        44255               nucleus-0.0.1\externals\zlib\trees.c
+2014-10-24 04:33:44 ....A         2003               nucleus-0.0.1\externals\zlib\uncompr.c
+2014-10-24 04:33:44 ....A         7414               nucleus-0.0.1\externals\zlib\zutil.c
+2014-10-24 04:33:44 ....A        32890               nucleus-0.0.1\externals\aes.cpp
+2014-10-24 04:33:44 ....A         1140               nucleus-0.0.1\nucleus\cpu\cell.cpp
+2014-10-24 04:33:44 ....A         2118               nucleus-0.0.1\nucleus\emulator.cpp
+2014-10-24 04:33:44 ....A         2233               nucleus-0.0.1\nucleus\filesystem\filesystem.cpp
+2014-10-24 04:33:44 ....A        51517               nucleus-0.0.1\nucleus\loader\keys.cpp
+2014-10-24 04:33:44 ....A          812               nucleus-0.0.1\nucleus\loader\loader.cpp
+2014-10-24 04:33:44 ....A         6881               nucleus-0.0.1\nucleus\syscalls\lv2.cpp
+2014-10-24 04:33:44 ....A         3395               nucleus-0.0.1\nucleus\memory\memory.cpp
+2014-10-24 04:33:44 ....A          852               nucleus-0.0.1\nucleus\nucleus.cpp
+2014-10-24 04:33:44 ....A          144               nucleus-0.0.1\nucleus\memory\object.cpp
+2014-10-24 04:33:44 ....A        64842               nucleus-0.0.1\nucleus\cpu\ppu\ppu_disasm.cpp
+2014-10-24 04:33:44 ....A       121983               nucleus-0.0.1\nucleus\cpu\ppu\interpreter\ppu_interpreter.cpp
+2014-10-24 04:33:44 ....A        32786               nucleus-0.0.1\nucleus\cpu\ppu\ppu_tables.cpp
+2014-10-24 04:33:44 ....A         1114               nucleus-0.0.1\nucleus\cpu\ppu\ppu_thread.cpp
+2014-10-24 04:33:44 ....A         3218               nucleus-0.0.1\nucleus\memory\segment.cpp
+2014-10-24 04:33:44 ....A        17376               nucleus-0.0.1\nucleus\loader\self.cpp
+2014-10-24 04:33:44 ....A        10310               nucleus-0.0.1\externals\sha1.cpp
+2014-10-24 04:33:44 ....A         2532               nucleus-0.0.1\nucleus\syscalls\lv2\sys_cond.cpp
+2014-10-24 04:33:44 ....A          240               nucleus-0.0.1\nucleus\syscalls\lv2\sys_dbg.cpp
+2014-10-24 04:33:44 ....A         9121               nucleus-0.0.1\nucleus\syscalls\lv2\sys_event.cpp
+2014-10-24 04:33:44 ....A         2111               nucleus-0.0.1\nucleus\syscalls\lv2\sys_fs.cpp
+2014-10-24 04:33:44 ....A         1863               nucleus-0.0.1\nucleus\syscalls\lv2\sys_lwmutex.cpp
+2014-10-24 04:33:44 ....A         1907               nucleus-0.0.1\nucleus\syscalls\lv2\sys_memory.cpp
+2014-10-24 04:33:44 ....A          959               nucleus-0.0.1\nucleus\syscalls\lv2\sys_mmapper.cpp
+2014-10-24 04:33:44 ....A         1857               nucleus-0.0.1\nucleus\syscalls\lv2\sys_mutex.cpp
+2014-10-24 04:33:44 ....A         1628               nucleus-0.0.1\nucleus\syscalls\lv2\sys_ppu_thread.cpp
+2014-10-24 04:33:44 ....A          692               nucleus-0.0.1\nucleus\syscalls\lv2\sys_process.cpp
+2014-10-24 04:33:44 ....A         2803               nucleus-0.0.1\nucleus\syscalls\lv2\sys_prx.cpp
+2014-10-24 04:33:44 ....A         5685               nucleus-0.0.1\nucleus\syscalls\lv2\sys_rsx.cpp
+2014-10-24 04:33:44 ....A         3397               nucleus-0.0.1\nucleus\syscalls\lv2\sys_semaphore.cpp
+2014-10-24 04:33:44 ....A          265               nucleus-0.0.1\nucleus\syscalls\lv2\sys_ss.cpp
+2014-10-24 04:33:44 ....A          496               nucleus-0.0.1\nucleus\syscalls\lv2\sys_time.cpp
+2014-10-24 04:33:44 ....A          709               nucleus-0.0.1\nucleus\syscalls\lv2\sys_timer.cpp
+2014-10-24 04:33:44 ....A          448               nucleus-0.0.1\nucleus\syscalls\lv2\sys_tty.cpp
+2014-10-24 04:33:44 ....A         1796               nucleus-0.0.1\nucleus\cpu\thread.cpp
+2014-10-24 04:33:44 ....A         3457               nucleus-0.0.1\nucleus\filesystem\virtual_filesystem.cpp
+2014-10-24 04:33:44 ....A         1787               nucleus-0.0.1\nucleus.sln
+2014-10-24 04:33:44 ....A         1302               nucleus-0.0.1\CMakeLists.txt
+2014-10-24 04:33:44 ....A         8098               nucleus-0.0.1\externals\zlib\CMakeLists.txt
+2014-10-24 04:33:44 ....A         9253               nucleus-0.0.1\nucleus\nucleus.vcxproj.filters
+2014-10-24 04:33:44 ....A         1171               nucleus-0.0.1\externals\zlib\zlib.vcxproj.filters
+2014-10-24 04:33:44 ....A           87               nucleus-0.0.1\bin\.gitignore
+2014-10-24 04:33:44 ....A          298               nucleus-0.0.1\.gitignore
+2014-10-24 04:33:44 ....A           87               nucleus-0.0.1\.gitmodules
+2014-10-24 04:33:44 ....A         8433               nucleus-0.0.1\nucleus\nucleus.vcxproj
+2014-10-24 04:33:44 ....A         6016               nucleus-0.0.1\externals\zlib\zlib.vcxproj
+2014-10-24 04:33:44 ....A          468               nucleus-0.0.1\.travis.yml
+2014-10-24 04:33:44 ....A            0            0  nucleus-0.0.1\nucleus\gpu\rsx.cpp
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\tests
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\syscalls\lv2
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\syscalls
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\memory
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\loader
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\gpu
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus\filesystem
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\nucleus\cpu\ppu\interpreter
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\nucleus\cpu\ppu
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\nucleus\cpu
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1\nucleus
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\externals\zlib
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\externals
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\docs
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin\dev_flash\sys\external
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin\dev_flash\sys
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin\dev_flash\data\font
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin\dev_flash\data
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin\dev_flash
+2016-11-27 23:19:43 D....            0            0  nucleus-0.0.1\bin
+2016-11-27 23:19:44 D....            0            0  nucleus-0.0.1
+------------------- ----- ------------ ------------  ------------------------
+2016-11-27 23:19:44            1144505       202157  124 files, 21 folders

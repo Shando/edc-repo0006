@@ -1,0 +1,4 @@
+Added a PPU segment analyzer.
+Started the implementation of the LLVM-based PPU segment recompiler.
+Keyvault system for encrypted SELF/SPRX files.
+Improved Nucleus CPU/GPU/Keys documentation.

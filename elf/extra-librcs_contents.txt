@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-11-18 00:28:14 ....A         1602        56184  librcs\Makefile
+2006-06-02 19:20:37 ....A        32442               librcs\librcs.h
+2005-10-18 01:28:20 ....A        27579               librcs\awlib.c
+2003-06-09 23:41:01 ....A         2423               librcs\complex.c
+2004-05-07 16:48:43 ....A         2445               librcs\date.c
+2003-04-21 19:29:00 ....A         2425               librcs\db.c
+2003-04-21 19:27:09 ....A         1433               librcs\file.c
+2003-04-21 17:33:07 ....A         1182               librcs\graph.c
+2004-05-07 16:47:36 ....A         9334               librcs\graph3d.c
+2003-11-18 00:38:36 ....A         5607               librcs\kernel.c
+2003-06-09 21:43:45 ....A         5606               librcs\math.c
+2007-01-16 00:51:22 ....A         2489               librcs\matrix.c
+2003-04-21 19:26:13 ....A         1432               librcs\mstring.c
+2003-04-21 17:58:32 ....A         2921               librcs\mterm.c
+2003-04-21 17:33:07 ....A          457               librcs\options.c
+2004-05-07 16:43:50 ....A          257               librcs\random.c
+2004-04-30 18:18:34 ....A        19071               librcs\rgb.c
+2003-04-21 17:59:24 ....A         1377               librcs\term.c
+2003-04-21 17:33:07 ....A          178               librcs\test.c
+2003-04-21 17:33:07 ....A         3119               librcs\vector.c
+2003-04-21 17:33:07 ....A         1219               librcs\vmem.c
+2003-04-21 18:00:02 ....A         3693               librcs\xhelpers.c
+2004-05-07 16:42:44 ....A          583               librcs\xml.c
+2003-04-21 18:00:34 ....A        36858               librcs\widgets.cpp
+2003-04-21 18:03:24 ....A         5324               librcs\rcslib.dsp
+2003-04-21 17:32:18 ....A          535               librcs\rcslib.dsw
+2003-04-21 17:33:07 ....A         4681               librcs\widgets.doc
+2004-05-19 17:55:39 ....A       181248               librcs\rcslib.ncb
+2004-05-19 17:44:20 ....A        48640               librcs\rcslib.opt
+2003-04-21 17:33:07 ....A         8905               librcs\awlib.c.old
+2003-04-21 17:33:07 ....A        12379               librcs\awlib.orig
+2004-05-19 17:01:50 ....A         1233               librcs\rcslib.plg
+2016-12-31 14:28:28 D....            0            0  librcs
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 14:28:28             428677        56184  32 files, 1 folders

@@ -1,0 +1,299 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-11-13 16:34:03 ....A        17992       512418  ep128emu-2.0.10\COPYING
+2016-11-13 16:34:03 ....A        17992               ep128emu-2.0.10\z80\COPYING
+2016-11-13 16:34:03 ....A          515               ep128emu-2.0.10\Fl_Native_File_Chooser\CREDITS
+2016-11-13 16:34:03 ....A          353               ep128emu-2.0.10\resource\Makefile
+2016-11-13 16:34:03 ....A        19633               ep128emu-2.0.10\NEWS
+2016-11-13 16:34:03 ....A            9               ep128emu-2.0.10\ep128emu.app\Contents\PkgInfo
+2016-11-13 16:34:03 ....A        47465               ep128emu-2.0.10\README
+2016-11-13 16:34:03 ....A        24293               ep128emu-2.0.10\SConstruct
+2016-11-13 16:34:03 ....A         1014               ep128emu-2.0.10\disk\ide126m.vhd.bz2
+2016-11-13 16:34:03 ....A         1830               ep128emu-2.0.10\disk\ide189m.vhd.bz2
+2016-11-13 16:34:03 ....A        10739               ep128emu-2.0.10\disk\disk.zip
+2016-11-13 16:34:03 ....A          574               ep128emu-2.0.10\resource\cpc464emu.png
+2016-11-13 16:34:03 ....A          540               ep128emu-2.0.10\resource\ep128emu.png
+2016-11-13 16:34:03 ....A          419               ep128emu-2.0.10\resource\tapeedit.png
+2016-11-13 16:34:03 ....A          598               ep128emu-2.0.10\resource\zx128emu.png
+2016-11-13 16:34:03 ....A          766               ep128emu-2.0.10\resource\cpc464emu.ico
+2016-11-13 16:34:03 ....A          766               ep128emu-2.0.10\resource\ep128emu.ico
+2016-11-13 16:34:03 ....A          766               ep128emu-2.0.10\resource\tapeedit.ico
+2016-11-13 16:34:03 ....A          766               ep128emu-2.0.10\resource\zx128emu.ico
+2016-11-13 16:34:03 ....A         9723               ep128emu-2.0.10\src\dotconf.h
+2016-11-13 16:34:03 ....A         1483               ep128emu-2.0.10\src\dotconf_priv.h
+2016-11-13 16:34:03 ....A         1281               ep128emu-2.0.10\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser.H
+2016-11-13 16:34:03 ....A         2967               ep128emu-2.0.10\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_FLTK.H
+2016-11-13 16:34:03 ....A         4754               ep128emu-2.0.10\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_MAC.H
+2016-11-13 16:34:03 ....A         3637               ep128emu-2.0.10\Fl_Native_File_Chooser\FL\Fl_Native_File_Chooser_WIN32.H
+2016-11-13 16:34:03 ....A         6969               ep128emu-2.0.10\msvc\include\stdint.h
+2016-11-13 16:34:03 ....A         4306               ep128emu-2.0.10\util\epimgconv\src\attr16.hpp
+2016-11-13 16:34:03 ....A         4446               ep128emu-2.0.10\src\ay3_8912.hpp
+2016-11-13 16:34:03 ....A         5516               ep128emu-2.0.10\src\bplist.hpp
+2016-11-13 16:34:03 ....A         4550               ep128emu-2.0.10\src\cfg_db.hpp
+2016-11-13 16:34:03 ....A         6043               ep128emu-2.0.10\util\epcompress\src\compress.hpp
+2016-11-13 16:34:03 ....A         7034               ep128emu-2.0.10\util\epcompress\src\compress0.hpp
+2016-11-13 16:34:03 ....A         4441               ep128emu-2.0.10\util\epcompress\src\compress2.hpp
+2016-11-13 16:34:03 ....A         2887               ep128emu-2.0.10\util\epcompress\src\compress3.hpp
+2016-11-13 16:34:03 ....A        11572               ep128emu-2.0.10\src\comprlib.hpp
+2016-11-13 16:34:03 ....A        19558               ep128emu-2.0.10\src\cpc464vm.hpp
+2016-11-13 16:34:03 ....A         7783               ep128emu-2.0.10\src\cpcdisk.hpp
+2016-11-13 16:34:03 ....A         3120               ep128emu-2.0.10\src\cpcio.hpp
+2016-11-13 16:34:03 ....A         6174               ep128emu-2.0.10\src\cpcmem.hpp
+2016-11-13 16:34:03 ....A         4550               ep128emu-2.0.10\src\cpcvideo.hpp
+2016-11-13 16:34:03 ....A         7708               ep128emu-2.0.10\src\crtc6845.hpp
+2016-11-13 16:34:03 ....A        11442               ep128emu-2.0.10\src\dave.hpp
+2016-11-13 16:34:03 ....A         2010               ep128emu-2.0.10\gui\debugger.hpp
+2016-11-13 16:34:03 ....A         4163               ep128emu-2.0.10\src\debuglib.hpp
+2016-11-13 16:34:03 ....A         2490               ep128emu-2.0.10\src\decompm2.hpp
+2016-11-13 16:34:03 ....A         2794               ep128emu-2.0.10\util\epcompress\src\decompress0.hpp
+2016-11-13 16:34:03 ....A         2624               ep128emu-2.0.10\util\epcompress\src\decompress2.hpp
+2016-11-13 16:34:03 ....A         1783               ep128emu-2.0.10\util\epcompress\src\decompress3.hpp
+2016-11-13 16:34:03 ....A         5955               ep128emu-2.0.10\src\display.hpp
+2016-11-13 16:34:03 ....A         7079               ep128emu-2.0.10\src\emucfg.hpp
+2016-11-13 16:34:03 ....A         3324               ep128emu-2.0.10\src\ep128emu.hpp
+2016-11-13 16:34:03 ....A        25713               ep128emu-2.0.10\src\ep128vm.hpp
+2016-11-13 16:34:03 ....A        11896               ep128emu-2.0.10\util\epimgconv\src\epimgconv.hpp
+2016-11-13 16:34:03 ....A         6013               ep128emu-2.0.10\src\ep_fdd.hpp
+2016-11-13 16:34:03 ....A         8324               ep128emu-2.0.10\src\fdc765.hpp
+2016-11-13 16:34:03 ....A         5498               ep128emu-2.0.10\src\fileio.hpp
+2016-11-13 16:34:03 ....A         9908               ep128emu-2.0.10\src\fldisp.hpp
+2016-11-13 16:34:03 ....A         4952               ep128emu-2.0.10\src\gldisp.hpp
+2016-11-13 16:34:03 ....A         1999               ep128emu-2.0.10\gui\gui.hpp
+2016-11-13 16:34:03 ....A         1705               ep128emu-2.0.10\src\guicolor.hpp
+2016-11-13 16:34:03 ....A         6802               ep128emu-2.0.10\src\ide.hpp
+2016-11-13 16:34:03 ....A         4391               ep128emu-2.0.10\util\epimgconv\src\imageconv.hpp
+2016-11-13 16:34:03 ....A         2307               ep128emu-2.0.10\util\epimgconv\src\imgwrite.hpp
+2016-11-13 16:34:03 ....A         4084               ep128emu-2.0.10\src\ioports.hpp
+2016-11-13 16:34:03 ....A         4144               ep128emu-2.0.10\src\joystick.hpp
+2016-11-13 16:34:03 ....A         6755               ep128emu-2.0.10\src\memory.hpp
+2016-11-13 16:34:03 ....A         4764               ep128emu-2.0.10\gui\monitor.hpp
+2016-11-13 16:34:03 ....A        10086               ep128emu-2.0.10\src\nick.hpp
+2016-11-13 16:34:03 ....A         3914               ep128emu-2.0.10\util\epimgconv\src\pixel16_1.hpp
+2016-11-13 16:34:03 ....A         3615               ep128emu-2.0.10\util\epimgconv\src\pixel16_2.hpp
+2016-11-13 16:34:03 ....A         3156               ep128emu-2.0.10\util\epimgconv\src\pixel2.hpp
+2016-11-13 16:34:03 ....A         2301               ep128emu-2.0.10\util\epimgconv\src\pixel256.hpp
+2016-11-13 16:34:03 ....A         3156               ep128emu-2.0.10\util\epimgconv\src\pixel4.hpp
+2016-11-13 16:34:03 ....A         4570               ep128emu-2.0.10\src\pngwrite.hpp
+2016-11-13 16:34:03 ....A         5928               ep128emu-2.0.10\src\script.hpp
+2016-11-13 16:34:03 ....A         4692               ep128emu-2.0.10\src\sdext.hpp
+2016-11-13 16:34:03 ....A         4847               ep128emu-2.0.10\src\snd_conv.hpp
+2016-11-13 16:34:03 ....A         4194               ep128emu-2.0.10\src\soundio.hpp
+2016-11-13 16:34:03 ....A         5326               ep128emu-2.0.10\src\system.hpp
+2016-11-13 16:34:03 ....A        16186               ep128emu-2.0.10\src\tape.hpp
+2016-11-13 16:34:03 ....A         4284               ep128emu-2.0.10\tapeutil\tapeio.hpp
+2016-11-13 16:34:03 ....A         8396               ep128emu-2.0.10\src\ula.hpp
+2016-11-13 16:34:03 ....A         9200               ep128emu-2.0.10\src\videorec.hpp
+2016-11-13 16:34:03 ....A        28625               ep128emu-2.0.10\src\vm.hpp
+2016-11-13 16:34:03 ....A        11688               ep128emu-2.0.10\src\vmthread.hpp
+2016-11-13 16:34:03 ....A         3735               ep128emu-2.0.10\src\wd177x.hpp
+2016-11-13 16:34:03 ....A        10661               ep128emu-2.0.10\z80\z80.hpp
+2016-11-13 16:34:03 ....A         5290               ep128emu-2.0.10\z80\z80funcs.hpp
+2016-11-13 16:34:03 ....A        59757               ep128emu-2.0.10\z80\z80macros.hpp
+2016-11-13 16:34:03 ....A        18792               ep128emu-2.0.10\src\zx128vm.hpp
+2016-11-13 16:34:03 ....A         3131               ep128emu-2.0.10\src\zxioport.hpp
+2016-11-13 16:34:03 ....A         5642               ep128emu-2.0.10\src\zxmemory.hpp
+2016-11-13 16:34:03 ....A        57954               ep128emu-2.0.10\src\dotconf.c
+2016-11-13 16:34:03 ....A        12111               ep128emu-2.0.10\util\epcompress\src\archive.cpp
+2016-11-13 16:34:03 ....A        34238               ep128emu-2.0.10\util\epimgconv\src\attr16.cpp
+2016-11-13 16:34:03 ....A        10610               ep128emu-2.0.10\src\ay3_8912.cpp
+2016-11-13 16:34:03 ....A        13894               ep128emu-2.0.10\src\bplist.cpp
+2016-11-13 16:34:03 ....A        31850               ep128emu-2.0.10\src\cfg_db.cpp
+2016-11-13 16:34:03 ....A         8173               ep128emu-2.0.10\util\epcompress\src\compress.cpp
+2016-11-13 16:34:03 ....A        33067               ep128emu-2.0.10\src\compress.cpp
+2016-11-13 16:34:03 ....A        38831               ep128emu-2.0.10\util\epcompress\src\compress0.cpp
+2016-11-13 16:34:03 ....A        33605               ep128emu-2.0.10\util\epcompress\src\compress2.cpp
+2016-11-13 16:34:03 ....A        14260               ep128emu-2.0.10\util\epcompress\src\compress3.cpp
+2016-11-13 16:34:03 ....A        52861               ep128emu-2.0.10\src\comprlib.cpp
+2016-11-13 16:34:03 ....A        53197               ep128emu-2.0.10\src\cpc464vm.cpp
+2016-11-13 16:34:03 ....A        27540               ep128emu-2.0.10\src\cpcdisk.cpp
+2016-11-13 16:34:03 ....A         4711               ep128emu-2.0.10\src\cpcio.cpp
+2016-11-13 16:34:03 ....A        17772               ep128emu-2.0.10\src\cpcmem.cpp
+2016-11-13 16:34:03 ....A        15796               ep128emu-2.0.10\src\cpcvideo.cpp
+2016-11-13 16:34:03 ....A        14516               ep128emu-2.0.10\src\cpc_snap.cpp
+2016-11-13 16:34:03 ....A        14260               ep128emu-2.0.10\src\crtc6845.cpp
+2016-11-13 16:34:03 ....A        38783               ep128emu-2.0.10\src\dave.cpp
+2016-11-13 16:34:03 ....A        17481               ep128emu-2.0.10\gui\debugger.cpp
+2016-11-13 16:34:03 ....A        64945               ep128emu-2.0.10\src\debuglib.cpp
+2016-11-13 16:34:03 ....A         6676               ep128emu-2.0.10\src\decompm2.cpp
+2016-11-13 16:34:03 ....A        14239               ep128emu-2.0.10\util\epcompress\src\decompress0.cpp
+2016-11-13 16:34:03 ....A         8998               ep128emu-2.0.10\util\epcompress\src\decompress2.cpp
+2016-11-13 16:34:03 ....A         6278               ep128emu-2.0.10\util\epcompress\src\decompress3.cpp
+2016-11-13 16:34:03 ....A         7280               ep128emu-2.0.10\src\display.cpp
+2016-11-13 16:34:03 ....A        92409               ep128emu-2.0.10\util\dtf\dtf.cpp
+2016-11-13 16:34:03 ....A        32540               ep128emu-2.0.10\src\emucfg.cpp
+2016-11-13 16:34:03 ....A        71594               ep128emu-2.0.10\src\ep128vm.cpp
+2016-11-13 16:34:03 ....A        85206               ep128emu-2.0.10\util\epimgconv\src\epimgconv.cpp
+2016-11-13 16:34:03 ....A        12296               ep128emu-2.0.10\src\epmemcfg.cpp
+2016-11-13 16:34:03 ....A        21851               ep128emu-2.0.10\src\ep_fdd.cpp
+2016-11-13 16:34:03 ....A        34297               ep128emu-2.0.10\src\fdc765.cpp
+2016-11-13 16:34:03 ....A        20286               ep128emu-2.0.10\src\fileio.cpp
+2016-11-13 16:34:03 ....A        32697               ep128emu-2.0.10\src\fldisp.cpp
+2016-11-13 16:34:03 ....A        51586               ep128emu-2.0.10\src\gldisp.cpp
+2016-11-13 16:34:03 ....A        87403               ep128emu-2.0.10\gui\gui.cpp
+2016-11-13 16:34:03 ....A        12744               ep128emu-2.0.10\src\guicolor.cpp
+2016-11-13 16:34:03 ....A        36599               ep128emu-2.0.10\src\ide.cpp
+2016-11-13 16:34:03 ....A        23456               ep128emu-2.0.10\util\epimgconv\src\imageconv.cpp
+2016-11-13 16:34:03 ....A        32028               ep128emu-2.0.10\util\epimgconv\src\imgwrite.cpp
+2016-11-13 16:34:03 ....A         9586               ep128emu-2.0.10\src\ioports.cpp
+2016-11-13 16:34:03 ....A        15161               ep128emu-2.0.10\src\joystick.cpp
+2016-11-13 16:34:03 ....A        13758               ep128emu-2.0.10\gui\main.cpp
+2016-11-13 16:34:03 ....A        24610               ep128emu-2.0.10\util\epcompress\src\main.cpp
+2016-11-13 16:34:03 ....A        25162               ep128emu-2.0.10\util\epimgconv\src\main.cpp
+2016-11-13 16:34:03 ....A        60326               ep128emu-2.0.10\installer\makecfg.cpp
+2016-11-13 16:34:03 ....A        14919               ep128emu-2.0.10\src\memory.cpp
+2016-11-13 16:34:03 ....A        47381               ep128emu-2.0.10\gui\monitor.cpp
+2016-11-13 16:34:03 ....A        45608               ep128emu-2.0.10\src\nick.cpp
+2016-11-13 16:34:03 ....A        21338               ep128emu-2.0.10\util\epimgconv\src\pixel16_1.cpp
+2016-11-13 16:34:03 ....A        25159               ep128emu-2.0.10\util\epimgconv\src\pixel16_2.cpp
+2016-11-13 16:34:03 ....A        14146               ep128emu-2.0.10\util\epimgconv\src\pixel2.cpp
+2016-11-13 16:34:03 ....A         4656               ep128emu-2.0.10\util\epimgconv\src\pixel256.cpp
+2016-11-13 16:34:03 ....A        14104               ep128emu-2.0.10\util\epimgconv\src\pixel4.cpp
+2016-11-13 16:34:03 ....A        32582               ep128emu-2.0.10\src\pngwrite.cpp
+2016-11-13 16:34:03 ....A        57112               ep128emu-2.0.10\src\script.cpp
+2016-11-13 16:34:03 ....A        28016               ep128emu-2.0.10\src\sdext.cpp
+2016-11-13 16:34:03 ....A        50589               ep128emu-2.0.10\util\epcompress\src\sfxcode.cpp
+2016-11-13 16:34:03 ....A        11910               ep128emu-2.0.10\util\epcompress\src\sfxdecomp.cpp
+2016-11-13 16:34:03 ....A        14851               ep128emu-2.0.10\src\snapshot.cpp
+2016-11-13 16:34:03 ....A        15329               ep128emu-2.0.10\src\snd_conv.cpp
+2016-11-13 16:34:03 ....A        18620               ep128emu-2.0.10\src\soundio.cpp
+2016-11-13 16:34:03 ....A        13406               ep128emu-2.0.10\src\system.cpp
+2016-11-13 16:34:03 ....A        55611               ep128emu-2.0.10\src\tape.cpp
+2016-11-13 16:34:03 ....A        17333               ep128emu-2.0.10\tapeutil\tapeio.cpp
+2016-11-13 16:34:03 ....A        16954               ep128emu-2.0.10\src\ula.cpp
+2016-11-13 16:34:03 ....A        75839               ep128emu-2.0.10\src\videorec.cpp
+2016-11-13 16:34:03 ....A        33168               ep128emu-2.0.10\src\vm.cpp
+2016-11-13 16:34:03 ....A        13779               ep128emu-2.0.10\src\vmthread.cpp
+2016-11-13 16:34:03 ....A        20619               ep128emu-2.0.10\src\wd177x.cpp
+2016-11-13 16:34:03 ....A       115656               ep128emu-2.0.10\z80\z80.cpp
+2016-11-13 16:34:03 ....A        17083               ep128emu-2.0.10\z80\z80funcs2.cpp
+2016-11-13 16:34:03 ....A        44910               ep128emu-2.0.10\src\zx128vm.cpp
+2016-11-13 16:34:03 ....A         4712               ep128emu-2.0.10\src\zxioport.cpp
+2016-11-13 16:34:03 ....A        14221               ep128emu-2.0.10\src\zxmemory.cpp
+2016-11-13 16:34:03 ....A        19511               ep128emu-2.0.10\src\zx_snap.cpp
+2016-11-13 16:34:03 ....A         2428               ep128emu-2.0.10\Fl_Native_File_Chooser\common.cxx
+2016-11-13 16:34:03 ....A         1177               ep128emu-2.0.10\Fl_Native_File_Chooser\Fl_Native_File_Chooser.cxx
+2016-11-13 16:34:03 ....A         9999               ep128emu-2.0.10\Fl_Native_File_Chooser\Fl_Native_File_Chooser_FLTK.cxx
+2016-11-13 16:34:03 ....A        23616               ep128emu-2.0.10\Fl_Native_File_Chooser\Fl_Native_File_Chooser_MAC.cxx
+2016-11-13 16:34:03 ....A        22627               ep128emu-2.0.10\Fl_Native_File_Chooser\Fl_Native_File_Chooser_WIN32.cxx
+2016-11-13 16:34:03 ....A         1016               ep128emu-2.0.10\resource\ep128emu.rc
+2016-11-13 16:34:03 ....A          929               ep128emu-2.0.10\resource\tapeedit.rc
+2016-11-13 16:34:03 ....A         7481               ep128emu-2.0.10\util\epcompress\z80_asm\decompress.f
+2016-11-13 16:34:03 ....A         5286               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_m2_old.f
+2016-11-13 16:34:03 ....A         7319               ep128emu-2.0.10\msvc\ep128emu2.vcproj
+2016-11-13 16:34:03 ....A         4610               ep128emu-2.0.10\msvc\ep128emuLib.vcproj
+2016-11-13 16:34:03 ....A         4025               ep128emu-2.0.10\msvc\ep128Lib.vcproj
+2016-11-13 16:34:03 ....A         5492               ep128emu-2.0.10\msvc\makecfg.vcproj
+2016-11-13 16:34:03 ....A         5715               ep128emu-2.0.10\msvc\tapeedit.vcproj
+2016-11-13 16:34:03 ....A         3772               ep128emu-2.0.10\msvc\z80Lib.vcproj
+2016-11-13 16:34:03 ....A         3717               ep128emu-2.0.10\msvc\ep128emu2.sln
+2016-11-13 16:34:03 ....A         8286               ep128emu-2.0.10\util\epcompress\z80_asm\makesfx.py
+2016-11-13 16:34:03 ....A          278               ep128emu-2.0.10\install-osx.sh
+2016-11-13 16:34:03 ....A         3589               ep128emu-2.0.10\Fl_Native_File_Chooser\README.txt
+2016-11-13 16:34:03 ....A         2712               ep128emu-2.0.10\util\epimgconv\iview\cview.com
+2016-11-13 16:34:03 ....A         2535               ep128emu-2.0.10\util\epimgconv\iview\old\iview.com
+2016-11-13 16:34:03 ....A         4866               ep128emu-2.0.10\config\clearkbd.cfg
+2016-11-13 16:34:03 ....A         2966               ep128emu-2.0.10\config\ep_keys.cfg
+2016-11-13 16:34:03 ....A          193               ep128emu-2.0.10\resource\cpc464emu.desktop
+2016-11-13 16:34:03 ....A          176               ep128emu-2.0.10\resource\ep128.desktop
+2016-11-13 16:34:03 ....A          166               ep128emu-2.0.10\resource\eptapeedit.desktop
+2016-11-13 16:34:03 ....A          188               ep128emu-2.0.10\resource\zx128.desktop
+2016-11-13 16:34:03 ....A          848               ep128emu-2.0.10\licenses\LICENSE.dotconf
+2016-11-13 16:34:03 ....A         2665               ep128emu-2.0.10\util\epimgconv\iview\old\iview.ext
+2016-11-13 16:34:03 ....A        11672               ep128emu-2.0.10\util\epimgconv\iview\iview.ext
+2016-11-13 16:34:03 ....A         2955               ep128emu-2.0.10\util\epcompress\uncompress\uncompress.ext
+2016-11-13 16:34:03 ....A         2633               ep128emu-2.0.10\gui\about.fl
+2016-11-13 16:34:03 ....A        23642               ep128emu-2.0.10\gui\debug.fl
+2016-11-13 16:34:03 ....A        23191               ep128emu-2.0.10\gui\disk_cfg.fl
+2016-11-13 16:34:03 ....A        18217               ep128emu-2.0.10\gui\disp_cfg.fl
+2016-11-13 16:34:03 ....A        14491               ep128emu-2.0.10\gui\gui.fl
+2016-11-13 16:34:03 ....A        28584               ep128emu-2.0.10\gui\kbd_cfg.fl
+2016-11-13 16:34:03 ....A         3849               ep128emu-2.0.10\installer\mkcfg.fl
+2016-11-13 16:34:03 ....A        14535               ep128emu-2.0.10\gui\snd_cfg.fl
+2016-11-13 16:34:03 ....A        22121               ep128emu-2.0.10\tapeutil\tapeedit.fl
+2016-11-13 16:34:03 ....A        45738               ep128emu-2.0.10\gui\vm_cfg.fl
+2016-11-13 16:34:03 ....A        27126               ep128emu-2.0.10\licenses\LICENSE.FLTK
+2016-11-13 16:34:03 ....A          174               ep128emu-2.0.10\.gitignore
+2016-11-13 16:34:03 ....A        15132               ep128emu-2.0.10\util\epimgconv\iview\old\iview.hea
+2016-11-13 16:34:03 ....A        50034               ep128emu-2.0.10\ep128emu.app\Contents\Resources\ep128emu.icns
+2016-11-13 16:34:03 ....A          815               ep128emu-2.0.10\licenses\LICENSE.libsndfile
+2016-11-13 16:34:03 ....A         8905               ep128emu-2.0.10\util\epimgconv\iview\imgsave.lua
+2016-11-13 16:34:03 ....A         2901               ep128emu-2.0.10\licenses\LICENSE.Lua
+2016-11-13 16:34:03 ....A        34197               ep128emu-2.0.10\installer\ep128emu.nsi
+2016-11-13 16:34:03 ....A          959               ep128emu-2.0.10\fltk-1.1.7-MacOSX.patch
+2016-11-13 16:34:03 ....A         1278               ep128emu-2.0.10\util\fltk-1.3.3-gif_colormap.patch
+2016-11-13 16:34:03 ....A         6678               ep128emu-2.0.10\fltk-1.3.3-Win64.patch
+2016-11-13 16:34:03 ....A         7364               ep128emu-2.0.10\portaudio-win32.patch
+2016-11-13 16:34:03 ....A          862               ep128emu-2.0.10\ep128emu.app\Contents\Info.plist
+2016-11-13 16:34:03 ....A         1699               ep128emu-2.0.10\licenses\LICENSE.PortAudio
+2016-11-13 16:34:03 ....A        16384               ep128emu-2.0.10\roms\epfileio.rom
+2016-11-13 16:34:03 ....A        16384               ep128emu-2.0.10\util\epimgconv\iview\iview.rom
+2016-11-13 16:34:03 ....A        16384               ep128emu-2.0.10\util\epcompress\uncompress\uncompress.rom
+2016-11-13 16:34:03 ....A          641               ep128emu-2.0.10\msvc\fl_rules.rules
+2016-11-13 16:34:03 ....A         5890               ep128emu-2.0.10\util\dtf\compldr.s
+2016-11-13 16:34:03 ....A        51516               ep128emu-2.0.10\util\epimgconv\iview\src\cview.s
+2016-11-13 16:34:03 ....A        52152               ep128emu-2.0.10\util\epimgconv\iview\old\cview.s
+2016-11-13 16:34:03 ....A        11886               ep128emu-2.0.10\util\epcompress\z80_asm\decompress.s
+2016-11-13 16:34:03 ....A         9950               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_ext_m2.s
+2016-11-13 16:34:03 ....A         4154               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_ext_m3.s
+2016-11-13 16:34:03 ....A        11380               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_m0.s
+2016-11-13 16:34:03 ....A         9304               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_m2_new.s
+2016-11-13 16:34:03 ....A         7933               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_m2_old.s
+2016-11-13 16:34:03 ....A         3642               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_m3.s
+2016-11-13 16:34:03 ....A         7679               ep128emu-2.0.10\util\epimgconv\src\decompress_raw_fenas.s
+2016-11-13 16:34:03 ....A        16101               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_sfx_m0.s
+2016-11-13 16:34:03 ....A        12571               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_sfx_m2.s
+2016-11-13 16:34:03 ....A         5702               ep128emu-2.0.10\util\epcompress\z80_asm\decompress_sfx_m3.s
+2016-11-13 16:34:03 ....A        33095               ep128emu-2.0.10\util\epimgconv\iview\src\dl2.s
+2016-11-13 16:34:03 ....A        36306               ep128emu-2.0.10\util\dtf\dl2.s
+2016-11-13 16:34:03 ....A        11167               ep128emu-2.0.10\util\dtf\dtfldr.s
+2016-11-13 16:34:03 ....A        13324               ep128emu-2.0.10\roms\epfileio.s
+2016-11-13 16:34:03 ....A         7916               ep128emu-2.0.10\util\epimgconv\src\imgload.s
+2016-11-13 16:34:03 ....A        55340               ep128emu-2.0.10\util\epimgconv\iview\src\iplay.s
+2016-11-13 16:34:03 ....A        59046               ep128emu-2.0.10\util\epimgconv\iview\old\iplay.s
+2016-11-13 16:34:03 ....A        32366               ep128emu-2.0.10\util\epimgconv\iview\src\iview.s
+2016-11-13 16:34:03 ....A        35600               ep128emu-2.0.10\util\epimgconv\iview\old\iview.s
+2016-11-13 16:34:03 ....A         4585               ep128emu-2.0.10\util\epimgconv\iview\src\iviewinc.s
+2016-11-13 16:34:03 ....A         7520               ep128emu-2.0.10\util\dtf\lzldr.s
+2016-11-13 16:34:03 ....A        13132               ep128emu-2.0.10\util\dtf\lzm2ldr.s
+2016-11-13 16:34:03 ....A         1563               ep128emu-2.0.10\util\epimgconv\iview\old\main.s
+2016-11-13 16:34:03 ....A         7294               ep128emu-2.0.10\util\epimgconv\iview\src\main.s
+2016-11-13 16:34:03 ....A         1505               ep128emu-2.0.10\util\epimgconv\iview\src\mouse.s
+2016-11-13 16:34:03 ....A         1779               ep128emu-2.0.10\util\dtf\prgldr.s
+2016-11-13 16:34:03 ....A        52762               ep128emu-2.0.10\util\epimgconv\iview\src\sndplay.s
+2016-11-13 16:34:03 ....A        36611               ep128emu-2.0.10\util\epimgconv\iview\old\uncompres2.s
+2016-11-13 16:34:03 ....A        35583               ep128emu-2.0.10\util\epimgconv\iview\old\uncompress.s
+2016-11-13 16:34:03 ....A        59366               ep128emu-2.0.10\util\epcompress\uncompress\uncompress.s
+2016-11-13 16:34:03 ....A        56974               ep128emu-2.0.10\util\epimgconv\iview\src\uncomprs.s
+2016-11-13 16:34:03 ....A          868               ep128emu-2.0.10\licenses\LICENSE.SDL
+2016-11-13 16:34:03 ....A         3523               ep128emu-2.0.10\pclos-ep128emu.spec
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\z80
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epimgconv\src
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epimgconv\iview\src
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epimgconv\iview\old
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epimgconv\iview
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epimgconv
+2016-12-31 13:58:18 D....            0            0  ep128emu-2.0.10\util\epcompress\z80_asm
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epcompress\uncompress
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epcompress\src
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\epcompress
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util\dtf
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\util
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\tapeutil
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\src
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\roms
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\resource
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\msvc\include
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\msvc
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\licenses
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\installer
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\gui
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\Fl_Native_File_Chooser\FL
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\Fl_Native_File_Chooser
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\ep128emu.app\Contents\Resources
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\ep128emu.app\Contents
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\ep128emu.app
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10\disk
+2016-12-31 13:58:16 D....            0            0  ep128emu-2.0.10\config
+2016-12-31 13:58:17 D....            0            0  ep128emu-2.0.10
+------------------- ----- ------------ ------------  ------------------------
+2016-12-31 13:58:18            4335573       512418  266 files, 29 folders
