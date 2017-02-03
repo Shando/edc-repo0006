@@ -1,0 +1,6 @@
+New in This Version
+  * Improved sound quality, no more clicks and scratching. 
+  * Now rendering beeper sound separately from melodic channels. 
+  * Made sure rendered sound does not fall behind the audio playback. 
+  * Now disabling wave-to-melody when sound rate selected in Speccy-Windows. 
+  * Fixed menus initialization in Speccy-Windows. 

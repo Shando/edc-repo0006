@@ -1,0 +1,55 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-01-06 11:55:48 ....A        53373      1859090  programs\Games\AbesMission-Escape.trd.zip
+2013-01-06 11:51:30 ....A       172410               programs\Games\AmstradCompilationDiskSpectrumPlus3.dsk.zip
+2013-01-06 22:23:42 ....A       503359               programs\Games\Apulija-13.zip
+2010-01-08 02:04:16 ....A        33931               programs\Games\BatmanV1.tzx.zip
+2013-01-06 12:03:42 ....A         7393               programs\Games\Chess_2.tzx.zip
+2010-05-14 10:07:38 ....A        39186               programs\Ula Plus\CybernoidII-TheRevenge128.tap.zip
+2012-10-10 22:40:46 ....A         2677               programs\Games\Dashit!.zip
+2013-01-06 11:55:06 ....A       401609               programs\Games\FireNIce.trd.zip
+2013-01-06 12:04:52 ....A         8615               programs\Games\HoraceGoesSkiing.tzx.zip
+2013-01-06 11:46:36 ....A        38423               programs\Horizons.tzx.zip
+2012-10-10 22:40:42 ....A         3406               programs\Games\Mazebot.zip
+2010-06-12 10:08:42 ....A        64271               programs\Demos\Mda_demo.zip
+2013-01-06 12:09:22 ....A         5607               programs\Games\NeptunesCaverns(ArjunNair).tap.zip
+2013-01-06 11:48:28 ....A        27925               programs\ZXSpectrum+UserGuideCompanionCassette.tzx.zip
+2013-01-11 22:43:18 ....A         1501               License.txt
+2013-01-11 23:09:24 ....A         4234               ReadMe.txt
+2013-01-13 21:51:50 ....A        20090               What's New.txt
+2010-05-12 09:00:56 ....A          262               programs\Ula Plus\cybernoid2_ula64.pzx
+2010-05-12 10:45:46 ....A        43271               programs\Ula Plus\EXOLON.pzx
+2010-05-12 10:45:30 ....A          262               programs\Ula Plus\exolon_ula64.pzx
+2010-05-03 00:47:12 ....A       100707               programs\Demos\Shock Megademo.pzx
+1999-08-09 16:33:42 ....A        32768               roms\128k.ROM
+2010-06-11 00:17:44 ....A        32768               roms\128ke.rom
+1994-12-11 18:01:56 ....A        16384               roms\48k.ROM
+2010-02-03 18:44:04 ....A        16384               roms\gw03.rom
+2005-03-25 20:52:22 ....A        32768               roms\pentagon.rom
+1998-09-08 16:27:18 ....A        65536               roms\plus3.rom
+2010-11-30 12:21:34 ....A        16384               roms\sebasic.rom
+1998-12-14 20:38:24 ....A        16384               roms\trdos.rom
+2013-01-13 00:00:22 ....A        81062               programs\Action Replay\garfield.rzx
+2013-01-12 23:57:58 ....A        77087               programs\Action Replay\greenberet.rzx
+2013-01-12 23:55:30 ....A       174424               programs\Action Replay\thundercats.rzx
+2009-12-30 06:06:04 ....A         8570               programs\Demos\Overscan.tap
+2010-03-10 21:52:20 ....A        23664               programs\Demos\NMI3_48k.z80
+2013-01-13 21:47:12 ....A      1582080      1162599  Zero.exe
+2012-08-10 15:34:14 ....A        13312               ZeroFileAssociater.exe
+2010-12-22 14:46:30 ....A         8704               fdc765.dll
+2012-02-01 14:14:32 ....A        27648               pzxtools.dll
+2010-02-18 18:02:46 ....A      3091456               SlimDX.dll
+2013-01-13 21:47:10 ....A       156160               Speccy.dll
+2011-01-02 23:20:46 ....A        65536               wd1793.dll
+2013-01-13 21:47:08 ....A        10240               ZeroSound.dll
+2008-08-11 12:27:32 ....A       311296               ZipForge.dll
+2007-03-05 10:33:02 ....A        69632               zlib.net.dll
+2010-07-19 09:52:40 ....A       100352               zlib1.dll
+2017-02-28 07:39:37 D....            0            0  roms
+2017-02-28 07:39:37 D....            0            0  programs\Ula Plus
+2017-02-28 07:39:37 D....            0            0  programs\Games
+2017-02-28 07:39:37 D....            0            0  programs\Demos
+2017-02-28 07:39:37 D....            0            0  programs\Action Replay
+2017-02-28 07:39:37 D....            0            0  programs
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 07:39:37            7563111      3021689  45 files, 6 folders

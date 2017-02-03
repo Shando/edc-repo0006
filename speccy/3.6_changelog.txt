@@ -1,0 +1,15 @@
+New in This Version
+  * Added fast tape loading, via patched LD-BYTES ROM call. 
+  * Tapes with custom loaders still load at original speed. 
+  * Added Magnum Light Phaser emulation (Lightgun Games). 
+  * Added second Kempston joystick at port 5Fh (Bomb Munchies). 
+  * Fixed currently refreshed attribute at port FFh (Solar Invasion, etc). 
+  * Added "Fast Tape Loader" option to Speccy-Windows. 
+  * Added "Tape Running" option to Speccy-Windows. 
+  * Added -fasttap and -nofasttap command line options. 
+  * Added -lightgun and -amouse command line options. 
+  * Now disabling TRDOS when loading a tape image. 
+  * Fixed [ALT] key in Sam Coupe mode on Speccy-Windows. 
+  * Fixed "Draw All Frames" menu option in Speccy-Windows. 
+  * Fixed automatic tape startup to happen when ENTER pressed. 
+  * Fixed freeing tape memory on exit. 

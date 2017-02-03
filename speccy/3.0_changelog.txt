@@ -1,0 +1,13 @@
+New in This Version
+  * Added Sam Coupe emulation, will improve it in future versions. 
+  * Majorly improved AY8910 PSG emulation. 
+  * Improved WD1793 disk controller emulation. 
+  * Added SAA1099 PSG emulation. 
+  * Automatically enabling TRDOS for .TRD, .SCL, or HOBETA files. 
+  * Fixed +3 mode selection to happen for .DSK files (was .SCL). 
+  * Fixed recognition of multiple file extensions. 
+  * Fixed tape auto-load feature for Sam Coupe. 
+  * Fixed loading color palettes. 
+  * Added vertical scanlines simulation to Speccy-Windows. 
+  * Added raster effect simulation to Speccy-Windows. 
+  * Added slope to rectangular waveforms. 

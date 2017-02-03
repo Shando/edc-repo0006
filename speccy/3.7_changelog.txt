@@ -1,0 +1,11 @@
+New in This Version
+  * Added optional debug information overlay (F10 to toggle). 
+  * Added optional 16-pixel debug screen grid (ALT+F10 to toggle). 
+  * Added second Kempston joystick at port 37h (Bomb Munchies). 
+  * Fixed second joystick support everywhere. 
+  * Added proper texture-based Direct3D rendering in Speccy-Windows. 
+  * Added "Simulate LCD Scanlines" option to Speccy-Windows. 
+  * Added "Debugger", "Info Overlay", "Grid" options to Speccy-Windows. 
+  * Added links to World Of Spectrum to Speccy-Windows. 
+  * Added -lcd and -nolcd command line options. 
+  * Fixed save/restore function in Speccy for Windows and Linux (F7/F6).
