@@ -1,0 +1,61 @@
+Ver 0.5 Final
+---------------
+(Consolidated changelist)
++ Zero can be made to automatically restore the last session on startup by turning on the feature via Options. 
++ On screen indicators, like tape and disk activity, can be turned off via Options.
++ Key2Joy feature added that lets the cursor keys be used as a joystick. ALT is fire.
++ Joystick support added. Button mapping is pending.
++ 128K and +3 emulation now pass the fusetest, FWIW.
++ Added support for ZX Spectrum +3 and disk emulation (thanks to Woody for providing the fdc765.dll).
++ Added support for Pentagon 128K and TR DOS (again thanks to Woody for providing the wd1793.dll).
++ Added support for RZX playback.
++ Cheat Helper, File Finder and Tape Browser have all been moved to a new menu that comes up when the Toolbox icon is pressed.
++ Tape Browser now comes up only if its explicitly called up by the user from the above menu.
++ Icons tweaked to reflect the change in user interface.
++ Tape Browser settings are now saved between sessions.
++ Disks drives are accessible throught the right-click context menu. 2 drives are supported for the +3 and 4 drives for the Pentagon.
++ Added support for external tapes and disks as specified in szx file format.
++ Disk drive activity icon and files download complete icons now appear in main window when required.
++ Emulation speed control added in Options. 
++ Added support for forced 4:3 aspect ratio in full screen.
++ Added ULA Plus and +3 disk support when loading from SZX.
++ Monitor now supports Go To address. Clicking on the register values on the right panel also causes a GO TO that address.(CCowley, Obo and others)
++ Monitor can now set breakpoints for specific values read/write from memory, ports etc. 
++ Monitor can step over LDIR, INIR and other block commands (Obo)
++ Added more options to window sizes in the Options window.
++ Added support for loading and saving .scr files.
++ Added an "Auto Load" option in the tape deck, which replaces the near useless "Auto Rewind" option.
+* Zero's settings are no more stored in a config file in the installation folder. They are now stored in the user profile folders as required by UAC guidelines.
+* The default config xml file has been removed, as it was quite redundant. Default settings are applied internally.
+* Removed the Soft Reset option and replaced both Hard and Soft reset option with a single Reset option, which is equivalent to a hard reset.
+* All external tools for PZX handling have now been replaced by a single dll that is called directly from code.
+* Updated TapeDeck GUI.
+* Redesigned the breakpoint window in Monitor. Added options to break on interrupt and re-triggered interrupt.
+* Made the Pentagon render window more symmetrical.
+* 128ke is not the default machine for loading snapshots anymore. User has to enable it in options for that to work. 
+* Changes to the sound playback routines. Shouldn't make any difference to end-user. I think.
+* Pixel smoothing option added to Direct X rendering. Off by default. 
+- Fixed tape deck crashing when the Next button is pressed on the last tape block.
+- Fixed a raft of DDCB/FDCB opcodes (Woody).
+- Fixed IN contention (Woody).
+- Fixed ULA PLus emulation that was broken in beta 4.
+- Switching to Pentagon and other models is smoother as window is not resized.
+- Better Pentagon rendering with a more t-state accurate core and renderer (Woody).
+- Fixed timing for EX (SP), HL/IX/IY instructions (Woody).
+- Fixed spectrum reset when running some of the test suites from a tape file, when doing a Fast Load.
+- Fixed EI prefixed emulation.
+- Fixed incorrect saving of screenshots in format other than the selected one (PNG was being saved as JPEG for instance. *ahem*).
+- Fixed Robocop.dsk crash issue due to a stray page pointer issue.(Woody) 
+- Fixed scanline option being turned off when exiting Options (karingal, Obo)
+- Fixed +3 emulation screwing up pacemuzx (Obo)
+- Fixed a crash when the zx model was restarted with the monitor running (Obo)
+- Fixed an issue where even if Pause on Emulation feature was enabled in options, the emulator resumed emulation when it wasn't the foreground app and the mouse was moved over it. (Obo)
+- Fixed ULA Plus timing and colours (Andrew Owen)
+- Fixed rendering for 128KE model. The last few bytes of the last scanline weren't being rendered sometimes.
+- Possibly fixed the debugger not updating the view to reflect the latest memory state.
+- Fixed incorrect emulation of some of the rare undocumented FD/DD opcodes.
+- Fixed toolbar freeze when switching back from full screen.
+- Fixed the monitor not updating the banks information in 128k mode.
+- Fixed inaudible beeper sound when played parallely with AY.
+- Improved GDI rendering speed. Still slower than DirectX though!
+- Fixed a problem in Program Finder where it would frequently drop connection with Infoseek because of the way the Infoseek API works. Thanks to Martijn for this!

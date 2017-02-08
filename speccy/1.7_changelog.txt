@@ -1,0 +1,12 @@
+New in This Version
+  * Fixed WD1793 READ-ADDRESS command so that it no longer sets NOT-READY status bit. 
+  * Added .Z80 file saving/loading for Scorpion and Pentagon. 
+  * Added "Green CRT" palette selection. 
+  * Made built-in configuration menu accept mouse input. 
+  * Ported Speccy to Maemo5 (aka Fremantle). 
+  * Added accelerometer based tilt controls to Speccy-Maemo5. 
+  * Added Maemo-specific configuration menu to Speccy-Maemo5. 
+  * Added customizable key mappings to Speccy-Maemo5. 
+  * Added fast-forwarding with [Ctrl]+[Space] to Speccy-Maemo5. 
+  * Added fast-forwarding with unused screen corners to Speccy-Maemo. 
+  * Multiple other small fixes and additions to Speccy-Maemo.

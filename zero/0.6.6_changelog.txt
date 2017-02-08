@@ -1,4 +1,6 @@
-Changes - 19th January 2015
----------------------------
-
-UNKNOWN
+Ver 0.6.6
+--------------
+- Fixed issues in load and save binary dialog boxes (serbalgi)
+- Fixed crash issue on .Net 4 and above (zxmak)
+- Fixed crash when loading invalid SNA snapshot (karingal)
+- Fixed ULA Snapshot (SZX) not loading correctly (serbalgi)

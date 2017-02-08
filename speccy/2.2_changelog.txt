@@ -1,0 +1,7 @@
+New in This Version
+  * Added ULA+ emulation with 64-color display mode. 
+  * Added support for custom color palettes for each tape or snapshot. 
+  * If you have Game.z80 or Game.tzx, place colors into Game.pal. 
+  * Each *.pal file should contain 16 lines with colors in "#RRGGBB" format. 
+  * Added support for global color palette. 
+  * Made display mode changes more reliable. 
